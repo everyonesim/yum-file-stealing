@@ -1,0 +1,80 @@
+OTHER SPECIAL THANKS:
+Vigaro - Guardian, multiple technical fixes for modding support
+pipi toki - Dragons.PublicDragon
+SapphireWine - Room exit warping Dev Tools utility
+Willburd - Yeek Fix
+Eric "Bro" Curry - Merge Fix
+Forthbridge - Speedrun Timer Fix
+Xan // Eti - Superstructure Fuse Fix
+SabreML - Needle Cleanup
+Jevmen - Music Triggers Fix
+Coder23848 - Miros Vulture Priority Fix
+Slime_Cubed - No More Tinnitus
+solo race - Moon and HR_C01 No Flood Fix
+
+ALLCORRECT LOCALIZATION TEAM:
+Tatyana Pozdnyakova - Project Manager
+Polina Kim - Project Manager
+Evgeniy Morozov - Project Manager
+Mikhail Alekseev - Account Manager
+
+LOCALIZATION:
+
+Japanese
+Shuhei Watanabe
+
+Italian
+Brunella Palattella
+
+Brazilian Portuguese
+Barbara Sousa
+Bruno Galiza
+
+Korean
+Siyoon Ji
+
+German
+Oskar Matzke
+Ramona Kuh
+
+Russian
+Nikolai Novichkov
+Iuliia Nozdrina
+
+Simplified Chinese
+Bingxia Wang
+
+French
+Charlotte Molines
+
+RUSSIAN TRANSLATION ASSISTANCE:
+thalber
+AnnoyingFlower
+
+CHINESE TRANSLATION ASSISTANCE:
+AngliaAnest
+Harvie 
+Venus ring 
+Blue gauze 
+Neko Yashiki
+<@>cta2
+
+SNOOP GAME:
+Tomasz Panasiuk - QA Manager
+Mykhailo Tsarov - QA Tester
+
+THE v1.5 BETA TESTING SQUAD:
+Aecx
+Andrew Marrero
+Andy "Dakras" Dunn
+Applebread
+Cady Weber
+Demonic
+Gavin "Empathy Module" Cook
+Jamie Cullen
+Jared S.
+Jordan S.
+Valentina "Josbird" Proskauer Valerio
+riv otter
+Trash Typhoon
+Gwyn Evans

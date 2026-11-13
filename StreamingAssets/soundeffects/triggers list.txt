@@ -1,0 +1,399 @@
+  //Slugcat_Step_A,
+        //Slugcat_Step_B,
+        //Slugcat_Grab_Beam,
+        //Slugcat_Normal_Jump,
+        //Slugcat_Crouch_Jump,
+        //Slugcat_Wall_Jump,
+        //Slugcat_From_Vertical_Pole_Jump,
+        //Slugcat_From_Horizontal_Pole_Jump,
+        //Slugcat_Flip_Jump,
+        //Slugcat_Super_Jump,
+        //Slugcat_Rocket_Jump,
+        //Slugcat_Sectret_Super_Wall_Jump,
+        //Slugcat_Belly_Slide_Init,
+        //Slugcat_Belly_Slide_LOOP, (pitch controlled from code, dependent on velocity)
+        //Slugcat_Belly_Slide_Finish_Fail,
+        //Slugcat_Belly_Slide_Finish_Success,
+        //Slugcat_Roll_Init,
+        //Slugcat_Roll_LOOP, (pitch and volume controlled through code to make it "roll", so you don't need to do that in the actual sample. Some fairly even loop that sounds like a body moving would probably do best.)
+        //Slugcat_Roll_Finish,
+        //Slugcat_Climb_Along_Horizontal_Beam,
+        //Slugcat_Get_Up_On_Horizontal_Beam,
+        //Slugcat_Walk_On_Horizontal_Beam,
+        //Slugcat_Regain_Footing,
+        //Slugcat_Climb_Up_Vertical_Beam,
+        //Slugcat_Slide_Down_Vertical_Beam_LOOP, (pitch controlled from code, dependent on velocity)
+        //Slugcat_Get_Up_On_Top_Of_Vertical_Beam_Tip,
+        //Slugcat_Skid_On_Ground_LOOP, (pitch controlled from code, dependent on velocity)
+        //Slugcat_Skid_On_Ground_Init,
+        //Slugcat_Turn_In_Corridor,
+        //Slugcat_Stand_Up,
+        //Slugcat_Down_On_Fours,
+        //Slugcat_Enter_Wall_Slide,
+        //Slugcat_Wall_Slide_LOOP, (pitch controlled from code, dependent on velocity)
+
+
+
+        //Slugcat_Pick_Up_Rock,
+        //Slugcat_Pick_Up_Spear,
+        //Slugcat_Pick_Up_Misc_Inanimate,
+        //Slugcat_Pick_Up_Creature,
+        //Slugcat_Throw_Spear,
+        //Slugcat_Throw_Rock,
+        //Slugcat_Throw_Misc_Inanimate,
+        //Slugcat_Throw_Creature,
+        //Slugcat_Lay_Down_Object,
+        //Slugcat_Lay_Down_Creature,
+        //Slugcat_Lose_Grasp,
+
+        //Slugcat_Catch_Fly,
+        //Slugcat_Bite_Fly,
+        //Slugcat_Final_Bite_Fly,
+
+        //Slugcat_Floor_Impact_Standard,
+        //Slugcat_Floor_Impact_Stealthy,
+
+        //Slugcat_Terrain_Impact_Light,
+        //Slugcat_Terrain_Impact_Medium,
+        //Slugcat_Terrain_Impact_Hard,
+        //Slugcat_Terrain_Impact_Death,
+
+        //Slugcat_In_Corridor_Step,
+        //Slugcat_Crawling_Step,
+        //Slugcat_Slide_In_Narrow_Corridor_LOOP, (pitch controlled from code, dependent on velocity)
+        //Slugcat_Vertical_Chute_Jump,
+        //Slugcat_Corridor_Horizontal_Slide_Fail,
+        //Slugcat_Corridor_Horizontal_Slide_Success,
+
+        //UI_Slugcat_Stunned_Init,
+        //UI_Slugcat_Stunned_LOOP, (pitch controlled from code, moving from 2.0 to 1.0 during the duration of the stun to give you an idea how long you're going to be stunned for)
+        //UI_Slugcat_Exit_Stun,
+        //UI_Slugcat_Die,
+
+        //Player_Enter_Shortcut,
+        //Player_Exit_Shortcut,
+        //Player_Tick_Along_In_Shortcut,
+        //NPC_Enter_Shortcut,
+        //NPC_Exit_Shortcut,
+        //NPC_Tick_Along_In_Shortcut,
+
+        //Spear_Stick_In_Wall,
+        //Spear_Bounce_Off_Wall,
+        //Spear_Stick_In_Creature,
+        //Spear_Dislodged_From_Creature,
+        //Spear_Damage_Creature_But_Fall_Out,//UNUSED
+        //Spear_Bounce_Off_Creauture_Shell,
+        //Spear_Stick_In_Ground,
+        //UI_Weapon_In_Range_To_Pick_Up,
+
+
+        //Cicada_Wings_LOOP, (To be modulated by code, so keep the loop somewhat even. If you want to be REALLY pedantic about it the cicada flap frequency is once every 3 frames, and a frame is 40hz, so that's... 13.3hz right?)
+        //Cicada_Wings_Bump_Attack_Prepare_LOOP, (replaces the standard wings loop when preparing an attack)
+        //Cicada_Wings_Bump_Attack_Charge_LOOP, (replaces the standard wings loop when attacking. I found it fun to increase the doppler effect a bit here (/dopplerFac=1.2) to get that airplane drive by sound, but check it out yourself and see what you like)
+        //Cicada_Wings_TakeOff,
+        //Cicada_Wings_Stop,
+        //Cicada_Wings_Violent_Stop,
+        //Cicada_Wings_Prepare_Bump_Attack,
+        //Cicada_Wings_Start_Bump_Attack,
+        //Cicada_Wings_Exit_Bump_Attack,
+
+        //Cicada_Landing,
+        //Cicada_Tentacle_Climb,
+        //Cicada_Tentacles_Grab_Player,
+        //Cicada_Tentacles_Grab_NPC,
+        //Cicada_Tentacles_Detatch,
+
+        //Cicada_Bump_Attack_Hit_Player,
+        //Cicada_Bump_Attack_Hit_NPC,
+        //Cicada_Bump_Attack_Hit_Terrain,
+
+        //Cicada_Light_Terrain_Impact,
+        //Cicada_Heavy_Terrain_Impact,
+
+
+    Lizard_Head_Shield_Deflect,
+    Lizard_Jaws_Shut_Miss_Creature,
+    Lizard_Jaws_Bite_Do_Damage,//not yet used
+    Lizard_Jaws_Grab_NPC,
+    Lizard_Jaws_Grab_Player,
+
+    Lizard_Prepare_Lunge_Attack_Init,
+    Lizard_Lunge_Attack_Init,
+
+    Lizard_Light_Terrain_Impact,
+    Lizard_Heavy_Terrain_Impact,
+    Lizard_Grab_Pole,
+
+    Lizard_Green_Foot_Grab,
+    Lizard_Green_Foot_Release,
+    Lizard_BlueWhite_Foot_Grab,
+    Lizard_BlueWhite_Foot_Release,
+    Lizard_PinkYellowRed_Foot_Grab,
+    Lizard_PinkYellowRed_Foot_Release,
+
+    Lizard_Prepare_To_Shoot_Tongue,
+    Blue_Lizard_Tongue_Shoot_Out,
+    White_Lizard_Tongue_Shoot_Out,
+    Lizard_Tongue_Attatch_Player,
+    Lizard_Tongue_Attatch_NPC,
+    Lizard_Tongue_Attatch_Terrain,
+    Lizard_Tongue_Detatch_Player,
+    Lizard_Tongue_Detatch_NPC_Or_Terrain,
+    Lizard_Tongue_Go_Back_In_Mouth,
+
+
+
+    Bat_Emerge_From_Grass,
+    Bat_Dive_Into_Grass,
+    Bat_Idle_Flying_Sounds,
+    Bat_Afraid_Flying_Sounds,
+    Bat_Hover_Fly_LOOP,
+    Bat_Startled,
+    Bat_Attatch_To_Chain,
+    Bat_Detatch_From_Chain,
+
+
+    Snail_Withdraw_In_Shell,
+    Snail_Emerge_From_Shell,
+    Snail_Charging_LOOP,
+    Snail_Warning_Click,
+    Snail_Pop,
+    Snail_Attatch_To_Surface,
+
+    Snail_Light_Terrain_Impact,
+    Snail_Heavy_Terrain_Impact,
+
+
+
+
+UPDATE 15/05/27
+
+OBSOLETE TRIGGERS:
+NPC_Enter_Shortcut -> Small_NPC_Enter_Shortcut (Small, Medium, Large)
+NPC_Exit_Shortcut -> Small_NPC_Exit_Shortcut (Small, Medium, Large)
+NPC_Tick_Along_In_Shortcut -> Small_NPC_Tick_Along_In_Shortcut (Small, Medium, Large)
+Slugcat_Catch_Fly -> Fly_Caught/Fly_Caught_Dead
+
+
+NEW TRIGGERS: 
+    Slugcat_Jump_On_Creature,
+    Spear_Hit_Small_Creature, (bats, spiders, leeches that the spear doesn't stick in)
+    Spear_Thrown_Through_Air_LOOP, 
+    Spear_Spinning_Through_Air_LOOP,
+    Rock_Through_Air_LOOP,
+    Rock_Skidding_On_Ground_Loop,
+    Snail_Walking_LOOP,
+    Lizard_Belly_Drag_LOOP,
+    Lizard_Lounge_Attack_LOOP,
+    Fly_Caught,
+    Fly_Caught_Dead, (The current catch fly sound had some flapping and screetching that didn't really make sense for a dead fly)
+    Fly_Wing_Flap, (Individual wing flaps. If you want to you could put all the flapping here and separate out the screetch noises for the old triggers, or however you want to do it)
+
+    Normal_Rain_LOOP,
+    Death_Rain_LOOP,
+    Death_Rain_Heard_From_Underground_LOOP,
+    Flash_Flood_LOOP,
+    Death_Rain_Approaching_LOOP,
+    Death_Rain_Approaching_Heard_From_Underground_LOOP,
+    Death_Rain_Rumble_LOOP,
+
+    Screen_Shake_LOOP,
+
+    Vulture_Jet_Start, 
+    Vulture_Jet_LOOP,
+    Vulture_Jet_Stop, 
+    Vulture_Jets_Air_Brake,
+    Vulture_Wing_Woosh_LOOP,
+    Vulture_Jaws_Carged_LOOP,
+    Vulture_Peck,
+    Vulture_Grab_Player,
+    Vulture_Grab_NPC,
+    Vulture_Light_Terrain_Impact,
+    Vulture_Heavy_Terrain_Impact,
+    Vulture_Tentacle_Grab_Terrain,
+    Vulture_Tentacle_Collide_Terrain,
+    Vulture_Feather_Hit_Terrain, (pitch modulated depending on feather length)
+
+    Leech_Attatch_Player,
+    Leech_Attatch_NPC,
+    Leech_Detatch_Player,
+    Leech_Detatch_NPC,
+    Leech_Crawl_On_Ground,
+
+
+
+NEW TRIGGERS 150628
+
+    Flare_Bomb_Burn, //1.5 seconds long burn, generally of consistent intensity but weakening somewhat towards the very end
+
+    Jet_Fish_Water_Jet_LOOP,  //Water forcefully squirting out of the jet fish, seamless loop. Mostly playing at pitch 1.0, but pitching down a bit towards pitch 0.5 at the end when the water sack gets empty.
+    Jet_Fish_Light_Terrain_Impact, //Very wet!
+    Jet_Fish_Heavy_Terrain_Impact, //Very wet forceful slap!
+    Jet_Fish_On_Land_Jump, //The jet fish quickly and forcefully bending its body and slapping against the floor to jump. 
+    Jet_Fish_Ram_Creature, //A jet fish smashing nose first into another creature under water. Produces some bubbles.
+    Jet_Fish_Grab_Player, //Maybe something sounding like sucktion? Remember the nurse sharks?
+    Jet_Fish_Grab_NPC, //a slight variation of the above so you can keep the two apart
+
+    Splashing_Water_Into_Terrain, //splashing water particle (for example from jet fish jet stream) colliding with terrain (should probably sound like a splashy slap)
+    Splashing_Water_Into_Water_Surface, //splashing water particle colliding with the water surface (should probably sound even splashier)
+
+
+
+NEW TRIGGERS 150709
+
+    Leviathan_Hydraulics_LOOP, //The Hydraulics that move the jaws are working, either putting the jaws in bite position or withdrawing them. Should probably sound like... hydraulics? Code will pitch shift it a bit between 0.5 -1.2
+    Leviathan_Charged_Jaws_LOOP, //A loop that plays while the jaws are armed and dangerous. During this phase, as soon as you end up between the jaws they will clamp down on you. The jaws vibrates a little during this. Should probably have a component of the hydraulics sound from before, but now working on over-load with built up pressure, ready to slam down. And maybe something metallic as well?
+    Leviathan_Fin_Working_In_Deep_Water_LOOP, // The mighty tail of the creature moving through the water. Note that it's BELOW water, not in the surface, so it should probably be more WHOOOOSH than slashy-slpashy. Depending on the fin speed, it will be pitch shifted by code between 0.2-1.8
+    Leviathan_Deploy_Jaws, //The motion to arm the jaws START. This is a warning sign to the player to get the hell away. Should probably be something quick and clearly audible, like a click when some security hinge in the machinery moves or something.
+    Leviathan_Jaws_Armed, // The motion to arm the jaws STOP. Now the jaws enter the armed state, and from here on they are dangerous. Also a mechanical sound of some sort.
+    Leviathan_Bite, //The jaws clamp down! This should be LOOOUD! It should sound like it could crush a car and not even care! The movement is instantaneous, so it's rather a question of a violent pang than some slow crushing motion.
+    Leviathan_Crush_NPC, //A non-player creature is squished
+    Leviathan_Crush_Player, //The player is squished
+    Leviathan_Crush_Non_Organic_Object, //A non-organic object (rocks, spears, etc) is squished
+    Leviathan_Clamper_Hit_Terrain, //As the clamper shuts, it hits some terrain. Metal against metal or stone, violent CLANG!!!, sparks flying!
+    Leviathan_Light_Terrain_Impact, //The leviathan's body hits terrain lightly 
+    Leviathan_Heavy_Terrain_Impact, //The leviathan's body hits terrain violently
+
+
+Full jaw motion cycle in order:
+Leviathan_Deploy_Jaws, --click! Now the jaws start deploying! Get away!
+Leviathan_Hydraulics_LOOP, --psshhht! Clunk clunk clunk! The hydraulics and struts work to move the jaw into position and charge the hydraulic chambers that will make it slam down.
+Leviathan_Jaws_Armed, --menacing click or shhha-clunk or something (but a quick sample so you immediately know that now it's dangerous) the jaws are now in place and can come down at any time! 
+Leviathan_Charged_Jaws_LOOP, --PPPSSSHHHHH! kunk-kunk-kunk-kunk! The hydraulics are working extremely hard and intense pressure is built up in the jaw mechanisms! Stay the hell away!
+Leviathan_Bite, --CLAAANGK!!!!!!
+Leviathan_Hydraulics_LOOP --psssht - hydraulics move the jaws into the resting postion and start re-pressurising the hydraulic chambers.
+
+
+
+
+NEW TRIGGERS 150927
+
+    Miros_Light_Terrain_Impact, //Miros bird bumping into terrain. They do this quite a lot, haha
+    Miros_Heavy_Terrain_Impact, //Harder terrain bump
+    Miros_Piston_Ground_Impact, //Normal leg-ground contact. This one will be heard A LOT. I imagine basically a metallic impact sound, maybe with a random chance of some little gravel touch. If you want to get REAL fancy, maybe think about what resonance in a metal rod sounds like, but that'd be icing on the cake x100
+    Miros_Piston_Sharp_Impact, //Sometimes a leg will hit terrain hard, and create a little spark. Same as above, just considerably harder (maybe slightly higher pitch) *spark*
+    Miros_Piston_Scrape, //The main spark emitter - the piston scraping for a split second along the ground as it leaves it. I imagine something sounding like a match stick against the match box but more metallic. SKRTSH! *spark*
+    Miros_Piston_Big_Scrape, //A longer slide of miros leg against the floor. Would say somewhere around a fourth of a second. Produces several sparks. *SPARKS!*
+    Miros_Beak_Snap_Miss, //The beak snaps in the air but doesn't hit anything. The lizard jaw sound is actually really good as it is, but if you feel experimental ~ maybe something with a hint of scissors?
+    Miros_Beak_Snap_Hit_Slugcat, //Oh no! Slugcat has been sliced up by the beak and instantly dies.
+    Miros_Beak_Snap_Hit_Other, //Another creature is sliced up. Note that not all creatures instantly die, and thus can get a few of these slice sounds in a row.
+
+    Mouse_Rope_Attach, //attach the strand to terrain. Probably all that's needed is some very small little misc sound.
+    Mouse_Rope_Detach, //the strand detaches/snaps. Maybe half a hint of something rubbery/elastic? Could very easily become goofy though - in which case just a neutral little sound might be better.
+    Mouse_Scurry, //locomotion sound. Little paws against metal.
+    Mouse_Charge_LOOP, //The mouse is charging up to turn its light on. I imagine something like "oooooeeeeeeEEEEEE" but sounding vaguely electrical - also need some vibration in it as the mouse is vibrating in the animation. This loop will pitch bend from 0.5 to 1.5 under the duration of the charge.
+    Mouse_Light_On, //The light switches on! I've been searching youtube but haven't found the thing I look for - those big, old electrical lights. You know the trope in a movie when they turn on the lights in a warehouse or something, and they light up row by row making a big heavy lightbulb sound? "Whoam! Whoam! Whoam!" Like that! And then they usually have a very subtle little suspension tone fading out after, like "WHAM!eeeeeee...." Well, I'm sure you'll figure something out haha! Also this produces a few sparks in the air.
+    Mouse_Light_Flicker, //The light is flickering. This is pitch shifted a bit depending on how much of a flicker it is. Longer and darker flicker -> lower tone, between 0.5 and 1.5. I imagine something on that same Big Old Lightbulb theme, like "wuom...wuwuom..."
+
+    Tentacle_Plant_Move_LOOP, //leathery skin flaps moving against each other. 
+    Tentacle_Plant_Shake_LOOP, //Leathery skin flaps are flapping all over as the plant is shaking, readying itself to attack!
+    Tentacle_Plant_Init_Thrust, //The attack thrust is initiated. Is it possible to create the sound of muscles suddenly tensing? 
+    Tentacle_Plant_Grab_Slugcat, //The slugcat is grabbed. Should probably be pretty distinct as this is basically a game over state.
+    Tentacle_Plant_Grab_Other, //A non-player creature is grabbed. Something similar to the above but less urgent sounding.
+
+
+//170508
+
+    Token_Idle_LOOP, //the token is visible and humming
+    Token_Upset_LOOP, //the token is disturbed and sparkling a little
+    Token_Turn_On, //token turns on
+    Token_Turn_Off, //token switches off
+    Token_Collect, //player gets token
+    Token_Collected_Sparks, //end of player gets token anim - some sparks from players forehead
+
+    Slugcat_Stash_Spear_On_Back, //spear goes on back
+    Slugcat_Eat_Meat_A, //slugcat starting to dig in (will play about 3 times per sec)
+    Slugcat_Eat_Meat_B, //a bit later, slugcat really getting in there and gaining food pips (same frequency)
+    HUD_Food_Meter_Fill_Quarter_Plop, //Red has eaten some worthless food and gains a quarter pip on the food meter
+
+    Spore_Bees_Emerge, //Beez come out. This sound could probably be long-ish (a few sec) and linger and fade
+    Spore_Bee_Angry_Buzz, //A bee is buzzing angrily. This will play a lot, so something short - the popcorn pop sound seemed about the right length when testing. If it's too much you could tweak the /silentChance modifier
+    Spore_Bee_Dash, //a bee dashes for a target, producing a long red trail. Swish!
+    Spore_Bee_Attach_Creature, //Bee bites into the flesh of a creature
+    Spore_Bee_Attach_Wall, //Bee shoots out its stinger and attaches to a wall
+    Spore_Bee_Spark, //Bee produces a spark that stuns the creature it's attached to (looks similar to a red version of the SS mycelia spark)
+    Spore_Bee_Fall_Off, //A bee attached to a creature dies and falls off
+
+
+
+    Big_Spider_Rustle_LOOP, //the bamboo-like porcupine spikes on the spiders back are rustling against each other. 
+			      This one is basically used to signify movement, and is given a bump in intensity (volume and pitch) when the spider is vibrating in preparation for a lounge.
+    Big_Spider_Jump_Warning_Rustle, // an extra rustle sound trigger for when a hunter spider is about to jump (jump comes 0.5 seconds later)
+    Big_Spider_Jump, //hunter spider jumps
+    Big_Spider_Spit_Warning_Rustle, //an extra rustle sound trigger for when a spitter spider is charging up a spit (spit comes 0.5 seconds later)
+    Big_Spider_Spit, //the spitter spider spits a sleep dart maggot
+    Big_Spider_Grab_Creature, //grabbing a creature
+    Dart_Maggot_Whizz_By, //a dart maggot gets this sound attached to it on being spit out. Sound source moves with maggot, so could have some cool doppler effect as it wizzes by?
+    Dart_Maggot_Stick_In_Wall, //thuck, dart maggot misses all creatures and sticks in a wall
+    Dart_Maggot_Bounce_Off_Wall, //thack, dart maggot hits wall at an inclined angle and bounces off
+    Dart_Maggot_Stick_In_Creature, //thudd, dart maggot lodges itself in a creature and will soon start to dispense sleepy juice
+
+    Big_Needle_Worm_Wings_LOOP, //A big needle worm is flying
+    Big_Needle_Worm_Attack_Charge_Wings_LOOP, //A big needle worm is revving up an attack (important sound que to player)
+    Big_Needle_Worm_Swish_Through_Air_LOOP, //a big needle worm is wizzing forward - might have cool doppler effect as it swishes by?
+    Big_Needle_Worm_Attack, //big needle worm attack init. This will play at the first frame of attacking - at the same time the Swish_Through_Air_LOOP initiates. This one isn't attached to the body of the worm though but will stay at the original attack position, so will have no doppler effect
+    Big_Needle_Worm_Impale_Terrain, //THUCK! Needle worm impales terrain, causing a little screen shake
+    Big_Needle_Worm_Bounce_Terrain, //CLOCK! Needle worm hits terrain at a flat angle and bounces away
+    Big_Needle_Worm_Impale_Creature, //THUDD! Needle worm impales a creature, doing quite a bit of damage
+    Big_Needle_Worm_Small_Trumpet, //Needle worm trumpets through its rubbery snout. Just a small little doot - slightly less than a second long
+    Big_Needle_Worm_Big_Trumpet, //A baby needle worm has been killed and the big worm is on the war path! Big trumpet, almost 2 seconds long.
+
+    Small_Needle_Worm_Wings_LOOP, // a small needle worm is flying
+    Small_Needle_Worm_Little_Trumpet, //Approx 0.5 seconds long. A small needle worm has lost its mother and is trumpeting for the mother to respond so it can localize it. This is what the "Big_Needle_Worm_Small_Trumpet" triggers in response to.
+    Small_Needle_Worm_Intense_Trumpet_Scream, //a small needle worm is killed, and is signalling its mom for vengence! Almost 2 seconds long.
+
+    Egg_Bug_Scurry, //egg bug running. Can happen several times per second, a little depending on its running speed. This works the same way as the lantern mouse scurry trigger - *not a loop*
+    Egg_Bug_Drop_Eggs,//egg bug loses its eggs and they fly all over spraying liquid
+
+    Drop_Bug_Step,//drop bug running. Approx 5 times per second while running. Works same as lantern mouse scurry. *Not a loop*
+    Drop_Bug_Drop_From_Ceiling, //Drop bug detaches from ceiling and lounges itself at a creature below.
+    Drop_Bug_Prepare_Jump, //A drop bug on the ground tenses itself to jump at a creature. 0.37 seconds later the jump happens and 
+    Drop_Bug_Jump, //this trigger plays
+    Drop_Bug_Grab_Creature, //drop bug grabbing a creature
+
+    Cyan_Lizard_Prepare_Small_Jump, //cyan lizard charging a little hop. Charging takes about 0.25 seconds
+    Cyan_Lizard_Prepare_Medium_Jump, //charging medium jump (most oftenly used). Charging takes 0.5 seconds
+    Cyan_Lizard_Prepare_Powerful_Jump, //Charging a big one. Charging takes about 1 second.
+
+    Cyan_Lizard_Small_Jump, //Small jump happens, with light flash and smoke.
+    Cyan_Lizard_Medium_Jump, //medium jump
+    Cyan_Lizard_Powerful_Jump, //powerful jump! POW!
+
+    MENU_Player_Join_Game, //player joins
+    MENU_Player_Unjoin_Game, //player removed from game
+    MENU_Add_Level, //level added to levels list
+    MENU_Remove_Level, //level removed from levels list
+
+    UI_Multiplayer_Game_Start, //when a multiplayer match starts - some kind of PING, now the game is going
+    UI_Multiplayer_Game_Over, //when a multiplayer match ends and the results overlay pops up
+    UI_Multiplayer_Player_Result_Box_Bump, //a player result box does a little bump
+    UI_Multiplayer_Player_Result_Box_Number_Tick, //numbers in the player result box are ticking up
+    UI_Multiplayer_Player_Result_Box_Kill_Tick, //a kill trophy is added to a player result box
+    UI_Multiplayer_Player_Result_Box_Player_Ready, //a player has pressed the button and their box is moved a little to the right, indicating that they're ready for the next match
+    UI_Multiplayer_All_Players_Ready, //all players are ready, and screen starts fading to black to get ready for a new game
+
+    UI_Multiplayer_Player_Dead_A,//a player has died. small pre-bump, a small 0.75 second UI bump circle
+    UI_Multiplayer_Player_Dead_B,//a player has died. bump! A big UI circle that fades for 1.5 seconds
+    UI_Multiplayer_Player_Revive,//a player has "died" by being grabbed by a creature, but is released and gets back in the game. small 0.75 second UI bump circle
+
+    King_Vulture_Tusk_Aim, //the laser sight of a vulture tusk starts blinking, the tusk is ready to fire (sound of blinking laser, gas pressure building up, or both?)
+    King_Vulture_Tusk_Shoot, //vulture tusk shoots out! Produces a little smoke, probably some violent gas-pressure like sound would be fitting
+    King_Vulture_Tusk_Cancel_Shot, //the vulture has charged a shot but lost its sight on the target and chooses to not fire. Some little "pssht" that the gas pressure is released and you're safe for a moment or so
+    King_Vulture_Tusk_Impale_Creature, //shank! Critter impaled
+    King_Vulture_Tusk_Wire_End, //The harpoon tusk is violently halted mid-air by the wire running out
+    King_Vulture_Tusk_Stick_In_Terrain, //THUCK! Harpoon sticks in terrain. This is a pretty important sound que, as it indicates relative safety for a bit until the vulture tugs the harpoon out of the wall again
+    King_Vulture_Tusk_Bounce_Off_Terrain, //Clank! Harpoon bounces of the terrain, and the vulture can reel it in to fire again
+    King_Vulture_Tusk_Reattach, //A tusk reattaches to the head of the vulture. Some shovel-like sound? *shunk*
+
+
+
+Big_Spider_Slash_Creature, //not a grab but a slash doing a bit of damage. was part of the spider/centi tweaks
+
+    Red_Centipede_Shield_Falloff,
+    Slugcat_Ghost_Appear,
+    Slugcat_Ghost_Dissappear,
+
+    Scavenger_Knuckle_Hit_Ground,
+    Scavenger_Spear_Blunt_Hit_Ground, //when  scavenger is carrying a spear as a walking stick, this will play instead of the Knuckle_Hit_Ground trigger when that hand touches ground
+    Scavenger_Grab_Pole,
+    Scavenger_Grab_Terrain,

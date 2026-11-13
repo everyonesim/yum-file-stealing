@@ -1,0 +1,69 @@
+#pragma kernel CSMain
+#include "Noise.hlsl"
+#include "Random.hlsl"
+
+struct Particle
+{
+	float2 position;
+	float2 previousPosition;
+
+	float rotation;
+	float previousRotation;
+
+	float yRotation;
+	float previousYRotation;
+
+	int lifetime;
+};
+
+struct Critter
+{
+	float2 position;
+	float radius;
+};
+
+float time;
+float2 roomSize;
+RWStructuredBuffer<Particle> particleMap;
+
+[numthreads(256, 1, 1)]
+void CSMain (uint3 id : SV_DispatchThreadID)
+{
+	particleMap[id.x].lifetime = particleMap[id.x].lifetime + 1;
+	if (particleMap[id.x].lifetime >= 200) {
+		float2 randomPos = hash23(float3(particleMap[id.x].position.x, particleMap[id.x].position.y, particleMap[id.x].rotation));
+		randomPos = float2(lerp(-0.25 * roomSize.x, 1.25 * roomSize.x, randomPos.x), lerp(-0.25 * roomSize.y, 1.25 * roomSize.y, randomPos.y));
+
+		particleMap[id.x].lifetime = 0;
+		particleMap[id.x].position = randomPos;
+		particleMap[id.x].previousPosition = randomPos;
+	}
+
+	Particle particle = particleMap[id.x];
+
+	float2 velocity = particle.position - particle.previousPosition;
+
+	particleMap[id.x].previousPosition = particle.position;
+	particleMap[id.x].previousRotation = particle.rotation;
+	particleMap[id.x].previousYRotation = particle.yRotation;
+
+
+	float2 force = float2(0.0, 0.0);
+
+	// expensive! this is why we're doing a compute shader...
+	float frequency = 0.005F;
+	float timeFrequency = 0.001F;
+	force.x += noise(float3(particle.position * frequency, time * timeFrequency));
+	force.y += noise(float3(particle.position * frequency, -3000 + time * timeFrequency));
+
+	force = normalize(force);
+	force *= 0.1f;
+
+
+	velocity *= 0.95f;
+	velocity += force;
+
+	particleMap[id.x].position = particle.position + velocity;
+	//particleMap[id.x].rotation = atan2(velocity.y, velocity.x) * 57.2958;
+	particleMap[id.x].yRotation = particle.yRotation + 0.175f;
+}

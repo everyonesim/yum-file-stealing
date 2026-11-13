@@ -1,0 +1,20 @@
+Terrain palettes are divided into rows, from top to bottom:
+    1 - Sunlit background
+    2 - Sunlit midground
+    3 - Sunlit foreground
+    4 - Shaded background
+    5 - Shaded midground
+    6 - Shaded foreground
+    7 - Colors
+
+The first 6 rows are the terrain's main color gradients, and go from dark on the left to bright on the right.
+If you want more control based on depth, you can add more rows. Just make sure there are the same number of lit and unlit rows!
+Similarly, palettes can be made wider to give more control over lighting.
+
+
+The "Colors" row is organized from left to right:
+    1 - Glitter color     (visible at certain angles in bright sunlight)
+    2 - Light tint        (multiplier/tint for lights cast on terrain, currently unused)
+    3 - Dark dust color   (sand puffs in shadow)
+    4 - Light dust color  (sand puffs in sunlight)
+    5 - Sandstorm color   (sandstorm end-of-cycle effect, or black to use sky color)
