@@ -165,7 +165,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13k";
+    var BUILD_VERSION = "2026-11-13l";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -209,7 +209,7 @@ html, body {
         var text = Array.prototype.map.call(arguments, function (item) {
             return item instanceof Error ? item.message : String(item);
         }).join(" ");
-        if (/abort|out of memory|memory access|runtimeerror|uncaught exception/i.test(text)) {
+        if (/abort|out of memory|memory access|runtimeerror|uncaught exception|cannot enlarge|enlarge memory|context_lost/i.test(text)) {
             hudShow(0, "engine error: " + text.slice(0, 160), "");
         }
         nativeConsoleError.apply(null, arguments);
