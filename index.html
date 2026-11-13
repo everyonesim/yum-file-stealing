@@ -165,7 +165,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13l";
+    var BUILD_VERSION = "2026-11-13m";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -214,6 +214,30 @@ html, body {
         }
         nativeConsoleError.apply(null, arguments);
     };
+
+    // The engine talks to the console and nothing else, and a browser page has no
+    // devtools on a phone. Keep the tail of what the game itself says and put it on
+    // the bar, so a stop names its own cause.
+    var consoleTail = [];
+    var consoleNoise = /UnityCache|Downloading|preload|streamingassets|\.data|\.framework|\.wasm|unity\.js|BLOCKING|wasm streaming|WebGL: INVALID|unity-canvas/;
+    function captureConsole(kind) {
+        var original = console[kind];
+        console[kind] = function () {
+            try {
+                var text = Array.prototype.map.call(arguments, function (item) {
+                    return item instanceof Error ? (item.message || String(item)) : String(item);
+                }).join(" ").replace(/\s+/g, " ").trim();
+                if (text && text.length < 900 && !consoleNoise.test(text) && text.indexOf("Rain World") !== 0) {
+                    consoleTail.push((kind === "error" ? "! " : "") + text);
+                    if (consoleTail.length > 12) consoleTail.shift();
+                }
+            } catch (error) { /* a failing mirror must never break the game */ }
+            return original.apply(null, arguments);
+        };
+    }
+    captureConsole("log");
+    captureConsole("warn");
+    captureConsole("error");
 
     var bannerShown = false;
 
@@ -553,7 +577,9 @@ html, body {
     var currentFileAt = 0;
     var seenFiles = [];
     var HUD_PACKED = 0;
+    var hudFillPercent = 0;
     function hudShow(percent, text, detail) {
+        hudFillPercent = percent;
         hud.classList.remove("dim");
         hud.style.display = "block";
         hudFill.style.width = Math.max(0, Math.min(100, percent)) + "%";
@@ -610,15 +636,17 @@ html, body {
             } else if (Date.now() - lastChange > 2500) {
                 hud.classList.add("dim");
                 var idle = Date.now() - lastChange;
-                if (idle > 10000 && Date.now() - lastIdleReport > 2000) {
+                if (idle > 4000 && Date.now() - lastIdleReport > 1200) {
                     lastIdleReport = Date.now();
                     var logs = [];
                     try { logs = files.scanLogs ? files.scanLogs() : []; } catch (error) { logs = []; }
-                    hudShow(100,
-                        "engine idle " + Math.round(idle / 1000) + "s \u00b7 not waiting on files",
-                        logs.length
-                            ? logs[logs.length - 1].replace(/\s+/g, " ").slice(-240)
-                            : "the game has not written a log entry");
+                    var line = consoleTail.length ? consoleTail[consoleTail.length - 1] : "";
+                    var extra = consoleTail.length > 1 ? consoleTail[consoleTail.length - 2] : "";
+                    hudShow(hudFillPercent || 0,
+                        "engine quiet " + Math.round(idle / 1000) + "s \u00b7 " +
+                            (consoleTail.length ? consoleTail.length + " console lines" : "silent"),
+                        line || (logs.length ? logs[logs.length - 1] : "nothing was logged") +
+                            (line && extra ? "  \u2190 " + extra.slice(-120) : ""));
                 }
             }
             setTimeout(tick, 400);
