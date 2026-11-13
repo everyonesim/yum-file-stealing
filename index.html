@@ -124,7 +124,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13e";
+    var BUILD_VERSION = "2026-11-13f";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -312,11 +312,71 @@ html, body {
                 return { build: buildBase, assets: assetBase + ASSETS_PATH };
             });
     }).then(function (paths) {
-        if (!paths) return;
-        return start(paths.build, paths.assets);
+        if (!paths) return null;
+        return loadRegionPack().then(function () {
+            return start(paths.build, paths.assets);
+        });
     }).catch(function (reason) {
         fail(String(reason && reason.message ? reason.message : reason), "");
     });
+
+    // ---------------------------------------------------------------
+    // First-region pack. A new save wakes up in SU: 261 files, 44 MB, which the
+    // port would otherwise pull one blocking request at a time. They ship as a
+    // single gzipped pack that is decompressed here and mounted into the game's
+    // file system before the engine starts, so nothing in that load waits on the
+    // network. One request, one progress bar.
+    // ---------------------------------------------------------------
+    function loadRegionPack() {
+        var url = "assets/region-su.pack.gz";
+        if (typeof DecompressionStream !== "function" || typeof fetch !== "function") return Promise.resolve();
+
+        setStatus("Fetching region data... 0%");
+        return fetch(url, { cache: "force-cache" }).then(function (response) {
+            if (!response.ok) throw new Error("region pack " + response.status);
+            var total = Number(response.headers.get("content-length") || 0);
+            var reader = response.body.getReader();
+            var chunks = [];
+            var received = 0;
+            function pump() {
+                return reader.read().then(function (step) {
+                    if (step.done) return null;
+                    chunks.push(step.value);
+                    received += step.value.length;
+                    var percent = total ? Math.min(99, Math.round(received / total * 100)) : 0;
+                    progress.style.width = percent + "%";
+                    setStatus("Fetching region data... " + percent + "%" +
+                        (total ? " (" + formatBytes(received) + " of " + formatBytes(total) + ")" : ""));
+                    lastProgress = Date.now();
+                    return pump();
+                });
+            }
+            return pump().then(function () {
+                setStatus("Unpacking region data...");
+                var blob = new Blob(chunks);
+                return new Response(blob.stream().pipeThrough(new DecompressionStream("gzip"))).arrayBuffer();
+            });
+        }).then(function (buffer) {
+            var view = new DataView(buffer);
+            var headerLength = view.getUint32(0, true);
+            var count = view.getUint32(4, true);
+            var header = JSON.parse(new TextDecoder("utf-8").decode(new Uint8Array(buffer, 8, headerLength)));
+            var lengths = new Uint32Array(buffer, 8 + headerLength, count);
+            var index = {};
+            var offset = 8 + headerLength + count * 4;
+            for (var i = 0; i < count; i++) {
+                index[header.paths[i]] = [offset, lengths[i]];
+                offset += lengths[i];
+            }
+            window.rainWorldPack = { index: index, raw: new Uint8Array(buffer) };
+            setStatus("Region data ready (" + count + " files)");
+            progress.style.width = "0%";
+        }).catch(function (reason) {
+            // Not fatal: without the pack the files come off the asset base.
+            console.warn("Rain World region pack unavailable:", String(reason && reason.message ? reason.message : reason));
+            progress.style.width = "0%";
+        });
+    }
 
     // ---------------------------------------------------------------
     // Boot
@@ -424,6 +484,7 @@ html, body {
         if (seenFiles.length > 6) seenFiles.shift();
         assetsEl.textContent = "loading " + currentFile.split("/").slice(-1)[0] +
             " \u00b7 " + formatBytes(info.downloaded || 0) + " in " + (info.files || 0) + " files" +
+            (info.packed ? " \u00b7 " + info.packed + " from the region pack" : "") +
             (info.bytes ? " \u00b7 " + formatBytes(info.bytes) + " buffered" : "");
         assetsEl.classList.add("show");
         clearTimeout(window.__fileHide);
