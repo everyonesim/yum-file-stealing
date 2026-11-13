@@ -124,7 +124,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13c";
+    var BUILD_VERSION = "2026-11-13d";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -327,6 +327,18 @@ html, body {
         });
     }
 
+    // If the download itself stops moving, say so instead of leaving a bar
+    // frozen at a percentage. Nothing here changes how the game loads.
+    var lastProgress = Date.now();
+    var lastPercent = 0;
+    setInterval(function () {
+        if (loading.style.display === "none") return;
+        if (Date.now() - lastProgress < 45000) return;
+        var waiting = lastRequest ? lastRequest.split("/").pop() : "";
+        setStatus("Loading Rain World... stuck at " + lastPercent + "%" +
+            (waiting ? " (last request: " + waiting + ")" : ""));
+    }, 5000);
+
     function start(buildBase, assetsUrl) {
         setStatus("Loading Rain World...");
         // The build's patched file layer retries a failed file against these
@@ -338,6 +350,9 @@ html, body {
             if (candidate !== assetsUrl && fallbacks.indexOf(candidate) < 0) fallbacks.push(candidate);
         });
         window.rainWorldAssetFallbacks = fallbacks;
+        // Prefetch only helps over the network, and it must never take the
+        // connections the game's own blocking reads need from a local server.
+        window.rainWorldRemote = /^https?:/i.test(assetsUrl);
         window.rainWorldAssetFallback = fallbacks.length ? fallbacks[0] : "";
         return loadScript(buildBase + BUILD + ".loader.js?v=" + BUILD_VERSION).then(function () {
             if (typeof createUnityInstance !== "function") {
@@ -348,9 +363,9 @@ html, body {
                 frameworkUrl: buildBase + BUILD + ".framework.js?v=" + BUILD_VERSION,
                 codeUrl: buildBase + BUILD + ".wasm?v=" + BUILD_VERSION,
                 streamingAssetsUrl: assetsUrl,
-                companyName: "Videocult",
+                companyName: "Unknown",
                 productName: "Rain World",
-                productVersion: "1.11.8",
+                productVersion: "1.0",
                 showBanner: function (message, kind) {
                     if (kind === "error") showBanner("Rain World error", message, "");
                     else nativeError(message);
@@ -359,6 +374,8 @@ html, body {
                 var percent = Math.round(value * 100);
                 progress.style.width = percent + "%";
                 setStatus("Loading Rain World... " + percent + "%");
+                lastProgress = Date.now();
+                lastPercent = percent;
             });
         }).then(function (instance) {
             window.gameInstance = instance;
