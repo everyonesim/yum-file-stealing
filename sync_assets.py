@@ -164,6 +164,7 @@ def main() -> int:
     parser.add_argument("--verify", action="store_true", help="report problems without downloading")
     parser.add_argument("--limit", type=int, help="only process the first N files (trial run)")
     parser.add_argument("--filter", help="only process paths starting with this prefix")
+    parser.add_argument("--workers", type=int, default=WORKERS, help="parallel downloads (default 12)")
     args = parser.parse_args()
 
     output_root = pick_output_root(args.out)
@@ -197,7 +198,7 @@ def main() -> int:
     total = len(entries)
     done = 0
 
-    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
         futures = [pool.submit(fetch_one, entry, output_root, names, by_name, args.verify) for entry in entries]
         for future in as_completed(futures):
             status, entry, how = future.result()
