@@ -1,0 +1,1 @@
+BigNeedleWorm~White|Yellow|Red,ScavengerBomb~White|Red,SpitterSpider~Red,Deer~Red,SporePlant~White|Yellow|Red,FlyLure~White|Yellow|Red,PuffBall~White|Yellow|Red&LF~White|Yellow|Red&LF_west~White|Yellow|Red|Night,LF_bottom~White|Yellow|Red|Night

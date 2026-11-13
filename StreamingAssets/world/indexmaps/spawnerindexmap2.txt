@@ -1,0 +1,5161 @@
+0 CCOFFSCREEN(White)0-Vulture-4
+1 CCOFFSCREEN(White)0-Scavenger-6
+2 LINEAGE(White)CCOFFSCREEN0
+3 CCOFFSCREEN(Yellow)0-Vulture-3
+4 CCOFFSCREEN(Yellow)0-Scavenger-5
+5 CC_B04(Yellow)3-Blue
+6 CC_B04(Yellow)3-Snail-{PreCycle}-2
+7 CC_B05(Yellow)3-White
+8 CC_B05(Yellow)4-TentaclePlant-{PreCycle}
+9 CC_B01(Yellow)2-Blue
+10 CC_B01(Yellow)3-Snail-{PreCycle}-3
+11 CC_F01(Yellow)4-Pink
+12 CC_F01(Yellow)4-Snail-{PreCycle}-3
+13 CC_B08(Yellow)3-Blue
+14 CC_B08(Yellow)3-Cyan-{PreCycle}-2
+15 LINEAGE(Yellow)CC_F013
+16 LINEAGE(Yellow)CC_B082
+17 LINEAGE(Yellow)CC_A072
+18 CCOFFSCREEN(Red)0-Vulture-4
+19 CCOFFSCREEN(Red)0-KingVulture-3
+20 CCOFFSCREEN(Red)0-Scavenger-7
+21 CCOFFSCREEN(Red)0-Elite
+22 CC_A15(Red)4-Cyan-2
+23 CC_B11(Red)3-BigSpider-2
+24 CC_C11(Red)4-Caramel
+25 CC_C03(Red)7-Garbage Worm-3
+26 CC_C03(Red)5-BigSpider
+27 CC_A07(Red)2-DropBug
+28 CC_A07(Red)3-Mimic-{18}
+29 CC_C04(Red)3-BigNeedleWorm
+30 CC_C04(Red)3-SmallNeedleWorm-3
+31 CC_C04(Red)3-TentaclePlant-{PreCycle}
+32 CC_B05(Red)2-DropBug
+33 CC_B05(Red)3-White
+34 CC_B05(Red)4-BigNeedleWorm
+35 CC_B05(Red)4-SmallNeedleWorm-2
+36 CC_B05(Red)4-TentaclePlant-{PreCycle}
+37 CC_B14(Red)3-Tube Worm
+38 CC_B14(Red)4-Tube Worm
+39 CC_B14(Red)2-BigNeedleWorm
+40 CC_B14(Red)2-SmallNeedleWorm-4
+41 CC_C08(Red)3-Cyan
+42 CC_B04(Red)3-White
+43 CC_B04(Red)4-BigNeedleWorm
+44 CC_B04(Red)4-SmallNeedleWorm-2
+45 CC_B04(Red)3-Snail-{PreCycle}-2
+46 LINEAGE(Red)CC_C053
+47 LINEAGE(Red)CC_B012
+48 LINEAGE(Red)CC_C084
+49 LINEAGE(Red)CC_F013
+50 LINEAGE(Red)CC_A072
+51 LINEAGE(Red)CC_C113
+52 LINEAGE(Red)CC_B082
+53 LINEAGE(Red)CC_B084
+54 CCOFFSCREEN(X-White,Yellow,Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Vulture-4
+55 CCOFFSCREEN(X-White,Yellow,Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Scavenger-6
+56 CC_A07(X-Rivulet,Red,Artificer,Spear,Saint,Inv)3-Mimic-{18}
+57 CC_C03(X-Red,Artificer,Spear,Inv,Saint)7-Garbage Worm-3
+58 CC_B14(X-Rivulet,Red,Artificer,Spear,Saint,Inv)3-Tube Worm
+59 CC_B14(X-Rivulet,Red,Artificer,Spear,Saint,Inv)4-Tube Worm
+60 CC_B04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-White
+61 CC_B04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Snail-{PreCycle}-2
+62 CC_B05(X-Yellow,Saint,Rivulet,Red,Artificer,Spear,Inv)2-Pink
+63 CC_B05(X-Yellow,Saint,Rivulet,Red,Artificer,Spear,Inv)3-White
+64 CC_B05(X-Yellow,Saint,Rivulet,Red,Artificer,Spear,Inv)4-TentaclePlant-{PreCycle}
+65 CC_B11(X-Red,Artificer,Spear,Saint,Inv)3-Caramel
+66 CC_B01(X-Inv,Yellow,Rivulet,Saint)2-Blue
+67 CC_B01(X-Inv,Yellow,Rivulet,Saint)3-White
+68 CC_B01(X-Inv,Yellow,Rivulet,Saint)3-Snail-{PreCycle}-3
+69 CC_F01(X-Inv,Yellow,Rivulet,Saint)4-Pink-2
+70 CC_F01(X-Inv,Yellow,Rivulet,Saint)4-Snail-{PreCycle}-3
+71 CC_B08(X-Inv,Yellow,Rivulet,Saint)3-White
+72 CC_B08(X-Inv,Yellow,Rivulet,Saint)2-Pink
+73 CC_B08(X-Inv,Yellow,Rivulet,Saint)3-Cyan-{PreCycle}-2
+74 CC_C07(X-Saint)2-Snail-{PreCycle}-3
+75 LINEAGE(X-Saint)CC_C072
+76 LINEAGE(X-Saint)CC_A153
+77 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_F013
+78 LINEAGE(X-Red,Artificer,Spear,Inv)CC_SUMP014
+79 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_A072
+80 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_C113
+81 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B082
+82 LINEAGE(X-Rivulet,Red,Artificer,Spear,Saint,Inv)CC_B012
+83 LINEAGE(X-Rivulet,Red,Artificer,Spear,Saint,Inv)CC_C083
+84 LINEAGE(X-Rivulet,Red,Artificer,Spear,Saint,Inv)CC_C084
+85 LINEAGE(X-Red,Artificer,Spear,Saint,Inv)CC_C053
+86 CC_SHAFT01x(X-Yellow,Rivulet,Saint)9-Garbage Worm-3
+87 CC_SHAFT01x(X-Yellow,Rivulet,Saint)2-Eel-{PreCycle}
+88 CC_SHAFT02(X-Yellow,Rivulet,Saint,Inv)5-BigSpider-2
+89 CC_SUMP01(X-Yellow,Rivulet,Saint,Inv)5-MotherSpider
+90 CC_SUMP01(X-Yellow,Rivulet,Saint,Inv)6-TentaclePlant
+91 CC_SUMP01(X-Yellow,Rivulet,Saint,Inv)7-Eel
+92 CC_STRAINER01(X-Yellow,Rivulet,Saint,Inv)2-Small Centipede-5
+93 CC_STRAINER01(X-Yellow,Rivulet,Saint,Inv)3-Centipede-2
+94 CC_STRAINER02(X-Yellow,Rivulet,Saint)3-Mimic-{12}
+95 CC_STRAINER03(X-Yellow,Rivulet,Saint)2-Snail-3
+96 CC_SUMP03(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)4-Mimic-{18}
+97 CC_SUMP03(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)7-MotherSpider
+98 CC_SUMP03(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)8-Mimic-{14}
+99 CC_SUMP03(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)12-Snail-5
+100 CC_SUMP03(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)13-Eel
+101 CC_SUMP04(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)3-Eel
+102 CC_SUMP04(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)4-Snail-2
+103 CC_SUMP05(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)2-Mimic-{19}
+104 CC_SUMP05(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)3-Mimic-{21}
+105 CC_SUMP05(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)5-Centipede-3
+106 CC_SUMP05(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)11-Small Centipede-2
+107 CC_SUMP05(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)11-Centipede-2
+108 CC_OUTPUT(X-Yellow,Rivulet,Saint,Inv)10-Small Centipede-7
+109 CC_OUTPUT(X-Yellow,Rivulet,Saint,Inv)11-Snail-2
+110 CCOFFSCREEN(Gourmand)0-Vulture-3
+111 CCOFFSCREEN(Gourmand)0-KingVulture
+112 CCOFFSCREEN(Gourmand)0-Scavenger-4
+113 CCOFFSCREEN(Rivulet)0-Vulture-5
+114 CCOFFSCREEN(Rivulet)0-Scavenger-3
+115 CCOFFSCREEN(Artificer)0-Vulture-3
+116 CCOFFSCREEN(Artificer)0-KingVulture-4
+117 CCOFFSCREEN(Artificer)0-Scavenger-15
+118 CCOFFSCREEN(Artificer)0-Elite-2
+119 CCOFFSCREEN(Spear)0-Vulture-3
+120 CCOFFSCREEN(Spear)0-KingVulture-4
+121 CCOFFSCREEN(Spear)0-Scavenger-11
+122 CCOFFSCREEN(Spear)0-Elite-2
+123 CCOFFSCREEN(Saint)0-MirosVulture-{Night}-4
+124 CCOFFSCREEN(Saint)0-Vulture-2
+125 CCOFFSCREEN(Saint)0-Scavenger-6
+126 CCOFFSCREEN(Inv)0-MirosVulture-{Night}-4
+127 CCOFFSCREEN(Inv)0-Scavenger-7
+128 LINEAGE(Gourmand)CCOFFSCREEN0
+129 LINEAGE(White)CCOFFSCREEN0
+130 LINEAGE(Gourmand)CCOFFSCREEN0
+131 CC_C053-Snail-{PreCycle}-2
+132 CC_A07(Artificer)2-DropBug
+133 CC_A07(Artificer)3-Mimic-{18}
+134 CC_A07(Spear)2-DropBug
+135 CC_A07(Spear)3-Mimic-{18}
+136 CC_A07(Saint)3-Red
+137 CC_A07(Inv)2-DropBug
+138 CC_C03(Artificer)7-Garbage Worm-3
+139 CC_C03(Artificer)5-BigSpider
+140 CC_C03(Spear)7-Garbage Worm-3
+141 CC_C03(Spear)5-BigSpider
+142 CC_C03(Inv)7-Garbage Worm-3
+143 CC_C03(Inv)5-SpitterSpider
+144 CC_B14(Rivulet)3-Tube Worm
+145 CC_B14(Rivulet)4-Tube Worm
+146 CC_B14(Rivulet)2-Cyan-2
+147 CC_B14(Rivulet)3-Centiwing
+148 CC_B14(Artificer)3-Tube Worm
+149 CC_B14(Artificer)4-Tube Worm
+150 CC_B14(Artificer)2-BigNeedleWorm
+151 CC_B14(Artificer)2-SmallNeedleWorm-4
+152 CC_B14(Spear)3-Tube Worm
+153 CC_B14(Spear)4-Tube Worm
+154 CC_B14(Spear)2-BigNeedleWorm
+155 CC_B14(Spear)2-SmallNeedleWorm-4
+156 CC_B14(Saint)2-Cyan-2
+157 CC_B14(Saint)3-Centiwing
+158 CC_B14(Inv)2-BigNeedleWorm
+159 CC_B14(Inv)2-SmallNeedleWorm-4
+160 CC_B04(Rivulet)3-Blue
+161 CC_B04(Rivulet)3-Centiwing
+162 CC_B04(Rivulet)4-Centiwing
+163 CC_B04(Rivulet)3-Snail-{PreCycle}-2
+164 CC_B04(Artificer)3-White
+165 CC_B04(Artificer)4-BigNeedleWorm
+166 CC_B04(Artificer)4-SmallNeedleWorm-2
+167 CC_B04(Artificer)3-Snail-{PreCycle}-2
+168 CC_B04(Spear)3-White
+169 CC_B04(Spear)4-BigNeedleWorm
+170 CC_B04(Spear)4-SmallNeedleWorm-2
+171 CC_B04(Spear)3-Snail-{PreCycle}-2
+172 CC_B04(Saint)3-Centiwing
+173 CC_B04(Saint)4-Centiwing
+174 CC_B04(Saint)3-Snail-{PreCycle}-2
+175 CC_B04(Inv)3-Red
+176 CC_B04(Inv)4-BigNeedleWorm
+177 CC_B04(Inv)4-SmallNeedleWorm-2
+178 CC_B04(Inv)3-Snail-{PreCycle}-2
+179 CC_B05(Saint)3-White
+180 CC_B05(Saint)4-TentaclePlant-{PreCycle}
+181 CC_B05(Rivulet)3-Yellow-2
+182 CC_B05(Rivulet)4-TentaclePlant-{PreCycle}
+183 CC_B05(Artificer)2-DropBug
+184 CC_B05(Artificer)3-White
+185 CC_B05(Artificer)4-BigNeedleWorm
+186 CC_B05(Artificer)4-SmallNeedleWorm-2
+187 CC_B05(Artificer)4-TentaclePlant-{PreCycle}
+188 CC_B05(Spear)2-DropBug
+189 CC_B05(Spear)3-White
+190 CC_B05(Spear)4-BigNeedleWorm
+191 CC_B05(Spear)4-SmallNeedleWorm-2
+192 CC_B05(Spear)4-TentaclePlant-{PreCycle}
+193 CC_B05(Inv)2-DropBug
+194 CC_B05(Inv)3-Red
+195 CC_B05(Inv)4-BigNeedleWorm
+196 CC_B05(Inv)4-SmallNeedleWorm-2
+197 CC_B05(Inv)4-TentaclePlant-{PreCycle}
+198 CC_B11(Artificer)3-BigSpider-2
+199 CC_B11(Spear)3-BigSpider-2
+200 CC_B11(Saint)3-BigSpider-2
+201 CC_B11(Inv)3-SpitterSpider-2
+202 CC_B01(Inv)2-Red
+203 CC_B01(Inv)3-White
+204 CC_B01(Inv)3-Snail-{PreCycle}-3
+205 CC_F01(Inv)4-Red-2
+206 CC_F01(Inv)4-Snail-{PreCycle}-3
+207 CC_B08(Inv)3-White
+208 CC_B08(Inv)2-Red
+209 CC_B08(Inv)3-Cyan-{PreCycle}-2
+210 CC_B08(Rivulet)3-Blue
+211 CC_B08(Rivulet)3-Cyan-{PreCycle}-2
+212 CC_F01(Rivulet)3-Centiwing
+213 CC_F01(Rivulet)4-Caramel
+214 CC_F01(Rivulet)4-Snail-{PreCycle}-3
+215 CC_B01(Rivulet)2-Cyan-2
+216 CC_B01(Rivulet)3-Centiwing
+217 CC_B01(Rivulet)3-Snail-{PreCycle}-3
+218 CC_B01(Saint)2-Cyan-2
+219 CC_B01(Saint)3-Centiwing
+220 CC_B01(Saint)3-Snail-{PreCycle}-3
+221 CC_F01(Saint)3-Centiwing
+222 CC_F01(Saint)4-White
+223 CC_F01(Saint)4-Snail-{PreCycle}-3
+224 CC_B08(Saint)3-Strawberry
+225 CC_B08(Saint)3-Cyan-{PreCycle}-2
+226 CC_A15(Artificer)4-Cyan-2
+227 CC_A15(Spear)4-Cyan-2
+228 CC_A15(Rivulet)3-Centiwing
+229 CC_A15(Saint)3-Centiwing
+230 CC_A15(Inv)4-Red-2
+231 CC_C11(Artificer)4-SpitterSpider
+232 CC_C11(Spear)4-SpitterSpider
+233 CC_C11(Saint)4-Strawberry
+234 CC_C11(Inv)4-Red
+235 CC_C04(Rivulet)3-Centiwing-2
+236 CC_C04(Rivulet)3-TentaclePlant-{PreCycle}
+237 CC_C04(Saint)3-Centiwing-2
+238 CC_C04(Saint)3-TentaclePlant-{PreCycle}
+239 CC_C04(Artificer)3-BigNeedleWorm
+240 CC_C04(Artificer)3-SmallNeedleWorm-3
+241 CC_C04(Artificer)3-TentaclePlant-{PreCycle}
+242 CC_C04(Spear)3-BigNeedleWorm
+243 CC_C04(Spear)3-SmallNeedleWorm-3
+244 CC_C04(Spear)3-TentaclePlant-{PreCycle}
+245 CC_C04(Inv)3-BigNeedleWorm
+246 CC_C04(Inv)3-SmallNeedleWorm-3
+247 CC_C04(Inv)3-TentaclePlant-{PreCycle}
+248 CC_C08(Rivulet)3-Yellow
+249 CC_C08(Rivulet)4-Yellow-2
+250 CC_C08(Rivulet)5-Centiwing-2
+251 CC_C08(Artificer)3-Cyan
+252 CC_C08(Spear)3-Cyan
+253 CC_C08(Saint)3-Yellow-3
+254 CC_C08(Saint)4-Yellow-2
+255 CC_C08(Saint)5-Centiwing-2
+256 CC_C08(Inv)3-Red
+257 CC_C07(Saint)2-White
+258 CC_C07(Saint)3-Centiwing
+259 CC_C07(Saint)2-Snail-{PreCycle}-3
+260 LINEAGE(White)CC_C073
+261 LINEAGE(Gourmand)CC_C073
+262 LINEAGE(Yellow)CC_C073
+263 LINEAGE(Rivulet)CC_C073
+264 LINEAGE(Red)CC_C073
+265 LINEAGE(Artificer)CC_C073
+266 LINEAGE(Spear)CC_C073
+267 LINEAGE(Inv)CC_C073
+268 LINEAGE(Rivulet)CC_F013
+269 LINEAGE(Artificer)CC_F013
+270 LINEAGE(Spear)CC_F013
+271 LINEAGE(Inv)CC_F013
+272 LINEAGE(Red)CC_SHAFT023
+273 LINEAGE(Artificer)CC_SHAFT023
+274 LINEAGE(Spear)CC_SHAFT023
+275 LINEAGE(Inv)CC_SHAFT023
+276 LINEAGE(Red)CC_SUMP014
+277 LINEAGE(Artificer)CC_SUMP014
+278 LINEAGE(Spear)CC_SUMP014
+279 LINEAGE(Inv)CC_SUMP014
+280 LINEAGE(Rivulet)CC_A072
+281 LINEAGE(Artificer)CC_A072
+282 LINEAGE(Spear)CC_A072
+283 LINEAGE(Inv)CC_A072
+284 LINEAGE(Artificer)CC_C113
+285 LINEAGE(Spear)CC_C113
+286 LINEAGE(Inv)CC_C113
+287 LINEAGE(Rivulet)CC_B082
+288 LINEAGE(Artificer)CC_B082
+289 LINEAGE(Spear)CC_B082
+290 LINEAGE(Inv)CC_B082
+291 LINEAGE(Artificer)CC_B084
+292 LINEAGE(Spear)CC_B084
+293 LINEAGE(Inv)CC_B084
+294 LINEAGE(Gourmand)CC_B113
+295 LINEAGE(Rivulet)CC_B012
+296 LINEAGE(Rivulet)CC_C083
+297 LINEAGE(Rivulet)CC_C084
+298 LINEAGE(Artificer)CC_B012
+299 LINEAGE(Spear)CC_B012
+300 LINEAGE(Artificer)CC_C084
+301 LINEAGE(Spear)CC_C084
+302 LINEAGE(Inv)CC_B012
+303 LINEAGE(Inv)CC_C084
+304 LINEAGE(Artificer)CC_C053
+305 LINEAGE(Spear)CC_C053
+306 LINEAGE(Inv)CC_C053
+307 CC_SHAFT02(Inv)5-SpitterSpider-2
+308 CC_SUMP01(Inv)5-SpitterSpider
+309 CC_SUMP01(Inv)6-TentaclePlant
+310 CC_SUMP01(Inv)7-Eel
+311 CC_STRAINER01(Inv)2-Small Centipede-5
+312 CC_STRAINER01(Inv)3-RedCentipede-2
+313 CC_SUMP03(Red)4-Mimic-{18}
+314 CC_SUMP03(Red)7-MotherSpider-2
+315 CC_SUMP03(Red)8-Mimic-{14}
+316 CC_SUMP03(Red)12-Snail-5
+317 CC_SUMP03(Red)13-Eel
+318 CC_SUMP03(Artificer)4-Mimic-{18}
+319 CC_SUMP03(Artificer)7-MotherSpider-2
+320 CC_SUMP03(Artificer)8-Mimic-{14}
+321 CC_SUMP03(Artificer)12-Snail-5
+322 CC_SUMP03(Artificer)13-Eel
+323 CC_SUMP03(Spear)4-Mimic-{18}
+324 CC_SUMP03(Spear)7-MotherSpider-2
+325 CC_SUMP03(Spear)8-Mimic-{14}
+326 CC_SUMP03(Spear)12-Snail-5
+327 CC_SUMP03(Spear)13-Eel
+328 CC_SUMP03(Inv)4-Mimic-{18}
+329 CC_SUMP03(Inv)7-SpitterSpider-2
+330 CC_SUMP03(Inv)8-Mimic-{14}
+331 CC_SUMP03(Inv)12-Snail-5
+332 CC_SUMP03(Inv)13-Eel
+333 CC_SUMP04(Red)3-Eel
+334 CC_SUMP04(Red)4-Snail-6
+335 CC_SUMP04(Artificer)3-Eel
+336 CC_SUMP04(Artificer)4-Snail-6
+337 CC_SUMP04(Spear)3-Eel
+338 CC_SUMP04(Spear)4-Snail-6
+339 CC_SUMP04(Inv)3-Eel
+340 CC_SUMP04(Inv)4-Snail-6
+341 CC_SUMP05(Red)2-Mimic-{19}
+342 CC_SUMP05(Red)3-Mimic-{21}
+343 CC_SUMP05(Red)4-DropBug-2
+344 CC_SUMP05(Red)5-Centipede-3
+345 CC_SUMP05(Red)11-Small Centipede-2
+346 CC_SUMP05(Red)11-Centipede-2
+347 CC_SUMP05(Artificer)2-Mimic-{19}
+348 CC_SUMP05(Artificer)3-Mimic-{21}
+349 CC_SUMP05(Artificer)4-DropBug-2
+350 CC_SUMP05(Artificer)5-Centipede-3
+351 CC_SUMP05(Artificer)11-Small Centipede-2
+352 CC_SUMP05(Artificer)11-Centipede-2
+353 CC_SUMP05(Spear)2-Mimic-{19}
+354 CC_SUMP05(Spear)3-Mimic-{21}
+355 CC_SUMP05(Spear)4-DropBug-2
+356 CC_SUMP05(Spear)5-Centipede-3
+357 CC_SUMP05(Spear)11-Small Centipede-2
+358 CC_SUMP05(Spear)11-Centipede-2
+359 CC_SUMP05(Inv)2-Mimic-{19}
+360 CC_SUMP05(Inv)3-Mimic-{21}
+361 CC_SUMP05(Inv)4-DropBug-2
+362 CC_SUMP05(Inv)5-RedCentipede-3
+363 CC_SUMP05(Inv)11-Small Centipede-2
+364 CC_SUMP05(Inv)11-RedCentipede-2
+365 CC_SHAFT01x(Yellow)9-Garbage Worm-2
+366 CC_SHAFT01x(Yellow)2-Eel-{PreCycle}
+367 CC_SHAFT01x(Rivulet)9-Garbage Worm-2
+368 CC_SHAFT01x(Rivulet)2-Eel-{PreCycle}
+369 CC_SHAFT02(Yellow)5-BigSpider
+370 CC_SHAFT02(Rivulet)5-BigSpider
+371 CC_SHAFT02(Saint)5-BigSpider
+372 CC_SUMP01(Yellow)5-BigSpider
+373 CC_SUMP01(Yellow)6-TentaclePlant
+374 CC_SUMP01(Yellow)7-Eel
+375 CC_SUMP01(Rivulet)5-BigSpider
+376 CC_SUMP01(Rivulet)6-TentaclePlant
+377 CC_SUMP01(Rivulet)7-Eel
+378 CC_STRAINER01(Yellow)2-Small Centipede-3
+379 CC_STRAINER01(Yellow)3-Centipede-3
+380 CC_STRAINER01(Rivulet)2-Small Centipede-3
+381 CC_STRAINER01(Rivulet)3-Centipede-3
+382 CC_STRAINER01(Saint)2-Small Centipede-3
+383 CC_STRAINER01(Saint)3-Centipede-3
+384 CC_STRAINER02(Yellow)3-Mimic-{12}
+385 CC_STRAINER02(Rivulet)3-Mimic-{12}
+386 CC_STRAINER02(Saint)3-Mimic-{12}
+387 CC_STRAINER03(Yellow)2-Snail-3
+388 CC_STRAINER03(Rivulet)2-Snail-3
+389 CC_SUMP03(Yellow)4-Mimic-{18}
+390 CC_SUMP03(Yellow)7-MotherSpider
+391 CC_SUMP03(Yellow)8-Mimic-{14}
+392 CC_SUMP03(Yellow)12-Snail-5
+393 CC_SUMP03(Yellow)13-Eel
+394 CC_SUMP03(Rivulet)4-Mimic-{18}
+395 CC_SUMP03(Rivulet)7-MotherSpider
+396 CC_SUMP03(Rivulet)8-Mimic-{14}
+397 CC_SUMP03(Rivulet)12-Snail-5
+398 CC_SUMP03(Rivulet)13-Eel
+399 CC_SUMP04(Yellow)3-Eel-2
+400 CC_SUMP04(Rivulet)3-Eel-2
+401 CC_SUMP05(Yellow)2-Mimic-{19}
+402 CC_SUMP05(Yellow)3-Mimic-{21}
+403 CC_SUMP05(Yellow)5-Centipede-3
+404 CC_SUMP05(Yellow)11-Small Centipede-2
+405 CC_SUMP05(Yellow)11-Centipede-2
+406 CC_SUMP05(Rivulet)2-Mimic-{19}
+407 CC_SUMP05(Rivulet)3-Mimic-{21}
+408 CC_SUMP05(Rivulet)5-Centipede-3
+409 CC_SUMP05(Rivulet)11-Small Centipede-2
+410 CC_SUMP05(Rivulet)11-Centipede-2
+411 CC_SUMP05(Saint)2-Mimic-{19}
+412 CC_SUMP05(Saint)3-Mimic-{21}
+413 CC_SUMP05(Saint)5-Centipede-3
+414 CC_SUMP05(Saint)11-Small Centipede-2
+415 CC_SUMP05(Saint)11-Centipede-2
+416 CC_OUTPUT(Yellow)10-Small Centipede-3
+417 CC_OUTPUT(Yellow)11-Snail-2
+418 CC_OUTPUT(Rivulet)10-Small Centipede-3
+419 CC_OUTPUT(Rivulet)11-Snail-2
+420 CC_OUTPUT(Saint)10-Small Centipede-3
+421 CC_OUTPUT(Saint)11-Snail-2
+422 CC_SHAFT01x(Saint)4-BigSpider-2
+423 CC_SHAFT01x(Saint)2-Eel-{PreCycle}
+424 CC_SUMP01(Saint)5-BigSpider
+425 CC_SUMP01(Saint)6-TentaclePlant
+426 CC_SUMP03(Saint)4-Mimic-{18}
+427 CC_SUMP03(Saint)7-BigSpider
+428 CC_SUMP03(Saint)8-Mimic-{14}
+429 CC_SUMP03(Saint)12-Snail-2
+430 CC_SUMP04(Saint)3-Eel
+1000 DS_D022-TentaclePlant
+1001 DS_A272-TentaclePlant
+1002 DS_B07(Yellow)4-Eel
+1003 DS_B07(Yellow)5-Snail
+1004 DS_B07(Yellow)6-Snail
+1005 DS_B07(Yellow)7-Snail
+1006 LINEAGE(White)DS_A084
+1007 LINEAGE(Yellow)DS_A084
+1008 LINEAGE(White)DS_A063
+1009 LINEAGE(Yellow)DS_A063
+1010 LINEAGE(White)DS_A024
+1011 LINEAGE(Yellow)DS_A024
+1012 LINEAGE(White)DS_A223
+1013 LINEAGE(Yellow)DS_A223
+1014 LINEAGE(White)DS_A092
+1015 LINEAGE(Yellow)DS_A092
+1016 LINEAGE(White)DS_A162
+1017 LINEAGE(Yellow)DS_A162
+1018 DS_B07(Red)3-DropBug-3
+1019 DS_B07(Red)4-Cyan-3
+1020 DS_B07(Red)5-Snail
+1021 DS_B07(Red)6-Snail
+1022 DS_B07(Red)7-Snail
+1023 DS_A16(Red)3-Snail
+1024 DS_A16(Red)4-Snail-2
+1025 DS_A16(Red)5-Leech-8
+1026 DS_A09(Red)2-DropBug-2
+1027 DS_A08(Red)3-TentaclePlant
+1028 DS_A08(Red)4-Snail-2
+1029 DS_A08(Red)5-Snail-2
+1030 LINEAGE(Red)DS_A024
+1031 LINEAGE(Red)DS_A162
+1032 LINEAGE(Red)DS_A063
+1033 LINEAGE(Red)DS_A223
+1034 LINEAGE(Red)DS_A092
+1035 DSOFFSCREEN(X-Rivulet,Spear,Artificer)0-Scavenger-3
+1036 DS_A05(X-Rivulet,Spear,White,Yellow)3-Leech-15
+1037 DS_A05(X-Rivulet,Spear,White,Yellow)4-Leech-10
+1038 DS_A05(X-Rivulet,Spear,White,Yellow)2-Snail-3
+1039 DS_A05(X-Rivulet,Spear,White,Yellow)3-TentaclePlant-{PreCycle}
+1040 DS_A21(X-Rivulet)2-Mimic-{14}
+1041 DS_A21(X-Rivulet)3-Snail-2
+1042 DS_A21(X-Rivulet)4-Snail-2
+1043 DS_C01(X-Rivulet,White,Yellow)6-Leech-15
+1044 DS_C01(X-Rivulet,White,Yellow)7-Leech-10
+1045 DS_C01(X-Rivulet,White,Yellow)6-Eel-{PreCycle}
+1046 DS_A07(X-Spear)2-Snail
+1047 DS_A07(X-Spear)2-Leech-5
+1048 DS_A17(X-Rivulet,White,Yellow)2-Snail
+1049 DS_A17(X-Rivulet,White,Yellow)2-Eel-{PreCycle}
+1050 DS_A13(X-Spear,Artificer)2-Leech-5
+1051 DS_A13(X-Spear,Artificer)3-Leech-5
+1052 DS_A13(X-Spear,Artificer)3-TentaclePlant-{PreCycle}
+1053 DS_A14(X-Spear,Rivulet)2-Leech-5
+1054 DS_A14(X-Spear,Rivulet)3-Leech-5
+1055 DS_B01(X-Spear,Rivulet)3-Leech-5
+1056 DS_B01(X-Spear,Rivulet)4-Leech-5
+1057 DS_B01(X-Spear,Rivulet)5-Snail-3
+1058 DS_A25(X-Rivulet,Spear,Artificer,Inv)3-Leech-5
+1059 DS_A25(X-Rivulet,Spear,Artificer,Inv)4-Leech-7
+1060 DS_A25(X-Rivulet,Spear,Artificer,Inv)5-Snail-2
+1061 DS_A25(X-Rivulet,Spear,Artificer,Inv)3-TentaclePlant-{PreCycle}
+1062 DS_A25(X-Rivulet,Spear,Artificer,Inv)4-TentaclePlant-{PreCycle}
+1063 DS_C04(X-Spear)3-TentaclePlant
+1064 DS_B07(X-Rivulet,Yellow,Red,Artificer,Spear,Inv)4-Salamander
+1065 DS_B07(X-Rivulet,Yellow,Red,Artificer,Spear,Inv)5-Snail
+1066 DS_B07(X-Rivulet,Yellow,Red,Artificer,Spear,Inv)6-Snail
+1067 DS_B07(X-Rivulet,Yellow,Red,Artificer,Spear,Inv)7-Snail
+1068 DS_A16(X-Red,Artificer,Spear,Rivulet,Inv)3-Snail
+1069 DS_A16(X-Red,Artificer,Spear,Rivulet,Inv)4-Snail-2
+1070 DS_A16(X-Red,Artificer,Spear,Rivulet,Inv)5-Leech-5
+1071 DS_A08(X-Red,Artificer,Spear,Inv)3-Snail-2
+1072 DS_A08(X-Red,Artificer,Spear,Inv)5-Snail-2
+1073 DS_A02(X-Artificer,Spear,Inv)3-Eel-{PreCycle}
+1074 DS_A22(X-Artificer,Spear)4-Salamander-{PreCycle}
+1075 DS_GUTTER01(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)2-Snail-3
+1076 DS_GUTTER01(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)4-Leech-12
+1077 DS_GUTTER03(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)8-Snail-3
+1078 DS_GUTTER03(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)9-Snail
+1079 DS_GUTTER03(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)9-Eel-{PreCycle}
+1080 DS_GUTTER04(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)4-Snail
+1081 DSOFFSCREEN(Rivulet)0-Scavenger-10
+1082 DSOFFSCREEN(Spear)0-Scavenger-7
+1083 DSOFFSCREEN(Artificer)0-Scavenger-8
+1084 DS_A05(White)3-Leech-15
+1085 DS_A05(White)4-Leech-10
+1086 DS_A05(White)2-Snail-3
+1087 DS_A05(Yellow)3-Leech-15
+1088 DS_A05(Yellow)4-Leech-10
+1089 DS_A05(Yellow)2-Snail-3
+1090 DS_A05(Rivulet)3-JungleLeech-15
+1091 DS_A05(Rivulet)4-JungleLeech-10
+1092 DS_A05(Rivulet)2-Snail-3
+1093 DS_A05(Rivulet)3-TentaclePlant-{PreCycle}
+1094 DS_A21(Rivulet)3-Snail-2
+1095 DS_A21(Rivulet)4-Snail-2
+1096 DS_C01(Rivulet)6-JungleLeech-15
+1097 DS_C01(Rivulet)7-JungleLeech-10
+1098 DS_C01(Rivulet)6-Salamander-{PreCycle}
+1099 DS_C01(Rivulet)6-Eel-{PreCycle}
+1100 DS_C01(White)6-Leech-15
+1101 DS_C01(White)7-Leech-10
+1102 DS_C01(Yellow)6-Leech-15
+1103 DS_C01(Yellow)7-Leech-10
+1104 DS_A17(Rivulet)2-Eel-{PreCycle}
+1105 DS_A17(White)2-Snail
+1106 DS_A17(Yellow)2-Snail
+1107 DS_A13(Spear)3-TentaclePlant-{PreCycle}
+1108 DS_A13(Artificer)2-Leech-5
+1109 DS_A14(Rivulet)2-JungleLeech-5
+1110 DS_A14(Rivulet)3-JungleLeech-5
+1111 DS_B01(Spear)5-TentaclePlant-{PreCycle}
+1112 DS_B01(Rivulet)3-Leech-5
+1113 DS_B01(Rivulet)4-Leech-5
+1114 DS_B01(Rivulet)5-Snail-3
+1115 DS_B01(Rivulet)4-Salamander-{PreCycle}
+1116 DS_A25(Rivulet)3-JungleLeech-5
+1117 DS_A25(Rivulet)4-JungleLeech-7
+1118 DS_A25(Rivulet)5-Snail-2
+1119 DS_A25(Rivulet)3-TentaclePlant-{PreCycle}
+1120 DS_A25(Rivulet)4-TentaclePlant-{PreCycle}
+1121 DS_A25(Spear)3-TentaclePlant-{PreCycle}
+1122 DS_A25(Spear)4-TentaclePlant-{PreCycle}
+1123 DS_A25(Artificer)4-Leech-5
+1124 DS_A25(Artificer)3-TentaclePlant-{PreCycle}
+1125 DS_A25(Artificer)4-TentaclePlant-{PreCycle}
+1126 DS_C04(Spear)3-RedCentipede
+1127 DS_B07(Rivulet)4-Eel
+1128 DS_B07(Rivulet)5-Snail
+1129 DS_B07(Rivulet)6-Snail
+1130 DS_B07(Rivulet)7-Snail
+1131 DS_B07(Artificer)3-DropBug-3
+1132 DS_B07(Artificer)4-Cyan-3
+1133 DS_B07(Artificer)5-Snail
+1134 DS_B07(Artificer)6-Snail
+1135 DS_B07(Artificer)7-Snail
+1136 DS_A16(Rivulet)3-Snail
+1137 DS_A16(Rivulet)4-Snail-2
+1138 DS_A16(Rivulet)5-JungleLeech-15
+1139 DS_A16(Artificer)3-Snail
+1140 DS_A16(Artificer)4-Snail-2
+1141 DS_A16(Artificer)5-Leech-8
+1142 DS_A16(Spear)3-Snail
+1143 DS_A16(Spear)4-Snail-2
+1144 DS_A16(Spear)5-Leech-8
+1145 DS_A08(Artificer)3-TentaclePlant
+1146 DS_A08(Artificer)4-Snail-2
+1147 DS_A08(Artificer)5-Snail-2
+1148 DS_A08(Spear)3-TentaclePlant
+1149 DS_A08(Spear)4-Snail-2
+1150 DS_A08(Spear)5-Snail-2
+1151 LINEAGE(Gourmand)DS_A063
+1152 LINEAGE(Rivulet)DS_A063
+1153 LINEAGE(Artificer)DS_A063
+1154 LINEAGE(Spear)DS_A063
+1155 LINEAGE(Gourmand)DS_A024
+1156 LINEAGE(Rivulet)DS_A024
+1157 DS_A02(Artificer)3-Centipede-4
+1158 DS_A02(Artificer)4-Centipede-5
+1159 DS_A02(Artificer)3-Eel-{PreCycle}
+1160 DS_A02(Spear)3-Centipede-4
+1161 DS_A02(Spear)4-Centipede-5
+1162 DS_A02(Spear)3-Eel-{PreCycle}
+1163 LINEAGE(Gourmand)DS_A223
+1164 LINEAGE(Rivulet)DS_A223
+1165 LINEAGE(Artificer)DS_A223
+1166 LINEAGE(Spear)DS_A223
+1167 LINEAGE(Gourmand)DS_A092
+1168 LINEAGE(Rivulet)DS_A092
+1169 LINEAGE(Artificer)DS_A092
+1170 LINEAGE(Spear)DS_A092
+1171 LINEAGE(Gourmand)DS_A162
+1172 LINEAGE(Rivulet)DS_A162
+1173 LINEAGE(Artificer)DS_A162
+1174 LINEAGE(Spear)DS_A162
+1175 DS_A22(Artificer)4-DropBug-2
+1176 DS_A22(Artificer)4-Salamander-{PreCycle}
+1177 DS_A22(Spear)4-DropBug-2
+1178 DS_A22(Spear)4-Salamander-{PreCycle}
+1179 DS_A09(Artificer)2-DropBug-2
+1180 DS_A09(Spear)2-DropBug-2
+1181 DS_A09(Inv)2-DropBug-2
+1182 LINEAGE(Artificer)DS_A024
+1183 LINEAGE(Spear)DS_A024
+1184 LINEAGE(Gourmand)DS_A084
+1185 LINEAGE(Rivulet)DS_A084
+1186 LINEAGE(Inv)DS_A084
+1187 DS_GUTTER01(Yellow)2-Snail
+1188 DS_GUTTER01(Yellow)4-Leech-10
+1189 DS_GUTTER03(Yellow)8-Snail-2
+1190 DS_GUTTER03(Yellow)9-Snail-3
+1191 DS_GUTTER03(Yellow)9-Eel-{PreCycle}
+1192 DS_GUTTER04(Yellow)4-Snail-2
+1193 DS_A11(Rivulet)2-Eel
+1194 DS_GUTTER01(Rivulet)2-Snail
+1195 DS_GUTTER01(Rivulet)4-JungleLeech-12
+1196 DS_GUTTER01(Inv)2-Snail
+1197 DS_GUTTER01(Inv)4-JungleLeech-12
+1198 DS_GUTTER02(Rivulet)2-SpitterSpider
+1199 DS_GUTTER02(Inv)2-SpitterSpider
+1200 DS_GUTTER03(Rivulet)8-Snail
+1201 DS_GUTTER03(Rivulet)9-Snail-2
+1202 DS_GUTTER03(Rivulet)9-Eel-{PreCycle}
+1203 DS_GUTTER04(Rivulet)4-Snail-2
+1204 DS_GUTTER01(Red)2-Snail-3
+1205 DS_GUTTER01(Red)4-Leech-12
+1206 DS_GUTTER01(Artificer)2-Snail-3
+1207 DS_GUTTER01(Artificer)4-Leech-12
+1208 DS_GUTTER01(Spear)2-Snail-3
+1209 DS_GUTTER01(Spear)4-Leech-12
+1210 DS_GUTTER03(Red)7-DropBug-2
+1211 DS_GUTTER03(Red)8-Snail-3
+1212 DS_GUTTER03(Red)9-Snail-3
+1213 DS_GUTTER03(Red)9-Eel-{PreCycle}
+1214 DS_GUTTER03(Artificer)7-DropBug-2
+1215 DS_GUTTER03(Artificer)8-Snail-3
+1216 DS_GUTTER03(Artificer)9-Snail-3
+1217 DS_GUTTER03(Artificer)9-Eel-{PreCycle}
+1218 DS_GUTTER03(Spear)7-DropBug-2
+1219 DS_GUTTER03(Spear)8-Snail-3
+1220 DS_GUTTER03(Spear)9-Snail-3
+1221 DS_GUTTER03(Spear)9-Eel-{PreCycle}
+1222 DS_GUTTER03(Inv)7-DropBug-2
+1223 DS_GUTTER03(Inv)8-Snail-3
+1224 DS_GUTTER03(Inv)9-Snail-3
+1225 DS_GUTTER03(Inv)9-Eel-{PreCycle}
+1226 DS_GUTTER04(Red)4-Snail-3
+1227 DS_GUTTER04(Artificer)4-Snail-3
+1228 DS_GUTTER04(Spear)4-Snail-3
+1229 DS_A02(Inv)3-RedCentipede-4
+1230 DS_A02(Inv)4-RedCentipede-5
+1231 DS_B07(Inv)3-DropBug-3
+1232 DS_B07(Inv)4-Red-3
+1233 DS_B07(Inv)5-Snail
+1234 DS_B07(Inv)6-DropBug
+1235 DS_B07(Inv)7-DropBug
+1236 DS_A25(Inv)4-Leech-5
+1237 DS_A16(Inv)3-Snail
+1238 DS_A16(Inv)4-DropBug-2
+1239 DS_A16(Inv)5-Leech-8
+1240 DS_A08(Inv)3-TentaclePlant
+1241 DS_A08(Inv)4-Snail-2
+1242 DS_A08(Inv)5-DropBug-2
+1243 LINEAGE(Inv)DS_A024
+1244 LINEAGE(Inv)DS_A162
+1245 LINEAGE(Inv)DS_A063
+1246 LINEAGE(Inv)DS_A223
+1247 LINEAGE(Inv)DS_A092
+2000 HI_A04(White)2-Mimic-{18}
+2001 HI_A04(Yellow)2-Mimic-{18}
+2002 HI_B05(White)3-White
+2003 HI_B05(Yellow)3-White
+2004 LINEAGE(White)HI_B063
+2005 LINEAGE(Yellow)HI_B063
+2006 HIOFFSCREEN(Yellow)0-Vulture
+2007 HIOFFSCREEN(Yellow)0-Scavenger-5
+2008 HI_B09(Yellow)3-Green
+2009 HI_B09(Yellow)2-Eggbug
+2010 HI_B15(Yellow)2-Small Centipede-3
+2011 HI_B15(Yellow)3-Centipede-{0.3}
+2012 HI_B07(Yellow)3-Pink
+2013 HI_B07(Yellow)2-EggBug
+2014 HI_B07(Yellow)3-TentaclePlant-{PreCycle}
+2015 HI_C05(Yellow)3-EggBug
+2016 HI_C05(Yellow)4-Pink
+2017 HIOFFSCREEN(Red)0-Vulture-2
+2018 HIOFFSCREEN(Red)0-KingVulture
+2019 HIOFFSCREEN(Red)0-Scavenger-7
+2020 LINEAGE(Red)HIOFFSCREEN0
+2021 LINEAGE(Red)HIOFFSCREEN0
+2022 HI_B09(Red)3-Dropwig
+2023 HI_B09(Red)2-White
+2024 HI_B05(Red)3-Dropwig
+2025 HI_C11(Red)3-Cyan
+2026 HI_A16(Red)4-Blue
+2027 HI_A17(Red)3-Green
+2028 HI_A17(Red)3-Cyan-{PreCycle}
+2029 HI_B12(Red)2-Blue
+2030 HI_B12(Red)3-EggBug
+2031 HI_B07(Red)3-Pink-2
+2032 HI_B07(Red)2-EggBug
+2033 HI_B07(Red)3-TentaclePlant-{PreCycle}
+2034 HI_A25(Red)2-Dropbug
+2035 HI_B15(Red)2-Small Centipede-2
+2036 HI_B15(Red)3-Centipede-{0.55}
+2037 HI_B15(Red)2-Centipede-{0.72}
+2038 HI_B15(Red)3-Centipede-{0.68}
+2039 HI_C04(Red)5-Cyan
+2040 HI_C04(Red)7-TentaclePlant-{PreCycle}
+2041 HI_C04(Red)5-Cyan-{PreCycle}
+2042 HI_B06(Red)3-Cyan
+2043 HI_B06(Red)4-Red
+2044 LINEAGE(Red)HI_B033
+2045 LINEAGE(Red)HI_C114
+2046 LINEAGE(Red)HI_C013
+2047 LINEAGE(Red)HI_C026
+2048 LINEAGE(Red)HI_C014
+2049 LINEAGE(Red)HI_A042
+2050 LINEAGE(Red)HI_C033
+2051 LINEAGE(Red)HI_C045
+2052 HIOFFSCREEN(X-Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Vulture-3
+2053 HIOFFSCREEN(X-Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Scavenger-6
+2054 HI_B12(X-Rivulet,Red,Artificer,Spear,Saint,Inv)2-Blue
+2055 HI_A18(X-Rivulet,Inv,Saint)2-Green
+2056 HI_A18(X-Rivulet,Inv,Saint)2-TentaclePlant-{PreCycle}
+2057 HI_A06(X-Yellow,Rivulet,Artificer,Spear,Saint,Inv)2-Caramel
+2058 HI_A19(X-Saint)4-Garbage Worm-2
+2059 LINEAGE(X-Saint)HI_B064
+2060 LINEAGE(X-Yellow,Red,Artificer,Spear,Saint,Inv)HI_C015
+2061 LINEAGE(X-Red,Artificer,Spear,Saint,Inv)HI_C014
+2062 LINEAGE(X-Red,Artificer,Spear,Saint,Inv)HI_B033
+2063 LINEAGE(X-Rivulet,Inv,Saint)HI_B132
+2064 LINEAGE(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)HI_C025
+2065 LINEAGE(X-Rivulet,Red,Artificer,Spear,Saint,Inv)HI_C026
+2066 HI_B09(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Green
+2067 HI_B09(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-White
+2068 HI_B15(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-Small Centipede-3
+2069 HI_B15(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Centipede-{0.5}
+2070 HI_C04(X-Rivulet,Red,Artificer,Spear,Saint,Inv)5-Blue
+2071 HI_C04(X-Rivulet,Red,Artificer,Spear,Saint,Inv)6-Snail
+2072 HI_C04(X-Rivulet,Red,Artificer,Spear,Saint,Inv)7-Snail-2
+2073 HI_C04(X-Rivulet,Red,Artificer,Spear,Saint,Inv)7-TentaclePlant-{PreCycle}
+2074 HI_C04(X-Rivulet,Red,Artificer,Spear,Saint,Inv)5-Cyan-{PreCycle}
+2075 HI_B07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Pink
+2076 HI_B07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-Pink
+2077 HI_B07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-TentaclePlant-{PreCycle}
+2078 HI_C05(X-Yellow,Rivulet,Saint,Inv,Red,Artificer,Spear)3-Pink
+2079 HI_C05(X-Yellow,Rivulet,Saint,Inv,Red,Artificer,Spear)4-Pink
+2080 HI_C11(X-Red,Artificer,Spear,Rivulet,Saint,Inv)3-Blue
+2081 HI_C03(X-Gourmand,Red,Artificer,Spear,Saint,Inv)3-White
+2082 HI_C03(X-Gourmand,Red,Artificer,Spear,Saint,Inv)3-Eel-{PreCycle}
+2083 HI_D01(X-Saint)2-Cyan-{PreCycle}-2
+2084 HI_A17(X-Red,Artificer,Spear,Saint,Inv)3-Cyan-{PreCycle}
+2085 HI_A16(X-Rivulet,Red,Artificer,Spear,Saint,Inv)4-Green
+2086 HIOFFSCREEN(Gourmand)0-Vulture-2
+2087 HIOFFSCREEN(Gourmand)0-KingVulture-2
+2088 HIOFFSCREEN(Gourmand)0-Scavenger-7
+2089 HIOFFSCREEN(Rivulet)0-Vulture
+2090 HIOFFSCREEN(Rivulet)0-Scavenger-5
+2091 HIOFFSCREEN(Artificer)0-Vulture-3
+2092 HIOFFSCREEN(Artificer)0-KingVulture
+2093 HIOFFSCREEN(Artificer)0-Scavenger-14
+2094 HIOFFSCREEN(Spear)0-Vulture
+2095 HIOFFSCREEN(Spear)0-KingVulture-2
+2096 HIOFFSCREEN(Spear)0-Scavenger-12
+2097 HIOFFSCREEN(Saint)0-MirosVulture-{Night}-3
+2098 HIOFFSCREEN(Saint)0-Scavenger-14
+2099 HIOFFSCREEN(Saint)0-Vulture-4
+2100 HIOFFSCREEN(Inv)0-MirosVulture-3
+2101 HIOFFSCREEN(Inv)0-Scavenger-16
+2102 HI_B12(Artificer)2-Blue
+2103 HI_B12(Artificer)3-EggBug
+2104 HI_B12(Spear)2-Blue
+2105 HI_B12(Spear)3-EggBug
+2106 HI_B12(Saint)3-Centiwing-2
+2107 HI_B12(Inv)2-Train
+2108 HI_B12(Inv)3-SpitterSpider
+2109 HI_A18(Rivulet)2-Caramel
+2110 HI_A18(Rivulet)2-TentaclePlant-{PreCycle}
+2111 HI_A18(Inv)2-Train
+2112 HI_A18(Inv)2-TentaclePlant-{PreCycle}
+2113 HI_A06(Yellow)2-Green
+2114 HI_A06(Rivulet)2-Green
+2115 HI_A06(Artificer)2-Green
+2116 HI_A06(Spear)2-Green
+2117 HI_A06(Saint)2-Strawberry
+2118 HI_A06(Inv)2-Train
+2119 LINEAGE(Gourmand)HI_B063
+2120 LINEAGE(Rivulet)HI_B063
+2121 LINEAGE(Yellow)HI_C015
+2122 LINEAGE(Red)HI_C015
+2123 LINEAGE(Artificer)HI_C015
+2124 LINEAGE(Spear)HI_C015
+2125 LINEAGE(Artificer)HI_C014
+2126 LINEAGE(Spear)HI_C014
+2127 LINEAGE(Inv)HI_C014
+2128 LINEAGE(Artificer)HI_C013
+2129 LINEAGE(Spear)HI_C013
+2130 LINEAGE(Inv)HI_C013
+2131 LINEAGE(Artificer)HI_B033
+2132 LINEAGE(Spear)HI_B033
+2133 LINEAGE(Inv)HI_B033
+2134 LINEAGE(Rivulet)HI_B132
+2135 LINEAGE(Yellow)HI_C025
+2136 LINEAGE(Rivulet)HI_C025
+2137 LINEAGE(Red)HI_C025
+2138 LINEAGE(Artificer)HI_C025
+2139 LINEAGE(Spear)HI_C025
+2140 LINEAGE(Inv)HI_C025
+2141 LINEAGE(Rivulet)HI_C026
+2142 LINEAGE(Artificer)HI_C026
+2143 LINEAGE(Spear)HI_C026
+2144 LINEAGE(Inv)HI_C026
+2145 LINEAGE(Yellow)HI_C048
+2146 LINEAGE(Rivulet)HI_C048
+2147 LINEAGE(Artificer)HI_C045
+2148 LINEAGE(Spear)HI_C045
+2149 HI_B09(Rivulet)2-Centiwing
+2150 HI_B09(Rivulet)3-Caramel
+2151 HI_B09(Artificer)3-Dropwig
+2152 HI_B09(Artificer)2-White
+2153 HI_B09(Spear)3-Dropwig
+2154 HI_B09(Spear)2-White
+2155 HI_B09(Saint)2-Centiwing
+2156 HI_B09(Saint)3-White
+2157 HI_B09(Inv)3-Dropwig
+2158 HI_B09(Inv)2-Train
+2159 HI_B15(Rivulet)2-Centipede
+2160 HI_B15(Rivulet)3-Centipede
+2161 HI_B15(Artificer)2-Small Centipede-2
+2162 HI_B15(Artificer)3-Centipede-{0.55}
+2163 HI_B15(Artificer)2-Centipede-{0.72}
+2164 HI_B15(Artificer)3-Centipede-{0.68}
+2165 HI_B15(Spear)2-Small Centipede-2
+2166 HI_B15(Spear)3-Centipede-{0.55}
+2167 HI_B15(Spear)2-Centipede-{0.72}
+2168 HI_B15(Spear)3-Centipede-{0.68}
+2169 HI_B15(Saint)2-Centipede
+2170 HI_B15(Saint)3-Centipede-3
+2171 HI_B15(Inv)2-Small Centipede-2
+2172 HI_B15(Inv)3-RedCentipede
+2173 HI_B15(Inv)2-RedCentipede
+2174 HI_B15(Inv)3-RedCentipede
+2175 HI_C04(Rivulet)7-Eel
+2176 HI_C04(Rivulet)7-TentaclePlant-{PreCycle}
+2177 HI_C04(Rivulet)5-Cyan-{PreCycle}
+2178 HI_C04(Artificer)5-Cyan
+2179 HI_C04(Artificer)7-TentaclePlant-{PreCycle}
+2180 HI_C04(Artificer)5-Cyan-{PreCycle}
+2181 HI_C04(Spear)5-Cyan
+2182 HI_C04(Spear)7-TentaclePlant-{PreCycle}
+2183 HI_C04(Spear)5-Cyan-{PreCycle}
+2184 HI_C04(Saint)5-Lantern Mouse-6
+2185 HI_C04(Saint)7-TentaclePlant-{PreCycle}
+2186 HI_C04(Saint)5-Cyan-{PreCycle}
+2187 HI_C04(Inv)5-Train
+2188 HI_C04(Inv)7-TentaclePlant-{PreCycle}
+2189 HI_C04(Inv)5-Cyan-{PreCycle}
+2190 HI_B07(Rivulet)2-EggBug
+2191 HI_B07(Rivulet)3-Centiwing
+2192 HI_B07(Rivulet)3-TentaclePlant-{PreCycle}
+2193 HI_B07(Artificer)3-Pink-2
+2194 HI_B07(Artificer)2-EggBug
+2195 HI_B07(Artificer)3-TentaclePlant-{PreCycle}
+2196 HI_B07(Spear)3-Pink-2
+2197 HI_B07(Spear)2-EggBug
+2198 HI_B07(Spear)3-TentaclePlant-{PreCycle}
+2199 HI_B07(Saint)2-Strawberry
+2200 HI_B07(Saint)3-Centiwing
+2201 HI_B07(Saint)3-TentaclePlant-{PreCycle}
+2202 HI_B07(Inv)3-Train-2
+2203 HI_B07(Inv)2-SpitterSpider
+2204 HI_B07(Inv)3-TentaclePlant-{PreCycle}
+2205 HI_C05(Rivulet)3-EggBug
+2206 HI_C05(Rivulet)4-Pink
+2207 HI_C05(Saint)3-Yellow-3
+2208 HI_C05(Saint)4-Yellow-3
+2209 HI_C05(Inv)3-SpitterSpider
+2210 HI_C05(Inv)4-Train
+2211 HI_A04(Gourmand)2-Mimic-{18}
+2212 HI_A04(Rivulet)2-Mimic-{18}
+2213 HI_A04(Saint)2-Red
+2214 HI_C11(Rivulet)3-Yellow-2
+2215 HI_C11(Rivulet)4-Cyan
+2216 HI_C11(Artificer)3-Cyan
+2217 HI_C11(Spear)3-Cyan
+2218 HI_C11(Saint)3-White
+2219 HI_C11(Saint)4-Cyan
+2220 HI_C11(Inv)3-Train
+2221 HI_C03(Gourmand)3-Cyan
+2222 HI_C03(Gourmand)3-Eel-{PreCycle}
+2223 HI_C03(Red)3-Eel-{PreCycle}
+2224 HI_C03(Artificer)3-Eel-{PreCycle}
+2225 HI_C03(Spear)3-Eel-{PreCycle}
+2226 HI_C03(Inv)3-Train
+2227 HI_C03(Inv)3-Eel-{PreCycle}
+2228 HI_D01(Saint)2-Lantern Mouse-5
+2229 HI_D01(Saint)2-Cyan-{PreCycle}-2
+2230 HI_A17(Artificer)3-Green
+2231 HI_A17(Artificer)3-Cyan-{PreCycle}
+2232 HI_A17(Spear)3-Green
+2233 HI_A17(Spear)3-Cyan-{PreCycle}
+2234 HI_A17(Saint)3-Lantern Mouse-4
+2235 HI_A17(Saint)3-Cyan-{PreCycle}
+2236 HI_A17(Inv)3-Train
+2237 HI_A17(Inv)3-Cyan-{PreCycle}
+2238 HI_B05(Gourmand)3-Cyan
+2239 HI_B05(Rivulet)3-Cyan
+2240 HI_B05(Artificer)3-Dropwig
+2241 HI_B05(Spear)3-Dropwig
+2242 HI_B05(Inv)3-Dropwig
+2243 HI_B05(Saint)3-Cyan-3
+2244 HI_B05(Saint)3-Lantern Mouse-6
+2245 HI_A16(Rivulet)4-Caramel
+2246 HI_A16(Artificer)4-Blue
+2247 HI_A16(Spear)4-Blue
+2248 HI_A16(Saint)4-Centipede-3
+2249 HI_A16(Inv)4-Train
+2250 HI_A25(Rivulet)2-Centipede-2
+2251 HI_A25(Artificer)2-Dropbug
+2252 HI_A25(Spear)2-Dropbug
+2253 HI_A25(Saint)2-Centipede-3
+2254 HI_A25(Inv)2-Dropbug
+2255 HI_B06(Gourmand)4-Red
+2256 HI_B06(Rivulet)4-Yellow-2
+2257 HI_B06(Artificer)3-Cyan
+2258 HI_B06(Artificer)4-Red
+2259 HI_B06(Spear)3-Cyan
+2260 HI_B06(Spear)4-Red
+2261 HI_B06(Saint)4-Yellow-5
+2262 HI_B06(Inv)3-SpitterSpider
+2263 HI_B06(Inv)4-Train
+2264 LINEAGE(Artificer)HI_C114
+2265 LINEAGE(Spear)HI_C114
+2266 LINEAGE(Inv)HI_C114
+2267 LINEAGE(Artificer)HI_A042
+2268 LINEAGE(Spear)HI_A042
+2269 LINEAGE(Inv)HI_A042
+2270 LINEAGE(Artificer)HI_C033
+2271 LINEAGE(Spear)HI_C033
+2272 HI_A10(Rivulet)3-Centiwing
+2273 HI_A10(Saint)3-Centiwing
+2274 HI_A10(Inv)3-Centiwing
+2275 HI_C01(Rivulet)4-Yellow-4
+2276 HI_C01(Saint)4-Yellow-5
+2277 HI_B13(Saint)2-Yellow-5
+2278 HI_B13(Inv)2-Yellow-5
+2279 HI_C02(Saint)5-Yellow-3
+2280 HI_C02(Inv)5-Yellow-3
+2281 HI_B03(Saint)3-Centiwing-2
+3000 LINEAGEGW_C064
+3001 LINEAGE(White)GW_B024
+3002 GWOFFSCREEN(White)0-Vulture-3
+3003 GWOFFSCREEN(White)0-Scavenger-26
+3004 GWOFFSCREEN(Yellow)0-Vulture-3
+3005 GWOFFSCREEN(Yellow)0-Scavenger-20
+3006 GW_C02(White)2-CicadaB-2
+3007 GW_C02(White)3-CicadaB
+3008 GW_C02(White)13-Garbage Worm-4
+3009 GW_C02(White)5-Scavenger-{PreCycle,Seed:2837}
+3010 GW_C02(White)5-TentaclePlant-{PreCycle}
+3011 GW_C02(Yellow)2-CicadaB-2
+3012 GW_C02(Yellow)3-CicadaB
+3013 GW_C02(Yellow)13-Garbage Worm-3
+3014 GW_C02(Yellow)5-Scavenger-{PreCycle,Seed:2837}
+3015 GW_C02(Yellow)5-TentaclePlant-{PreCycle}
+3016 LINEAGE(Yellow)GW_B024
+3017 GWOFFSCREEN(Red)0-Vulture-3
+3018 GWOFFSCREEN(Red)0-KingVulture
+3019 GWOFFSCREEN(Red)0-Scavenger-26
+3020 GW_A10(Red)3-Leech-7
+3021 GW_A10(Red)3-TentaclePlant
+3022 GW_A11(Red)4-Centipede-2
+3023 GW_A11(Red)5-Mimic-{12}
+3024 GW_C06(Red)3-Mimic
+3025 GW_C06(Red)4-Dropbug
+3026 GW_C06(Red)4-Salamander-{PreCycle}
+3027 GW_B03(Red)6-Leech-10
+3028 GW_B03(Red)4-Leech-4
+3029 GW_B03(Red)5-Leech-14
+3030 GW_B03(Red)6-Bro-{PreCycle}
+3031 GW_C03(Red)4-DropBug-2
+3032 GW_A12(Red)2-DropBug
+3033 GW_D01(Red)7-Leech-8
+3034 GW_D01(Red)19-Garbage Worm-5
+3035 GW_D01(Red)6-Cyan-2
+3036 GW_D01(Red)8-Leech-7
+3037 GW_D01(Red)5-TentaclePlant-{PreCycle}
+3038 GW_D01(Red)9-Salamander-{PreCycle}
+3039 GW_C02(Red)13-Garbage Worm-4
+3040 GW_C02(Red)2-CicadaB-3
+3041 GW_C02(Red)3-Cyan
+3042 GW_C02(Red)5-Scavenger-{PreCycle,Seed:2837}
+3043 GW_C02(Red)5-TentaclePlant-{PreCycle}
+3044 GW_A04(Red)3-Small Centipede-3
+3045 GW_A04(Red)3-Centipede
+3046 GW_B08(Red)2-CicadaB
+3047 GW_B08(Red)3-CicadaA-2
+3048 GW_B08(Red)4-DropBug
+3049 GW_B08(Red)8-Leech-3
+3050 GW_B08(Red)9-Leech-5
+3051 GW_B08(Red)10-Leech-5
+3052 GW_B08(Red)12-Sea Leech-10
+3053 GW_B08(Red)13-Sea Leech-10
+3054 GW_B02(Red)4-RedCentipede
+3055 GW_A07(Red)2-Leech-3
+3056 GW_C09(Red)3-Bro
+3057 GW_C09(Red)4-Daddy
+3058 LINEAGE(Red)GW_A113
+3059 LINEAGE(Red)GW_C042
+3060 GWOFFSCREEN(X-White,Yellow,Red,Rivulet,Gourmand,Saint,Spear,Artificer,Inv)0-Vulture-3
+3061 GWOFFSCREEN(X-White,Yellow,Red,Rivulet,Gourmand,Saint,Spear,Artificer,Inv)0-Scavenger-26
+3062 GW_B01(X-Saint)5-Leech-10
+3063 GW_B01(X-Saint)3-Leech-5
+3064 GW_B01(X-Saint)9-Garbage Worm-2
+3065 GW_C01(X-Yellow,Rivulet,Saint)10-Garbage Worm-4
+3066 GW_C01(X-Yellow,Rivulet,Saint)3-Leech-7
+3067 GW_C01(X-Yellow,Rivulet,Saint)5-Leech-7
+3068 GW_C01(X-Yellow,Rivulet,Saint)4-TentaclePlant-{PreCycle}
+3069 GW_C01(X-Yellow,Rivulet,Saint)3-Salamander-{PreCycle}
+3070 GW_B04(X-Rivulet,Saint)3-Leech-7
+3071 GW_B04(X-Rivulet,Saint)4-Leech-7
+3072 GW_D01(X-Yellow,Rivulet,Red,Saint,Inv)7-Leech-8
+3073 GW_D01(X-Yellow,Rivulet,Red,Saint,Inv)19-Garbage Worm-5
+3074 GW_D01(X-Yellow,Rivulet,Red,Saint,Inv)5-TentaclePlant-{PreCycle}
+3075 GW_D01(X-Yellow,Rivulet,Red,Saint,Inv)9-Salamander-{PreCycle}
+3076 GW_E02(X-Yellow,Rivulet,Saint)7-Pink
+3077 GW_E02(X-Yellow,Rivulet,Saint)5-Green
+3078 GW_E02(X-Yellow,Rivulet,Saint)8-Mimic-{14}
+3079 GW_E02(X-Yellow,Rivulet,Saint)3-CicadaB-2
+3080 GW_E02(X-Yellow,Rivulet,Saint)4-CicadaB
+3081 GW_E02(X-Yellow,Rivulet,Saint)19-Garbage Worm-3
+3082 GW_B09(X-Saint)2-Leech-10
+3083 GW_B09(X-Saint)3-Snail-2
+3084 GW_B09(X-Saint)4-Garbage Worm-2
+3085 GW_D02(X-Saint,Rivulet)6-Leech-10
+3086 GW_D02(X-Saint,Rivulet)3-Snail
+3087 GW_D02(X-Saint,Rivulet)4-Snail
+3088 GW_D02(X-Saint,Rivulet)5-Snail
+3089 GW_E01(X-Rivulet,Saint)7-Leech-10
+3090 GW_E01(X-Rivulet,Saint)2-CicadaB
+3091 GW_E01(X-Rivulet,Saint)3-CicadaB
+3092 GW_E01(X-Rivulet,Saint)5-Bro
+3093 GW_E01(X-Rivulet,Saint)6-Bro
+3094 GW_C10(X-Saint)2-Leech-7
+3095 GW_C10(X-Saint)3-Snail-3
+3096 GW_C08(X-Saint,Yellow,Rivulet)3-Leech-10
+3097 GW_C08(X-Saint,Yellow,Rivulet)5-Snail-4
+3098 GW_C08(X-Saint,Yellow,Rivulet)3-Daddy-{PreCycle}
+3099 GW_C04(X-Yellow,Rivulet,Saint)13-Garbage Worm-2
+3100 GW_C04(X-Yellow,Rivulet,Saint)6-Leech-3
+3101 GW_C04(X-Yellow,Rivulet,Saint)7-Leech-3
+3102 GW_C04(X-Yellow,Rivulet,Saint)4-Salamander-{PreCycle}-2
+3103 GW_B08(X-Red,Artificer,Spear,Saint,Inv)2-CicadaB
+3104 GW_B08(X-Red,Artificer,Spear,Saint,Inv)3-CicadaA-2
+3105 GW_B08(X-Red,Artificer,Spear,Saint,Inv)8-Leech-3
+3106 GW_B08(X-Red,Artificer,Spear,Saint,Inv)9-Leech-5
+3107 GW_B08(X-Red,Artificer,Spear,Saint,Inv)10-Leech-5
+3108 GW_B08(X-Red,Artificer,Spear,Saint,Inv)12-Sea Leech-10
+3109 GW_B08(X-Red,Artificer,Spear,Saint,Inv)13-Sea Leech-10
+3110 GW_A08(X-Rivulet,Saint)2-Snail-2
+3111 GW_A08(X-Rivulet,Saint)3-Snail-3
+3112 GW_A04(X-Red,Artificer,Spear,Inv)3-Small Centipede-3
+3113 GW_C06(X-Red,Inv,Saint)3-Mimic
+3114 GW_C06(X-Red,Inv,Saint)4-Small Centipede-2
+3115 GW_C06(X-Red,Inv,Saint)4-Salamander-{PreCycle}
+3116 GW_A10(X-Rivulet,Red,Inv,Saint)3-Leech-4
+3117 GW_B03(X-Rivulet,Red,Inv,Saint)6-Leech-5
+3118 GW_B03(X-Rivulet,Red,Inv,Saint)6-Bro-{PreCycle}
+3119 GW_C09(X-Rivulet,Spear,Red,Artificer,Saint,Inv)3-Bro
+3120 GW_C09(X-Rivulet,Spear,Red,Artificer,Saint,Inv)4-Bro
+3121 GW_EDGE02(X-Yellow,Rivulet,Saint,Red,Artificer,Spear)5-Leech-12
+3122 GW_EDGE02(X-Yellow,Rivulet,Saint,Red,Artificer,Spear)8-Leech-6
+3123 GW_EDGE03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)17-Leech-5
+3124 GW_EDGE03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)18-Leech-8
+3125 GW_EDGE03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)7-CicadaB-2
+3126 GW_EDGE03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)8-CicadaA-3
+3127 GW_EDGE03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)17-Salamander-{PreCycle}
+3128 GW_EDGE03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)18-Salamander-{PreCycle}
+3129 LINEAGE(X-Yellow,Rivulet,Artificer,Spear,Saint)GW_C035
+3130 LINEAGE(X-Saint)GW_E026
+3131 LINEAGE(X-Saint)GW_C095
+3132 LINEAGE(X-Saint)GW_C096
+3133 GWOFFSCREEN(Gourmand)0-Vulture-3
+3134 GWOFFSCREEN(Gourmand)0-Scavenger-26
+3135 GWOFFSCREEN(Rivulet)0-Vulture-3
+3136 GWOFFSCREEN(Rivulet)0-Scavenger-19
+3137 GWOFFSCREEN(Artificer)0-Vulture-4
+3138 GWOFFSCREEN(Artificer)0-KingVulture
+3139 GWOFFSCREEN(Artificer)0-Scavenger-32
+3140 GWOFFSCREEN(Spear)0-Vulture-3
+3141 GWOFFSCREEN(Spear)0-KingVulture-2
+3142 GWOFFSCREEN(Spear)0-Scavenger-30
+3143 GWOFFSCREEN(Spear)0-Elite
+3144 GWOFFSCREEN(Saint)0-MirosVulture-{Ignorecycle}-4
+3145 GWOFFSCREEN(Saint)0-Scavenger-12
+3146 GWOFFSCREEN(Saint)0-Vulture-3
+3147 GWOFFSCREEN(Inv)0-MirosVulture-{Ignorecycle}-3
+3148 GWOFFSCREEN(Inv)0-Scavenger-32
+3149 LINEAGE(Red)GWOFFSCREEN0
+3150 GW_C01(Yellow)10-Garbage Worm-2
+3151 GW_C01(Yellow)3-Leech-7
+3152 GW_C01(Yellow)5-Leech-7
+3153 GW_C01(Yellow)4-TentaclePlant-{PreCycle}
+3154 GW_C01(Yellow)3-Salamander-{PreCycle}
+3155 GW_C01(Rivulet)10-Garbage Worm-2
+3156 GW_C01(Rivulet)3-Leech-7
+3157 GW_C01(Rivulet)5-Leech-7
+3158 GW_C01(Rivulet)4-Eel
+3159 GW_C01(Rivulet)4-TentaclePlant-{PreCycle}
+3160 GW_C01(Rivulet)3-Salamander-{PreCycle}
+3161 GW_B04(Rivulet)3-Leech-7
+3162 GW_B04(Rivulet)4-Leech-11
+3163 GW_B04(Saint)4-Sea Leech-8
+3164 GW_D01(Yellow)7-Leech-8
+3165 GW_D01(Yellow)19-Garbage Worm-2
+3166 GW_D01(Yellow)5-TentaclePlant-{PreCycle}
+3167 GW_D01(Yellow)9-Salamander-{PreCycle}
+3168 GW_D01(Rivulet)7-Leech-8
+3169 GW_D01(Rivulet)19-Garbage Worm-2
+3170 GW_D01(Rivulet)4-White
+3171 GW_D01(Rivulet)3-Blue
+3172 GW_D01(Rivulet)5-TentaclePlant-{PreCycle}
+3173 GW_D01(Rivulet)9-Salamander-{PreCycle}
+3174 GW_D01(Saint)3-Centiwing-2
+3175 GW_D01(Saint)6-Yellow-3
+3176 GW_D01(Saint)5-TentaclePlant-{PreCycle}
+3177 GW_D01(Saint)9-Salamander-{PreCycle}
+3178 GW_D01(Inv)6-Red-2
+3179 GW_D01(Inv)8-Leech-7
+3180 GW_D01(Inv)5-TentaclePlant-{PreCycle}
+3181 GW_D01(Inv)9-Salamander-{PreCycle}
+3182 GW_C02(Gourmand)2-CicadaB-2
+3183 GW_C02(Gourmand)3-CicadaB
+3184 GW_C02(Gourmand)13-Garbage Worm-4
+3185 GW_C02(Gourmand)5-Scavenger-{PreCycle,Seed:2837}
+3186 GW_C02(Gourmand)5-TentaclePlant-{PreCycle}
+3187 GW_C02(Rivulet)2-White
+3188 GW_C02(Rivulet)13-Garbage Worm-3
+3189 GW_C02(Rivulet)5-Scavenger-{PreCycle,Seed:2837}
+3190 GW_C02(Rivulet)5-TentaclePlant-{PreCycle}
+3191 GW_C02(Saint)2-Strawberry
+3192 GW_C02(Saint)2-Centiwing
+3193 GW_C02(Saint)5-Scavenger-{PreCycle,Seed:2837}
+3194 GW_C02(Saint)5-TentaclePlant-{PreCycle}
+3195 GW_C02(Inv)2-CicadaB-3
+3196 GW_C02(Inv)3-Red
+3197 GW_C02(Inv)5-Scavenger-{PreCycle,Seed:2837}
+3198 GW_C02(Inv)5-TentaclePlant-{PreCycle}
+3199 GW_E02(Yellow)7-Pink
+3200 GW_E02(Yellow)5-Caramel
+3201 GW_E02(Yellow)8-Mimic-{14}
+3202 GW_E02(Yellow)3-CicadaB-2
+3203 GW_E02(Yellow)4-CicadaB
+3204 GW_E02(Yellow)19-Garbage Worm-3
+3205 GW_E02(Rivulet)7-Yellow-3
+3206 GW_E02(Rivulet)5-Caramel
+3207 GW_E02(Rivulet)8-Mimic-{14}
+3208 GW_E02(Rivulet)3-CicadaB-2
+3209 GW_E02(Rivulet)4-CicadaB
+3210 GW_E02(Rivulet)19-Garbage Worm-3
+3211 GW_E02(Saint)6-Centiwing
+3212 GW_E02(Saint)5-Yellow-4
+3213 GW_E02(Saint)8-Caramel
+3214 GW_B09(Saint)3-Jungle Leech-{Ignorecycle}-9
+3215 GW_B09(Saint)2-Drop Bug-{Ignorecycle}
+3216 GW_B09(Saint)4-Garbage Worm-{Ignorecycle}-2
+3217 GW_D02(Rivulet)6-Leech-10
+3218 GW_D02(Rivulet)3-Snail
+3219 GW_D02(Rivulet)4-Snail
+3220 GW_D02(Rivulet)5-Snail
+3221 GW_D02(Rivulet)5-Big Spider-2
+3222 GW_D02(Saint)4-Big Spider-{Winter}-3
+3223 GW_D02(Saint)6-Jungle Leech-{Ignorecycle}-5
+3224 GW_D02(Saint)3-Drop Bug-{Ignorecycle}
+3225 GW_E01(Rivulet)2-Centipede
+3226 GW_E01(Rivulet)3-Centipede
+3227 GW_E01(Rivulet)4-Red Centipede
+3228 GW_E01(Saint)2-Centipede
+3229 GW_E01(Saint)3-Centipede
+3230 GW_E01(Saint)4-Red Centipede
+3231 GW_E01(Saint)6-SpitterSpider-{Winter}
+3232 GW_C10(Saint)4-Garbage Worm-3
+3233 GW_C10(Saint)2-Jungle Leech-3
+3234 GW_C10(Saint)3-Jungle Leech-3
+3235 GW_C08(Yellow)3-Leech-10
+3236 GW_C08(Yellow)5-Snail-4
+3237 GW_C08(Yellow)3-Bro-{PreCycle}
+3238 GW_C08(Rivulet)3-Leech-10
+3239 GW_C08(Rivulet)5-Snail-4
+3240 GW_C08(Rivulet)3-Bro-{PreCycle}
+3241 GW_C04(Yellow)13-Garbage Worm
+3242 GW_C04(Yellow)6-Leech-3
+3243 GW_C04(Yellow)7-Leech-3
+3244 GW_C04(Yellow)4-Salamander-{PreCycle}-2
+3245 GW_C04(Rivulet)13-Garbage Worm
+3246 GW_C04(Rivulet)6-Leech-3
+3247 GW_C04(Rivulet)7-Leech-3
+3248 GW_C04(Rivulet)4-Salamander-{PreCycle}-2
+3249 GW_C04(Saint)4-Caramel
+3250 GW_C04(Saint)4-Salamander-{PreCycle}-2
+3251 GW_B08(Inv)2-CicadaB
+3252 GW_B08(Inv)3-CicadaA-2
+3253 GW_B08(Inv)4-DropBug
+3254 GW_B08(Inv)8-Leech-3
+3255 GW_B08(Inv)9-Leech-5
+3256 GW_B08(Inv)10-Leech-5
+3257 GW_B08(Inv)12-Sea Leech-10
+3258 GW_B08(Inv)13-Sea Leech-10
+3259 GW_B08(Saint)12-Sea Leech-{Ignorecycle}-6
+3260 GW_B08(Saint)10-Sea Leech-{Ignorecycle}-3
+3261 GW_B08(Saint)8-Sea Leech-{Ignorecycle}-3
+3262 GW_B08(Saint)2-Big Spider-{Winter}-2
+3263 GW_A08(Rivulet)2-Leech-12
+3264 GW_A08(Rivulet)3-Eel
+3265 GW_A08(Saint)3-Sea Leech-4
+3266 GW_A04(Artificer)3-Small Centipede-3
+3267 GW_A04(Artificer)3-Centipede
+3268 GW_A04(Spear)3-Small Centipede-3
+3269 GW_A04(Spear)3-Centipede
+3270 GW_A04(Inv)3-Small Centipede-3
+3271 GW_A04(Inv)3-RedCentipede
+3272 GW_C06(Inv)3-Mimic
+3273 GW_C06(Inv)4-Dropbug
+3274 GW_C06(Inv)4-Salamander-{PreCycle}
+3275 GW_C06(Saint)3-Centipede-2
+3276 GW_C06(Saint)4-Centipede
+3277 GW_C06(Saint)4-Centipede-2
+3278 GW_C06(Saint)4-Salamander-{PreCycle}
+3279 GW_A10(Rivulet)3-Leech-4
+3280 GW_A10(Rivulet)3-TentaclePlant
+3281 GW_A10(Inv)3-Leech-7
+3282 GW_A10(Inv)3-TentaclePlant
+3283 GW_A10(Saint)3-Sea Leech-7
+3284 GW_B03(Rivulet)4-Aquapede
+3285 GW_B03(Rivulet)6-Leech-5
+3286 GW_B03(Rivulet)6-Bro-{PreCycle}
+3287 GW_B03(Inv)6-Leech-10
+3288 GW_B03(Inv)4-Leech-4
+3289 GW_B03(Inv)5-Leech-14
+3290 GW_B03(Inv)6-Bro-{PreCycle}
+3291 GW_B03(Saint)4-Sea Leech-3
+3292 GW_B03(Saint)6-Bro-{PreCycle}
+3293 GW_C09(Rivulet)4-Bro
+3294 GW_C09(Rivulet)6-Leech-29
+3295 GW_C09(Spear)4-Terror
+3296 GW_C09(Artificer)3-Bro
+3297 GW_C09(Artificer)4-Daddy
+3298 GW_C09(Saint)4-Sea Leech-9
+3299 GW_C09(Inv)3-Daddy-{AlternateForm}
+3300 GW_C09(Inv)4-Daddy-{AlternateForm}
+3301 GW_A11(Saint)3-Centiwing-2
+3302 GW_A11(Inv)5-Mimic-{12}
+3303 GW_A11(Inv)4-RedCentipede-2
+3304 GW_C03(Rivulet)4-Caramel
+3305 GW_C03(Saint)4-Caramel
+3306 GW_C03(Saint)3-Centiwing-2
+3307 GW_C03(Inv)4-DropBug-2
+3308 GW_A12(Rivulet)2-Big Spider-2
+3309 GW_A12(Saint)2-DropBug-{Ignorecycle}
+3310 GW_A12(Inv)2-DropBug
+3311 GW_B02(Gourmand)4-RedCentipede
+3312 GW_B02(Inv)4-RedCentipede
+3313 GW_B02(Artificer)4-RedCentipede
+3314 GW_B02(Artificer)4-Daddy-{PreCycle}
+3315 GW_B02(Spear)4-Daddy-{PreCycle}
+3316 GW_A07(Inv)2-Leech-3
+3317 GW_A25(Saint)3-Lantern Mouse-3
+3318 GW_EDGE02(Yellow)5-Leech-12
+3319 GW_EDGE02(Yellow)8-Leech-6
+3320 GW_EDGE02(Rivulet)5-Leech-12
+3321 GW_EDGE02(Rivulet)8-Leech-6
+3322 GW_EDGE02(Red)5-Leech-12
+3323 GW_EDGE02(Red)8-Leech-6
+3324 GW_EDGE02(Artificer)5-Leech-12
+3325 GW_EDGE02(Artificer)8-Leech-6
+3326 GW_EDGE02(Spear)5-Leech-12
+3327 GW_EDGE02(Spear)8-Leech-6
+3328 GW_EDGE03(Yellow)17-Leech-5
+3329 GW_EDGE03(Yellow)18-Leech-8
+3330 GW_EDGE03(Yellow)7-CicadaB-3
+3331 GW_EDGE03(Yellow)8-CicadaA-4
+3332 GW_EDGE03(Yellow)17-Salamander-{PreCycle}
+3333 GW_EDGE03(Yellow)18-Salamander-{PreCycle}
+3334 GW_EDGE03(Rivulet)17-Leech-5
+3335 GW_EDGE03(Rivulet)18-Leech-8
+3336 GW_EDGE03(Rivulet)7-CicadaB-3
+3337 GW_EDGE03(Rivulet)8-CicadaA-4
+3338 GW_EDGE03(Rivulet)17-Salamander-{PreCycle}
+3339 GW_EDGE03(Rivulet)18-Salamander-{PreCycle}
+3340 GW_EDGE03(Red)17-Leech-9
+3341 GW_EDGE03(Red)18-Leech-12
+3342 GW_EDGE03(Red)7-CicadaB
+3343 GW_EDGE03(Red)8-CicadaA-2
+3344 GW_EDGE03(Red)17-Salamander-{PreCycle}
+3345 GW_EDGE03(Red)18-Salamander-{PreCycle}
+3346 GW_EDGE03(Artificer)17-Leech-9
+3347 GW_EDGE03(Artificer)18-Leech-12
+3348 GW_EDGE03(Artificer)7-CicadaB
+3349 GW_EDGE03(Artificer)8-CicadaA-2
+3350 GW_EDGE03(Artificer)17-Salamander-{PreCycle}
+3351 GW_EDGE03(Artificer)18-Salamander-{PreCycle}
+3352 GW_EDGE03(Spear)17-Leech-9
+3353 GW_EDGE03(Spear)18-Leech-12
+3354 GW_EDGE03(Spear)5-DropBug-2
+3355 GW_EDGE03(Spear)7-CicadaB
+3356 GW_EDGE03(Spear)8-CicadaA-2
+3357 GW_EDGE03(Spear)17-Salamander-{PreCycle}
+3358 GW_EDGE03(Spear)18-Salamander-{PreCycle}
+3359 GW_EDGE03(Saint)7-Lantern Mouse-5
+3360 GW_EDGE03(Saint)13-Big Spider-{Winter}-3
+3361 GW_EDGE03(Saint)17-Salamander-{PreCycle}
+3362 GW_EDGE03(Saint)18-Salamander-{PreCycle}
+3363 GW_EDGE04(Rivulet)3-Big Spider-3
+3364 GW_EDGE05(Rivulet)2-White
+3365 GW_EDGE05(Saint)2-DropBug-{Ignorecycle}-2
+3366 GW_TOWER01(Artificer)4-Blue
+3367 GW_TOWER01(Spear)4-Blue
+3368 GW_TOWER07(Artificer)3-DropBug
+3369 GW_TOWER07(Spear)3-DropBug
+3370 GW_TOWER03(Artificer)7-Garbage Worm-2
+3371 GW_TOWER03(Artificer)2-Leech-10
+3372 GW_TOWER03(Artificer)3-Leech-8
+3373 GW_TOWER03(Spear)7-Garbage Worm-2
+3374 GW_TOWER03(Spear)2-Leech-10
+3375 GW_TOWER03(Spear)3-Leech-8
+3376 GW_B08(Artificer)2-CicadaB
+3377 GW_B08(Artificer)3-CicadaA-2
+3378 GW_B08(Spear)2-CicadaB
+3379 GW_B08(Spear)3-CicadaA-2
+3380 GW_PIPE02(Artificer)3-Leech-6
+3381 GW_PIPE02(Artificer)4-Snail-2
+3382 GW_PIPE02(Spear)3-Leech-6
+3383 GW_PIPE02(Spear)4-Snail-2
+3384 GW_A11_PAST(Artificer)5-Mimic-{12}
+3385 GW_A11_PAST(Artificer)4-Centipede-2
+3386 GW_A11_PAST(Spear)5-Mimic-{12}
+3387 GW_A11_PAST(Spear)4-Centipede-2
+3388 GW_C04_PAST(Artificer)15-Garbage Worm-2
+3389 GW_C04_PAST(Artificer)7-Leech-3
+3390 GW_C04_PAST(Artificer)9-Leech-3
+3391 GW_C04_PAST(Artificer)11-Salamander-{PreCycle}-2
+3392 GW_C04_PAST(Spear)15-Garbage Worm-2
+3393 GW_C04_PAST(Spear)7-Leech-3
+3394 GW_C04_PAST(Spear)9-Leech-3
+3395 GW_C04_PAST(Spear)11-Salamander-{PreCycle}-2
+3396 GW_D01_PAST(Artificer)7-Leech-8
+3397 GW_D01_PAST(Artificer)16-Garbage Worm-5
+3398 GW_D01_PAST(Artificer)5-Cyan-2
+3399 GW_D01_PAST(Artificer)8-Leech-7
+3400 GW_D01_PAST(Spear)7-Leech-8
+3401 GW_D01_PAST(Spear)16-Garbage Worm-5
+3402 GW_D01_PAST(Spear)5-Cyan-2
+3403 GW_D01_PAST(Spear)8-Leech-7
+3404 GW_C02_PAST(Artificer)13-Garbage Worm-4
+3405 GW_C02_PAST(Artificer)2-CicadaB-3
+3406 GW_C02_PAST(Artificer)3-Cyan
+3407 GW_C02_PAST(Artificer)9-Leech-7
+3408 GW_C02_PAST(Artificer)6-TentaclePlant-{PreCycle}
+3409 GW_C02_PAST(Artificer)6-Scavenger-{PreCycle,Seed:2837}
+3410 GW_C02_PAST(Spear)13-Garbage Worm-4
+3411 GW_C02_PAST(Spear)2-CicadaB-3
+3412 GW_C02_PAST(Spear)3-Cyan
+3413 GW_C02_PAST(Spear)9-Leech-7
+3414 GW_C02_PAST(Spear)6-TentaclePlant-{PreCycle}
+3415 GW_C02_PAST(Spear)6-Scavenger-{PreCycle,Seed:2837}
+3416 GW_TOWER15(Artificer)3-CicadaA-2
+3417 GW_TOWER15(Artificer)4-CicadaB-3
+3418 GW_TOWER15(Spear)3-CicadaA-2
+3419 GW_TOWER15(Spear)4-CicadaB-3
+3420 GW_TOWER08(Artificer)3-Cyan-2
+3421 GW_TOWER08(Spear)3-Cyan-2
+3422 GW_TOWER11(Artificer)3-SpitterSpider-2
+3423 GW_TOWER11(Spear)3-SpitterSpider-2
+3424 GW_TOWER10(Artificer)3-Blue
+3425 GW_TOWER10(Spear)3-Blue
+3426 GW_B09_PAST(Artificer)2-Leech-10
+3427 GW_B09_PAST(Artificer)4-Snail-2
+3428 GW_B09_PAST(Artificer)7-Garbage Worm-2
+3429 GW_B09_PAST(Spear)2-Leech-10
+3430 GW_B09_PAST(Spear)4-Snail-2
+3431 GW_B09_PAST(Spear)7-Garbage Worm-2
+3432 GW_PIPE03(Artificer)2-Blue
+3433 GW_PIPE03(Spear)2-Blue
+3434 GW_PIPE13(Artificer)2-CicadaA-3
+3435 GW_PIPE13(Artificer)3-CicadaB-6
+3436 GW_PIPE13(Artificer)5-Leech-5
+3437 GW_PIPE13(Artificer)4-Leech-8
+3438 GW_PIPE13(Spear)2-CicadaA-3
+3439 GW_PIPE13(Spear)3-CicadaB-6
+3440 GW_PIPE13(Spear)5-Leech-5
+3441 GW_PIPE13(Spear)4-Leech-8
+3442 GW_PIPE12(Artificer)5-Leech-12
+3443 GW_PIPE12(Spear)5-Leech-12
+3444 GW_PIPE09(Artificer)2-Centipede
+3445 GW_PIPE09(Artificer)2-Small Centipede-3
+3446 GW_PIPE09(Spear)2-Centipede
+3447 GW_PIPE09(Spear)2-Small Centipede-3
+3448 GW_PIPE07(Artificer)4-Big Spider-2
+3449 GW_PIPE07(Artificer)4-SpitterSpider
+3450 GW_PIPE07(Spear)4-Big Spider-2
+3451 GW_PIPE07(Spear)4-SpitterSpider
+3452 GW_PIPE05(Artificer)5-Centipede
+3453 GW_PIPE05(Artificer)6-Small Centipede-3
+3454 GW_PIPE05(Spear)5-Centipede
+3455 GW_PIPE05(Spear)6-Small Centipede-3
+3456 GW_C06_PAST(Artificer)3-Cyan-2
+3457 GW_C06_PAST(Artificer)8-Dropbug
+3458 GW_C06_PAST(Spear)3-Cyan-2
+3459 GW_C06_PAST(Spear)8-Dropbug
+3460 GW_E02_PAST(Artificer)7-Cyan
+3461 GW_E02_PAST(Artificer)8-Red
+3462 GW_E02_PAST(Artificer)5-Mimic-{14}
+3463 GW_E02_PAST(Artificer)3-CicadaB-3
+3464 GW_E02_PAST(Artificer)4-CicadaA-2
+3465 GW_E02_PAST(Artificer)18-Garbage Worm-3
+3466 GW_E02_PAST(Spear)7-Cyan
+3467 GW_E02_PAST(Spear)8-Red
+3468 GW_E02_PAST(Spear)5-Mimic-{14}
+3469 GW_E02_PAST(Spear)3-CicadaB-3
+3470 GW_E02_PAST(Spear)4-CicadaA-2
+3471 GW_E02_PAST(Spear)18-Garbage Worm-3
+3472 GW_C01_PAST(Artificer)5-Leech-7
+3473 GW_C01_PAST(Artificer)7-Leech-7
+3474 GW_C01_PAST(Artificer)2-CicadaB-2
+3475 GW_C01_PAST(Artificer)3-CicadaA-3
+3476 GW_C01_PAST(Spear)5-Leech-7
+3477 GW_C01_PAST(Spear)7-Leech-7
+3478 GW_C01_PAST(Spear)2-CicadaB-2
+3479 GW_C01_PAST(Spear)3-CicadaA-3
+3480 GW_B01_PAST(Artificer)7-Leech-10
+3481 GW_B01_PAST(Artificer)10-Garbage Worm-2
+3482 GW_B01_PAST(Artificer)4-CicadaA-2
+3483 GW_B01_PAST(Artificer)4-CicadaB
+3484 GW_B01_PAST(Spear)7-Leech-10
+3485 GW_B01_PAST(Spear)10-Garbage Worm-2
+3486 GW_B01_PAST(Spear)4-CicadaA-2
+3487 GW_B01_PAST(Spear)4-CicadaB
+3488 LINEAGE(Artificer)GW_E02_PAST6
+3489 LINEAGE(Spear)GW_E02_PAST6
+3490 LINEAGE(Artificer)GW_A11_PAST4
+3491 LINEAGE(Spear)GW_A11_PAST4
+3492 LINEAGE(Artificer)GW_C04_PAST2
+3493 LINEAGE(Spear)GW_C04_PAST2
+3494 LINEAGE(Yellow)GW_C035
+3495 LINEAGE(Rivulet)GW_C035
+3496 LINEAGE(Artificer)GW_C035
+3497 LINEAGE(Spear)GW_C035
+3498 LINEAGE(Saint)GW_C035
+3499 LINEAGE(Gourmand)GW_B024
+3500 LINEAGE(Inv)GW_B024
+3501 LINEAGE(Rivulet)GW_B024
+3502 LINEAGE(Saint)GW_B024
+3503 LINEAGE(Inv)GW_A113
+3504 LINEAGE(Inv)GW_C042
+4000 SI_B042-White
+4001 LINEAGESI_C025
+4002 SIOFFSCREEN(White)0-Vulture-4
+4003 SIOFFSCREEN(White)0-Scavenger-6
+4004 SI_C06(Yellow)2-CicadaB
+4005 SI_C06(Yellow)3-CicadaA
+4006 SI_C06(Yellow)3-Small Centipede-{AlternateForm}-4
+4007 SIOFFSCREEN(Yellow)0-Vulture-3
+4008 SIOFFSCREEN(Yellow)0-Scavenger-6
+4009 SI_D01(Yellow)5-Eggbug
+4010 SI_D01(Yellow)7-CicadaA-2
+4011 SI_D01(Yellow)8-CicadaB-2
+4012 SI_D01(Yellow)9-CicadaB
+4013 SI_D01(Yellow)10-CicadaB
+4014 SI_D01(Yellow)6-Blue
+4015 SI_A02(Yellow)2-CicadaA
+4016 SI_A02(Yellow)2-Cyan-{PreCycle}
+4017 SI_A17(Yellow)3-Blue
+4018 SI_C07(Yellow)1-Centiwing
+4019 SI_C07(Yellow)2-Blue
+4020 SI_C07(Yellow)3-White
+4021 SI_C07(Yellow)3-Snail-{PreCycle}-4
+4022 SI_C01(Yellow)3-Yellow
+4023 SI_C01(Yellow)4-Yellow-2
+4024 SI_C01(Yellow)2-Snail-{PreCycle}-3
+4025 SI_C01(Yellow)5-Snail-{PreCycle}-2
+4026 SIOFFSCREEN(Red)0-Vulture-3
+4027 SIOFFSCREEN(Red)0-KingVulture-2
+4028 SIOFFSCREEN(Red)0-Scavenger-8
+4029 SI_A17(Red)4-DropBug
+4030 SI_A17(Red)3-White
+4031 SI_D01(Red)7-CicadaA-2
+4032 SI_D01(Red)8-CicadaB-2
+4033 SI_D01(Red)9-CicadaB
+4034 SI_D01(Red)10-CicadaB
+4035 SI_D01(Red)5-White
+4036 SI_D01(Red)5-Cyan
+4037 SI_D01(Red)6-EggBug
+4038 SI_C01(Red)4-Yellow-2
+4039 SI_C01(Red)3-Cyan-2
+4040 SI_C01(Red)2-Snail-{PreCycle}-3
+4041 SI_C01(Red)5-Snail-{PreCycle}-2
+4042 SI_C07(Red)1-Centiwing
+4043 SI_C07(Red)2-Cyan
+4044 SI_C07(Red)3-Cyan
+4045 SI_C07(Red)3-Snail-{PreCycle}-4
+4046 SI_B09(Red)5-Cyan-2
+4047 SI_B09(Red)6-Centiwing
+4048 SI_B01(Red)5-BigNeedleWorm
+4049 SI_B01(Red)5-SmallNeedleWorm
+4050 SI_B01(Red)4-Snail-{PreCycle}-2
+4051 SI_B01(Red)5-Snail-{PreCycle}-3
+4052 SI_A27(Red)3-CicadaB
+4053 SI_A27(Red)4-CicadaA
+4054 SI_C06(Red)2-DropBug
+4055 SI_C06(Red)3-Small Centipede-{AlternateForm}-4
+4056 SI_D06(Red)5-Yellow
+4057 SI_D06(Red)6-Yellow-2
+4058 SI_D06(Red)7-Yellow
+4059 SI_D06(Red)8-DropBug
+4060 SI_B03(Red)3-Centiwing
+4061 SI_C09(Red)3-Centiwing
+4062 SI_C09(Red)2-Snail-{PreCycle}-2
+4063 SI_C09(Red)3-Snail-{PreCycle}
+4064 LINEAGE(Red)SI_A232
+4065 LINEAGE(Red)SI_C063
+4066 SIOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Vulture-4
+4067 SIOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Scavenger-6
+4068 SI_A18(X-Saint)3-Eggbug
+4069 SI_C02(X-Rivulet,Saint)6-Eggbug
+4070 SI_C02(X-Rivulet,Saint)5-BigNeedleWorm
+4071 SI_C02(X-Rivulet,Saint)5-SmallNeedleWorm-3
+4072 SI_C02(X-Rivulet,Saint)8-Mimic-{24}
+4073 SI_C02(X-Rivulet,Saint)9-Mimic-{18}
+4074 SI_D05(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Eggbug
+4075 SI_D05(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Small Centipede-{AlternateForm}-2
+4076 SI_D05(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-CicadaA
+4077 SI_D05(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-CicadaA
+4078 SI_C08(X-Saint)6-Centiwing
+4079 SI_C08(X-Saint)4-Centiwing
+4080 SI_B11(X-Saint)2-CicadaA
+4081 SI_B11(X-Saint)2-CicadaB
+4082 SI_C05(X-Saint)3-Mimic-{10}
+4083 SI_C05(X-Saint)4-Mimic-{13}
+4084 SI_C05(X-Saint)5-Mimic-{14}
+4085 SI_C05(X-Saint)6-Mimic-{17}
+4086 SI_B12(X-Rivulet,Saint)2-BigNeedleWorm
+4087 SI_B12(X-Rivulet,Saint)2-SmallNeedleWorm-3
+4088 SI_B12(X-Rivulet,Saint)1-Small Centipede-{AlternateForm}-3
+4089 SI_B12(X-Rivulet,Saint)1-TentaclePlant-{PreCycle}
+4090 SI_C07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)1-Centiwing
+4091 SI_C07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-Blue
+4092 SI_C07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Blue
+4093 SI_C07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Snail-{PreCycle}-4
+4094 SI_C01(X-Gourmand,Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)3-Blue
+4095 SI_C01(X-Gourmand,Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)3-Yellow
+4096 SI_C01(X-Gourmand,Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)4-Yellow-2
+4097 SI_C01(X-Gourmand,Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)2-Snail-{PreCycle}-3
+4098 SI_C01(X-Gourmand,Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)5-Snail-{PreCycle}-2
+4099 SI_D01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-White
+4100 SI_D01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-CicadaA-2
+4101 SI_D01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-CicadaB-2
+4102 SI_D01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)9-CicadaB
+4103 SI_D01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)10-CicadaB
+4104 SI_D01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Blue
+4105 SI_C06(X-Yellow,Red,Artificer,Spear,Inv,Rivulet)2-CicadaB
+4106 SI_C06(X-Yellow,Red,Artificer,Spear,Inv,Rivulet)3-CicadaA
+4107 SI_D06(X-Red,Artificer,Spear,Saint,Inv)5-Yellow
+4108 SI_D06(X-Red,Artificer,Spear,Saint,Inv)6-Yellow
+4109 SI_D06(X-Red,Artificer,Spear,Saint,Inv)7-Yellow
+4110 SI_B09(X-Rivulet,Red,Artificer,Spear,Saint,Inv)7-CicadaA
+4111 SI_A02(X-Yellow,Rivulet,Gourmand,Saint,Inv)2-Blue
+4112 SI_A02(X-Yellow,Rivulet,Gourmand,Saint,Inv)2-Cyan-{PreCycle}
+4113 SI_A17(X-Yellow,Rivulet,Red,Artificer,Saint,Inv)3-White
+4114 SI_B01(X-Red,Artificer,Spear,Inv)4-Snail-{PreCycle}-2
+4115 SI_B01(X-Red,Artificer,Spear,Inv)5-Snail-{PreCycle}-3
+4116 SI_A30(X-Saint)3-TentaclePlant-{PreCycle}
+4117 SI_B16(X-Yellow,Saint)4-Mimic-{21}
+4118 SI_B16(X-Yellow,Saint)5-Mimic-{17}
+4119 SI_B16(X-Yellow,Saint)7-White
+4120 SI_B16(X-Yellow,Saint)8-Cyan-{PreCycle}
+4121 SI_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)3-CicadaA-3
+4122 SI_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)4-CicadaB-2
+4123 SI_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)11-Centiwing
+4124 SI_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)3-Snail-{PreCycle}-4
+4125 SI_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)7-Snail-{PreCycle}-2
+4126 SI_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)11-Snail-{PreCycle}-2
+4127 SI_D08(X-Saint)7-Centiwing-2
+4128 SI_A03x(X-Rivulet)3-Yellow-3
+4129 LINEAGE(X-Rivulet,Saint)SI_B014
+4130 LINEAGE(X-Saint)SI_B016
+4131 LINEAGE(X-Saint)SI_B094
+4132 LINEAGE(X-Red,Artificer,Spear)SI_B095
+4133 LINEAGE(X-Saint)SI_C027
+4134 LINEAGE(X-Saint)SI_C012
+4135 LINEAGE(X-Saint)SI_C015
+4136 SIOFFSCREEN(Gourmand)0-Vulture-3
+4137 SIOFFSCREEN(Gourmand)0-KingVulture
+4138 SIOFFSCREEN(Gourmand)0-Scavenger-6
+4139 SIOFFSCREEN(Rivulet)0-Vulture-4
+4140 SIOFFSCREEN(Rivulet)0-Scavenger-4
+4141 SIOFFSCREEN(Artificer)0-Vulture-4
+4142 SIOFFSCREEN(Artificer)0-KingVulture-2
+4143 SIOFFSCREEN(Artificer)0-Scavenger-14
+4144 SIOFFSCREEN(Spear)0-Vulture-2
+4145 SIOFFSCREEN(Spear)0-KingVulture-4
+4146 SIOFFSCREEN(Spear)0-Scavenger-10
+4147 SIOFFSCREEN(Saint)0-Vulture-5
+4148 SIOFFSCREEN(Saint)0-Scavenger-3
+4149 SIOFFSCREEN(Inv)0-MirosVulture-5
+4150 SIOFFSCREEN(Inv)0-Scavenger-12
+4151 SI_C01x3-Snail-{PreCycle}-2
+4152 SI_C02(Rivulet)6-Eggbug
+4153 SI_C02(Rivulet)5-CicadaB-2
+4154 SI_C02(Rivulet)5-CicadaA-3
+4155 SI_C02(Rivulet)8-Mimic-{24}
+4156 SI_C02(Rivulet)9-Mimic-{18}
+4157 SI_D05(Yellow)4-Eggbug
+4158 SI_D05(Yellow)3-Small Centipede-{AlternateForm}-4
+4159 SI_D05(Yellow)5-CicadaA
+4160 SI_D05(Yellow)6-CicadaA
+4161 SI_D05(Rivulet)4-Eggbug
+4162 SI_D05(Rivulet)3-Small Centipede-{AlternateForm}-4
+4163 SI_D05(Rivulet)3-Yellow-2
+4164 SI_D05(Rivulet)6-Centiwing
+4165 SI_D05(Rivulet)6-Small Centipede-{AlternateForm}-3
+4166 SI_D05(Red)4-Eggbug
+4167 SI_D05(Red)3-Small Centipede-{AlternateForm}-3
+4168 SI_D05(Red)5-CicadaA
+4169 SI_D05(Red)6-CicadaA
+4170 SI_D05(Artificer)4-Eggbug
+4171 SI_D05(Artificer)3-Small Centipede-{AlternateForm}-3
+4172 SI_D05(Artificer)5-CicadaA
+4173 SI_D05(Artificer)6-CicadaA
+4174 SI_D05(Spear)4-Eggbug
+4175 SI_D05(Spear)3-Small Centipede-{AlternateForm}-3
+4176 SI_D05(Spear)5-CicadaA
+4177 SI_D05(Spear)6-CicadaA
+4178 SI_D05(Saint)3-Yellow-2
+4179 SI_D05(Saint)6-Centiwing
+4180 SI_D05(Saint)6-Small Centipede-{AlternateForm}-3
+4181 SI_D05(Inv)3-Yellow-2
+4182 SI_D05(Inv)6-Centiwing
+4183 SI_D05(Inv)6-Small Centipede-{AlternateForm}-3
+4184 SI_C08(Saint)4-Centiwing
+4185 SI_B12(Rivulet)2-Centiwing
+4186 SI_B12(Rivulet)1-Small Centipede-{AlternateForm}-3
+4187 SI_B12(Rivulet)1-TentaclePlant-{PreCycle}
+4188 SI_B12(Saint)2-Centiwing
+4189 SI_B12(Saint)1-Small Centipede-{AlternateForm}-3
+4190 SI_B12(Saint)1-TentaclePlant-{PreCycle}
+4191 SI_C07(Rivulet)1-Centiwing
+4192 SI_C07(Rivulet)2-Yellow-2
+4193 SI_C07(Rivulet)2-White
+4194 SI_C07(Rivulet)3-Snail-{PreCycle}-4
+4195 SI_C07(Artificer)1-Centiwing
+4196 SI_C07(Artificer)2-Cyan
+4197 SI_C07(Artificer)3-Cyan
+4198 SI_C07(Artificer)3-Snail-{PreCycle}-4
+4199 SI_C07(Spear)1-Centiwing
+4200 SI_C07(Spear)2-Cyan
+4201 SI_C07(Spear)3-Cyan
+4202 SI_C07(Spear)3-Snail-{PreCycle}-4
+4203 SI_C07(Saint)2-Yellow-2
+4204 SI_C07(Saint)3-Snail-{PreCycle}-4
+4205 SI_C07(Inv)2-Red
+4206 SI_C07(Inv)3-Red
+4207 SI_C07(Inv)3-Snail-{PreCycle}-4
+4208 SI_C01(Gourmand)3-Cyan
+4209 SI_C01(Gourmand)3-Yellow
+4210 SI_C01(Gourmand)4-Yellow-2
+4211 SI_C01(Gourmand)2-Snail-{PreCycle}-3
+4212 SI_C01(Gourmand)5-Snail-{PreCycle}-2
+4213 SI_C01(Rivulet)3-Yellow
+4214 SI_C01(Rivulet)4-Yellow-2
+4215 SI_C01(Rivulet)2-Snail-{PreCycle}-3
+4216 SI_C01(Rivulet)5-Snail-{PreCycle}-2
+4217 SI_C01(Saint)3-Yellow
+4218 SI_C01(Saint)4-Yellow-2
+4219 SI_C01(Saint)2-Snail-{PreCycle}-3
+4220 SI_C01(Saint)5-Snail-{PreCycle}-2
+4221 SI_C01(Artificer)4-Yellow-2
+4222 SI_C01(Artificer)3-Cyan-2
+4223 SI_C01(Artificer)2-Snail-{PreCycle}-3
+4224 SI_C01(Artificer)5-Snail-{PreCycle}-2
+4225 SI_C01(Spear)4-Yellow-2
+4226 SI_C01(Spear)3-Cyan-2
+4227 SI_C01(Spear)2-Snail-{PreCycle}-3
+4228 SI_C01(Spear)5-Snail-{PreCycle}-2
+4229 SI_C01(Inv)4-Red-2
+4230 SI_C01(Inv)3-Red-2
+4231 SI_C01(Inv)2-Snail-{PreCycle}-3
+4232 SI_C01(Inv)5-Snail-{PreCycle}-2
+4233 SI_D01(Rivulet)5-Eggbug
+4234 SI_D01(Rivulet)6-Cyan
+4235 SI_D01(Artificer)7-CicadaA-2
+4236 SI_D01(Artificer)8-CicadaB-2
+4237 SI_D01(Artificer)9-CicadaB
+4238 SI_D01(Artificer)10-CicadaB
+4239 SI_D01(Artificer)5-White
+4240 SI_D01(Artificer)5-Cyan
+4241 SI_D01(Artificer)6-EggBug
+4242 SI_D01(Spear)7-CicadaA-2
+4243 SI_D01(Spear)8-CicadaB-2
+4244 SI_D01(Spear)9-CicadaB
+4245 SI_D01(Spear)10-CicadaB
+4246 SI_D01(Spear)5-White
+4247 SI_D01(Spear)5-Cyan
+4248 SI_D01(Spear)6-EggBug
+4249 SI_D01(Saint)5-Centiwing
+4250 SI_D01(Saint)6-Centiwing
+4251 SI_D01(Inv)7-CicadaA-2
+4252 SI_D01(Inv)8-CicadaB-2
+4253 SI_D01(Inv)9-CicadaB
+4254 SI_D01(Inv)10-CicadaB
+4255 SI_D01(Inv)5-Red
+4256 SI_D01(Inv)5-RedCentipede
+4257 SI_D01(Inv)6-EggBug
+4258 SI_C06(Artificer)2-DropBug
+4259 SI_C06(Artificer)3-Small Centipede-{AlternateForm}-4
+4260 SI_C06(Spear)2-DropBug
+4261 SI_C06(Spear)3-Small Centipede-{AlternateForm}-4
+4262 SI_C06(Inv)2-DropBug
+4263 SI_C06(Inv)3-Small Centipede-{AlternateForm}-4
+4264 SI_D06(Artificer)5-Yellow
+4265 SI_D06(Artificer)6-Yellow-2
+4266 SI_D06(Artificer)7-Yellow
+4267 SI_D06(Artificer)8-DropBug
+4268 SI_D06(Spear)5-Yellow
+4269 SI_D06(Spear)6-Yellow-2
+4270 SI_D06(Spear)7-Yellow
+4271 SI_D06(Spear)8-DropBug
+4272 SI_D06(Saint)5-Yellow
+4273 SI_D06(Saint)6-Yellow
+4274 SI_D06(Saint)7-Yellow-2
+4275 SI_D06(Inv)5-Red
+4276 SI_D06(Inv)6-SpitterSpider-2
+4277 SI_D06(Inv)7-Red
+4278 SI_D06(Inv)8-DropBug
+4279 SI_B09(Artificer)5-Cyan-2
+4280 SI_B09(Artificer)6-Centiwing
+4281 SI_B09(Spear)5-Cyan-2
+4282 SI_B09(Spear)6-Centiwing
+4283 SI_B09(Inv)6-Red-2
+4284 SI_B09(Inv)7-RedCentipede
+4285 SI_A02(Gourmand)2-Cyan
+4286 SI_A02(Gourmand)2-Cyan-{PreCycle}
+4287 SI_A02(Rivulet)2-CicadaA
+4288 SI_A02(Rivulet)2-Cyan-{PreCycle}
+4289 SI_A02(Inv)2-Red
+4290 SI_A02(Inv)2-Cyan-{PreCycle}
+4291 SI_A17(Rivulet)3-Yellow-2
+4292 SI_A17(Artificer)4-DropBug
+4293 SI_A17(Artificer)3-White
+4294 SI_A17(Inv)4-DropBug
+4295 SI_A17(Inv)3-Red
+4296 SI_B01(Artificer)5-BigNeedleWorm
+4297 SI_B01(Artificer)5-SmallNeedleWorm
+4298 SI_B01(Artificer)4-Snail-{PreCycle}-2
+4299 SI_B01(Artificer)5-Snail-{PreCycle}-3
+4300 SI_B01(Spear)5-BigNeedleWorm
+4301 SI_B01(Spear)5-SmallNeedleWorm
+4302 SI_B01(Spear)4-Snail-{PreCycle}-2
+4303 SI_B01(Spear)5-Snail-{PreCycle}-3
+4304 SI_B01(Inv)5-BigNeedleWorm
+4305 SI_B01(Inv)5-SmallNeedleWorm
+4306 SI_B01(Inv)4-Snail-{PreCycle}-2
+4307 SI_B01(Inv)5-Snail-{PreCycle}-3
+4308 SI_A27(Artificer)3-CicadaB
+4309 SI_A27(Artificer)4-CicadaA
+4310 SI_A27(Spear)3-CicadaB
+4311 SI_A27(Spear)4-CicadaA
+4312 SI_A27(Inv)3-CicadaB
+4313 SI_A27(Inv)4-CicadaA
+4314 SI_A27(Saint)4-Yellow-2
+4315 SI_B03(Artificer)3-Centiwing
+4316 SI_B03(Spear)3-Centiwing
+4317 SI_B03(Inv)3-Centiwing
+4318 SI_C09(Artificer)3-Centiwing
+4319 SI_C09(Artificer)2-Snail-{PreCycle}-2
+4320 SI_C09(Artificer)3-Snail-{PreCycle}
+4321 SI_C09(Spear)3-Centiwing
+4322 SI_C09(Spear)2-Snail-{PreCycle}-2
+4323 SI_C09(Spear)3-Snail-{PreCycle}
+4324 SI_C09(Inv)3-Centiwing
+4325 SI_C09(Inv)2-Snail-{PreCycle}-2
+4326 SI_C09(Inv)3-Snail-{PreCycle}
+4327 SI_C09(Saint)2-Centiwing-2
+4328 SI_C09(Saint)2-Snail-{PreCycle}-2
+4329 SI_C09(Saint)3-Snail-{PreCycle}
+4330 SI_A30(Saint)3-Yellow-2
+4331 SI_A30(Saint)3-TentaclePlant-{PreCycle}
+4332 SI_B16(Yellow)4-Mimic-{21}
+4333 SI_B16(Yellow)5-Mimic-{17}
+4334 SI_B16(Yellow)7-Blue
+4335 SI_B16(Yellow)8-Cyan-{PreCycle}
+4336 SI_B16(Saint)7-White
+4337 SI_B16(Saint)8-Cyan-{PreCycle}
+4338 SI_F01(Yellow)3-CicadaA-3
+4339 SI_F01(Yellow)4-CicadaB-2
+4340 SI_F01(Yellow)11-Small Centipede-{AlternateForm}-2
+4341 SI_F01(Yellow)3-Snail-{PreCycle}-4
+4342 SI_F01(Yellow)7-Snail-{PreCycle}-2
+4343 SI_F01(Yellow)11-Snail-{PreCycle}-2
+4344 SI_F01(Rivulet)3-CicadaA-3
+4345 SI_F01(Rivulet)4-CicadaB-2
+4346 SI_F01(Rivulet)11-Small Centipede-{AlternateForm}-2
+4347 SI_F01(Rivulet)3-Snail-{PreCycle}-4
+4348 SI_F01(Rivulet)7-Snail-{PreCycle}-2
+4349 SI_F01(Rivulet)11-Snail-{PreCycle}-2
+4350 SI_F01(Red)3-CicadaA-3
+4351 SI_F01(Red)4-CicadaB-2
+4352 SI_F01(Red)11-Cyan
+4353 SI_F01(Red)3-Snail-{PreCycle}-4
+4354 SI_F01(Red)7-Snail-{PreCycle}-2
+4355 SI_F01(Red)11-Snail-{PreCycle}-2
+4356 SI_F01(Artificer)3-CicadaA-3
+4357 SI_F01(Artificer)4-CicadaB-2
+4358 SI_F01(Artificer)11-Cyan
+4359 SI_F01(Artificer)3-Snail-{PreCycle}-4
+4360 SI_F01(Artificer)7-Snail-{PreCycle}-2
+4361 SI_F01(Artificer)11-Snail-{PreCycle}-2
+4362 SI_F01(Spear)3-CicadaA-3
+4363 SI_F01(Spear)4-CicadaB-2
+4364 SI_F01(Spear)11-Cyan
+4365 SI_F01(Spear)3-Snail-{PreCycle}-4
+4366 SI_F01(Spear)7-Snail-{PreCycle}-2
+4367 SI_F01(Spear)11-Snail-{PreCycle}-2
+4368 SI_F01(Inv)3-CicadaA-3
+4369 SI_F01(Inv)4-CicadaB-2
+4370 SI_F01(Inv)11-Cyan
+4371 SI_F01(Inv)3-Snail-{PreCycle}-4
+4372 SI_F01(Inv)7-Snail-{PreCycle}-2
+4373 SI_F01(Inv)11-Snail-{PreCycle}-2
+4374 SI_F01(Saint)11-Centiwing-2
+4375 SI_F01(Saint)3-Snail-{PreCycle}-4
+4376 SI_F01(Saint)7-Snail-{PreCycle}-2
+4377 SI_F01(Saint)11-Snail-{PreCycle}-2
+4378 SI_A03x(Rivulet)3-Cyan-3
+4379 SI_B02x(Rivulet)3-Yellow-4
+4380 SI_B02x(Saint)3-Yellow-4
+4381 SI_B02x(Inv)3-Yellow-4
+4382 LINEAGE(Rivulet)SI_B014
+4383 LINEAGE(White)SI_B096
+4384 LINEAGE(Yellow)SI_B096
+4385 LINEAGE(Gourmand)SI_B096
+4386 LINEAGE(Rivulet)SI_B096
+4387 LINEAGE(Red)SI_B096
+4388 LINEAGE(Artificer)SI_B096
+4389 LINEAGE(Spear)SI_B096
+4390 LINEAGE(Inv)SI_B096
+4391 LINEAGE(Artificer)SI_C063
+4392 LINEAGE(Spear)SI_C063
+4393 LINEAGE(Inv)SI_C063
+4394 LINEAGE(Artificer)SI_A232
+4395 LINEAGE(Spear)SI_A232
+4396 LINEAGE(Inv)SI_A232
+5000 SUOFFSCREEN(White)0-Scavenger-5
+5001 LINEAGE(White)SU_A206
+5002 LINEAGE(White)SU_B072
+5003 LINEAGE(White)SU_C024
+5004 LINEAGE(White)SU_A045
+5005 LINEAGE(Yellow)SU_A063
+5006 SU_B05(White)4-Green
+5007 SU_B05(Yellow)4-Green
+5008 SU_B01(White)6-Mimic-{24}
+5009 SU_B01(Yellow)6-Mimic-{24}
+5010 SUOFFSCREEN(Yellow)0-Scavenger-4
+5011 SU_A20(Yellow)6-Small Centipede-2
+5012 LINEAGE(Yellow)SU_B082
+5013 LINEAGE(Yellow)SU_B123
+5014 LINEAGE(Yellow)SU_A402
+5015 LINEAGE(Yellow)SU_B072
+5016 LINEAGE(Yellow)SU_C024
+5017 SU_A04(Yellow)4-Green
+5018 SU_A04(Yellow)2-CicadaB-2
+5019 SU_A04(Yellow)3-CicadaB
+5020 SU_C02(Yellow)3-SmallNeedleWorm-3
+5021 SU_C02(Yellow)5-Pink
+5022 SU_C02(Yellow)4-TentaclePlant-{PreCycle}
+5023 SUOFFSCREEN(Red)0-KingVulture
+5024 SUOFFSCREEN(Red)0-Vulture-2
+5025 SUOFFSCREEN(Red)0-Scavenger-6
+5026 SU_B09(Red)4-DropBug-2
+5027 SU_A17(Red)2-White
+5028 SU_A17(Red)2-Eel-{PreCycle}-2
+5029 SU_A20(Red)6-Centipede-5
+5030 SU_B04(Red)3-DropBug-2
+5031 SU_B04(Red)4-DropBug
+5032 SU_B04(Red)5-DropBug
+5033 SU_B04(Red)5-Salamander-{PreCycle}-2
+5034 SU_B05(Red)4-Pink
+5035 SU_B01(Red)6-TentaclePlant
+5036 SU_A10(Red)2-TentaclePlant
+5037 SU_A10(Red)3-Green
+5038 SU_A30(Red)2-DropBug
+5039 SU_A30(Red)2-Eel-{PreCycle}
+5040 SU_B07(Red)3-Green
+5041 SU_B07(Red)3-TentaclePlant-{PreCycle}
+5042 SU_B02(Red)4-CicadaB
+5043 SU_B02(Red)5-CicadaB
+5044 SU_B02(Red)7-Centipede
+5045 SU_B02(Red)8-Centipede-2
+5046 SU_A32(Red)2-DropBug
+5047 SU_B08(Red)3-Red
+5048 SU_A13(Red)4-DropBug
+5049 SU_A13(Red)3-CicadaB
+5050 SU_C02(Red)2-BigNeedleWorm
+5051 SU_C02(Red)3-SmallNeedleWorm-3
+5052 SU_C02(Red)4-TentaclePlant-{PreCycle}
+5053 LINEAGE(Red)SU_A064
+5054 LINEAGE(Red)SU_A063
+5055 LINEAGE(Red)SU_B082
+5056 LINEAGE(Red)SU_B123
+5057 LINEAGE(Red)SU_A402
+5058 LINEAGE(Red)SU_B072
+5059 LINEAGE(Red)SU_C024
+5060 LINEAGE(Red)SU_A044
+5061 LINEAGE(Red)SU_B116
+5062 LINEAGE(Red)SU_B117
+5063 LINEAGE(Red)SU_B064
+5064 LINEAGE(Red)SU_B065
+5065 LINEAGE(Red)SU_A045
+5066 SU_B12(White)2-Green
+5067 SU_B12(Red)2-Green
+5068 LINEAGE(White)SU_A022
+5069 LINEAGE(Red)SU_A022
+5070 LINEAGE(White)SU_A023
+5071 LINEAGE(Red)SU_A023
+5072 LINEAGE(White)SU_B054
+5073 LINEAGE(Red)SU_B054
+5074 SU_B11(X-Saint)4-CicadaB
+5075 SU_B11(X-Saint)5-CicadaA
+5076 SU_B11(X-Saint)8-TentaclePlant-{PreCycle}
+5077 SU_B02(X-Red,Artificer,Spear,Saint,Inv)4-CicadaB
+5078 SU_B02(X-Red,Artificer,Spear,Saint,Inv)5-CicadaB
+5079 SU_B06(X-Rivulet,Red,Artificer,Spear,Saint,Inv)4-Salamander-{PreCycle}
+5080 SU_B06(X-Rivulet,Red,Artificer,Spear,Saint,Inv)6-CicadaB
+5081 SU_B06(X-Rivulet,Red,Artificer,Spear,Saint,Inv)7-CicadaB
+5082 SU_A07(X-Rivulet,Saint,Inv)4-Green
+5083 SU_A07(X-Rivulet,Saint,Inv)5-Pink
+5084 LINEAGE(X-Saint)SU_A302
+5085 LINEAGE(X-Saint)SU_A313
+5086 SUOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Scavenger-5
+5087 SU_B07(X-Red,Artificer,Spear,Rivulet,Saint,Inv)3-TentaclePlant-{PreCycle}
+5088 SU_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-BigNeedleWorm
+5089 SU_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-SmallNeedleWorm-3
+5090 SU_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Pink
+5091 SU_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-TentaclePlant-{PreCycle}
+5092 SU_A30(X-Red,Artificer,Spear,Saint,Rivulet,Inv)2-Salamander-{PreCycle}
+5093 SU_A17(X-Rivulet,Red,Artificer,Spear,Saint,Inv)2-Salamander-{PreCycle}-2
+5094 SU_CAVE01(X-White,Yellow,Saint)4-Eel-{PreCycle}
+5095 SU_B04(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Pink
+5096 SU_B04(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Green
+5097 SU_B04(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Salamander-{PreCycle}-2
+5098 SU_A10(X-Rivulet,Saint,Inv,Red,Artificer,Spear)2-Mimic-{21}
+5099 SU_A10(X-Rivulet,Saint,Inv,Red,Artificer,Spear)3-Green
+5100 SU_A04(X-Yellow,Rivulet,Saint,Inv)4-Pink-2
+5101 SU_A04(X-Yellow,Rivulet,Saint,Inv)2-CicadaB
+5102 SU_A04(X-Yellow,Rivulet,Saint,Inv)3-CicadaB
+5103 LINEAGE(X-Red,Artificer,Spear,Rivulet,Yellow,Saint,Inv)SU_A063
+5104 LINEAGE(X-Yellow,Red,Artificer,Spear,Rivulet,Saint,Inv)SU_B082
+5105 LINEAGE(X-Yellow,Red,Artificer,Spear,Rivulet,Saint,Inv)SU_B123
+5106 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SU_A402
+5107 SU_B11(Saint)8-Centiwing-4
+5108 SU_B11(Saint)8-TentaclePlant-{PreCycle}
+5109 SU_B02(Artificer)4-CicadaB
+5110 SU_B02(Artificer)5-CicadaB
+5111 SU_B02(Artificer)7-Centipede
+5112 SU_B02(Artificer)8-Centipede-2
+5113 SU_B02(Spear)4-CicadaB
+5114 SU_B02(Spear)5-CicadaB
+5115 SU_B02(Spear)7-Centipede
+5116 SU_B02(Spear)8-Centipede-2
+5117 SU_B02(Saint)6-Yellow-4
+5118 SU_B02(Saint)7-Yellow-2
+5119 SU_B02(Inv)7-RedCentipede
+5120 SU_B02(Inv)8-RedCentipede-2
+5121 SU_B06(Rivulet)4-White-{PreCycle}
+5122 SU_B06(Rivulet)6-CicadaB
+5123 SU_B06(Rivulet)7-CicadaB
+5124 SU_B06(Red)4-White-{PreCycle}
+5125 SU_B06(Red)6-CicadaB
+5126 SU_B06(Red)7-CicadaB
+5127 SU_B06(Artificer)4-White-{PreCycle}
+5128 SU_B06(Artificer)6-CicadaB
+5129 SU_B06(Artificer)7-CicadaB
+5130 SU_B06(Spear)4-White-{PreCycle}
+5131 SU_B06(Spear)6-CicadaB
+5132 SU_B06(Spear)7-CicadaB
+5133 SU_B06(Inv)4-Red-{PreCycle}
+5134 SU_B06(Inv)6-CicadaB
+5135 SU_B06(Inv)7-CicadaB
+5136 SU_A07(Rivulet)4-Caramel
+5137 SU_A07(Rivulet)5-CicadaB-4
+5138 SU_A07(Rivulet)3-CicadaA
+5139 SU_A07(Saint)4-Caramel
+5140 SU_A07(Inv)4-Red
+5141 SUOFFSCREEN(Gourmand)0-KingVulture
+5142 SUOFFSCREEN(Gourmand)0-Scavenger-5
+5143 SUOFFSCREEN(Rivulet)0-Vulture-3
+5144 SUOFFSCREEN(Rivulet)0-Scavenger-10
+5145 SUOFFSCREEN(Artificer)0-Scavenger-15
+5146 SUOFFSCREEN(Artificer)0-KingVulture
+5147 SUOFFSCREEN(Artificer)0-Vulture-2
+5148 SUOFFSCREEN(Spear)0-Scavenger-9
+5149 SUOFFSCREEN(Spear)0-KingVulture
+5150 SUOFFSCREEN(Spear)0-Vulture-2
+5151 SUOFFSCREEN(Saint)0-MirosVulture-{Night}-2
+5152 SUOFFSCREEN(Saint)0-Vulture-2
+5153 SUOFFSCREEN(Saint)0-Scavenger-14
+5154 SUOFFSCREEN(Inv)0-Scavenger-8
+5155 SUOFFSCREEN(Inv)0-MirosVulture-3
+5156 SU_B07(Artificer)3-Green
+5157 SU_B07(Artificer)3-TentaclePlant-{PreCycle}
+5158 SU_B07(Spear)3-Green
+5159 SU_B07(Spear)3-TentaclePlant-{PreCycle}
+5160 SU_B07(Saint)3-Yellow-3
+5161 SU_B07(Saint)3-TentaclePlant-{PreCycle}
+5162 SU_B07(Inv)3-Red
+5163 SU_B07(Inv)3-TentaclePlant-{PreCycle}
+5164 SU_C02(Rivulet)3-SmallNeedleWorm-3
+5165 SU_C02(Rivulet)5-Caramel
+5166 SU_C02(Rivulet)4-TentaclePlant-{PreCycle}
+5167 SU_C02(Artificer)2-BigNeedleWorm
+5168 SU_C02(Artificer)3-SmallNeedleWorm-3
+5169 SU_C02(Artificer)4-TentaclePlant-{PreCycle}
+5170 SU_C02(Spear)2-BigNeedleWorm
+5171 SU_C02(Spear)3-SmallNeedleWorm-3
+5172 SU_C02(Spear)4-TentaclePlant-{PreCycle}
+5173 SU_C02(Saint)2-Centiwing-2
+5174 SU_C02(Saint)5-Caramel
+5175 SU_C02(Inv)2-Centiwing-2
+5176 SU_C02(Inv)5-Red
+5177 SU_A30(Artificer)2-DropBug
+5178 SU_A30(Artificer)2-Eel-{PreCycle}
+5179 SU_A30(Spear)2-DropBug
+5180 SU_A30(Spear)2-Eel-{PreCycle}
+5181 SU_A30(Rivulet)2-Eel-{PreCycle}
+5182 SU_A30(Inv)2-DropBug
+5183 SU_A17(Rivulet)2-Cyan-2
+5184 SU_A17(Rivulet)2-Eel-{PreCycle}-2
+5185 SU_A17(Artificer)2-White
+5186 SU_A17(Artificer)2-Eel-{PreCycle}-2
+5187 SU_A17(Spear)2-White
+5188 SU_A17(Spear)2-Eel-{PreCycle}-2
+5189 SU_A17(Saint)2-Cyan-2
+5190 SU_A17(Inv)2-Red
+5191 SU_B04(Gourmand)3-DropBug-2
+5192 SU_B04(Gourmand)4-Green
+5193 SU_B04(Gourmand)5-Salamander-{PreCycle}-2
+5194 SU_B04(Rivulet)3-Pink
+5195 SU_B04(Rivulet)4-Caramel
+5196 SU_B04(Rivulet)5-Salamander-{PreCycle}-2
+5197 SU_B04(Artificer)3-DropBug-2
+5198 SU_B04(Artificer)4-DropBug
+5199 SU_B04(Artificer)5-DropBug
+5200 SU_B04(Artificer)5-Salamander-{PreCycle}-2
+5201 SU_B04(Spear)3-DropBug-2
+5202 SU_B04(Spear)4-DropBug
+5203 SU_B04(Spear)5-DropBug
+5204 SU_B04(Spear)5-Salamander-{PreCycle}-2
+5205 SU_B04(Saint)4-Yellow-2
+5206 SU_B04(Saint)5-Yellow-3
+5207 SU_B04(Saint)5-Salamander-{PreCycle}-2
+5208 SU_B04(Inv)3-DropBug-2
+5209 SU_B04(Inv)4-DropBug
+5210 SU_B04(Inv)5-DropBug
+5211 SU_B04(Inv)5-Salamander-{PreCycle}-2
+5212 LINEAGE(Gourmand)SU_A206
+5213 LINEAGE(Gourmand)SU_B072
+5214 LINEAGE(Gourmand)SU_C024
+5215 SU_A10(Rivulet)2-TentaclePlant
+5216 SU_A10(Rivulet)3-Caramel
+5217 SU_A10(Saint)3-Caramel
+5218 SU_A10(Inv)2-TentaclePlant
+5219 SU_A10(Inv)3-Red
+5220 SU_A10(Artificer)2-TentaclePlant
+5221 SU_A10(Artificer)3-Green
+5222 SU_A10(Spear)2-TentaclePlant
+5223 SU_A10(Spear)3-Green
+5224 SU_B12(Gourmand)2-Green
+5225 SU_B12(Artificer)2-Green
+5226 SU_B12(Spear)2-Green
+5227 SU_A04(Rivulet)4-White
+5228 SU_A04(Rivulet)2-CicadaB-2
+5229 SU_A04(Rivulet)3-CicadaB
+5230 SU_A04(Saint)4-Strawberry
+5231 LINEAGE(Gourmand)SU_A022
+5232 LINEAGE(Artificer)SU_A022
+5233 LINEAGE(Spear)SU_A022
+5234 LINEAGE(Gourmand)SU_A023
+5235 LINEAGE(Artificer)SU_A023
+5236 LINEAGE(Spear)SU_A023
+5237 LINEAGE(Artificer)SU_B054
+5238 LINEAGE(Spear)SU_B054
+5239 SU_B09(Artificer)4-DropBug-2
+5240 SU_B09(Spear)4-DropBug-2
+5241 SU_B09(Saint)4-Centipede-5
+5242 SU_B09(Inv)4-DropBug-2
+5243 SU_A20(Artificer)6-Centipede-5
+5244 SU_A20(Spear)6-Centipede-5
+5245 SU_A20(Rivulet)6-Small Centipede-2
+5246 SU_A20(Saint)5-Centipede-3
+5247 SU_A20(Saint)6-Small Centipede-2
+5248 SU_A20(Inv)6-RedCentipede-5
+5249 SU_B05(Gourmand)4-Green
+5250 SU_B05(Artificer)4-Pink
+5251 SU_B05(Spear)4-Pink
+5252 SU_B05(Saint)4-Caramel
+5253 SU_B05(Inv)4-Red
+5254 SU_B01(Gourmand)6-Mimic-{24}
+5255 SU_B01(Rivulet)6-TentaclePlant
+5256 SU_B01(Inv)6-TentaclePlant
+5257 SU_B01(Artificer)6-TentaclePlant
+5258 SU_B01(Spear)6-TentaclePlant
+5259 SU_A32(Artificer)2-DropBug
+5260 SU_A32(Spear)2-DropBug
+5261 SU_A32(Inv)2-DropBug
+5262 SU_A32(Saint)2-Red
+5263 SU_B08(Gourmand)3-Red
+5264 SU_B08(Artificer)3-Red
+5265 SU_B08(Spear)3-Red
+5266 SU_B08(Inv)3-Red
+5267 SU_B08(Saint)3-Caramel
+5268 SU_A13(Artificer)4-DropBug
+5269 SU_A13(Artificer)3-CicadaB
+5270 SU_A13(Spear)4-DropBug
+5271 SU_A13(Spear)3-CicadaB
+5272 SU_A13(Inv)4-DropBug
+5273 SU_A13(Inv)3-CicadaB
+5274 LINEAGE(Artificer)SU_A063
+5275 LINEAGE(Spear)SU_A063
+5276 LINEAGE(Rivulet)SU_A063
+5277 LINEAGE(Artificer)SU_A064
+5278 LINEAGE(Spear)SU_A064
+5279 LINEAGE(Artificer)SU_B082
+5280 LINEAGE(Spear)SU_B082
+5281 LINEAGE(Rivulet)SU_B082
+5282 LINEAGE(Artificer)SU_B123
+5283 LINEAGE(Spear)SU_B123
+5284 LINEAGE(Rivulet)SU_B123
+5285 LINEAGE(Artificer)SU_A402
+5286 LINEAGE(Spear)SU_A402
+5287 LINEAGE(Rivulet)SU_A402
+5288 LINEAGE(Artificer)SU_B072
+5289 LINEAGE(Spear)SU_B072
+5290 LINEAGE(Rivulet)SU_B072
+5291 LINEAGE(Artificer)SU_C024
+5292 LINEAGE(Spear)SU_C024
+5293 LINEAGE(Rivulet)SU_C024
+5294 LINEAGE(Artificer)SU_B116
+5295 LINEAGE(Spear)SU_B116
+5296 LINEAGE(Artificer)SU_B117
+5297 LINEAGE(Spear)SU_B117
+5298 LINEAGE(Artificer)SU_B064
+5299 LINEAGE(Spear)SU_B064
+5300 LINEAGE(Artificer)SU_B065
+5301 LINEAGE(Spear)SU_B065
+5302 LINEAGE(Artificer)SU_A044
+5303 LINEAGE(Spear)SU_A044
+5304 LINEAGE(Artificer)SU_A045
+5305 LINEAGE(Spear)SU_A045
+5306 LINEAGE(Gourmand)SU_A045
+5307 SU_A06(Rivulet)3-Caramel
+5308 SU_A06(Saint)3-Caramel
+5309 SU_A06(Inv)3-Red
+5310 SU_A02(Rivulet)3-Caramel
+5311 SU_A02(Saint)3-Strawberry
+5312 SU_A02(Inv)3-Strawberry
+5313 SU_A31(Rivulet)3-Centipede-2
+5314 SU_A31(Saint)3-Small Centipede-3
+5315 SU_A31(Inv)3-RedCentipede
+5316 SU_A40(Rivulet)2-Cyan-3
+5317 SU_A40(Inv)2-Cyan-3
+5318 SU_A40(Saint)2-Strawberry
+5319 LINEAGE(Inv)SU_A064
+5320 LINEAGE(Inv)SU_A063
+5321 LINEAGE(Inv)SU_B082
+5322 LINEAGE(Inv)SU_B123
+5323 LINEAGE(Inv)SU_A402
+5324 LINEAGE(Inv)SU_B072
+5325 LINEAGE(Inv)SU_C024
+5326 LINEAGE(Inv)SU_A044
+5327 LINEAGE(Inv)SU_B116
+5328 LINEAGE(Inv)SU_B117
+5329 LINEAGE(Inv)SU_B064
+5330 LINEAGE(Inv)SU_B065
+5331 LINEAGE(Inv)SU_A045
+6000 SH_A114-Lantern Mouse-2
+6001 SH_A123-Lantern Mouse-2
+6002 SH_B014-Lantern Mouse
+6003 SH_B013-Lantern Mouse
+6004 SH_A053-Lantern Mouse-2
+6005 SH_C076-Spider-20
+6006 SH_C074-Spider-20
+6007 SH_B173-Spider-10
+6008 SH_B174-Spider-12
+6009 SH_A212-Lantern Mouse
+6010 SH_A213-Lantern Mouse
+6011 SH_A214-Lantern Mouse
+6012 SH_A213-Tentacle Plant-{PreCycle}
+6013 SH_A162-Spider-10
+6014 SH_A163-Spider-5
+6015 SH_A173-Spider-10
+6016 SH_A174-Spider-10
+6017 SH_A172-Spider-20
+6018 SH_B114-Spider-10
+6019 SH_B115-Spider-10
+6020 SH_A062-Lantern Mouse-2
+6021 SH_A063-Lantern Mouse-2
+6022 SH_B024-Spider-15
+6023 SH_B023-Lantern Mouse-2
+6024 SH_B028-Lantern Mouse
+6025 SH_B024-Tentacle Plant-{PreCycle}
+6026 SH_B033-Lantern Mouse
+6027 SH_B032-Lantern Mouse-2
+6028 SH_B032-White-{PreCycle}
+6029 SH_A076-Spider-10
+6030 SH_A222-Spider-10
+6031 SH_A234-Spider-10
+6032 SH_C084-Black-2
+6033 SH_A192-Spider-15
+6034 SH_A192-Spider-15
+6035 SH_B043-Lantern Mouse-2
+6036 SH_B044-Lantern Mouse-2
+6037 SH_A044-Lantern Mouse-2
+6038 SH_A043-Lantern Mouse-2
+6039 SH_D023-Tentacle Plant
+6040 SH_D024-Tentacle Plant
+6041 SH_B104-Tentacle Plant
+6042 SH_C103-Lantern Mouse
+6043 SH_C104-Lantern Mouse
+6044 SH_C105-Lantern Mouse
+6045 SH_C106-Lantern Mouse
+6046 SH_C107-Lantern Mouse
+6047 LINEAGESH_A115
+6048 LINEAGESH_B015
+6049 LINEAGESH_C083
+6050 LINEAGESH_B056
+6051 LINEAGESH_B058
+6052 LINEAGESH_H013
+6053 LINEAGESH_H015
+6054 LINEAGESH_B025
+6055 LINEAGESH_C057
+6056 LINEAGESH_C055
+6057 LINEAGESH_B024
+6058 LINEAGESH_B175
+6059 LINEAGE(White)SH_A124
+6060 SHOFFSCREEN(Yellow)0-Miros Bird-14
+6061 SHOFFSCREEN(Yellow)0-Scavenger-7
+6062 LINEAGE(Yellow)SH_A124
+6063 SH_C09(Red)2-Spider-5
+6064 SH_C09(Red)3-Spider-10
+6065 SH_C09(Red)4-Spider-15
+6066 SH_C09(Red)5-Spider-15
+6067 SH_C09(Red)3-BigSpider
+6068 SH_C05(Red)2-Lantern Mouse
+6069 SH_C05(Red)3-Lantern Mouse
+6070 SH_C05(Red)5-Lantern Mouse
+6071 SH_C05(Red)6-BigSpider
+6072 SH_C05(Red)4-Spider-20
+6073 SH_C04(Red)8-Lantern Mouse-2
+6074 SH_C04(Red)5-Lantern Mouse-2
+6075 SH_C04(Red)6-Dropbug
+6076 SH_C04(Red)7-Spider-20
+6077 SH_A15(Red)4-Dropbug
+6078 SH_A14(Red)3-Lantern Mouse-2
+6079 SH_A14(Red)4-Dropbug
+6080 SH_H01(Red)4-Small Centipede-3
+6081 SH_H01(Red)4-Centipede-{0.65}
+6082 SH_B06(Red)3-Spider-10
+6083 SH_B06(Red)4-Spider-10
+6084 SH_B06(Red)5-Spider-20
+6085 SH_B06(Red)5-Spider-20
+6086 SH_B06(Red)4-BigSpider-2
+6087 SH_B06(Red)5-BigSpider
+6088 SH_C03(Red)4-Spider-10
+6089 SH_C03(Red)5-SpitterSpider
+6090 SH_C03(Red)7-Spider-30
+6091 SH_C01(Red)4-Lantern Mouse-2
+6092 SH_C01(Red)5-Lantern Mouse-2
+6093 SH_C01(Red)6-SpitterSpider
+6094 SH_C01(Red)6-Tentacle Plant-{PreCycle}
+6095 SH_B13(Red)3-BigSpider
+6096 SH_B13(Red)3-Spider-10
+6097 SH_B07(Red)3-Spider-15
+6098 SH_B07(Red)2-BigSpider
+6099 SH_B07(Red)4-Spider-5
+6100 SH_E02(Red)4-Tentacle Plant
+6101 SH_E02(Red)6-Tentacle Plant
+6102 SH_E02(Red)3-Centipede-{0.25}
+6103 SH_E02(Red)3-Centipede-{0.2}
+6104 SH_E02(Red)3-Centipede-{0.4}
+6105 SH_E02(Red)3-Centipede-{0.35}
+6106 LINEAGE(Red)SH_B082
+6107 LINEAGE(Red)SH_B057
+6108 LINEAGE(Red)SH_C082
+6109 LINEAGE(Red)SH_C037
+6110 LINEAGE(Red)SH_C034
+6111 LINEAGE(Red)SH_C013
+6112 LINEAGE(Red)SH_C056
+6113 LINEAGE(Red)SH_C122
+6114 LINEAGE(Red)SH_B175
+6115 LINEAGE(Red)SH_B045
+6116 SHOFFSCREEN(White)0-Miros Bird-17
+6117 SHOFFSCREEN(White)0-Scavenger-7
+6118 SHOFFSCREEN(Red)0-Miros Bird-17
+6119 SHOFFSCREEN(Red)0-Scavenger-7
+6120 SHOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Miros Bird-17
+6121 SHOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Scavenger-7
+6122 SH_A14(X-Red,Artificer,Spear,Inv)3-Lantern Mouse-2
+6123 SH_C03(X-Rivulet,Red,Artificer,Spear,Inv)4-Spider-10
+6124 SH_C01(X-Rivulet,Red,Artificer,Spear,Inv)4-Lantern Mouse-2
+6125 SH_C01(X-Rivulet,Red,Artificer,Spear,Inv)5-Lantern Mouse-2
+6126 SH_C01(X-Rivulet,Red,Artificer,Spear,Inv)6-Tentacle Plant-{PreCycle}
+6127 SH_B06(X-Yellow,Rivulet,Red,Artificer,Spear,Inv)3-Spider-10
+6128 SH_B06(X-Yellow,Rivulet,Red,Artificer,Spear,Inv)3-Spider-10
+6129 SH_B06(X-Yellow,Rivulet,Red,Artificer,Spear,Inv)4-Spider-20
+6130 SH_B06(X-Yellow,Rivulet,Red,Artificer,Spear,Inv)5-Spider-20
+6131 SH_B07(X-Rivulet,Red,Artificer,Spear,Inv)3-Spider-15
+6132 SH_A09(X-Rivulet,Inv)4-Lantern Mouse
+6133 SH_A09(X-Rivulet,Inv)5-Lantern Mouse
+6134 SH_E02(X-Gourmand,Red,Artificer,Spear,Inv)4-Tentacle Plant
+6135 SH_E02(X-Gourmand,Red,Artificer,Spear,Inv)6-Tentacle Plant
+6136 SH_H01(X-Red,Artificer,Spear,Inv)4-Small Centipede-3
+6137 SH_D01(X-Rivulet,Red,Artificer,Spear,Inv)3-Pink
+6138 SH_C09(X-Rivulet,Red,Artificer,Spear,Inv)2-Spider-5
+6139 SH_C09(X-Rivulet,Red,Artificer,Spear,Inv)3-Spider-5
+6140 SH_C09(X-Rivulet,Red,Artificer,Spear,Inv)4-Spider-15
+6141 SH_C09(X-Rivulet,Red,Artificer,Spear,Inv)5-Spider-10
+6142 SH_C05(X-Red,Artificer,Spear,Inv)2-Lantern Mouse
+6143 SH_C05(X-Red,Artificer,Spear,Inv)3-Lantern Mouse
+6144 SH_C05(X-Red,Artificer,Spear,Inv)5-Lantern Mouse
+6145 SH_C05(X-Red,Artificer,Spear,Inv)6-Lantern Mouse
+6146 SH_C05(X-Red,Artificer,Spear,Inv)4-Spider-15
+6147 SH_C04(X-Red,Artificer,Spear,Inv)8-Lantern Mouse-2
+6148 SH_C04(X-Red,Artificer,Spear,Inv)5-Lantern Mouse
+6149 SH_C04(X-Red,Artificer,Spear,Inv)6-Lantern Mouse
+6150 SH_C04(X-Red,Artificer,Spear,Inv)7-Spider-20
+6151 SH_HELPOUT(X-Yellow)3-Spider-15
+6152 LINEAGE(X-Yellow,Rivulet)SH_A114
+6153 LINEAGE(X-Red,Artificer,Spear,Inv)SH_C082
+6154 LINEAGE(X-Red,Artificer,Spear,Inv)SH_B057
+6155 LINEAGE(X-Red,Artificer,Spear,Inv)SH_B082
+6156 LINEAGE(X-Red,Artificer,Spear,Inv)SH_C054
+6157 SHOFFSCREEN(Gourmand)0-Miros Bird-17
+6158 SHOFFSCREEN(Gourmand)0-Scavenger-7
+6159 SHOFFSCREEN(Rivulet)0-Scavenger-11
+6160 SHOFFSCREEN(Artificer)0-Miros Bird-14
+6161 SHOFFSCREEN(Artificer)0-Scavenger-15
+6162 SHOFFSCREEN(Artificer)0-MirosVulture
+6163 SHOFFSCREEN(Spear)0-Miros Bird-10
+6164 SHOFFSCREEN(Spear)0-Scavenger-12
+6165 SHOFFSCREEN(Spear)0-MirosVulture-2
+6166 SHOFFSCREEN(Inv)0-Miros Bird-17
+6167 SHOFFSCREEN(Inv)0-Scavenger-14
+6168 SHOFFSCREEN(Inv)0-MirosVulture-7
+6169 SH_GOR013-Spider-2
+6170 SH_GOR014-Spider-2
+6171 SH_CURVE3-Lantern Mouse-5
+6172 SH_CURVE2-Spider-8
+6173 SH_KELP4-Tentacle Plant
+6174 SH_KELP6-Spider-10
+6175 SH_OVERHEAD5-Big Spider
+6176 SH_HALL6-Eggbug
+6177 SH_HALL7-Big Spider
+6178 SH_HALL8-Big Spider
+6179 SH_HALL9-Big Spider
+6180 SH_C024-Tentacle Plant-{PreCycle}
+6181 SH_A252-White-{PreCycle}
+6182 SH_C122-White-{PreCycle}
+6183 SH_A14(Artificer)3-Lantern Mouse-2
+6184 SH_A14(Artificer)4-Dropbug
+6185 SH_A14(Spear)3-Lantern Mouse-2
+6186 SH_A14(Spear)4-Dropbug
+6187 SH_A14(Inv)3-Lantern Mouse-2
+6188 SH_A14(Inv)4-Dropbug
+6189 SH_C03(Rivulet)4-Spider-10
+6190 SH_C03(Rivulet)5-SpitterSpider
+6191 SH_C03(Rivulet)7-Spider-20
+6192 SH_C03(Artificer)4-Spider-10
+6193 SH_C03(Artificer)5-SpitterSpider
+6194 SH_C03(Artificer)7-Spider-30
+6195 SH_C03(Spear)4-Spider-10
+6196 SH_C03(Spear)5-SpitterSpider
+6197 SH_C03(Spear)7-Spider-30
+6198 SH_C03(Inv)4-Spider-10
+6199 SH_C03(Inv)5-SpitterSpider
+6200 SH_C03(Inv)7-Spider-30
+6201 SH_C01(Rivulet)4-Lantern Mouse-2
+6202 SH_C01(Rivulet)5-Lantern Mouse-2
+6203 SH_C01(Rivulet)6-SpitterSpider
+6204 SH_C01(Rivulet)6-Tentacle Plant-{PreCycle}
+6205 SH_C01(Artificer)4-Lantern Mouse-2
+6206 SH_C01(Artificer)5-Lantern Mouse-2
+6207 SH_C01(Artificer)6-SpitterSpider
+6208 SH_C01(Artificer)6-Tentacle Plant-{PreCycle}
+6209 SH_C01(Spear)4-Lantern Mouse-2
+6210 SH_C01(Spear)5-Lantern Mouse-2
+6211 SH_C01(Spear)6-SpitterSpider
+6212 SH_C01(Spear)6-Tentacle Plant-{PreCycle}
+6213 SH_C01(Inv)4-Lantern Mouse-2
+6214 SH_C01(Inv)5-Lantern Mouse-2
+6215 SH_C01(Inv)6-SpitterSpider
+6216 SH_C01(Inv)6-Tentacle Plant-{PreCycle}
+6217 SH_B06(Yellow)3-Spider-10
+6218 SH_B06(Yellow)4-Spider-10
+6219 SH_B06(Yellow)4-Spider-20
+6220 SH_B06(Yellow)5-Spider-20
+6221 SH_B06(Rivulet)3-Spider-15
+6222 SH_B06(Rivulet)4-Spider-20
+6223 SH_B06(Rivulet)4-BigSpider-2
+6224 SH_B06(Rivulet)5-BigSpider
+6225 SH_B06(Artificer)3-Spider-10
+6226 SH_B06(Artificer)4-Spider-10
+6227 SH_B06(Artificer)5-Spider-20
+6228 SH_B06(Artificer)5-Spider-20
+6229 SH_B06(Artificer)4-BigSpider-2
+6230 SH_B06(Artificer)5-BigSpider
+6231 SH_B06(Spear)3-Spider-10
+6232 SH_B06(Spear)4-Spider-10
+6233 SH_B06(Spear)5-Spider-20
+6234 SH_B06(Spear)5-Spider-20
+6235 SH_B06(Spear)4-BigSpider-2
+6236 SH_B06(Spear)5-BigSpider
+6237 SH_B06(Inv)3-Spider-10
+6238 SH_B06(Inv)4-Spider-10
+6239 SH_B06(Inv)5-Spider-20
+6240 SH_B06(Inv)5-Spider-20
+6241 SH_B06(Inv)4-SpitterSpider-2
+6242 SH_B06(Inv)5-SpitterSpider
+6243 SH_B07(Rivulet)3-Spider-15
+6244 SH_B07(Rivulet)2-BigSpider
+6245 SH_B07(Rivulet)4-Spider-5
+6246 SH_B07(Artificer)3-Spider-15
+6247 SH_B07(Artificer)2-BigSpider
+6248 SH_B07(Artificer)4-Spider-5
+6249 SH_B07(Spear)3-Spider-15
+6250 SH_B07(Spear)2-BigSpider
+6251 SH_B07(Spear)4-Spider-5
+6252 SH_B07(Inv)3-Spider-15
+6253 SH_B07(Inv)2-BigSpider
+6254 SH_B07(Inv)4-Spider-5
+6255 SH_A09(Rivulet)4-Lantern Mouse
+6256 SH_A09(Rivulet)5-BigSpider-2
+6257 SH_A09(Inv)4-Lantern Mouse
+6258 SH_A09(Inv)5-BigSpider-2
+6259 SH_E02(Gourmand)4-Tentacle Plant
+6260 SH_E02(Gourmand)6-Tentacle Plant
+6261 SH_E02(Gourmand)3-Centipede-{0.25}
+6262 SH_E02(Gourmand)3-Centipede-{0.2}
+6263 SH_E02(Gourmand)3-Centipede-{0.4}
+6264 SH_E02(Gourmand)3-Centipede-{0.35}
+6265 SH_E02(Artificer)4-Tentacle Plant
+6266 SH_E02(Artificer)6-Tentacle Plant
+6267 SH_E02(Artificer)3-Centipede-{0.25}
+6268 SH_E02(Artificer)3-Centipede-{0.2}
+6269 SH_E02(Artificer)3-Centipede-{0.4}
+6270 SH_E02(Artificer)3-Centipede-{0.35}
+6271 SH_E02(Spear)4-Tentacle Plant
+6272 SH_E02(Spear)6-Tentacle Plant
+6273 SH_E02(Spear)3-Centipede-{0.25}
+6274 SH_E02(Spear)3-Centipede-{0.2}
+6275 SH_E02(Spear)3-Centipede-{0.4}
+6276 SH_E02(Spear)3-Centipede-{0.35}
+6277 SH_E02(Inv)4-Tentacle Plant
+6278 SH_E02(Inv)6-Tentacle Plant
+6279 SH_E02(Inv)3-RedCentipede
+6280 SH_E02(Inv)3-RedCentipede
+6281 SH_E02(Inv)3-RedCentipede
+6282 SH_E02(Inv)3-RedCentipede
+6283 SH_H01(Artificer)4-Small Centipede-3
+6284 SH_H01(Artificer)4-Centipede-{0.65}
+6285 SH_H01(Spear)4-Small Centipede-3
+6286 SH_H01(Spear)4-Centipede-{0.65}
+6287 SH_H01(Inv)4-Small Centipede-3
+6288 SH_H01(Inv)4-RedCentipede
+6289 SH_D01(Rivulet)3-Black
+6290 SH_C09(Rivulet)2-Spider-5
+6291 SH_C09(Rivulet)3-Spider-5
+6292 SH_C09(Rivulet)4-Spider-15
+6293 SH_C09(Rivulet)5-Spider-10
+6294 SH_C09(Artificer)2-Spider-5
+6295 SH_C09(Artificer)3-Spider-10
+6296 SH_C09(Artificer)4-Spider-15
+6297 SH_C09(Artificer)5-Spider-15
+6298 SH_C09(Artificer)3-BigSpider
+6299 SH_C09(Spear)2-Spider-5
+6300 SH_C09(Spear)3-Spider-10
+6301 SH_C09(Spear)4-Spider-15
+6302 SH_C09(Spear)5-Spider-15
+6303 SH_C09(Spear)3-BigSpider
+6304 SH_C09(Inv)2-Spider-5
+6305 SH_C09(Inv)3-Spider-10
+6306 SH_C09(Inv)4-Spider-15
+6307 SH_C09(Inv)5-Spider-15
+6308 SH_C09(Inv)3-SpitterSpider
+6309 SH_C05(Artificer)2-Lantern Mouse
+6310 SH_C05(Artificer)3-Lantern Mouse
+6311 SH_C05(Artificer)5-Lantern Mouse
+6312 SH_C05(Artificer)6-BigSpider
+6313 SH_C05(Artificer)4-Spider-20
+6314 SH_C05(Spear)2-Lantern Mouse
+6315 SH_C05(Spear)3-Lantern Mouse
+6316 SH_C05(Spear)5-Lantern Mouse
+6317 SH_C05(Spear)6-BigSpider
+6318 SH_C05(Spear)4-Spider-20
+6319 SH_C05(Inv)2-Lantern Mouse
+6320 SH_C05(Inv)3-Lantern Mouse
+6321 SH_C05(Inv)5-Lantern Mouse
+6322 SH_C05(Inv)6-SpitterSpider
+6323 SH_C05(Inv)4-Spider-20
+6324 SH_C04(Artificer)8-Lantern Mouse-2
+6325 SH_C04(Artificer)5-Lantern Mouse-2
+6326 SH_C04(Artificer)6-Dropbug
+6327 SH_C04(Artificer)7-Spider-20
+6328 SH_C04(Spear)8-Lantern Mouse-2
+6329 SH_C04(Spear)5-Lantern Mouse-2
+6330 SH_C04(Spear)6-Dropbug
+6331 SH_C04(Spear)7-Spider-20
+6332 SH_C04(Inv)8-Lantern Mouse-2
+6333 SH_C04(Inv)5-Lantern Mouse-2
+6334 SH_C04(Inv)6-Dropbug
+6335 SH_C04(Inv)7-Spider-20
+6336 SH_A15(Artificer)4-Dropbug
+6337 SH_A15(Spear)4-Dropbug
+6338 SH_A15(Inv)4-Dropbug
+6339 SH_B13(Rivulet)3-BigSpider
+6340 SH_B13(Rivulet)3-Spider-10
+6341 SH_B13(Artificer)3-BigSpider
+6342 SH_B13(Artificer)3-Spider-10
+6343 SH_B13(Spear)3-BigSpider
+6344 SH_B13(Spear)3-Spider-10
+6345 SH_B13(Inv)3-BigSpider
+6346 SH_B13(Inv)3-Spider-10
+6347 SH_HELPOUT(Yellow)3-Spider-5
+6348 SH_E03RIV(Rivulet)4-Yellow-2
+6349 SH_E03RIV(Rivulet)5-Yellow-2
+6350 SH_E04RIV(Rivulet)2-Yellow-2
+6351 SH_E04RIV(Rivulet)3-Yellow
+6352 LINEAGE(Yellow)SH_A114
+6353 LINEAGE(Rivulet)SH_A114
+6354 LINEAGE(Artificer)SH_C082
+6355 LINEAGE(Spear)SH_C082
+6356 LINEAGE(Inv)SH_C082
+6357 LINEAGE(Artificer)SH_B057
+6358 LINEAGE(Spear)SH_B057
+6359 LINEAGE(Inv)SH_B057
+6360 LINEAGE(Gourmand)SH_A124
+6361 LINEAGE(Rivulet)SH_A124
+6362 LINEAGE(Artificer)SH_B082
+6363 LINEAGE(Spear)SH_B082
+6364 LINEAGE(Inv)SH_B082
+6365 LINEAGE(Artificer)SH_C056
+6366 LINEAGE(Spear)SH_C056
+6367 LINEAGE(Inv)SH_C056
+6368 LINEAGE(Artificer)SH_C037
+6369 LINEAGE(Spear)SH_C037
+6370 LINEAGE(Artificer)SH_C034
+6371 LINEAGE(Spear)SH_C034
+6372 LINEAGE(Artificer)SH_C013
+6373 LINEAGE(Spear)SH_C013
+6374 LINEAGE(Artificer)SH_C122
+6375 LINEAGE(Spear)SH_C122
+6376 LINEAGE(Artificer)SH_B045
+6377 LINEAGE(Spear)SH_B045
+6378 LINEAGE(Inv)SH_C037
+6379 LINEAGE(Inv)SH_C034
+6380 LINEAGE(Inv)SH_C013
+6381 LINEAGE(Inv)SH_C122
+6382 LINEAGE(Inv)SH_B045
+7000 SL_C112-Sea Leech-4
+7001 SL_C113-Sea Leech-3
+7002 SL_C114-Tentacle Plant
+7003 SL_C115-Tentacle Plant
+7004 SL_A032-Snail-2
+7005 SL_A033-Snail-3
+7006 SL_C063-Jet Fish
+7007 SL_C064-Jet Fish
+7008 SL_D057-Snail
+7009 SL_D058-Snail
+7010 SL_D054-Jetfish
+7011 SLOFFSCREEN(White)0-Vulture-3
+7012 SLOFFSCREEN(White)0-Leviathan-2
+7013 SL_C10(White)2-Tentacle Plant
+7014 SLOFFSCREEN(Yellow)0-Vulture
+7015 SLOFFSCREEN(Yellow)0-Leviathan
+7016 SL_B02(Yellow)5-Sea Leech-3
+7017 SL_B02(Yellow)9-Tentacle Plant
+7018 SL_B02(Yellow)6-Eel-{PreCycle}
+7019 SL_H03(Yellow)5-Jet Fish
+7020 SL_H03(Yellow)7-Jet Fish
+7021 SL_H03(Yellow)9-Tentacle Plant
+7022 SL_E02(Yellow)4-Jet Fish
+7023 SL_E02(Yellow)5-Jet Fish
+7024 SL_E02(Yellow)6-Sea Leech-3
+7025 SL_E02(Yellow)7-Sea Leech-4
+7026 SL_E02(Yellow)8-Sea Leech-2
+7027 SL_A10(Yellow)3-Sea Leech-3
+7028 SL_H02(Yellow)5-Jet Fish
+7029 SL_H02(Yellow)7-Jet Fish
+7030 SL_H02(Yellow)8-Jet Fish
+7031 SL_H02(Yellow)3-Tentacle Plant
+7032 SL_H02(Yellow)9-Sea Leech-9
+7033 SL_H02(Yellow)10-Aquacenti-{PreCycle}
+7034 SL_D04(Yellow)4-Salamander
+7035 SL_D04(Yellow)5-Sea Leech-8
+7036 SL_D04(Yellow)7-Sea Leech-11
+7037 SL_D04(Yellow)7-Aquacenti-{PreCycle}
+7038 SLOFFSCREEN(Red)0-Vulture-3
+7039 SLOFFSCREEN(Red)0-KingVulture-2
+7040 SLOFFSCREEN(Red)0-Leviathan-3
+7041 SLOFFSCREEN(Red)0-Scavenger-5
+7042 SL_F01(Red)4-Sea Leech-8
+7043 SL_F01(Red)7-Jet Fish
+7044 SL_F01(Red)6-Jet Fish-2
+7045 SL_C10(Red)2-Bro
+7046 SL_C04(Red)3-Sea Leech-8
+7047 SL_D04(Red)4-Salamander
+7048 SL_D04(Red)5-Sea Leech-10
+7049 SL_D04(Red)6-Jet Fish
+7050 SL_D04(Red)7-Sea Leech-15
+7051 SL_D04(Red)7-Aquacenti-{PreCycle}
+7052 LINEAGE(Red)SL_F013
+7053 LINEAGE(Red)SL_B042
+7054 LINEAGE(Red)SL_B043
+7055 SL_C02(Red)5-Salamander
+7056 SL_C02(Red)6-Salamander
+7057 SL_C02(Red)5-Eel-{PreCycle}
+7058 SLOFFSCREEN(X-White,Yellow,Red,Artificer,Gourmand,Rivulet,Spear,Saint,Inv)0-Vulture-3
+7059 SLOFFSCREEN(X-White,Yellow,Red,Artificer,Gourmand,Rivulet,Spear,Saint,Inv)0-Leviathan-2
+7060 SL_D06(X-Yellow,Rivulet,Saint)5-Salamander
+7061 SL_D06(X-Yellow,Rivulet,Saint)6-Salamander
+7062 SL_D06(X-Yellow,Rivulet,Saint)7-Salamander
+7063 SL_D06(X-Yellow,Rivulet,Saint)8-Tentacle Plant
+7064 SL_D06(X-Yellow,Rivulet,Saint)9-Aquacenti-{PreCycle}
+7065 SL_F02(X-Saint)16-Garbage Worm-5
+7066 SL_F02(X-Saint)4-Salamander
+7067 SL_F02(X-Saint)6-Jet Fish
+7068 SL_F02(X-Saint)7-Jet Fish
+7069 SL_F02(X-Saint)5-Tentacle Plant
+7070 SL_F02(X-Saint)8-Aquacenti-{PreCycle}
+7071 SL_C02(X-Yellow,Rivulet,Red,Saint)5-Eel
+7072 SL_C02(X-Yellow,Rivulet,Red,Saint)6-Salamander
+7073 SL_C02(X-Yellow,Rivulet,Red,Saint)5-Eel-{PreCycle}
+7074 SL_E01(X-Saint)4-Jet Fish
+7075 SL_E01(X-Saint)5-Aquacenti-{PreCycle}
+7076 SL_D03(X-Yellow,Rivulet,Saint,Inv)6-Jet Fish
+7077 SL_D03(X-Yellow,Rivulet,Saint,Inv)5-Jet Fish
+7078 SL_D01(X-Yellow,Rivulet,Saint,Inv)6-Jet Fish
+7079 SL_D01(X-Yellow,Rivulet,Saint,Inv)4-Jet Fish
+7080 SL_D01(X-Yellow,Rivulet,Saint,Inv)5-Jet Fish
+7081 SL_C05(X-Saint,Inv)3-Jet Fish
+7082 SL_C05(X-Saint,Inv)4-Salamander-{PreCycle}
+7083 SL_C03(X-Saint)3-Jet Fish
+7084 SL_C03(X-Saint)5-Jet Fish
+7085 SL_A02(X-Rivulet,Saint)3-Salamander
+7086 SL_A02(X-Rivulet,Saint)4-Sea Leech-10
+7087 SL_A10(X-Rivulet,Yellow,Saint)3-Sea Leech-6
+7088 SL_E02(X-Rivulet,Yellow,Saint)4-Jet Fish
+7089 SL_E02(X-Rivulet,Yellow,Saint)5-Jet Fish
+7090 SL_E02(X-Rivulet,Yellow,Saint)6-Sea Leech-7
+7091 SL_E02(X-Rivulet,Yellow,Saint)7-Sea Leech-7
+7092 SL_E02(X-Rivulet,Yellow,Saint)8-Sea Leech-7
+7093 SL_H02(X-Rivulet,Yellow,Saint,Inv)5-Jet Fish
+7094 SL_H02(X-Rivulet,Yellow,Saint,Inv)7-Jet Fish
+7095 SL_H02(X-Rivulet,Yellow,Saint,Inv)8-Jet Fish
+7096 SL_H02(X-Rivulet,Yellow,Saint,Inv)3-Tentacle Plant
+7097 SL_H02(X-Rivulet,Yellow,Saint,Inv)9-Sea Leech-15
+7098 SL_H02(X-Rivulet,Yellow,Saint,Inv)10-Aquacenti-{PreCycle}
+7099 SL_H03(X-Rivulet,Yellow,Saint,Inv)7-Sea Leech-6
+7100 SL_H03(X-Rivulet,Yellow,Saint,Inv)5-Jet Fish
+7101 SL_H03(X-Rivulet,Yellow,Saint,Inv)7-Jet Fish
+7102 SL_H03(X-Rivulet,Yellow,Saint,Inv)9-Tentacle Plant
+7103 SL_B02(X-Yellow,Rivulet)8-Sea Leech-5
+7104 SL_B02(X-Yellow,Rivulet)5-Sea Leech-5
+7105 SL_B02(X-Yellow,Rivulet)9-Tentacle Plant
+7106 SL_B02(X-Yellow,Rivulet)6-Eel-{PreCycle}
+7107 SL_D04(X-Yellow,Rivulet,Red,Saint,Inv)4-Salamander
+7108 SL_D04(X-Yellow,Rivulet,Red,Saint,Inv)5-Sea Leech-10
+7109 SL_D04(X-Yellow,Rivulet,Red,Saint,Inv)7-Sea Leech-15
+7110 SL_D04(X-Yellow,Rivulet,Red,Saint,Inv)7-Aquacenti-{PreCycle}
+7111 SL_F01(X-Red,Inv,Saint)4-Jet Fish
+7112 SL_F01(X-Red,Inv,Saint)5-Jet Fish
+7113 SL_F01(X-Red,Inv,Saint)6-Jet Fish
+7114 SL_C04(X-Red,Saint,Inv)3-Sea Leech-5
+7115 SL_B04(X-Red,Inv,Saint)2-White
+7116 SL_B01(X-Saint)3-Eel-{PreCycle}
+7117 SL_C15(X-Saint)4-Jet Fish
+7118 SL_C15(X-Saint)5-Aquacenti
+7119 SL_ECNIUS03(X-Yellow,Rivulet,Red,Inv,Saint)2-Snail
+7120 SL_ECNIUS03(X-Yellow,Rivulet,Red,Inv,Saint)3-Snail
+7121 SL_ECNIUS03(X-Yellow,Rivulet,Red,Inv,Saint)4-Jetfish
+7122 SL_EDGE02(X-Yellow,Rivulet,Red,Inv,Saint)3-Dropbug
+7123 SL_EDGE02(X-Yellow,Rivulet,Red,Inv,Saint)6-Cyan
+7124 SL_EDGE02(X-Yellow,Rivulet,Red,Inv,Saint)5-Snail-{PreCycle}-2
+7125 SL_EDGE02(X-Yellow,Rivulet,Red,Inv,Saint)6-Snail-{PreCycle}-3
+7126 LINEAGE(X-Saint)SL_D055
+7127 LINEAGE(X-Saint)SL_D056
+7128 LINEAGE(X-Red,Inv)SL_B043
+7129 SLOFFSCREEN(Gourmand)0-Scavenger-3
+7130 SLOFFSCREEN(Gourmand)0-KingVulture
+7131 SLOFFSCREEN(Rivulet)0-Vulture-3
+7132 SLOFFSCREEN(Rivulet)0-Leviathan-2
+7133 SLOFFSCREEN(Saint)0-MirosVulture-{Ignorecycle}-5
+7134 SLOFFSCREEN(Saint)0-Leviathan-4
+7135 SLOFFSCREEN(Inv)0-Miros Vulture-5
+7136 SLOFFSCREEN(Inv)0-Leviathan-6
+7137 SL_WALL026-Jet Fish
+7138 SL_D06(Yellow)5-Eel
+7139 SL_D06(Yellow)6-Salamander
+7140 SL_D06(Yellow)8-Tentacle Plant
+7141 SL_D06(Yellow)9-Aquacenti-{PreCycle}
+7142 SL_D06(Rivulet)5-Eel
+7143 SL_D06(Rivulet)6-Salamander
+7144 SL_D06(Rivulet)8-Tentacle Plant
+7145 SL_D06(Rivulet)9-Aquacenti-{PreCycle}
+7146 SL_D06(Saint)5-Yellow-3
+7147 SL_D06(Saint)9-Sea Leech-11
+7148 SL_D06(Saint)9-Aquacenti-{PreCycle}
+7149 SL_F02(Saint)10-Sea Leech-7
+7150 SL_F02(Saint)9-Sea Leech-5
+7151 SL_F02(Saint)8-Aquacenti-{PreCycle}
+7152 SL_C02(Yellow)6-Eel
+7153 SL_C02(Yellow)5-Eel-{PreCycle}
+7154 SL_C02(Rivulet)6-Eel
+7155 SL_C02(Rivulet)5-Eel-{PreCycle}
+7156 SL_C02(Saint)10-Sea Leech-6
+7157 SL_C02(Saint)12-Sea Leech-9
+7158 SL_C02(Saint)7-Yellow-4
+7159 SL_C02(Saint)5-Eel-{PreCycle}
+7160 SL_E01(Saint)4-Sea Leech-6
+7161 SL_E01(Saint)5-Sea Leech-4
+7162 SL_E01(Saint)5-Aquacenti-{PreCycle}
+7163 SL_D03(Yellow)5-Snail
+7164 SL_D03(Rivulet)6-Aquacenti
+7165 SL_D03(Saint)6-Aquacenti
+7166 SL_D03(Inv)6-Aquacenti
+7167 SL_D01(Yellow)6-Jet Fish
+7168 SL_D01(Yellow)4-Snail-2
+7169 SL_D01(Yellow)5-Jet Fish
+7170 SL_D01(Rivulet)6-Jet Fish
+7171 SL_D01(Rivulet)4-Aquacenti
+7172 SL_D01(Rivulet)5-Jet Fish
+7173 SL_D01(Inv)6-Jet Fish
+7174 SL_D01(Inv)4-Aquacenti
+7175 SL_D01(Inv)5-Jet Fish
+7176 SL_D01(Saint)4-Sea Leech-5
+7177 SL_D01(Saint)5-Sea Leech-3
+7178 SL_D01(Saint)7-Sea Leech-6
+7179 SL_C05(Saint)4-Sea Leech-6
+7180 SL_C05(Saint)4-Salamander-{PreCycle}
+7181 SL_C05(Inv)4-Sea Leech-6
+7182 SL_C05(Inv)4-Salamander-{PreCycle}
+7183 SL_A02(Rivulet)3-Eel
+7184 SL_A02(Rivulet)4-Sea Leech-10
+7185 SL_A02(Saint)4-Sea Leech-4
+7186 SL_A10(Rivulet)3-Sea Leech-3
+7187 SL_E02(Rivulet)5-Eel
+7188 SL_E02(Rivulet)6-Sea Leech-3
+7189 SL_E02(Rivulet)7-Sea Leech-4
+7190 SL_E02(Rivulet)8-Sea Leech-2
+7191 SL_E02(Saint)6-Sea Leech-2
+7192 SL_E02(Saint)7-Sea Leech-4
+7193 SL_E02(Saint)8-Sea Leech-3
+7194 SL_H02(Rivulet)5-Jet Fish
+7195 SL_H02(Rivulet)7-Jet Fish
+7196 SL_H02(Rivulet)8-Jet Fish
+7197 SL_H02(Rivulet)3-Tentacle Plant
+7198 SL_H02(Rivulet)9-Sea Leech-9
+7199 SL_H02(Rivulet)10-Aquacenti-{PreCycle}
+7200 SL_H02(Saint)7-Sea Leech-4
+7201 SL_H02(Saint)8-Sea Leech-5
+7202 SL_H02(Saint)10-Sea Leech-5
+7203 SL_H02(Saint)10-Aquacenti-{PreCycle}
+7204 SL_H02(Inv)5-Jet Fish
+7205 SL_H02(Inv)7-Jet Fish
+7206 SL_H02(Inv)9-Sea Leech-15
+7207 SL_H02(Inv)10-Aquacenti-{PreCycle}
+7208 SL_H03(Rivulet)5-Jet Fish
+7209 SL_H03(Rivulet)7-Jet Fish
+7210 SL_H03(Rivulet)9-Tentacle Plant
+7211 SL_H03(Inv)7-Sea Leech-8
+7212 SL_H03(Inv)5-Jet Fish
+7213 SL_H03(Inv)7-Jet Fish
+7214 SL_H03(Inv)9-Tentacle Plant
+7215 SL_B02(Rivulet)5-Sea Leech-3
+7216 SL_B02(Rivulet)9-Tentacle Plant
+7217 SL_B02(Rivulet)6-Eel-{PreCycle}
+7218 SL_D04(Rivulet)4-Salamander
+7219 SL_D04(Rivulet)5-Sea Leech-8
+7220 SL_D04(Rivulet)7-Sea Leech-11
+7221 SL_D04(Rivulet)7-Aquacenti-{PreCycle}
+7222 SL_D04(Saint)5-Sea Leech-5
+7223 SL_D04(Saint)6-Sea Leech-11
+7224 SL_D04(Saint)7-Aquacenti-{PreCycle}
+7225 SL_D04(Inv)4-Red
+7226 SL_D04(Inv)6-Jet Fish
+7227 SL_F01(Inv)4-Sea Leech-8
+7228 SL_F01(Inv)7-Jet Fish
+7229 SL_F01(Inv)6-Jet Fish-2
+7230 SL_F01(Saint)5-Sea Leech-4
+7231 SL_C04(Saint)5-Aquacenti
+7232 SL_C04(Inv)5-Aquacenti
+7233 SL_B01(Saint)3-Sea Leech-11
+7234 SL_B01(Saint)3-Eel-{PreCycle}
+7235 SL_C10(Gourmand)2-Tentacle Plant
+7236 LINEAGE(Gourmand)SL_C102
+7237 SL_C10(Inv)2-Daddy-{AlternateForm}
+7238 SL_D02(Rivulet)5-Aquacenti
+7239 SL_D02(White)5-Aquacenti-{PreCycle}
+7240 SL_D02(Inv)5-Aquacenti-{PreCycle}
+7241 SL_D02(Gourmand)5-Aquacenti-{PreCycle}
+7242 SL_C15(Saint)6-Aquacenti
+7243 SL_ECNIUS03(Yellow)2-Snail
+7244 SL_ECNIUS03(Yellow)3-Snail
+7245 SL_ECNIUS03(Yellow)4-Jetfish
+7246 SL_ECNIUS03(Rivulet)2-Snail
+7247 SL_ECNIUS03(Rivulet)3-Snail
+7248 SL_ECNIUS03(Rivulet)4-Jetfish
+7249 SL_ECNIUS03(Red)2-Snail
+7250 SL_ECNIUS03(Red)3-Snail
+7251 SL_ECNIUS03(Inv)2-Snail
+7252 SL_ECNIUS03(Inv)3-Snail
+7253 SL_EDGE02(Yellow)6-Cyan
+7254 SL_EDGE02(Yellow)5-Snail-{PreCycle}-2
+7255 SL_EDGE02(Yellow)6-Snail-{PreCycle}-3
+7256 SL_EDGE02(Rivulet)6-Yellow-3
+7257 SL_EDGE02(Rivulet)5-Snail-{PreCycle}-2
+7258 SL_EDGE02(Rivulet)6-Snail-{PreCycle}-3
+7259 SL_EDGE02(Red)3-Dropbug-2
+7260 SL_EDGE02(Red)6-Cyan
+7261 SL_EDGE02(Red)5-Snail-{PreCycle}-2
+7262 SL_EDGE02(Red)6-Snail-{PreCycle}-3
+7263 SL_EDGE02(Inv)3-Dropbug-2
+7264 SL_EDGE02(Inv)6-Cyan
+7265 SL_EDGE02(Inv)5-Snail-{PreCycle}-2
+7266 SL_EDGE02(Inv)6-Snail-{PreCycle}-3
+7267 SL_B02SAINT(Saint)7-Sea Leech-8
+7268 SL_C14(Saint)3-Sea Leech-9
+7269 SL_B10(Saint)2-BigSpider-{Winter}
+7270 SL_I02(Saint)3-Lantern Mouse-5
+7271 LINEAGE(Inv)SL_B043
+7272 LINEAGE(Inv)SL_B042
+7273 LINEAGE(Inv)SL_F013
+7274 LINEAGE(White)SL_D025
+7275 LINEAGE(Gourmand)SL_D025
+7276 LINEAGE(White)SL_D014
+7277 LINEAGE(Gourmand)SL_D014
+7278 LINEAGE(Red)SL_D025
+7279 LINEAGE(Red)SL_D014
+8000 LF_A053-Small Centipede-2
+8001 LF_B044-Small Centipede
+8002 LF_B045-Small Centipede-2
+8003 LF_A033-Small Centipede-2
+8004 LINEAGELF_A033
+8005 LINEAGELF_A054
+8006 LFOFFSCREEN(White)0-Deer-6
+8007 LFOFFSCREEN(White)0-Vulture-3
+8008 LFOFFSCREEN(White)0-Scavenger-8
+8009 LINEAGE(White)LF_E023
+8010 LF_C02(Yellow)6-Green
+8011 LF_C02(Yellow)3-CicadaA-2
+8012 LF_C02(Yellow)5-CicadaB-{PreCycle}-3
+8013 LF_C02(Yellow)6-CicadaA-{PreCycle}-3
+8014 LINEAGE(White)LF_E014
+8015 LINEAGE(Yellow)LF_E014
+8016 LINEAGE(White)LF_E032
+8017 LINEAGE(Yellow)LF_E032
+8018 LFOFFSCREEN(Yellow)0-Deer-6
+8019 LFOFFSCREEN(Yellow)0-Vulture-2
+8020 LFOFFSCREEN(Yellow)0-Scavenger-7
+8021 LF_E01(Yellow)5-Caramel
+8022 LF_E01(Yellow)2-Salamander-{PreCycle}
+8023 LF_E01(Yellow)3-TentaclePlant-{PreCycle}
+8024 LF_D08(Yellow)7-Mimic-{13}
+8025 LF_D08(Yellow)3-Mimic-{10}
+8026 LF_D08(Yellow)5-Mimic-{15}
+8027 LF_D08(Yellow)6-Yellow-2
+8028 LF_D08(Yellow)9-Yellow
+8029 LF_D01(Yellow)3-CicadaA
+8030 LF_D01(Yellow)4-CicadaA
+8031 LF_D01(Yellow)5-Caramel
+8032 LF_D01(Yellow)6-Salamander-{PreCycle}
+8033 LF_D03(Yellow)2-CicadaB
+8034 LF_D03(Yellow)3-CicadaA-2
+8035 LF_D03(Yellow)6-EggBug
+8036 LF_D03(Yellow)6-Salamander-{PreCycle}
+8037 LFOFFSCREEN(Red)0-Deer-6
+8038 LFOFFSCREEN(Red)0-Vulture-2
+8039 LFOFFSCREEN(Red)0-KingVulture
+8040 LFOFFSCREEN(Red)0-Scavenger-14
+8041 LF_D08(Red)7-Mimic-{13}
+8042 LF_D08(Red)3-Mimic-{10}
+8043 LF_D08(Red)5-Mimic-{15}
+8044 LF_D08(Red)8-SpitterSpider-2
+8045 LF_D08(Red)9-SpitterSpider
+8046 LF_D08(Red)9-BigSpider-2
+8047 LF_C02(Red)6-Caramel
+8048 LF_C02(Red)3-CicadaA-2
+8049 LF_C02(Red)5-CicadaB-{PreCycle}-3
+8050 LF_C02(Red)6-CicadaA-{PreCycle}-3
+8051 LF_E04(Red)3-Centipede
+8052 LF_C03(Red)3-Small Centipede-2
+8053 LF_C03(Red)3-Small Centipede-2
+8054 LF_C03(Red)4-Centipede-2
+8055 LF_D06(Red)5-Centipede
+8056 LF_D06(Red)5-Small Centipede-2
+8057 LF_D06(Red)4-Small Centipede-2
+8058 LF_F02(Red)3-BigNeedleWorm
+8059 LF_F02(Red)3-SmallNeedleWorm-3
+8060 LF_F02(Red)5-Centipede
+8061 LF_F02(Red)3-CicadaB-{PreCycle}-2
+8062 LF_F02(Red)3-CicadaA-{PreCycle}-4
+8063 LF_D03(Red)5-CicadaA
+8064 LF_D03(Red)6-Centipede
+8065 LF_D03(Red)6-Salamander-{PreCycle}
+8066 LINEAGE(Red)LF_D032
+8067 LINEAGE(Red)LF_D033
+8068 LINEAGE(Red)LF_B033
+8069 LINEAGE(Red)LF_C026
+8070 LINEAGE(Red)LF_F024
+8071 LINEAGE(Red)LF_E023
+8072 LINEAGE(Red)LF_E045
+8073 LFOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Deer-6
+8074 LFOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Vulture-3
+8075 LFOFFSCREEN(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)0-Scavenger-8
+8076 LF_D04(X-Saint)3-CicadaA-3
+8077 LF_C01(X-Rivulet,White,Gourmand,Red,Saint,Inv)2-Green
+8078 LF_C01(X-Rivulet,White,Gourmand,Red,Saint,Inv)3-TentaclePlant-{PreCycle}
+8079 LF_C03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)3-Small Centipede-2
+8080 LF_C03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)4-Small Centipede-2
+8081 LF_E02(X-Yellow,Rivulet,Saint,Inv)2-Green
+8082 LF_A13(X-Rivulet,Saint,Inv)3-Mimic-{10}
+8083 LF_A13(X-Rivulet,Saint,Inv)4-Mimic-{8}
+8084 LF_A13(X-Rivulet,Saint,Inv)5-Eggbug
+8085 LF_D06(X-Red,Artificer,Spear,Inv)5-Small Centipede-2
+8086 LF_D06(X-Red,Artificer,Spear,Inv)4-Small Centipede-2
+8087 LF_D02(X-Saint)3-BigNeedleWorm
+8088 LF_D02(X-Saint)3-SmallNeedleWorm-2
+8089 LF_F02(X-Red,Artificer,Spear,Saint,Inv)3-BigNeedleWorm
+8090 LF_F02(X-Red,Artificer,Spear,Saint,Inv)3-SmallNeedleWorm-3
+8091 LF_F02(X-Red,Artificer,Spear,Saint,Inv)3-CicadaB-{PreCycle}-2
+8092 LF_F02(X-Red,Artificer,Spear,Saint,Inv)3-CicadaA-{PreCycle}-4
+8093 LF_E01(X-Yellow,Rivulet,Saint,Gourmand,Inv)3-Green
+8094 LF_E01(X-Yellow,Rivulet,Saint,Gourmand,Inv)2-Salamander-{PreCycle}
+8095 LF_E01(X-Yellow,Rivulet,Saint,Gourmand,Inv)3-TentaclePlant-{PreCycle}
+8096 LF_D08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Mimic-{13}
+8097 LF_D08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Mimic-{10}
+8098 LF_D08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Mimic-{15}
+8099 LF_D08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-Yellow-2
+8100 LF_D08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)9-Yellow-2
+8101 LF_D01(X-Gourmand,Yellow,Red,Artificer,Spear,Rivulet,Saint,Inv)2-Blue
+8102 LF_D01(X-Gourmand,Yellow,Red,Artificer,Spear,Rivulet,Saint,Inv)6-Salamander-{PreCycle}
+8103 LF_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Green
+8104 LF_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Blue
+8105 LF_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-CicadaA-2
+8106 LF_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-CicadaB-{PreCycle}-3
+8107 LF_C02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-CicadaA-{PreCycle}-3
+8108 LF_D03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-CicadaB
+8109 LF_D03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-CicadaA-2
+8110 LF_D03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Salamander-{PreCycle}
+8111 LINEAGE(X-Saint)LF_C034
+8112 LFOFFSCREEN(Gourmand)0-Deer-5
+8113 LFOFFSCREEN(Gourmand)0-Vulture
+8114 LFOFFSCREEN(Gourmand)0-KingVulture-2
+8115 LFOFFSCREEN(Gourmand)0-Scavenger-8
+8116 LFOFFSCREEN(Rivulet)0-Deer-4
+8117 LFOFFSCREEN(Rivulet)0-Vulture-3
+8118 LFOFFSCREEN(Rivulet)0-Scavenger-9
+8119 LFOFFSCREEN(Artificer)0-Deer-5
+8120 LFOFFSCREEN(Artificer)0-Vulture-2
+8121 LFOFFSCREEN(Artificer)0-KingVulture
+8122 LFOFFSCREEN(Artificer)0-Scavenger-19
+8123 LFOFFSCREEN(Spear)0-Deer-4
+8124 LFOFFSCREEN(Spear)0-Vulture
+8125 LFOFFSCREEN(Spear)0-KingVulture-2
+8126 LFOFFSCREEN(Spear)0-Scavenger-17
+8127 LFOFFSCREEN(Saint)0-Deer-4
+8128 LFOFFSCREEN(Saint)0-Vulture-4
+8129 LFOFFSCREEN(Saint)0-Scavenger-12
+8130 LFOFFSCREEN(Inv)0-Deer-6
+8131 LFOFFSCREEN(Inv)0-MirosVulture-3
+8132 LFOFFSCREEN(Inv)0-Scavenger-24
+8133 LF_D04(Saint)3-Centiwing-2
+8134 LF_C01(White)2-Caramel
+8135 LF_C01(White)3-TentaclePlant-{PreCycle}
+8136 LF_C01(Gourmand)2-Caramel
+8137 LF_C01(Gourmand)3-TentaclePlant-{PreCycle}
+8138 LF_C01(Red)2-Caramel
+8139 LF_C01(Red)3-TentaclePlant-{PreCycle}
+8140 LF_C01(Saint)2-Caramel
+8141 LF_C01(Saint)3-TentaclePlant-{PreCycle}
+8142 LF_C01(Inv)2-Caramel
+8143 LF_C01(Inv)3-TentaclePlant-{PreCycle}
+8144 LF_C03(Rivulet)3-Yeek-2
+8145 LF_C03(Rivulet)4-Yeek-3
+8146 LF_C03(Artificer)3-Small Centipede-2
+8147 LF_C03(Artificer)3-Small Centipede-2
+8148 LF_C03(Artificer)4-Centipede-2
+8149 LF_C03(Spear)3-Small Centipede-2
+8150 LF_C03(Spear)3-Small Centipede-2
+8151 LF_C03(Spear)4-Centipede-2
+8152 LF_C03(Saint)3-Yeek-{Winter}-2
+8153 LF_C03(Saint)4-Yeek-{Winter}-3
+8154 LF_C03(Inv)3-RedCentipede-2
+8155 LF_E02(Yellow)2-Caramel
+8156 LF_E02(Rivulet)2-Caramel
+8157 LF_E02(Inv)2-Caramel
+8158 LF_E02(Saint)2-Caramel
+8159 LF_E02(Saint)3-Yeek-{Winter}-6
+8160 LF_E02(Saint)5-Caramel
+8161 LF_A13(Rivulet)5-Eggbug
+8162 LF_A13(Rivulet)3-BigSpider
+8163 LF_A13(Rivulet)4-BigSpider
+8164 LF_A13(Inv)5-Eggbug
+8165 LF_A13(Inv)3-BigSpider
+8166 LF_A13(Inv)4-BigSpider
+8167 LF_A13(Saint)3-BigSpider-{Winter}
+8168 LF_A13(Saint)4-BigSpider-{Winter}
+8169 LF_D06(Artificer)5-Centipede
+8170 LF_D06(Artificer)5-Small Centipede-2
+8171 LF_D06(Artificer)4-Small Centipede-2
+8172 LF_D06(Spear)5-Centipede
+8173 LF_D06(Spear)5-Small Centipede-2
+8174 LF_D06(Spear)4-Small Centipede-2
+8175 LF_D06(Inv)5-RedCentipede
+8176 LF_D02(Saint)3-Centiwing
+8177 LF_F02(Artificer)3-Centiwing
+8178 LF_F02(Artificer)3-Centiwing
+8179 LF_F02(Artificer)5-CicadaA-3
+8180 LF_F02(Artificer)3-CicadaB-{PreCycle}-2
+8181 LF_F02(Artificer)3-CicadaA-{PreCycle}-4
+8182 LF_F02(Spear)3-Centiwing
+8183 LF_F02(Spear)3-Centiwing
+8184 LF_F02(Spear)5-CicadaA-3
+8185 LF_F02(Spear)3-CicadaB-{PreCycle}-2
+8186 LF_F02(Spear)3-CicadaA-{PreCycle}-4
+8187 LF_F02(Saint)3-Centiwing-2
+8188 LF_F02(Saint)3-CicadaB-{PreCycle}-2
+8189 LF_F02(Saint)3-CicadaA-{PreCycle}-4
+8190 LF_F02(Inv)5-RedCentipede
+8191 LF_F02(Inv)3-CicadaB-{PreCycle}-2
+8192 LF_F02(Inv)3-CicadaA-{PreCycle}-4
+8193 LF_E01(Rivulet)5-Caramel
+8194 LF_E01(Rivulet)2-Salamander-{PreCycle}
+8195 LF_E01(Rivulet)3-TentaclePlant-{PreCycle}
+8196 LF_E01(Saint)5-Caramel
+8197 LF_E01(Saint)2-Salamander-{PreCycle}
+8198 LF_E01(Saint)3-TentaclePlant-{PreCycle}
+8199 LF_E01(Gourmand)4-Red
+8200 LF_E01(Gourmand)2-Salamander-{PreCycle}
+8201 LF_E01(Gourmand)3-TentaclePlant-{PreCycle}
+8202 LF_E01(Inv)4-Red
+8203 LF_E01(Inv)2-Salamander-{PreCycle}
+8204 LF_E01(Inv)3-TentaclePlant-{PreCycle}
+8205 LF_D08(Rivulet)7-Mimic-{13}
+8206 LF_D08(Rivulet)3-Mimic-{10}
+8207 LF_D08(Rivulet)5-Mimic-{15}
+8208 LF_D08(Rivulet)6-Yellow-2
+8209 LF_D08(Rivulet)8-SpitterSpider-2
+8210 LF_D08(Rivulet)9-BigSpider-4
+8211 LF_D08(Artificer)7-Mimic-{13}
+8212 LF_D08(Artificer)3-Mimic-{10}
+8213 LF_D08(Artificer)5-Mimic-{15}
+8214 LF_D08(Artificer)8-SpitterSpider-2
+8215 LF_D08(Artificer)9-SpitterSpider
+8216 LF_D08(Artificer)9-BigSpider-2
+8217 LF_D08(Spear)7-Mimic-{13}
+8218 LF_D08(Spear)3-Mimic-{10}
+8219 LF_D08(Spear)5-Mimic-{15}
+8220 LF_D08(Spear)8-SpitterSpider-2
+8221 LF_D08(Spear)9-SpitterSpider
+8222 LF_D08(Spear)9-BigSpider-2
+8223 LF_D08(Saint)8-SpitterSpider-{Winter}-2
+8224 LF_D08(Saint)9-BigSpider-{Winter}-4
+8225 LF_D08(Inv)7-Mimic-{13}
+8226 LF_D08(Inv)3-Mimic-{10}
+8227 LF_D08(Inv)5-Mimic-{15}
+8228 LF_D08(Inv)8-SpitterSpider-2
+8229 LF_D08(Inv)9-SpitterSpider
+8230 LF_D08(Inv)9-SpitterSpider-2
+8231 LF_D01(Gourmand)5-Caramel
+8232 LF_D01(Gourmand)6-Salamander-{PreCycle}
+8233 LF_D01(Rivulet)3-CicadaA
+8234 LF_D01(Rivulet)4-CicadaA
+8235 LF_D01(Rivulet)5-Caramel
+8236 LF_D01(Rivulet)3-Centiwing
+8237 LF_D01(Rivulet)6-Salamander-{PreCycle}
+8238 LF_D01(Saint)5-Caramel
+8239 LF_D01(Saint)3-Centiwing
+8240 LF_D01(Saint)6-Salamander-{PreCycle}
+8241 LF_D01(Inv)3-CicadaA
+8242 LF_D01(Inv)4-CicadaA
+8243 LF_D01(Inv)5-Red
+8244 LF_D01(Inv)6-Salamander-{PreCycle}
+8245 LF_D01(Red)6-Salamander-{PreCycle}
+8246 LF_D01(Artificer)6-Salamander-{PreCycle}
+8247 LF_D01(Spear)6-Salamander-{PreCycle}
+8248 LF_C02(Rivulet)6-Caramel
+8249 LF_C02(Rivulet)4-CicadaA-2
+8250 LF_C02(Rivulet)5-CicadaB-{PreCycle}-3
+8251 LF_C02(Rivulet)6-CicadaA-{PreCycle}-3
+8252 LF_C02(Artificer)6-Caramel
+8253 LF_C02(Artificer)3-CicadaA-2
+8254 LF_C02(Artificer)5-CicadaB-{PreCycle}-3
+8255 LF_C02(Artificer)6-CicadaA-{PreCycle}-3
+8256 LF_C02(Spear)6-Caramel
+8257 LF_C02(Spear)3-CicadaA-2
+8258 LF_C02(Spear)5-CicadaB-{PreCycle}-3
+8259 LF_C02(Spear)6-CicadaA-{PreCycle}-3
+8260 LF_C02(Saint)6-Caramel
+8261 LF_C02(Saint)4-Yeek-{Winter}-5
+8262 LF_C02(Saint)5-Centiwing
+8263 LF_C02(Saint)5-CicadaB-{PreCycle}-3
+8264 LF_C02(Saint)6-CicadaA-{PreCycle}-3
+8265 LF_C02(Inv)6-Red
+8266 LF_C02(Inv)3-CicadaA-2
+8267 LF_C02(Inv)5-CicadaB-{PreCycle}-3
+8268 LF_C02(Inv)6-CicadaA-{PreCycle}-3
+8269 LF_D03(Rivulet)2-CicadaB
+8270 LF_D03(Rivulet)3-CicadaA-2
+8271 LF_D03(Rivulet)2-Centiwing
+8272 LF_D03(Rivulet)5-Centiwing
+8273 LF_D03(Rivulet)6-Caramel
+8274 LF_D03(Rivulet)6-Salamander-{PreCycle}
+8275 LF_D03(Artificer)5-CicadaA
+8276 LF_D03(Artificer)6-Centipede
+8277 LF_D03(Artificer)6-Salamander-{PreCycle}
+8278 LF_D03(Spear)5-CicadaA
+8279 LF_D03(Spear)6-Centipede
+8280 LF_D03(Spear)6-Salamander-{PreCycle}
+8281 LF_D03(Saint)2-Centiwing
+8282 LF_D03(Saint)5-Centiwing
+8283 LF_D03(Saint)6-Caramel
+8284 LF_D03(Saint)6-Salamander-{PreCycle}
+8285 LF_D03(Inv)5-CicadaA
+8286 LF_D03(Inv)6-RedCentipede
+8287 LF_D03(Inv)6-Salamander-{PreCycle}
+8288 LF_E04(Rivulet)5-Caramel
+8289 LF_E04(Saint)5-Caramel
+8290 LF_E04(Artificer)3-Centipede
+8291 LF_E04(Spear)3-Centipede
+8292 LF_E04(Inv)3-RedCentipede
+8293 LF_B03(Saint)3-Centipede-4
+8294 LINEAGE(Artificer)LF_E023
+8295 LINEAGE(Spear)LF_E023
+8296 LINEAGE(Inv)LF_E023
+8297 LINEAGE(Rivulet)LF_E014
+8298 LINEAGE(Saint)LF_E014
+8299 LINEAGE(Gourmand)LF_E032
+8300 LINEAGE(Rivulet)LF_E032
+8301 LINEAGE(Saint)LF_E032
+8302 LINEAGE(Artificer)LF_D032
+8303 LINEAGE(Spear)LF_D032
+8304 LINEAGE(Artificer)LF_D033
+8305 LINEAGE(Spear)LF_D033
+8306 LINEAGE(Artificer)LF_B033
+8307 LINEAGE(Spear)LF_B033
+8308 LINEAGE(Artificer)LF_C026
+8309 LINEAGE(Spear)LF_C026
+8310 LINEAGE(Artificer)LF_E045
+8311 LINEAGE(Spear)LF_E045
+8312 LINEAGE(Inv)LF_D032
+8313 LINEAGE(Inv)LF_D033
+8314 LINEAGE(Inv)LF_B033
+8315 LINEAGE(Inv)LF_C026
+8316 LINEAGE(Inv)LF_F024
+8317 LINEAGE(Inv)LF_E045
+9000 UW_A073-Tube
+9001 UW_A074-Tube
+9002 UW_A075-Tube
+9003 UW_E013-Blue
+9004 UW_E012-White
+9005 UW_E013-Cyan-{Night}
+9006 UW_E014-Mimic-{18}
+9007 UW_E015-Mimic-{16}
+9008 UW_C062-Tube
+9009 UW_C063-Tube
+9010 UW_C064-Tube
+9011 UW_C066-Tube
+9012 LINEAGEUW_J0211
+9013 UW_E03(White)4-Daddy
+9014 UW_E03(White)8-White
+9015 UW_A09(White)5-Tube
+9016 UW_A09(White)3-Tube
+9017 UW_A09(White)4-White
+9018 UW_E04(White)3-Daddy
+9019 UW_E04(White)6-Tube
+9020 UW_E04(White)7-Tube
+9021 UW_I01(White)5-Yellow-2
+9022 UW_I01(White)6-Yellow-2
+9023 UW_D03(White)3-Daddy
+9024 UW_J02(White)5-Daddy
+9025 UW_J02(White)16-Yellow
+9026 UW_J02(White)19-Yellow
+9027 UW_J02(White)17-Yellow-2
+9028 UW_J02(White)13-Tube
+9029 UW_J02(White)14-Tube
+9030 UW_J01(White)3-Cyan-{Night}
+9031 UW_J01(White)4-Cyan-{Night}
+9032 UW_J01(White)5-Cyan-{Night}
+9033 UW_J01(White)3-Yellow
+9034 UW_J01(White)4-Yellow
+9035 UW_J01(White)5-Yellow
+9036 UW_J01(White)6-Yellow-2
+9037 LINEAGE(White)UW_D023
+9038 LINEAGE(White)UW_E025
+9039 UW_D04(White)4-Daddy
+9040 UW_D04(White)5-Tube
+9041 UW_D04(White)6-Tube
+9042 UW_D04(White)7-Tube
+9043 UW_D04(Yellow)4-Daddy
+9044 UW_D04(Yellow)5-Tube
+9045 UW_D04(Yellow)6-Tube
+9046 UW_D04(Yellow)7-Tube
+9047 UW_D03(Yellow)3-White-{Mean:-0.05}
+9048 UW_D02(Yellow)3-White-{Mean:-0.05}
+9049 UW_E03(Yellow)4-Daddy
+9050 UW_E03(Yellow)8-White-{Mean:-0.05}
+9051 UW_A09(Yellow)5-Tube
+9052 UW_A09(Yellow)3-Tube
+9053 UW_E04(Yellow)3-White-{Mean:-0.05}
+9054 UW_E04(Yellow)6-Tube
+9055 UW_E04(Yellow)7-Tube
+9056 UW_I01(Yellow)5-Yellow
+9057 UW_I01(Yellow)6-Yellow
+9058 UW_J02(Yellow)5-Daddy
+9059 UW_J02(Yellow)19-Yellow
+9060 UW_J02(Yellow)17-Yellow
+9061 UW_J02(Yellow)13-Tube
+9062 UW_J02(Yellow)14-Tube
+9063 UW_J01(Yellow)3-Yellow-{Ignorecycle}
+9064 UW_J01(Yellow)4-Yellow-{Ignorecycle}
+9065 UW_J01(Yellow)5-Yellow-{Ignorecycle}
+9066 UW_J01(Yellow)6-Yellow-{Ignorecycle}
+9067 UWOFFSCREEN(Red)0-KingVulture
+9068 UW_I01(Red)5-Cyan-2
+9069 UW_I01(Red)6-Cyan-2
+9070 UW_J01(Red)3-Cyan-{Ignorecycle}
+9071 UW_J01(Red)4-Cyan
+9072 UW_J01(Red)5-Cyan-{Ignorecycle}
+9073 UW_J01(Red)6-Cyan-2
+9074 UW_E03(Red)8-White-{Mean:1.0}
+9075 UW_E03(Red)3-SpitterSpider
+9076 UW_E03(Red)4-BigSpider-2
+9077 UW_E03(Red)5-BigSpider
+9078 UW_E03(Red)6-BigSpider
+9079 UW_E03(Red)7-SpitterSpider
+9080 UW_E03(Red)9-SpitterSpider
+9081 UW_D02(Red)3-White-{Mean:1.0}
+9082 UW_D02(Red)4-SpitterSpider
+9083 UW_E02(Red)3-BigSpider
+9084 UW_E02(Red)4-BigSpider
+9085 UW_E02(Red)6-White-{Mean:1.0}
+9086 UW_E02(Red)6-Mimic
+9087 UW_D03(Red)2-Cyan-2
+9088 UW_D03(Red)3-SpitterSpider
+9089 UW_D04(Red)4-Dropbug
+9090 UW_D04(Red)3-Dropbug
+9091 UW_D04(Red)5-Tube
+9092 UW_D04(Red)6-Tube
+9093 UW_D04(Red)7-Tube
+9094 LINEAGE(Red)UW_D024
+9095 UW_J02(Red)5-Daddy
+9096 UW_J02(Red)16-Cyan
+9097 UW_J02(Red)19-Cyan
+9098 UW_J02(Red)17-Cyan
+9099 UW_J02(Red)13-Tube
+9100 UW_J02(Red)14-Tube
+9101 UW_E04(Red)3-White
+9102 UW_E04(Red)6-Tube
+9103 UW_E04(Red)7-Tube
+9104 UW_D06(Red)3-Tube
+9105 UW_C04(Red)3-White-{Mean:0.7}
+9106 UW_C04(Red)5-Tube-2
+9107 UW_A09(Red)4-White-{Mean:0.7}
+9108 LINEAGE(Red)UW_D074
+9109 UW_C01(X-Spear,Inv)2-Tube-2
+9110 UW_C01(X-Spear,Inv)4-Daddy
+9111 UW_C02(X-Rivulet)4-Yellow
+9112 UW_C02(X-Rivulet)5-Yellow
+9113 UW_C02(X-Rivulet)2-Tube
+9114 UW_C02(X-Rivulet)3-Tube
+9115 UW_A02(X-Rivulet)2-White
+9116 UW_A02(X-Rivulet)2-SpitterSpider-{Night}
+9117 UW_E02(X-Red,Artificer,Spear,Inv)6-Mimic
+9118 UW_F01(X-Spear)4-White
+9119 UW_F01(X-Spear)5-White
+9120 UW_F01(X-Spear)2-BigSpider-{Night}
+9121 UW_F01(X-Spear)4-CicadaB-{PreCycle}-2
+9122 UW_F01(X-Spear)3-CicadaA-{PreCycle}-5
+9123 UW_C04(X-Red,Artificer,Spear,Inv)5-Tube-2
+9124 UW_D01(X-Yellow,Rivulet)2-Dropbug
+9125 UW_D01(X-Yellow,Rivulet)2-Eggbug-{PreCycle}
+9126 UW_D06(X-Red,Artificer,Spear,Inv)3-Tube-2
+9127 UWOFFSCREEN(Artificer)0-KingVulture
+9128 UWOFFSCREEN(Artificer)0-MirosVulture-3
+9129 UWOFFSCREEN(Artificer)0-Scavenger-8
+9130 UWOFFSCREEN(Artificer)0-EliteScavenger-{Night}-3
+9131 UWOFFSCREEN(Spear)0-KingVulture
+9132 UWOFFSCREEN(Spear)0-Vulture-2
+9133 UWOFFSCREEN(Spear)0-MirosVulture-3
+9134 UWOFFSCREEN(Spear)0-Scavenger-8
+9135 UWOFFSCREEN(Spear)0-EliteScavenger-{Night}-3
+9136 UWOFFSCREEN(Inv)0-MirosVulture-7
+9137 UW_C01(Spear)2-Tube-2
+9138 UW_C01(Spear)3-BigSpider
+9139 UW_C01(Spear)4-Cyan
+9140 UW_C01(Inv)2-Tube-2
+9141 UW_C01(Inv)4-Daddy-{AlternateForm}
+9142 UW_A02(Rivulet)2-White
+9143 UW_E02(Artificer)3-BigSpider
+9144 UW_E02(Artificer)4-BigSpider
+9145 UW_E02(Artificer)6-White-{Mean:1.0}
+9146 UW_E02(Artificer)6-Mimic
+9147 UW_E02(Spear)4-SpitterSpider
+9148 UW_E02(Spear)3-White
+9149 UW_E02(Spear)6-Mimic
+9150 UW_E02(Inv)3-SpitterSpider
+9151 UW_E02(Inv)4-SpitterSpider
+9152 UW_E02(Inv)6-Red
+9153 UW_E02(Inv)6-Mimic
+9154 UW_F01(Spear)3-Mimic-{12}
+9155 UW_F01(Spear)4-White
+9156 UW_F01(Spear)5-White
+9157 UW_F01(Spear)2-BigSpider-{Night}
+9158 UW_F01(Spear)4-CicadaB-{PreCycle}-2
+9159 UW_F01(Spear)3-CicadaA-{PreCycle}-5
+9160 UW_C04(Artificer)3-White-{Mean:0.7}
+9161 UW_C04(Artificer)5-Tube-2
+9162 UW_C04(Spear)3-White-{Mean:0.7}
+9163 UW_C04(Spear)5-Tube-2
+9164 UW_C04(Inv)3-Red
+9165 UW_C04(Inv)5-Tube-2
+9166 UW_D01(Yellow)2-Eggbug-{PreCycle}
+9167 UW_D01(Rivulet)2-Eggbug-{PreCycle}
+9168 UW_D06(Artificer)3-Tube
+9169 UW_D06(Spear)3-Tube
+9170 UW_D06(Inv)3-Tube
+9171 UW_D04(Artificer)4-Dropbug
+9172 UW_D04(Artificer)3-Dropbug
+9173 UW_D04(Artificer)5-Tube
+9174 UW_D04(Artificer)6-Tube
+9175 UW_D04(Artificer)7-Tube
+9176 UW_D04(Spear)3-Dropbug
+9177 UW_D04(Spear)4-Cyan-2
+9178 UW_D04(Spear)5-SpitterSpider
+9179 UW_D04(Spear)6-Tube
+9180 UW_D04(Spear)7-Tube
+9181 UW_D04(Rivulet)4-Daddy
+9182 UW_D04(Rivulet)5-Tube
+9183 UW_D04(Rivulet)6-Tube
+9184 UW_D04(Rivulet)7-Tube
+9185 UW_D04(Inv)4-Daddy-{AlternateForm}
+9186 UW_D04(Inv)3-Dropbug
+9187 UW_D04(Inv)5-Dropbug
+9188 UW_D04(Inv)6-Tube
+9189 UW_D04(Inv)7-Tube
+9190 UW_J01(Gourmand)3-Cyan-{Night}
+9191 UW_J01(Gourmand)4-Cyan-{Night}
+9192 UW_J01(Gourmand)5-Cyan-{Night}
+9193 UW_J01(Gourmand)3-Yellow
+9194 UW_J01(Gourmand)4-Yellow
+9195 UW_J01(Gourmand)5-Yellow
+9196 UW_J01(Gourmand)6-Yellow-2
+9197 LINEAGE(White)UW_D074
+9198 LINEAGE(Gourmand)UW_D074
+9199 UW_J01(Artificer)3-Cyan-{Ignorecycle}
+9200 UW_J01(Artificer)4-Cyan
+9201 UW_J01(Artificer)5-Cyan-{Ignorecycle}
+9202 UW_J01(Artificer)6-Cyan-2
+9203 UW_J01(Spear)3-Cyan-{Ignorecycle}
+9204 UW_J01(Spear)4-Cyan
+9205 UW_J01(Spear)5-Cyan-{Ignorecycle}
+9206 UW_J01(Spear)6-Cyan-2
+9207 UW_J01(Inv)3-Cyan-{Ignorecycle}
+9208 UW_J01(Inv)4-Cyan
+9209 UW_J01(Inv)5-Cyan-{Ignorecycle}
+9210 UW_J01(Inv)6-Cyan-2
+9211 UW_E03(Artificer)8-White-{Mean:1.0}
+9212 UW_E03(Artificer)3-SpitterSpider
+9213 UW_E03(Artificer)4-BigSpider-2
+9214 UW_E03(Artificer)5-BigSpider
+9215 UW_E03(Artificer)6-BigSpider
+9216 UW_E03(Artificer)7-SpitterSpider
+9217 UW_E03(Artificer)9-SpitterSpider
+9218 UW_E03(Spear)8-White-{Mean:1.0}
+9219 UW_E03(Spear)3-SpitterSpider
+9220 UW_E03(Spear)4-BigSpider-2
+9221 UW_E03(Spear)5-BigSpider
+9222 UW_E03(Spear)6-BigSpider
+9223 UW_E03(Spear)7-SpitterSpider
+9224 UW_E03(Spear)9-SpitterSpider
+9225 UW_E03(Inv)8-Red
+9226 UW_E03(Inv)3-SpitterSpider
+9227 UW_E03(Inv)4-SpitterSpider-2
+9228 UW_E03(Inv)5-SpitterSpider
+9229 UW_E03(Inv)6-SpitterSpider
+9230 UW_E03(Inv)7-SpitterSpider
+9231 UW_E03(Inv)9-SpitterSpider
+9232 UW_I01(Artificer)5-Cyan-2
+9233 UW_I01(Artificer)6-Cyan-2
+9234 UW_I01(Spear)5-Cyan-2
+9235 UW_I01(Spear)6-Cyan-2
+9236 UW_D02(Artificer)3-White-{Mean:1.0}
+9237 UW_D02(Artificer)4-SpitterSpider
+9238 UW_D02(Spear)3-White-{Mean:1.0}
+9239 UW_D02(Spear)4-SpitterSpider
+9240 UW_D02(Rivulet)3-Daddy
+9241 UW_D02(Inv)3-Red
+9242 UW_D02(Inv)4-SpitterSpider
+9243 UW_D03(Artificer)2-Cyan-2
+9244 UW_D03(Artificer)3-SpitterSpider
+9245 UW_D03(Inv)2-Cyan-2
+9246 UW_D03(Inv)3-SpitterSpider
+9247 UW_D03(Spear)2-Cyan-2
+9248 UW_D03(Spear)3-White-{Mean:-0.05}
+9249 LINEAGE(Artificer)UW_D024
+9250 LINEAGE(Spear)UW_D024
+9251 LINEAGE(Inv)UW_D024
+9252 UW_J02(Artificer)5-Daddy
+9253 UW_J02(Artificer)16-Cyan
+9254 UW_J02(Artificer)19-Cyan
+9255 UW_J02(Artificer)17-Cyan
+9256 UW_J02(Artificer)13-Tube
+9257 UW_J02(Artificer)14-Tube
+9258 UW_E04(Artificer)3-White
+9259 UW_E04(Artificer)6-Tube
+9260 UW_E04(Artificer)7-Tube
+9261 UW_E04(Spear)3-White
+9262 UW_E04(Spear)4-Dropbug
+9263 UW_E04(Spear)5-Cyan-2
+9264 UW_E04(Spear)6-Tube
+9265 UW_E04(Spear)7-Tube
+9266 UW_A09(Artificer)4-White-{Mean:0.7}
+9267 UW_A09(Spear)4-White-{Mean:0.7}
+9268 LINEAGE(Artificer)UW_D074
+9269 LINEAGE(Spear)UW_D074
+9270 LINEAGE(Inv)UW_D074
+9271 UW_A01(Spear)3-Dropbug
+9272 UW_A01(Inv)3-Dropbug
+9273 UW_E03(Gourmand)4-Daddy
+9274 UW_E03(Gourmand)8-White
+9275 UW_E03(Rivulet)4-Daddy
+9276 UW_E03(Rivulet)8-Daddy
+9277 UW_A09(Gourmand)5-Tube
+9278 UW_A09(Gourmand)3-Tube
+9279 UW_A09(Gourmand)4-White
+9280 UW_A09(Rivulet)5-Tube
+9281 UW_A09(Rivulet)3-Tube
+9282 UW_E04(Gourmand)3-Daddy
+9283 UW_E04(Gourmand)6-Tube
+9284 UW_E04(Gourmand)7-Tube
+9285 UW_A09(Inv)4-Red
+9286 UW_E04(Inv)3-Red
+9287 UW_E04(Inv)6-Tube
+9288 UW_E04(Inv)7-Tube
+9289 UW_I01(Gourmand)5-Yellow-2
+9290 UW_I01(Gourmand)6-Yellow-2
+9291 UW_I01(Rivulet)5-Daddy
+9292 UW_I01(Inv)5-Cyan-2
+9293 UW_I01(Inv)6-Cyan-2
+9294 UW_D03(Gourmand)3-Daddy
+9295 UW_D03(Rivulet)3-Daddy
+9296 UW_J02(Gourmand)5-Daddy
+9297 UW_J02(Gourmand)16-Yellow
+9298 UW_J02(Gourmand)19-Yellow
+9299 UW_J02(Gourmand)17-Yellow-2
+9300 UW_J02(Gourmand)13-Tube
+9301 UW_J02(Gourmand)14-Tube
+9302 UW_J02(Spear)16-Yellow
+9303 UW_J02(Spear)19-Yellow
+9304 UW_J02(Spear)17-Yellow-2
+9305 UW_J02(Spear)13-Tube
+9306 UW_J02(Spear)14-Tube
+9307 UW_J02(Inv)5-Daddy-{AlternateForm}
+9308 UW_J02(Inv)16-Cyan
+9309 UW_J02(Inv)19-Cyan
+9310 UW_J02(Inv)17-Cyan
+9311 UW_J02(Inv)13-Tube
+9312 UW_J02(Inv)14-Tube
+9313 LINEAGE(Gourmand)UW_D023
+9314 LINEAGE(Gourmand)UW_E025
+9315 UW_J01(Rivulet)3-Yellow-{Ignorecycle}
+9316 UW_J01(Rivulet)4-Yellow-{Ignorecycle}
+9317 UW_J01(Rivulet)5-Yellow-{Ignorecycle}
+9318 UW_J01(Rivulet)6-Yellow-{Ignorecycle}
+9319 UW_D07(Yellow)4-Tube
+9320 UW_D07(Rivulet)4-Tube
+9321 UW_E04RIV(Rivulet)3-Daddy
+9322 UW_E04RIV(Rivulet)5-Tube
+9323 UW_J02RIV(Rivulet)5-Daddy
+9324 UW_J02RIV(Rivulet)8-Tube-2
+9325 UW_C01RIV(Rivulet)2-Tube-2
+9326 UW_C01RIV(Rivulet)3-Daddy
+10000 SB_A043-TentaclePlant
+10001 SB_G033-TentaclePlant
+10002 SB_G034-Centipede
+10003 SB_G035-Centipede
+10004 SB_G036-Centipede
+10005 SB_J014-Centipede
+10006 SB_J016-Centipede
+10007 LINEAGESB_B013
+10008 LINEAGESB_B014
+10009 LINEAGESB_A013
+10010 SB_H02(Yellow)4-Centipede-{0.7}
+10011 SB_H02(Yellow)6-Small Centipede-3
+10012 SB_H02(Yellow)7-Centipede-2
+10013 SB_E04(Yellow)6-Centipede
+10014 SBOFFSCREEN(Yellow)0-Miros-5
+10015 SBOFFSCREEN(Yellow)0-Scavenger-10
+10016 SBOFFSCREEN(Yellow)0-Leviathan
+10017 SB_J02(Yellow)3-Salamander
+10018 SB_J02(Yellow)4-Salamander
+10019 SB_J02(Yellow)5-Eel-{PreCycle}-2
+10020 SB_H03(Yellow)10-Small Centipede-2
+10021 SB_H03(Yellow)7-Small Centipede
+10022 SB_H03(Yellow)7-Blue
+10023 SB_H03(Yellow)9-Small Centipede-3
+10024 SB_C07(Yellow)2-Salamander
+10025 SB_F02(Yellow)5-Black
+10026 SB_F02(Yellow)6-Black
+10027 SB_F02(Yellow)8-Black
+10028 SB_I01(Yellow)9-Black
+10029 SB_I01(Yellow)10-Black
+10030 SB_I01(Yellow)11-Black
+10031 SB_I01(Yellow)12-Black
+10032 SB_I01(Yellow)13-Black
+10033 SB_C06(Yellow)4-Black
+10034 SB_F01(Yellow)3-Black
+10035 SB_F01(Yellow)4-Black
+10036 SB_F01(Yellow)5-Black
+10037 SBOFFSCREEN(Red)0-Miros-10
+10038 SBOFFSCREEN(Red)0-Scavenger-15
+10039 SBOFFSCREEN(Red)0-Leviathan
+10040 SB_H03(Red)10-Centipede-2
+10041 SB_H03(Red)6-SpitterSpider
+10042 SB_H03(Red)7-BigSpider-3
+10043 SB_H03(Red)8-BigSpider-2
+10044 SB_H03(Red)9-BigSpider-2
+10045 SB_H03(Red)6-Centipede-2
+10046 SB_C06(Red)3-Black
+10047 SB_C06(Red)4-Black-2
+10048 SB_F02(Red)5-Black
+10049 SB_F02(Red)6-Black
+10050 SB_F02(Red)7-Black
+10051 SB_F02(Red)8-Black-2
+10052 SB_J03(Red)8-Black
+10053 SB_J03(Red)7-Black
+10054 SB_J03(Red)4-TentaclePlant
+10055 SB_J03(Red)5-Small Centipede-3
+10056 SB_J03(Red)6-Centipede-3
+10057 SB_J03(Red)5-Salamander-{PreCycle}
+10058 SB_J02(Red)3-Cyan-3
+10059 SB_J02(Red)5-JetFish
+10060 SB_J02(Red)5-Eel-{PreCycle}-2
+10061 SB_G02(Red)3-DropBug-2
+10062 SB_G02(Red)4-Centipede
+10063 SB_G02(Red)10-TentaclePlant
+10064 SB_G02(Red)5-Centipede-2
+10065 SB_G02(Red)6-TentaclePlant
+10066 SB_G02(Red)5-Salamander-{PreCycle}
+10067 SB_E02(Red)3-DropBug-2
+10068 SB_E02(Red)6-TentaclePlant
+10069 SB_E02(Red)7-TentaclePlant
+10070 SB_E02(Red)5-Centipede
+10071 SB_E02(Red)10-Centipede
+10072 SB_E02(Red)8-Centipede
+10073 SB_C01(Red)2-TentaclePlant
+10074 SB_C01(Red)7-Black
+10075 SB_C01(Red)9-Black
+10076 SB_C01(Red)4-DropBug
+10077 SB_B02(Red)3-TentaclePlant
+10078 SB_B02(Red)2-DropBug
+10079 SB_B02(Red)3-Salamander-{PreCycle}
+10080 SB_B02(Red)2-Eel-{PreCycle}
+10081 SB_E04(Red)6-SpitterSpider
+10082 SB_E04(Red)6-MotherSpider
+10083 SB_A03(Red)3-DropBug
+10084 SB_A03(Red)4-TentaclePlant
+10085 SB_A03(Red)5-Cyan-2
+10086 SB_F01(Red)3-SpitterSpider
+10087 SB_F01(Red)4-SpitterSpider-2
+10088 SB_F01(Red)5-BigSpider
+10089 SB_D04(Red)9-Black
+10090 SB_D04(Red)5-BigSpider
+10091 SB_D04(Red)6-BigSpider
+10092 LINEAGE(Red)SB_J024
+10093 LINEAGE(Red)SB_C073
+10094 LINEAGE(Red)SB_E045
+10095 LINEAGE(Red)SB_A036
+10096 LINEAGE(Red)SB_E024
+10097 LINEAGE(White)SB_A044
+10098 LINEAGE(Red)SB_A044
+10099 SBOFFSCREEN(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Miros-7
+10100 SBOFFSCREEN(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Scavenger-10
+10101 SBOFFSCREEN(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Leviathan
+10102 SB_C01(X-Gourmand,Red,Artificer,Spear,Inv,Saint)2-TentaclePlant
+10103 SB_C01(X-Gourmand,Red,Artificer,Spear,Inv,Saint)7-Black
+10104 SB_C01(X-Gourmand,Red,Artificer,Spear,Inv,Saint)9-Black
+10105 SB_G02(X-Red,Artificer,Spear,Gourmand,Saint,Inv)4-Centipede
+10106 SB_G02(X-Red,Artificer,Spear,Gourmand,Saint,Inv)10-TentaclePlant
+10107 SB_G02(X-Red,Artificer,Spear,Gourmand,Saint,Inv)5-Centipede-2
+10108 SB_G02(X-Red,Artificer,Spear,Gourmand,Saint,Inv)6-TentaclePlant
+10109 SB_G02(X-Red,Artificer,Spear,Gourmand,Saint,Inv)5-Salamander-{PreCycle}
+10110 SB_E02(X-Gourmand,Red,Artificer,Spear,Saint,Inv)6-TentaclePlant
+10111 SB_E02(X-Gourmand,Red,Artificer,Spear,Saint,Inv)7-TentaclePlant
+10112 SB_E02(X-Gourmand,Red,Artificer,Spear,Saint,Inv)5-Centipede
+10113 SB_E02(X-Gourmand,Red,Artificer,Spear,Saint,Inv)10-Centipede
+10114 SB_E02(X-Gourmand,Red,Artificer,Spear,Saint,Inv)8-Centipede
+10115 SB_B02(X-Red,Artificer,Spear,Gourmand,Inv,Saint)3-TentaclePlant
+10116 SB_B02(X-Red,Artificer,Spear,Gourmand,Inv,Saint)3-Salamander-{PreCycle}
+10117 SB_B02(X-Red,Artificer,Spear,Gourmand,Inv,Saint)2-Eel-{PreCycle}
+10118 SB_A01(X-Rivulet)3-Small Centipede-4
+10119 SB_A01(X-Rivulet)4-Centipede-2
+10120 SB_J02(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Salamander
+10121 SB_J02(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Salamander-3
+10122 SB_J02(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Eel-{PreCycle}-2
+10123 SB_H03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)10-Small Centipede-2
+10124 SB_H03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Caramel
+10125 SB_H03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-Blue-2
+10126 SB_H03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)9-Small Centipede-3
+10127 SB_C07(X-Yellow,Rivulet,Artificer,Spear,Gourmand,Saint,Inv)2-Salamander
+10128 SB_C07(X-Yellow,Rivulet,Artificer,Spear,Gourmand,Saint,Inv)3-Salamander
+10129 SB_H02(X-Yellow,Rivulet,Artificer,Spear,Saint,Inv)4-Centipede-3
+10130 SB_H02(X-Yellow,Rivulet,Artificer,Spear,Saint,Inv)5-BigSpider-5
+10131 SB_H02(X-Yellow,Rivulet,Artificer,Spear,Saint,Inv)7-Centipede-4
+10132 SB_H02(X-Yellow,Rivulet,Artificer,Spear,Saint,Inv)5-Red Centipede
+10133 SB_F02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Black
+10134 SB_F02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Black
+10135 SB_F02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Black
+10136 SB_F02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Black
+10137 SB_E04(X-Yellow,Red,Artificer,Spear,Inv)5-Centipede
+10138 SB_C06(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Black
+10139 SB_C06(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Black
+10140 SB_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Black
+10141 SB_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Black-2
+10142 SB_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Black
+10143 SB_J03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)7-Black
+10144 SB_J03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)4-TentaclePlant
+10145 SB_J03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)5-Small Centipede-3
+10146 SB_J03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)6-Centipede-2
+10147 SB_J03(X-Rivulet,Red,Artificer,Spear,Saint,Inv)5-Salamander-{PreCycle}
+10148 SB_I01(X-Yellow,Rivulet,Saint)8-Black
+10149 SB_I01(X-Yellow,Rivulet,Saint)9-Black
+10150 SB_I01(X-Yellow,Rivulet,Saint)10-Black
+10151 SB_I01(X-Yellow,Rivulet,Saint)11-Black
+10152 SB_I01(X-Yellow,Rivulet,Saint)12-Black
+10153 SB_I01(X-Yellow,Rivulet,Saint)13-Black
+10154 SB_A03(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)4-TentaclePlant
+10155 SB_A03(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Caramel
+10156 SB_C02(X-Saint)3-TentaclePlant
+10157 SB_C02(X-Saint)4-JetFish
+10158 SB_C02(X-Saint)2-Eel-{PreCycle}-2
+10159 SB_TESTC(X-Yellow,Rivulet,Saint)2-TentaclePlant
+10160 SB_TESTC(X-Yellow,Rivulet,Saint)5-Caramel
+10161 SB_TESTC(X-Yellow,Rivulet,Saint)4-Small Centipede-5
+10162 SB_TESTC(X-Yellow,Rivulet,Saint)5-Salamander-{PreCycle}
+10163 SB_TESTB(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)2-Salamander
+10164 SB_TESTB(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)3-Small Centipede-3
+10165 SB_E07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-Black-2
+10166 SB_C10(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)17-TentaclePlant
+10167 SB_C10(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)5-BigSpider-2
+10168 SB_GOR01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)3-Small Centipede-5
+10169 SB_GOR01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)5-Blue
+10170 SB_GOR01(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)6-Small Centipede-5
+10171 SB_C11(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)2-Centipede-2
+10172 SB_J10(X-Yellow,Red,Artificer,Spear,Saint)3-TentaclePlant
+10173 SB_J10(X-Yellow,Red,Artificer,Spear,Saint)4-Centipede
+10174 SB_J10(X-Yellow,Red,Artificer,Spear,Saint)6-Small Centipede-2
+10175 SB_G04(X-Gourmand,Red,Artificer,Spear,Inv,Saint)15-Black
+10176 SB_G04(X-Gourmand,Red,Artificer,Spear,Inv,Saint)17-Black
+10177 SB_G04(X-Gourmand,Red,Artificer,Spear,Inv,Saint)7-MotherSpider
+10178 LINEAGE(X-Saint)SB_B024
+10179 LINEAGE(X-Saint)SB_B025
+10180 LINEAGE(X-Red,Artificer,Spear,Saint,Inv)SB_A036
+10181 SBOFFSCREEN(Rivulet)0-Miros-6
+10182 SBOFFSCREEN(Rivulet)0-Scavenger-11
+10183 SBOFFSCREEN(Rivulet)0-Leviathan
+10184 SBOFFSCREEN(Artificer)0-Miros-8
+10185 SBOFFSCREEN(Artificer)0-Scavenger-21
+10186 SBOFFSCREEN(Artificer)0-Leviathan
+10187 SBOFFSCREEN(Spear)0-Miros-7
+10188 SBOFFSCREEN(Spear)0-Scavenger-18
+10189 SBOFFSCREEN(Spear)0-Leviathan
+10190 SBOFFSCREEN(Saint)0-Miros-{Ignorecycle}-11
+10191 SBOFFSCREEN(Saint)0-Scavenger-17
+10192 SBOFFSCREEN(Saint)0-Leviathan
+10193 SBOFFSCREEN(Inv)0-Miros-10
+10194 SBOFFSCREEN(Inv)0-MirosVulture-3
+10195 SBOFFSCREEN(Inv)0-Scavenger-15
+10196 SBOFFSCREEN(Inv)0-Leviathan
+10197 SB_C01(Gourmand)2-TentaclePlant
+10198 SB_C01(Gourmand)7-Black
+10199 SB_C01(Gourmand)9-Black
+10200 SB_C01(Gourmand)4-DropBug
+10201 SB_C01(Artificer)2-TentaclePlant
+10202 SB_C01(Artificer)7-Black
+10203 SB_C01(Artificer)9-Black
+10204 SB_C01(Artificer)4-DropBug
+10205 SB_C01(Spear)2-TentaclePlant
+10206 SB_C01(Spear)7-Black
+10207 SB_C01(Spear)9-Black
+10208 SB_C01(Spear)4-DropBug
+10209 SB_C01(Inv)2-TentaclePlant
+10210 SB_C01(Inv)7-Black
+10211 SB_C01(Inv)9-Black
+10212 SB_C01(Inv)4-DropBug
+10213 SB_C01(Saint)2-TentaclePlant
+10214 SB_C01(Saint)7-Black
+10215 SB_C01(Saint)9-Yeek-{Winter}-5
+10216 SB_C01(Saint)9-Black
+10217 SB_G02(Artificer)3-DropBug-2
+10218 SB_G02(Artificer)4-Centipede
+10219 SB_G02(Artificer)10-TentaclePlant
+10220 SB_G02(Artificer)5-Centipede-2
+10221 SB_G02(Artificer)6-TentaclePlant
+10222 SB_G02(Artificer)5-Salamander-{PreCycle}
+10223 SB_G02(Spear)3-DropBug-2
+10224 SB_G02(Spear)4-Centipede
+10225 SB_G02(Spear)10-TentaclePlant
+10226 SB_G02(Spear)5-Centipede-2
+10227 SB_G02(Spear)6-TentaclePlant
+10228 SB_G02(Spear)5-Salamander-{PreCycle}
+10229 SB_G02(Gourmand)3-DropBug-2
+10230 SB_G02(Gourmand)4-Centipede
+10231 SB_G02(Gourmand)10-TentaclePlant
+10232 SB_G02(Gourmand)5-Centipede-2
+10233 SB_G02(Gourmand)6-TentaclePlant
+10234 SB_G02(Gourmand)5-Salamander-{PreCycle}
+10235 SB_G02(Inv)3-DropBug-2
+10236 SB_G02(Inv)5-Salamander-{PreCycle}
+10237 SB_G02(Saint)4-Lantern Mouse-5
+10238 SB_G02(Saint)10-TentaclePlant
+10239 SB_G02(Saint)5-Centipede-2
+10240 SB_G02(Saint)6-TentaclePlant
+10241 SB_G02(Saint)5-Salamander-{PreCycle}
+10242 SB_E02(Gourmand)3-DropBug-3
+10243 SB_E02(Gourmand)6-TentaclePlant
+10244 SB_E02(Gourmand)7-TentaclePlant
+10245 SB_E02(Gourmand)5-Centipede
+10246 SB_E02(Gourmand)10-Centipede
+10247 SB_E02(Gourmand)8-Centipede
+10248 SB_E02(Inv)3-DropBug-3
+10249 SB_E02(Inv)6-TentaclePlant
+10250 SB_E02(Inv)7-TentaclePlant
+10251 SB_E02(Inv)5-Centipede
+10252 SB_E02(Inv)10-Centipede
+10253 SB_E02(Inv)8-Centipede
+10254 SB_E02(Artificer)3-DropBug-2
+10255 SB_E02(Artificer)6-TentaclePlant
+10256 SB_E02(Artificer)7-TentaclePlant
+10257 SB_E02(Artificer)5-Centipede
+10258 SB_E02(Artificer)10-Centipede
+10259 SB_E02(Artificer)8-Centipede
+10260 SB_E02(Spear)3-DropBug-2
+10261 SB_E02(Spear)6-TentaclePlant
+10262 SB_E02(Spear)7-TentaclePlant
+10263 SB_E02(Spear)5-Centipede
+10264 SB_E02(Spear)10-Centipede
+10265 SB_E02(Spear)8-Centipede
+10266 SB_E02(Saint)6-TentaclePlant
+10267 SB_E02(Saint)7-TentaclePlant
+10268 SB_E02(Saint)5-Lantern Mouse-5
+10269 SB_E02(Saint)10-Centipede
+10270 SB_E02(Saint)8-Centipede
+10271 SB_B02(Artificer)3-TentaclePlant
+10272 SB_B02(Artificer)2-DropBug
+10273 SB_B02(Artificer)3-Salamander-{PreCycle}
+10274 SB_B02(Artificer)2-Eel-{PreCycle}
+10275 SB_B02(Spear)3-TentaclePlant
+10276 SB_B02(Spear)2-DropBug
+10277 SB_B02(Spear)3-Salamander-{PreCycle}
+10278 SB_B02(Spear)2-Eel-{PreCycle}
+10279 SB_B02(Gourmand)3-TentaclePlant
+10280 SB_B02(Gourmand)2-DropBug
+10281 SB_B02(Gourmand)3-Salamander-{PreCycle}
+10282 SB_B02(Gourmand)2-Eel-{PreCycle}
+10283 SB_B02(Inv)3-TentaclePlant
+10284 SB_B02(Inv)2-DropBug
+10285 SB_B02(Inv)3-Salamander-{PreCycle}
+10286 SB_B02(Inv)2-Eel-{PreCycle}
+10287 SB_B02(Saint)3-TentaclePlant
+10288 SB_B02(Saint)5-Yeek-{Winter}-3
+10289 SB_B02(Saint)3-Salamander-{PreCycle}
+10290 SB_B02(Saint)2-Eel-{PreCycle}
+10291 SB_A01(Rivulet)3-Red Centipede
+10292 SB_A01(Rivulet)4-Small Centipede-3
+10293 SB_J02(Gourmand)3-Cyan-3
+10294 SB_J02(Gourmand)5-Eel-{PreCycle}-2
+10295 SB_J02(Rivulet)3-Salamander
+10296 SB_J02(Rivulet)4-Eel
+10297 SB_J02(Rivulet)5-Jetfish-3
+10298 SB_J02(Rivulet)5-Eel-{PreCycle}-2
+10299 SB_J02(Artificer)3-Cyan-3
+10300 SB_J02(Artificer)5-JetFish
+10301 SB_J02(Artificer)5-Eel-{PreCycle}-2
+10302 SB_J02(Spear)3-Cyan-3
+10303 SB_J02(Spear)5-JetFish
+10304 SB_J02(Spear)5-Eel-{PreCycle}-2
+10305 SB_J02(Saint)5-Jetfish-3
+10306 SB_J02(Saint)5-Eel-{PreCycle}-2
+10307 SB_J02(Inv)3-Red-3
+10308 SB_J02(Inv)5-JetFish
+10309 SB_J02(Inv)5-Eel-{PreCycle}-2
+10310 SB_H03(Rivulet)10-Small Centipede-2
+10311 SB_H03(Rivulet)6-Small Centipede
+10312 SB_H03(Rivulet)6-Yellow-3
+10313 SB_H03(Rivulet)9-Small Centipede-3
+10314 SB_H03(Artificer)10-Centipede-2
+10315 SB_H03(Artificer)6-SpitterSpider
+10316 SB_H03(Artificer)7-BigSpider-3
+10317 SB_H03(Artificer)8-BigSpider-2
+10318 SB_H03(Artificer)9-BigSpider-2
+10319 SB_H03(Artificer)6-Centipede-2
+10320 SB_H03(Spear)10-Centipede-2
+10321 SB_H03(Spear)6-SpitterSpider
+10322 SB_H03(Spear)7-BigSpider-3
+10323 SB_H03(Spear)8-BigSpider-2
+10324 SB_H03(Spear)9-BigSpider-2
+10325 SB_H03(Spear)6-Centipede-2
+10326 SB_H03(Saint)10-Small Centipede-2
+10327 SB_H03(Saint)7-Small Centipede
+10328 SB_H03(Saint)7-Yellow-3
+10329 SB_H03(Saint)9-Small Centipede-3
+10330 SB_H03(Inv)7-Red-3
+10331 SB_H03(Inv)8-SpitterSpider-2
+10332 SB_H03(Inv)9-SpitterSpider-2
+10333 SB_H03(Inv)6-RedCentipede-2
+10334 SB_C07(Rivulet)2-Eel
+10335 SB_C07(Artificer)2-Salamander
+10336 SB_C07(Artificer)3-Dropbug
+10337 SB_C07(Spear)2-Salamander
+10338 SB_C07(Spear)3-Dropbug
+10339 SB_C07(Gourmand)2-Salamander
+10340 SB_C07(Gourmand)3-Dropbug
+10341 SB_C07(Saint)2-Lantern Mouse-6
+10342 SB_C07(Inv)2-Red
+10343 SB_C07(Inv)3-Dropbug
+10344 SB_H02(Rivulet)4-Centipede-{0.7}
+10345 SB_H02(Rivulet)6-Small Centipede-3
+10346 SB_H02(Rivulet)7-Centipede-2
+10347 SB_H02(Rivulet)5-Yeek-3
+10348 SB_H02(Artificer)4-Centipede-3
+10349 SB_H02(Artificer)5-BigSpider-5
+10350 SB_H02(Artificer)6-SpitterSpider-2
+10351 SB_H02(Artificer)7-Centipede-4
+10352 SB_H02(Artificer)5-Red Centipede
+10353 SB_H02(Spear)4-Centipede-3
+10354 SB_H02(Spear)5-BigSpider-5
+10355 SB_H02(Spear)6-SpitterSpider-2
+10356 SB_H02(Spear)7-Centipede-4
+10357 SB_H02(Spear)5-Red Centipede
+10358 SB_H02(Saint)4-Centipede-3
+10359 SB_H02(Saint)5-BigSpider-5
+10360 SB_H02(Saint)6-SpitterSpider-2
+10361 SB_H02(Saint)7-Centipede-4
+10362 SB_H02(Saint)5-Red Centipede
+10363 SB_H02(Inv)4-RedCentipede-3
+10364 SB_H02(Inv)5-SpitterSpider-5
+10365 SB_H02(Inv)6-SpitterSpider-2
+10366 SB_H02(Inv)7-RedCentipede-4
+10367 SB_H02(Inv)5-Red Centipede
+10368 SB_F02(Rivulet)5-Black
+10369 SB_F02(Rivulet)6-Black
+10370 SB_F02(Rivulet)8-Black
+10371 SB_F02(Artificer)5-Black
+10372 SB_F02(Artificer)6-Black
+10373 SB_F02(Artificer)7-Black
+10374 SB_F02(Artificer)8-Black-2
+10375 SB_F02(Spear)5-Black
+10376 SB_F02(Spear)6-Black
+10377 SB_F02(Spear)7-Black
+10378 SB_F02(Spear)8-Black-2
+10379 SB_F02(Saint)5-Black-{Ignorecycle}
+10380 SB_F02(Saint)6-Black-{Ignorecycle}
+10381 SB_F02(Saint)8-Black-{Ignorecycle}
+10382 SB_F02(Inv)5-Black
+10383 SB_F02(Inv)6-Red
+10384 SB_F02(Inv)7-SpitterSpider
+10385 SB_F02(Inv)8-Black-2
+10386 SB_E04(Artificer)6-SpitterSpider
+10387 SB_E04(Artificer)6-MotherSpider
+10388 SB_E04(Spear)6-SpitterSpider
+10389 SB_E04(Spear)6-MotherSpider
+10390 SB_E04(Inv)6-SpitterSpider
+10391 SB_E04(Inv)6-MotherSpider
+10392 SB_C06(Rivulet)4-Black
+10393 SB_C06(Artificer)3-Black
+10394 SB_C06(Artificer)4-Black-2
+10395 SB_C06(Spear)3-Black
+10396 SB_C06(Spear)4-Black-2
+10397 SB_C06(Saint)4-Black-{Ignorecycle}
+10398 SB_C06(Inv)3-Red
+10399 SB_C06(Inv)4-Black-2
+10400 SB_F01(Rivulet)3-Black
+10401 SB_F01(Rivulet)4-Black
+10402 SB_F01(Rivulet)5-Black
+10403 SB_F01(Artificer)3-SpitterSpider
+10404 SB_F01(Artificer)4-SpitterSpider-2
+10405 SB_F01(Artificer)5-BigSpider
+10406 SB_F01(Spear)3-SpitterSpider
+10407 SB_F01(Spear)4-SpitterSpider-2
+10408 SB_F01(Spear)5-BigSpider
+10409 SB_F01(Saint)3-Drop Bug-{Ignorecycle}
+10410 SB_F01(Saint)4-Black-{Ignorecycle}
+10411 SB_F01(Saint)5-Black-{Ignorecycle}
+10412 SB_F01(Inv)3-SpitterSpider
+10413 SB_F01(Inv)4-SpitterSpider-2
+10414 SB_F01(Inv)5-SpitterSpider
+10415 SB_J03(Rivulet)8-Black
+10416 SB_J03(Rivulet)7-Black
+10417 SB_J03(Rivulet)4-TentaclePlant
+10418 SB_J03(Rivulet)5-Small Centipede-3
+10419 SB_J03(Rivulet)6-Centipede-2
+10420 SB_J03(Rivulet)5-Salamander-{PreCycle}
+10421 SB_J03(Artificer)8-Black
+10422 SB_J03(Artificer)7-Black
+10423 SB_J03(Artificer)4-TentaclePlant
+10424 SB_J03(Artificer)5-Small Centipede-3
+10425 SB_J03(Artificer)6-Centipede-3
+10426 SB_J03(Artificer)5-Salamander-{PreCycle}
+10427 SB_J03(Spear)8-Black
+10428 SB_J03(Spear)7-Black
+10429 SB_J03(Spear)4-TentaclePlant
+10430 SB_J03(Spear)5-Small Centipede-3
+10431 SB_J03(Spear)6-Centipede-3
+10432 SB_J03(Spear)5-Salamander-{PreCycle}
+10433 SB_J03(Saint)8-Black-{Ignorecycle}
+10434 SB_J03(Saint)5-Black-{Ignorecycle}
+10435 SB_J03(Saint)4-SpitterSpider
+10436 SB_J03(Saint)5-Small Centipede-3
+10437 SB_J03(Saint)6-TentaclePlant
+10438 SB_J03(Saint)5-Salamander-{PreCycle}
+10439 SB_J03(Inv)8-Black
+10440 SB_J03(Inv)7-Black
+10441 SB_J03(Inv)4-SpitterSpider
+10442 SB_J03(Inv)5-Small Centipede-3
+10443 SB_J03(Inv)6-RedCentipede-3
+10444 SB_J03(Inv)5-Salamander-{PreCycle}
+10445 SB_I01(Rivulet)9-Black
+10446 SB_I01(Rivulet)10-Black
+10447 SB_I01(Rivulet)11-Black
+10448 SB_I01(Rivulet)12-Black
+10449 SB_I01(Rivulet)13-Black
+10450 SB_I01(Saint)9-Black-{Ignorecycle}
+10451 SB_I01(Saint)10-Black-{Ignorecycle}
+10452 SB_I01(Saint)11-Black-{Ignorecycle}
+10453 SB_I01(Saint)12-Black-{Ignorecycle}
+10454 SB_A03(Gourmand)3-DropBug
+10455 SB_A03(Gourmand)4-TentaclePlant
+10456 SB_A03(Gourmand)5-Caramel
+10457 SB_A03(Rivulet)5-Caramel
+10458 SB_A03(Rivulet)4-BigSpider-2
+10459 SB_A03(Artificer)3-DropBug
+10460 SB_A03(Artificer)4-TentaclePlant
+10461 SB_A03(Artificer)5-Cyan-2
+10462 SB_A03(Spear)3-DropBug
+10463 SB_A03(Spear)4-TentaclePlant
+10464 SB_A03(Spear)5-Cyan-2
+10465 SB_A03(Saint)5-Caramel
+10466 SB_A03(Saint)4-BigSpider-2
+10467 SB_A03(Inv)3-DropBug
+10468 SB_A03(Inv)4-TentaclePlant
+10469 SB_A03(Inv)5-Red-2
+10470 SB_D04(Rivulet)7-SpitterSpider
+10471 SB_D04(Rivulet)9-TentaclePlant
+10472 SB_D04(Saint)7-SpitterSpider
+10473 SB_D04(Saint)9-TentaclePlant
+10474 SB_D04(Artificer)9-Black
+10475 SB_D04(Artificer)5-BigSpider
+10476 SB_D04(Artificer)6-BigSpider
+10477 SB_D04(Spear)9-Black
+10478 SB_D04(Spear)5-BigSpider
+10479 SB_D04(Spear)6-BigSpider
+10480 SB_D04(Inv)9-Red
+10481 SB_D04(Inv)5-SpitterSpider
+10482 SB_D04(Inv)6-SpitterSpider
+10483 SB_C02(Saint)4-Jetfish
+10484 SB_C02(Saint)2-Eel-{PreCycle}-2
+10485 SB_TESTC(Yellow)2-TentaclePlant
+10486 SB_TESTC(Yellow)5-Caramel
+10487 SB_TESTC(Yellow)4-Small Centipede-3
+10488 SB_TESTC(Yellow)5-Salamander-{PreCycle}
+10489 SB_TESTC(Rivulet)2-TentaclePlant
+10490 SB_TESTC(Rivulet)5-Caramel
+10491 SB_TESTC(Rivulet)4-Small Centipede-3
+10492 SB_TESTC(Rivulet)5-Salamander-{PreCycle}
+10493 SB_TESTC(Saint)2-TentaclePlant
+10494 SB_TESTC(Saint)5-Caramel
+10495 SB_TESTC(Saint)4-Small Centipede-3
+10496 SB_TESTC(Saint)5-Salamander-{PreCycle}
+10497 SB_TESTB(Yellow)2-Salamander
+10498 SB_TESTB(Yellow)3-Small Centipede-4
+10499 SB_TESTB(Rivulet)2-Salamander
+10500 SB_TESTB(Rivulet)3-Small Centipede-4
+10501 SB_TESTB(Red)2-Salamander
+10502 SB_TESTB(Red)3-Small Centipede-4
+10503 SB_TESTB(Artificer)2-Salamander
+10504 SB_TESTB(Artificer)3-Small Centipede-4
+10505 SB_TESTB(Spear)2-Salamander
+10506 SB_TESTB(Spear)3-Small Centipede-4
+10507 SB_TESTB(Saint)3-Small Centipede-4
+10508 SB_E07(Yellow)8-Black
+10509 SB_E07(Rivulet)8-Black
+10510 SB_E07(Red)5-BigSpider
+10511 SB_E07(Red)8-Black-2
+10512 SB_E07(Red)11-MotherSpider
+10513 SB_E07(Artificer)5-BigSpider
+10514 SB_E07(Artificer)8-Black-2
+10515 SB_E07(Artificer)11-MotherSpider
+10516 SB_E07(Spear)5-BigSpider
+10517 SB_E07(Spear)8-Black-2
+10518 SB_E07(Spear)11-MotherSpider
+10519 SB_E07(Inv)5-BigSpider
+10520 SB_E07(Inv)8-Black-2
+10521 SB_E07(Inv)11-MotherSpider
+10522 SB_E07(Saint)8-Black-{Ignorecycle}-2
+10523 SB_C10(Gourmand)19-Mimic-{11}
+10524 SB_C10(Gourmand)5-BigSpider-2
+10525 SB_C10(Yellow)17-TentaclePlant
+10526 SB_C10(Yellow)5-BigSpider
+10527 SB_C10(Rivulet)17-TentaclePlant
+10528 SB_C10(Rivulet)5-BigSpider
+10529 SB_C10(Red)17-Mimic-{21}
+10530 SB_C10(Red)19-Mimic-{11}
+10531 SB_C10(Red)5-BigSpider
+10532 SB_C10(Red)12-SpitterSpider
+10533 SB_C10(Artificer)17-Mimic-{21}
+10534 SB_C10(Artificer)19-Mimic-{11}
+10535 SB_C10(Artificer)5-BigSpider
+10536 SB_C10(Artificer)12-SpitterSpider
+10537 SB_C10(Spear)17-Mimic-{21}
+10538 SB_C10(Spear)19-Mimic-{11}
+10539 SB_C10(Spear)5-BigSpider
+10540 SB_C10(Spear)12-SpitterSpider
+10541 SB_C10(Inv)17-Mimic-{21}
+10542 SB_C10(Inv)19-Mimic-{11}
+10543 SB_C10(Inv)5-BigSpider
+10544 SB_C10(Inv)12-SpitterSpider
+10545 SB_C10(Saint)5-BigSpider-2
+10546 SB_C10(Saint)8-Black-{Ignorecycle}
+10547 SB_GOR01(Yellow)3-Small Centipede-4
+10548 SB_GOR01(Yellow)3-Centipede-2
+10549 SB_GOR01(Yellow)6-Small Centipede-2
+10550 SB_GOR01(Rivulet)3-Small Centipede-4
+10551 SB_GOR01(Rivulet)3-Yeek-3
+10552 SB_GOR01(Rivulet)6-Yeek-2
+10553 SB_GOR01(Red)3-Small Centipede-5
+10554 SB_GOR01(Red)3-Centipede-2
+10555 SB_GOR01(Red)4-BigSpider-5
+10556 SB_GOR01(Red)5-Blue
+10557 SB_GOR01(Red)6-Small Centipede-5
+10558 SB_GOR01(Artificer)3-Small Centipede-5
+10559 SB_GOR01(Artificer)3-Centipede-2
+10560 SB_GOR01(Artificer)4-BigSpider-5
+10561 SB_GOR01(Artificer)5-Blue
+10562 SB_GOR01(Artificer)6-Small Centipede-5
+10563 SB_GOR01(Spear)3-Small Centipede-5
+10564 SB_GOR01(Spear)3-Centipede-2
+10565 SB_GOR01(Spear)4-BigSpider-5
+10566 SB_GOR01(Spear)5-Blue
+10567 SB_GOR01(Spear)6-Small Centipede-5
+10568 SB_GOR01(Inv)3-Small Centipede-5
+10569 SB_GOR01(Inv)3-RedCentipede-2
+10570 SB_GOR01(Inv)4-Spider-5
+10571 SB_GOR01(Inv)5-Red
+10572 SB_GOR01(Inv)6-Small Centipede-5
+10573 SB_GOR01(Saint)3-Small Centipede-4
+10574 SB_GOR01(Saint)3-Yeek-{Winter}-3
+10575 SB_GOR01(Saint)6-Yeek-{Winter}-2
+10576 SB_C11(Yellow)2-Small Centipede-3
+10577 SB_C11(Rivulet)2-Yellow-2
+10578 SB_C11(Saint)2-Yellow-2
+10579 SB_C11(Red)2-Blue
+10580 SB_C11(Artificer)2-Blue
+10581 SB_C11(Spear)2-Blue
+10582 SB_C11(Inv)2-RedCentipede
+10583 SB_J10(Yellow)3-TentaclePlant
+10584 SB_J10(Yellow)4-Small Centipede
+10585 SB_J10(Yellow)6-Small Centipede-2
+10586 SB_J10(Red)3-TentaclePlant
+10587 SB_J10(Red)4-Centipede-2
+10588 SB_J10(Artificer)3-TentaclePlant
+10589 SB_J10(Artificer)4-Centipede-2
+10590 SB_J10(Spear)3-TentaclePlant
+10591 SB_J10(Spear)4-Centipede-2
+10592 SB_J10(Saint)3-TentaclePlant
+10593 SB_J10(Saint)4-Centipede-2
+10594 SB_TOPSIDE(Red)2-BigNeedleWorm
+10595 SB_TOPSIDE(Red)2-SmallNeedleWorm-3
+10596 SB_TOPSIDE(Artificer)2-BigNeedleWorm
+10597 SB_TOPSIDE(Artificer)2-SmallNeedleWorm-3
+10598 SB_TOPSIDE(Spear)2-BigNeedleWorm
+10599 SB_TOPSIDE(Spear)2-SmallNeedleWorm-3
+10600 SB_TOPSIDE(White)2-BigNeedleWorm
+10601 SB_TOPSIDE(White)2-SmallNeedleWorm-3
+10602 SB_TOPSIDE(Gourmand)2-BigNeedleWorm
+10603 SB_TOPSIDE(Gourmand)2-SmallNeedleWorm-3
+10604 SB_G04(Gourmand)6-SpitterSpider
+10605 SB_G04(Gourmand)7-MotherSpider
+10606 SB_G04(Gourmand)15-Black
+10607 SB_G04(Gourmand)17-Black
+10608 SB_G04(Red)3-DropBug-2
+10609 SB_G04(Red)15-Black
+10610 SB_G04(Red)17-Black-2
+10611 SB_G04(Red)7-SpitterSpider-2
+10612 SB_G04(Red)6-MotherSpider
+10613 SB_G04(Artificer)3-DropBug-2
+10614 SB_G04(Artificer)15-Black
+10615 SB_G04(Artificer)17-Black-2
+10616 SB_G04(Artificer)7-SpitterSpider-2
+10617 SB_G04(Artificer)6-MotherSpider
+10618 SB_G04(Spear)3-DropBug-2
+10619 SB_G04(Spear)15-Black
+10620 SB_G04(Spear)17-Black-2
+10621 SB_G04(Spear)7-SpitterSpider-2
+10622 SB_G04(Spear)6-MotherSpider
+10623 SB_G04(Inv)3-DropBug-2
+10624 SB_G04(Inv)15-Black
+10625 SB_G04(Inv)17-Black-2
+10626 SB_G04(Inv)7-SpitterSpider-2
+10627 SB_G04(Inv)6-MotherSpider
+10628 SB_G04(Saint)6-SpitterSpider-2
+10629 SB_G04(Saint)9-Drop Bug-{Ignorecycle}
+10630 LINEAGE(Saint)SB_B024
+10631 LINEAGE(Artificer)SB_A036
+10632 LINEAGE(Spear)SB_A036
+10633 LINEAGE(Saint)SB_A036
+10634 LINEAGE(Inv)SB_A036
+10635 LINEAGE(Gourmand)SB_A044
+10636 LINEAGE(Artificer)SB_A044
+10637 LINEAGE(Spear)SB_A044
+10638 LINEAGE(Artificer)SB_J024
+10639 LINEAGE(Spear)SB_J024
+10640 LINEAGE(Artificer)SB_C073
+10641 LINEAGE(Spear)SB_C073
+10642 LINEAGE(Artificer)SB_E045
+10643 LINEAGE(Spear)SB_E045
+10644 LINEAGE(Artificer)SB_E024
+10645 LINEAGE(Spear)SB_E024
+10646 LINEAGE(Inv)SB_J024
+10647 LINEAGE(Inv)SB_C073
+10648 LINEAGE(Inv)SB_E045
+10649 LINEAGE(Inv)SB_E024
+11000 SS_H01(Red)2-Daddy-{Ignorecycle}
+11001 SS_C02(X-Spear,Inv)3-Daddy-{Ignorecycle}
+11002 SS_F03(X-Spear,Inv)3-Daddy-{Ignorecycle}
+11003 SS_I02(X-Spear,Inv,Artificer)8-Daddy-{Ignorecycle}
+11004 SS_D06(X-Red,Spear,Artificer,Inv)2-Daddy-{Ignorecycle}
+11005 SS_H01(X-Red,Spear,Artificer,Inv)4-Daddy-{Ignorecycle}
+11006 SS_F02(X-Red,Spear,Artificer,Inv)4-Daddy-{Ignorecycle}
+11007 SS_I03(X-Yellow)3-Inspector-{Ignorecycle}
+11008 SS_D02(X-Yellow)5-Inspector-{Ignorecycle}
+11009 SS_D03(X-Yellow)4-Inspector-{Ignorecycle}
+11010 SS_C02(Spear)3-Inspector-{Ignorecycle}
+11011 SS_C02(Inv)3-Daddy-{AlternateForm}
+11012 SS_F03(Spear)3-Inspector-{Ignorecycle}
+11013 SS_I02(Spear)8-Inspector-{Ignorecycle}
+11014 SS_I02(Artificer)8-Inspector-{Ignorecycle}
+11015 SS_I02(Inv)8-Daddy-{AlternateForm}
+11016 SS_D06(Spear)2-Inspector-{Ignorecycle}
+11017 SS_D06(Artificer)2-Inspector-{Ignorecycle}
+11018 SS_D06(Red)2-Inspector-{Ignorecycle}
+11019 SS_D06(Inv)2-Daddy-{AlternateForm}
+11020 SS_H01(Artificer)2-Inspector-{Ignorecycle}
+11021 SS_H01(Artificer)4-Inspector-{Ignorecycle}
+11022 SS_H01(Spear)2-Inspector-{Ignorecycle}
+11023 SS_H01(Spear)4-Inspector-{Ignorecycle}
+11024 SS_H01(Inv)2-Daddy-{AlternateForm}
+11025 SS_H01(Inv)4-Daddy-{AlternateForm}
+11026 SS_F02(Spear)4-Inspector-{Ignorecycle}
+11027 SS_F02(Artificer)4-Inspector-{Ignorecycle}
+11028 SS_F02(Inv)4-Daddy-{AlternateForm}
+11029 SS_E032-Inspector-{Ignorecycle}
+11030 SS_C033-Inspector-{Ignorecycle}
+12000 MSOFFSCREEN0-Scavenger-11
+12001 MSOFFSCREEN0-Leviathan-3
+12002 MSOFFSCREEN(Rivulet)0-Miros Vulture-4
+12003 MSOFFSCREEN(Saint)0-Miros Vulture-4
+12004 MSOFFSCREEN(Saint)0-Scavenger-3
+12005 MSOFFSCREEN(White,Yellow,Red,Gourmand)0-Vulture-3
+12006 MSOFFSCREEN(White,Yellow,Red,Gourmand)0-Vulture-{AlternateForm}
+12007 MS_M03(White,Yellow,Red,Rivulet,Gourmand)2-Snail-2
+12008 MS_M03(White,Yellow,Red,Rivulet,Gourmand)4-Snail-3
+12009 MS_CROSSOVER027-Leech-10
+12010 MS_I014-Jetfish-3
+12011 MS_I015-Aquapede
+12012 MS_I024-Jetfish-2
+12013 MS_I08(White,Yellow,Red,Rivulet,Gourmand)5-Snail-2
+12014 MS_I11(White,Yellow,Red,Rivulet,Gourmand)4-Eel
+12015 MS_I124-Leech-10
+12016 MS_MEM01(White,Yellow,Red,Rivulet,Gourmand)2-Tentacle Plant
+12017 MS_MEM01(White,Yellow,Red,Rivulet,Gourmand)3-Jetfish
+12018 MS_MEM01(White,Yellow,Red,Rivulet,Gourmand)4-Sea Leech-6
+12019 MS_MEM01(X-White,Yellow,Red,Rivulet,Gourmand)4-Sea Leech-6
+12020 MS_LAB12(White,Yellow,Red,Rivulet,Gourmand)4-Snail-2
+12021 MS_LAB12(White,Yellow,Red,Rivulet,Gourmand)5-CicadaA-1
+12022 MS_LAB12(White,Yellow,Red,Rivulet,Gourmand)6-CicadaB-2
+12023 MS_LAB12(X-White,Yellow,Red,Rivulet,Gourmand)5-CicadaA-1
+12024 MS_LAB12(X-White,Yellow,Red,Rivulet,Gourmand)6-CicadaB-2
+12025 MS_LAB1(White,Yellow,Red,Rivulet,Gourmand)4-Tentacle Plant
+12026 MS_LAB6(White,Yellow,Red,Rivulet,Gourmand)5-Eel
+12027 MS_LAB9(White,Yellow,Red,Rivulet,Gourmand)4-Snail-3
+12028 MS_LAB13(White,Yellow,Red,Rivulet,Gourmand)5-Snail-2
+12029 MS_LAB13(White,Yellow,Red,Rivulet,Gourmand)6-CicadaB-3
+12030 MS_LAB13(White,Yellow,Red,Rivulet,Gourmand)7-CicadaA-2
+12031 MS_MEM044-Tentacle Plant
+12032 MS_MEM045-Tentacle Plant
+12033 MS_MEM046-Tentacle Plant
+12034 MS_MEM047-Jetfish-3
+12035 MS_VENT018-Tentacle Plant
+12036 MS_VENT0112-Tentacle Plant
+12037 MS_VENT0110-Jetfish
+12038 MS_CORTEX11-Jetfish-2
+12039 MS_FARSIDE(White,Yellow,Red,Rivulet,Gourmand)7-Jetfish
+12040 MS_FARSIDE(White,Yellow,Red,Rivulet,Gourmand)8-Jetfish
+12041 MS_FARSIDE(White,Yellow,Red,Rivulet,Gourmand)9-Sea Leech-13
+12042 MS_FARSIDE(X-White,Yellow,Red,Rivulet,Gourmand)9-Sea Leech-13
+12043 MS_VENT08(Rivulet,Saint)3-Eel
+12044 MS_VENT08(Rivulet,Saint)3-Aquapede
+12045 MS_VENT08(Rivulet,Saint)8-Jetfish-3
+12046 MS_VENT08(X-Rivulet,Saint)8-Jetfish-3
+12047 MS_VENT097-Aquapede
+12048 MS_VENT173-Leech-3
+12049 MS_VENT177-Leech-5
+12050 MS_EAST03(White,Yellow,Red,Rivulet,Gourmand)5-Snail-3
+12051 MS_MEMOUTSIDE5-Tentacle Plant
+12052 MS_MEMOUTSIDE7-Sea Leech-11
+12053 MS_MEMOUTSIDE8-Jetfish
+12054 MS_MEMOUTSIDE9-Sea Leech-5
+12055 MS_MEM052-Snail-2
+12056 MS_MEM053-Snail-3
+12057 MS_ARTERY07(Rivulet,Saint)5-Aquapede
+12058 MS_bitteraerie1(White,Yellow,Red,Saint,Gourmand)5-White-Winter
+12059 MS_bittervents(White,Yellow,Red,Gourmand)3-White-Winter
+12060 MS_bittervents(Rivulet)3-White-Winter
+12061 MS_bitteraeriepipeu(White,Yellow,Red,Gourmand)4-CicadaB-3
+12062 MS_bitteraeriepipeu(White,Yellow,Red,Gourmand)4-CicadaA-2
+12063 MS_bitteraerie5(White,Yellow,Red,Gourmand)2-Blue-Winter
+12064 MS_splitsewers(White,Yellow,Red,Gourmand)11-Tentacle Plant
+12065 MS_bitterpipe(White,Yellow,Red,Gourmand)3-Eel
+12066 MS_bitterentrance(White,Yellow,Red,Gourmand)5-Tentacle Plant
+12067 MS_bitterentrance(White,Yellow,Red,Gourmand)10-Blue-Winter
+12068 MS_bitterentrance(White,Yellow,Red,Gourmand)9-CicadaB-3
+12069 MS_bitterentrance(White,Yellow,Red,Gourmand)9-CicadaA-2
+12070 MS_bitterentrance(Rivulet)10-Blue-Winter
+12071 MS_COMMS(White,Yellow,Red,Gourmand)2-Yellow-4
+12072 MS_COMMS(White,Yellow,Red,Gourmand)6-Yellow-2
+12073 MS_X02(White,Yellow,Red,Gourmand)3-Tentacle Plant
+13000 OE_TOWER026-Salamander-{PreCycle}
+13001 OE_TOWER062-White-{PreCycle}
+13002 OE_CAVE025-Salamander-{PreCycle}
+13003 OEOFFSCREEN(Yellow)0-Scavenger-10
+13004 OEOFFSCREEN(Yellow)0-Scavenger-5-{Night}
+13005 OEOFFSCREEN(Yellow)0-Overseer-4-{Ignorecycle}
+13006 OEOFFSCREEN(White)0-Vulture-{Ignorecycle}
+13007 OEOFFSCREEN(White)0-Scavenger-10
+13008 OEOFFSCREEN(White)0-Scavenger-5-{Night}
+13009 OEOFFSCREEN(White)0-Overseer-4-{Ignorecycle}
+13010 OEOFFSCREEN(Gourmand)0-Scavenger-15
+13011 OEOFFSCREEN(Gourmand)0-Scavenger-5-{Night}
+13012 OEOFFSCREEN(Gourmand)0-Vulture-{Ignorecycle}
+13013 OEOFFSCREEN(Gourmand)0-Overseer-4-{Ignorecycle}
+13014 OEOFFSCREEN(Gourmand)0-KingVulture-2-{Night}
+13015 OE_TOWER07(White,Yellow,Gourmand)2-Centipede-2 
+13016 OE_TOWER07(White,Yellow,Gourmand)3-Small Centipede-5
+13017 OE_TOWER11(White,Yellow,Gourmand)3-Centipede-2
+13018 OE_TOWER11(White,Yellow,Gourmand)3-Small Centipede-5
+13019 OE_TOWER14(White,Yellow)4-Big Spider-1
+13020 OE_TOWER14(White,Yellow)4-Small Centipede-2
+13021 OE_TOWER14(Gourmand)4-Big Spider-2
+13022 OE_TOWER09(White,Yellow,Gourmand)6-JungleLeech-7-{Ignorecycle}
+13023 OE_TOWER10(White,Yellow)3-CicadaB-3
+13024 OE_TOWER10(Gourmand)2-DropBug
+13025 OE_TOWER10(Gourmand)5-Blue-2
+13026 OE_TOWER10(Gourmand)3-CicadaB-3
+13027 OE_RAIL06(White,Gourmand)5-Big Spider-2
+13028 OE_RAIL01(White,Yellow,Gourmand)13-CicadaB-2
+13029 OE_RAIL01(White,Yellow,Gourmand)11-CicadaA-4
+13030 OE_RAIL01(White,Yellow,Gourmand)17-TentaclePlant
+13031 OE_RAIL01(White,Yellow,Gourmand)7-Salamander-1-{PreCycle}
+13032 OE_RUIN01(White,Yellow,Gourmand)5-TentaclePlant
+13033 OE_RUIN03(White,Yellow,Gourmand)5-BigNeedleWorm
+13034 OE_RUIN03(White,Yellow,Gourmand)6-SmallNeedleWorm-4
+13035 OE_RUIN03(White,Yellow,Gourmand)4-Big Spider-3-{Night}
+13036 OE_RUINBackHall(White)5-Blue
+13037 OE_RUINBackHall(Gourmand)5-Blue
+13038 OE_RUINBackHall(Gourmand)5-TentaclePlant-{Night}
+13039 OE_RUINBackHall(Gourmand)6-White-{Night}
+13040 OE_RUINBackHall(Gourmand)9-TentaclePlant-{Night}
+13041 OE_RUINCourtYard(White)4-Caramel-{Ignorecycle}
+13042 OE_RUINCourtYard(White)5-Green-{Ignorecycle}
+13043 OE_RUINCourtYard(Gourmand)4-Caramel-{Ignorecycle}
+13044 OE_RUINCourtYard(Gourmand)5-Caramel-{Ignorecycle}
+13045 OE_RUIN05(Yellow)3-Blue-{Ignorecycle}
+13046 OE_RUIN05(Yellow)4-EggBug
+13047 OE_RUIN05(White,Gourmand)3-Blue-{Ignorecycle}
+13048 OE_RUIN05(White,Gourmand)4-EggBug
+13049 OE_RUIN05(White,Gourmand)3-White-{Night}
+13050 OE_RUIN05(White,Gourmand)4-Big Spider-3-{Night}
+13051 OE_RUIN05(White,Gourmand)6-TentaclePlant-{Night}
+13052 OE_RUIN05(White,Gourmand)7-TentaclePlant-{Night}
+13053 OE_CAVE01(White,Yellow,Gourmand)5-JungleLeech-4-{Ignorecycle}
+13054 OE_CAVE09(White,Gourmand)4-Blue-2-{Ignorecycle}
+13055 OE_CAVE04(White,Yellow,Gourmand)4-Small Centipede-5-{Ignorecycle}
+13056 OE_CAVE10(White,Yellow)4-Small Centipede-6-{Ignorecycle}
+13057 OE_CAVE10(White,Yellow)5-JungleLeech-3-{Ignorecycle}
+13058 OE_CAVE10(Gourmand)4-Small Centipede-6-{Ignorecycle}
+13059 OE_CAVE10(Gourmand)5-JungleLeech-3-{Ignorecycle}
+13060 OE_CAVE10(Gourmand)11-TentaclePlant-{Night}
+13061 OE_CAVE16(White,Gourmand)5-JungleLeech-7-{Ignorecycle}
+13062 OE_CAVE17(White,Yellow,Gourmand)5-TentaclePlant-{Ignorecycle}
+13063 OE_CAVE12(White,Yellow)10-Centipede-3-{Ignorecycle}
+13064 OE_CAVE12(White,Yellow)11-Small Centipede-5-{Ignorecycle}
+13065 OE_CAVE12(Gourmand)10-Centipede-3-{Ignorecycle}
+13066 OE_CAVE12(Gourmand)11-Small Centipede-5-{Ignorecycle}
+13067 OE_CAVE12(Gourmand)7-TentaclePlant-{Night}
+13068 OE_CAVE14(White,Gourmand)2-Small Centipede-5-{Ignorecycle}
+13069 OE_CAVE14(White,Gourmand)2-JungleLeech-7-{Ignorecycle}
+13070 OE_CAVE15(White,Yellow)3-Centipede-{Ignorecycle}
+13071 OE_CAVE15(White,Yellow)5-Small Centipede-3-{Ignorecycle}
+13072 OE_CAVE15(Gourmand)4-Centipede-2-{Ignorecycle}
+13073 OE_CAVE15(Gourmand)3-Centipede-2-{Ignorecycle}
+13074 OE_CAVE15(Gourmand)5-Small Centipede-3-{Ignorecycle}
+13075 OE_RUIN15(White,Gourmand)3-Caramel-{Ignorecycle}
+13076 OE_RUIN15(White,Gourmand)5-Caramel-{Ignorecycle}
+13077 OE_RUIN15(White,Gourmand)6-Yeek-8-{Night}
+13078 OE_RUIN15(Yellow)5-Blue-{Ignorecycle}
+13079 OE_RUIN15(Yellow)6-Yeek-8-{Night}
+13080 OE_RUIN24(White,Yellow)2-CicadaB-3
+13081 OE_RUIN24(White,Yellow)3-CicadaA-2
+13082 OE_RUIN24(White,Yellow)5-CicadaA-4
+13083 OE_RUIN24(Gourmand)2-CicadaB-3
+13084 OE_RUIN24(Gourmand)3-CicadaA-2
+13085 OE_RUIN24(Gourmand)5-CicadaA-4
+13086 OE_RUIN24(Gourmand)2-TentaclePlant-{Night}
+13087 OE_RUIN24(Gourmand)7-TentaclePlant-{Night}
+13088 OE_RUIN14(White,Yellow,Gourmand)6-CicadaB-2
+13089 OE_RUIN14(White,Yellow,Gourmand)10-CicadaA-4
+13090 OE_RUIN04(White,Yellow,Gourmand)6-CicadaB-2
+13091 OE_RUIN06(White,Gourmand)4-JungleLeech-5-{Ignorecycle}
+13092 OE_RUIN06(White,Gourmand)4-CicadaB-2
+13093 OE_RUIN06(White,Gourmand)5-CicadaA-1
+13094 OE_RUIN06(Yellow)4-CicadaB-2
+13095 OE_RUIN06(Yellow)5-CicadaA-1
+13096 OE_RUIN10(White,Yellow)4-Caramel-{Ignorecycle}
+13097 OE_RUIN10(Gourmand)4-Caramel-{Ignorecycle}
+13098 OE_RUIN10(Gourmand)8-Caramel-{Ignorecycle}
+13099 OE_RUIN17(White)5-Blue-{Ignorecycle}
+13100 OE_RUIN17(Gourmand)5-White-{Ignorecycle}
+13101 OE_RUIN09(White,Gourmand)3-Pink-2
+13102 OE_RUIN09(Yellow)3-Blue-1
+13103 OE_RUIN18(White,Yellow,Gourmand)3-BigNeedleWorm
+13104 OE_RUIN18(White,Yellow,Gourmand)3-SmallNeedleWorm-6
+13105 OE_RUIN18(White,Yellow,Gourmand)4-CicadaB-3
+13106 OE_RUIN18(White,Yellow,Gourmand)5-CicadaA-4
+13107 OE_RUIN21(White,Yellow,Gourmand)2-Yeek-5-{Ignorecycle}
+13108 OE_RUIN11(White,Yellow,Gourmand)6-Yeek-5-{Ignorecycle}
+13109 OE_RAIL03(White,Yellow,Gourmand)7-Blue
+13110 OE_RAIL03(White,Yellow,Gourmand)6-Salamander-2-{PreCycle}
+13111 OE_EXITPATH(White,Yellow,Gourmand)7-TentaclePlant
+13112 OE_JUNGLE05(White,Gourmand)3-White-{Ignorecycle}
+13113 OE_JUNGLE05(White,Gourmand)4-JungleLeech-11-{Ignorecycle}
+13114 OE_JUNGLE05(Yellow)3-Blue-{Ignorecycle}
+13115 OE_JUNGLE06(White,Yellow,Gourmand)2-CicadaB-1
+13116 OE_JUNGLE06(White,Yellow,Gourmand)6-CicadaA-2
+13117 OE_JUNGLE06(White,Yellow,Gourmand)4-Yeek-3-{Ignorecycle}
+13118 OE_RUIN07(White,Yellow)2-Yeek-5-{Ignorecycle}
+13119 OE_RUIN07(Gourmand)2-Yeek-5-{Ignorecycle}
+13120 OE_RUIN07(Gourmand)2-TentaclePlant-{Night}
+13121 OE_RUIN08(White)4-Green-{Ignorecycle}
+13122 OE_RUIN08(White)5-Green-{Ignorecycle}
+13123 OE_RUIN08(White)7-Yeek-7-{Ignorecycle}
+13124 OE_RUIN08(Yellow)7-Yeek-7-{Ignorecycle}
+13125 OE_RUIN08(Gourmand)4-Caramel-{Ignorecycle}
+13126 OE_RUIN08(Gourmand)5-Caramel-{Ignorecycle}
+13127 OE_RUIN08(Gourmand)7-Yeek-7-{Ignorecycle}
+13128 OE_RUIN25(White,Yellow,Gourmand)7-Yeek-6-{Ignorecycle}
+13129 OE_JUNGLE03(White,Yellow,Gourmand)3-CicadaA-2
+13130 OE_JUNGLE03(White,Yellow,Gourmand)3-Yeek-5-{Ignorecycle}
+13131 OE_FINAL01(White,Yellow,Gourmand)4-Small Centipede-3-{Ignorecycle}
+13132 OE_FINAL02(White,Yellow,Gourmand)5-Yeek-5-{Ignorecycle}
+13133 OE_JUNGLE01(White,Yellow,Gourmand)4-TentaclePlant-{Night}
+13134 OE_JUNGLE01(White,Yellow,Gourmand)4-JungleLeech-9-{Ignorecycle}
+13135 OE_RUINFrontHall(Gourmand)2-TentaclePlant-{Night}
+13136 OE_RUINFrontHall(Gourmand)4-Big Spider-2-{Night}
+13137 OE_RUIN16(White,Yellow,Gourmand)6-TentaclePlant-{Night}
+13138 OE_JUNGLEESCAPE(White,Yellow,Gourmand)6-Blue-{Ignorecycle}
+13139 OE_JUNGLEESCAPE(White,Yellow,Gourmand)3-Mimic-{Ignorecycle}-{16}
+13140 OE_JUNGLEESCAPE(White,Yellow,Gourmand)9-DropBug-{Ignorecycle}
+13141 OE_JUNGLEESCAPE(White,Yellow,Gourmand)8-Small Centipede-5-{Ignorecycle}
+14000 HROFFSCREEN0-MirosVulture-8-{Voidsea}
+14001 HROFFSCREEN0-Leviathan-1-{Voidsea}
+14002 HROFFSCREEN0-Miros-6
+14003 HR_LCA8-FireBug-{Voidsea}
+14004 HR_A042-RedCentipede-{Voidsea}
+14005 HR_A053-Cyan-{Voidsea}
+14006 HR_A056-RedCentipede-{Voidsea}
+14007 HR_A058-White-{Voidsea}
+14008 HR_A059-White-{Voidsea}
+14009 HR_A0510-Cyan-{Voidsea}
+14010 HR_BR14-Cyan-{Voidsea}
+14011 HR_BR116-Red-{Voidsea}
+14012 HR_BR14-Red-{Voidsea}
+14013 HR_BR114-SpitterSpider-{Voidsea}
+14014 HR_BR116-Red-{Voidsea}
+14015 HR_A7R2-Red-{Voidsea}
+14016 HR_A7R7-Red-{Voidsea}
+14017 HR_US14-FireBug-{Voidsea}
+14018 HR_IN13-Tentacle Plant
+14019 HR_IN14-Tentacle Plant
+14020 HR_B034-RedCentipede-{Voidsea}
+14021 HR_B038-Red-{Voidsea}
+14022 HR_B035-SpitterSpider-{Voidsea}
+14023 HR_B036-White-{Voidsea}
+14024 HR_gbfi2-FireBug-{Voidsea}
+14025 HR_R077-BigNeedleWorm
+14026 HR_R078-SmallNeedleWorm-3
+14027 HR_R079-CicadaA
+14028 HR_R0710-CicadaB
+14029 HR_R0711-CicadaA
+14030 HR_R0712-CicadaB
+14031 HR_R0714-Red-{Voidsea}
+14032 HR_R0719-Red-{Voidsea}
+14033 HR_R042-SpitterSpider-{Voidsea}
+14034 HR_R043-White-2-{Voidsea}
+14035 HR_R044-White-{Voidsea}
+14036 HR_R045-SpitterSpider-{Voidsea}
+14037 HR_R105-FireBug-{Voidsea}
+14038 HR_R136-RedCentipede-{Voidsea}
+14039 HR_R138-Red-{Voidsea}
+14040 HR_R175-Daddy-{Voidsea}
+14041 HR_R182-Snail-3
+14042 HR_R186-Snail-2
+14043 HR_R188-Red-{Voidsea}
+14044 HR_R092-Yellow-5
+14045 HR_R096-White-{Mean:1.0}
+14046 HR_R097-White-{Mean:1.0}
+14047 HR_I015-FireBug-{Voidsea}
+14048 HR_J025-Daddy-{Voidsea}
+14049 HR_J026-Daddy-{Voidsea}
+14050 HR_J027-Cyan
+14051 HR_J028-Daddy-{Voidsea}
+14052 HR_J0212-Cyan
+14053 HR_J0217-FireBug-{Voidsea}
+14054 HR_J0218-FireBug-{Voidsea}
+14055 HR_L024-Yellow-6
+14056 HR_A252-FireBug-{Voidsea}
+14057 HR_B053-RedCentipede-{Voidsea}
+14058 HR_L062-CicadaA-3
+14059 HR_L063-CicadaB-4
+14060 HR_C025-Red-{Voidsea}
+14061 HR_C027-Red-{Voidsea}
+14062 HR_C028-Centiwing
+14063 HR_C029-Centiwing
+14064 HR_hrce5-FireBug-{Voidsea}
+14065 HR_hrce8-FireBug-{Voidsea}
+15000 LM_D025-Jet Fish-{PreCycle}
+15001 LM_C053-Jet Fish-{PreCycle}
+15002 LM_TUNNELA8-Eel-{PreCycle}
+15003 LMOFFSCREEN0-Vulture-3
+15004 LMOFFSCREEN0-KingVulture-2
+15005 LMOFFSCREEN0-Scavenger-8
+15006 LM_ECNIUS032-Snail
+15007 LM_ECNIUS033-Snail
+15008 LM_F013-Salamander
+15009 LM_F014-Mimic-{15}
+15010 LM_F015-Snail-4
+15011 LM_F016-Leech-3 ,7-Leech-5
+15012 LM_F018-Leech-8
+15013 LM_F0112-Garbage Worm-3
+15014 LM_F018-Tentacle Plant-{PreCycle}
+15015 LM_A023-Tentacle Plant
+15016 LM_A024-Salamander
+15017 LM_D063-Salamander
+15018 LM_D065-Salamander
+15019 LM_D066-Tentacle Plant
+15020 LM_D0616-Garbage Worm-3
+15021 LM_D067-Jetfish
+15022 LM_D067-Salamander
+15023 LM_D035-Jetfish-2
+15024 LM_D037-Jet Fish-2-{PreCycle}
+15025 LM_E014-Jetfish-2
+15026 LM_C102-Jetfish
+15027 LM_C064-Jetfish
+15028 LM_C024-CicadaB-3
+15029 LM_C024-CicadaA-2
+15030 LM_C025-Salamander
+15031 LM_C026-Salamander
+15032 LM_C027-Snail-2
+15033 LM_C024-Eel-{PreCycle}
+15034 LM_F024-CicadaB-2
+15035 LM_F025-CicadaA-2
+15036 LM_F0210-Leech-9
+15037 LM_F0211-Leech-6
+15038 LM_F0212-Leech-7
+15039 LM_F0214-Leech-9
+15040 LM_F0215-Jetfish-2
+15041 LM_F0216-Leech-19
+15042 LM_F0219-Eel-{PreCycle}
+15043 LM_C112-Sea Leech-4
+15044 LM_C113-Sea Leech-3
+15045 LM_C114-Tentacle Plant
+15046 LM_C115-Tentacle Plant
+15047 LM_A032-Snail-2
+15048 LM_A033-Snail-3
+15049 LM_D013-Sea Leech-7
+15050 LM_D015-Sea Leech-7
+15051 LM_D014-Eel-{PreCycle}
+15052 LM_D057-Snail
+15053 LM_D058-Snail
+15054 LM_B024-Tentacle Plant
+15055 LM_E022-Sea Leech-7
+15056 LM_A103-Sea Leech-6
+15057 LM_D045-Dropbug
+15058 LM_D044-Salamander
+15059 LM_D0412-Mimic-{19}
+15060 LM_D0413-Leech-10
+15061 LM_D0414-Mimic-{27}
+15062 LM_D0416-Leech-15
+15063 LM_H034-Tentacle Plant
+15064 LM_H036-Tentacle Plant
+15065 LM_H032-Blue
+15066 LM_TOWERSIDE4-White
+15067 LM_TOWERSIDE6-Snail-3
+15068 LM_MIRRORSIDE4-Snail
+15069 LM_MIRRORSIDE6-Blue
+15070 LM_SIDESWAMP2-Tentacle Plant
+15071 LM_SIDESWAMP6-Salamander
+15072 LM_BRIDGE022-White-1
+15073 LM_BRIDGE025-Cyan-1
+15074 LM_BRIDGE03(Spear)2-DropBug-1
+15075 LM_BRIDGE03(Spear)4-Cyan-2
+15076 LM_EDGE023-Dropbug-2
+15077 LM_EDGE026-Cyan-{Mean:0.4}
+15078 LM_EDGE023-Snail-2-{PreCycle}
+15079 LM_EDGE025-Snail-3-{PreCycle}
+15080 LM_WALL02(Spear)10-White-1
+15081 LM_WALL02(Spear)14-DropBug-1
+15082 LM_WALL03(Spear)4-Cyan
+15083 LM_TOWER043-CicadaB-4
+15084 LM_TOWER044-CicadaA-2
+15085 LM_TOWER044-Eel-{PreCycle}
+15086 LM_TOWER112-Eggbug
+15087 LM_TOWER086-White
+15088 LM_TOWER088-Dropbug
+15089 LM_TOWER036-Snail-3
+15090 LM_TOWER073-Blue
+15091 LM_TOWER022-Cyan-2
+15092 LM_B04(Artificer)4-CicadaB-4
+15093 LM_B04(Artificer)5-CicadaA-2
+15094 LM_TOWER054-Tentacle Plant
+15095 LM_TOWER057-Snail-2
+15096 LM_TOWER1310-Blue
+15097 LINEAGELM_F013
+15098 LINEAGELM_B043
+15099 LINEAGELM_D055
+15100 LINEAGELM_D056
+15101 LINEAGELM_A102
+15102 LINEAGE(Artificer)LM_C102
+15103 LINEAGE(Spear)LM_C102
+16000 DMOFFSCREEN0-MirosVulture-4
+16001 DM_WALL066-Yellow-2-{Ignorecycle}
+16002 DM_WALL067-Yellow-2-{Ignorecycle}
+16003 DM_WALL068-Yellow-3-{Ignorecycle}
+16004 DM_I103-Lantern Mouse-3-{Ignorecycle}
+16005 DM_I105-Lantern Mouse-3-{Ignorecycle}
+16006 DM_U043-SpitterSpider-1
+16007 DM_U0412-MotherSpider-3
+16008 DM_U0415-Yellow-1
+16009 DM_U0416-Yellow-2
+16010 DM_U0417-Yellow-2
+16011 DM_U063-SpitterSpider-1
+16012 DM_U064-MotherSpider-2
+16013 DM_U066-Blue-1
+16014 DM_U066-White-1
+16015 DM_U068-MotherSpider-1
+16016 DM_U069-SpitterSpider-1
+16017 DM_U073-SpitterSpider-1
+16018 DM_U074-Blue-2
+16019 DM_U075-SpitterSpider-1
+16020 DM_U093-Drop Bug-4
+16021 DM_U094-MotherSpider-3
+16022 DM_U096-Cyan-2
+16023 DM_U107-Lantern Mouse-2
+16024 DM_U108-Lantern Mouse-2
+16025 DM_U109-Lantern Mouse-1
+16026 DM_I026-Inspector-{Ignorecycle}
+16027 DM_I0210-Inspector-{Ignorecycle}
+16028 DM_LAB14-Inspector-{Ignorecycle}
+16029 DM_LAB126-Inspector-{Ignorecycle}
+16030 DM_O053-Inspector-{Ignorecycle}
+16031 DM_I053-Inspector-{Ignorecycle}
+16032 DM_MEM044-Inspector-{Ignorecycle}
+16033 DM_M012-Inspector-{Ignorecycle}
+16034 DM_M024-Inspector-{Ignorecycle}
+16035 DM_M026-Inspector-{Ignorecycle}
+16036 DM_LEG018-Spider-10
+16037 DM_LEG014-MotherSpider
+16038 DM_LEG014-BigSpider-2
+16039 DM_LEG015-Lantern Mouse-3
+16040 DM_LEG016-Lantern Mouse-2
+16041 DM_LEG029-BigSpider-1
+16042 DM_LEG024-Spider-10
+16043 DM_LEG026-Spider-10
+16044 DM_LEG027-Lantern Mouse-6
+16045 DM_LEG034-Pole Mimic-{26}
+16046 DM_LEG035-BigSpider-1
+16047 DM_LEG038-SpitterSpider-1
+16048 DM_LEG0311-Spider-10
+16049 DM_LEG0312-Spider-10
+16050 DM_LEG0313-MotherSpider-2
+16051 DM_LEG044-Spider-5
+16052 DM_LEG046-BigSpider-5
+16053 DM_LEG0411-Yellow-5
+16054 DM_LEG049-Spider-5
+16055 DM_LEG054-Spider-10
+16056 DM_LEG056-Spider-10
+16057 DM_LEG057-Spider-10
+16058 DM_LEG066-MotherSpider-2
+16059 DM_LEG0610-Yellow-5
+16060 DM_LEG069-Spider-2
+16061 DM_LEG0610-Spider-2
+16062 DM_LEG066-Spider-4
+16063 DM_LEG085-Spider-10
+16064 DM_LEG085-MotherSpider-2
+16065 DM_LEG087-Spider-10
+16066 DM_LEG089-Lantern Mouse-2
+16067 DM_LEG089-DropBug-1
+16068 DM_LEG0810-Lantern Mouse-2
+16069 DM_LEG0811-Lantern Mouse-2
+16070 DM_LEG0811-Spider-5 
+16071 DM_LEG073-Blue
+17000 LCOFFSCREEN0-Vulture-6
+17001 LCOFFSCREEN0-KingVulture-1-{Night}
+17002 LCOFFSCREEN0-Miros Bird-10-{Ignorecycle}
+17003 LCOFFSCREEN0-Scavenger-15-{Ignorecycle}
+17004 LCOFFSCREEN0-Elite-4-{Night}
+17005 LCOFFSCREEN(Artificer)0-KingVulture-3-{Ignorecycle}
+17006 LCOFFSCREEN(Artificer)0-Scavenger-40
+17007 LCOFFSCREEN(Artificer)0-Elite-3-{Ignorecycle}
+17008 LCOFFSCREEN(Artificer)0-Elite-12-{Night}
+17009 LC_betweenwalls2-TubeWorm-3
+17010 LC_deepslumsuh6-Yellow-2
+17011 LC_deepslumsuh3-TubeWorm-3
+17012 LC_deepslumsuh4-TubeWorm
+17013 LC_longslum5-Small Centipede-1-{AlternateForm}
+17014 LC_longslum9-Small Centipede-2-{AlternateForm}
+17015 LC_longslum10-Cyan-{Ignorecycle}
+17016 LC_longslum7-CicadaA-2
+17017 LC_longslum8-CicadaB-3
+17018 LC_longslum7-SpitterSpider-{Night}
+17019 LC_tallSlums3-Drop Bug
+17020 LC_C123-TubeWorm-2
+17021 LC_C123-BigSpider-{Night}
+17022 LC_C054-TubeWorm
+17023 LC_C083-CicadaA-1
+17024 LC_C083-CicadaB-3
+17025 LC_tallestconnection4-Centiwing-2
+17026 LC_tallestconnection4-SpitterSpider-{Night}
+17027 LC_towerCLIMB2-TubeWorm-2
+17028 LC_towerCLIMB3-Small Centipede-3-{AlternateForm}
+17029 LC_towerCLIMB4-Centiwing
+17030 LC_fence3-TubeWorm-2
+17031 LC_fence6-Small Centipede-3-{AlternateForm}
+17032 LC_fence6-Drop Bug
+17033 LC_fence6-BigSpider-3-{Night}
+17034 LC_slumtowers3-Centiwing
+17035 LC_slumtowers3-Small Centipede-3-{AlternateForm}
+17036 LC_rooftophop4-White-{Ignorecycle}
+17037 LC_rooftophop5-Cyan-{Ignorecycle}
+17038 LC_rooftophop7-CicadaA-2
+17039 LC_rooftophop8-CicadaB-3
+17040 LC_floorpipes4-White-{Ignorecycle}
+17041 LC_floorpipes6-TubeWorm-3
+17042 LC_floorpipes5-Eggbug
+17043 LC_longori4-Small Centipede-3-{AlternateForm}
+17044 LC_longori4-Centiwing
+17045 LC_longori5-Cyan-{Ignorecycle}
+17046 LC_longori6-TubeWorm
+17047 LC_longori7-TubeWorm
+17048 LC_A043-Yellow-3
+17049 LC_A043-BigSpider-2-{Night}
+17050 LC_streets4-Small Centipede-2-{AlternateForm}
+17051 LC_ruin012-Small Centipede-3-{AlternateForm}
+17052 LC_ruin013-SpitterSpider-{Night}
+17053 LC_ruin0210-Yellow-3
+17054 LC_ruin026-Small Centipede-3-{AlternateForm}
+17055 LC_ruin027-TubeWorm
+17056 LC_ruin0211-TubeWorm-2
+17057 LC_ruin038-Yellow-2
+17058 LC_ruin035-TubeWorm
+17059 LC_stripmallNEW6-Yellow-4-{Ignorecycle}
+17060 LC_LAB0117-Inspector-{Ignorecycle}
+17061 LC_gatehouse012-TubeWorm-2
+17062 LC_gatehouse014-TubeWorm
+17063 LC_gatehouse015-TubeWorm
+17064 LC_gatehouse013-Drop Bug-2
+17065 LC_gatehouse025-Small Centipede-3-{AlternateForm}
+17066 LC_station013-Small Centipede-3-{AlternateForm}
+17067 LC_station015-Spider-18-{Ignorecycle}
+17068 LC_station014-TubeWorm
+17069 LC_station017-TubeWorm-2
+17070 LC_station016-Spider-10-{Ignorecycle}
+17071 LC_PIPES036-TubeWorm-2
+17072 LC_PIPES013-Small Centipede-{AlternateForm}
+17073 LC_PIPES015-Small Centipede-2-{AlternateForm}
+17074 LC_PIPES018-Small Centipede-2-{AlternateForm}
+17075 LC_toplab7-Yellow-2
+17076 LC_junction6-Spider-8-{Ignorecycle}
+17077 LC_LAB024-Spider-18-{Ignorecycle}
+17078 LC_templeshaft7-Spider-8-{Ignorecycle}
+17079 LC_templeentrance3-Spider-20-{Ignorecycle}
+17080 LC_LAB054-Spider-20-{Ignorecycle}
+17081 LC_LAB044-Spider-8-{Ignorecycle}
+17082 LC_LAB064-Miros Bird-3-{Ignorecycle}
+17083 LC_LAB065-Spider-18-{Ignorecycle}
+17084 LC_midlab5-White-{Ignorecycle}
+17085 LC_midlab5-Spider-10-{Ignorecycle}
+17086 LC_cramped2-Cyan-{Night}
+17087 LC_mallentrance3-BigSpider-4-{Night}
+17088 LC_mallentrance5-TubeWorm-2
+17089 LC_mallentrance2-Eggbug-{Ignorecycle}
+17090 LC_elevatorentrance5-TubeWorm-2
+17091 LC_topexit3-TubeWorm
+17092 LC_topexit4-TubeWorm
+17093 LC_crash2-Small Centipede-2-{AlternateForm}
+17094 LC_crash6-SpitterSpider-{Night}
+17095 LC_crash5-CicadaA-2
+17096 LC_crash7-CicadaB-3
+17097 LC_downwards2-Eggbug-{Ignorecycle}
+18000 RM_F026-Bro-{Ignorecycle}
+18001 RM_I022-Terror-{Ignorecycle}
+18002 RM_H012-Daddy-{Ignorecycle}
+18003 RM_H014-Daddy-{Ignorecycle}
+18004 RM_LCHUNT5-Daddy-{Ignorecycle}
+18005 RM_LSVALVES4-Daddy-{Ignorecycle}
+18006 RM_LSVALVES5-Daddy-{Ignorecycle}
+18007 RM_LCRPIPE4-Daddy-{Ignorecycle}
+18008 RM_LCMEMEXIT5-Daddy-{Ignorecycle}
+18009 RM_LCUPSIDE4-Daddy-{Ignorecycle}
+18010 RM_TERROR3-Terror-{Ignorecycle}
+18011 RM_CONVERGENCE5-Bro-{Ignorecycle}
+18012 RM_LCTPIPE4-Bro-{Ignorecycle}
+18013 RM_F014-Bro-{Ignorecycle}
+18014 RM_LSLOCKDOWN4-Bro-{Ignorecycle}
+19000 CLOFFSCREEN0-Vulture-3
+19001 CLOFFSCREEN0-Scavenger-37
+19002 CLOFFSCREEN0-Miros Bird-9-{Ignorecycle}
+19003 CL_A114-Lantern Mouse-2
+19004 CL_A123-Lantern Mouse-4
+19005 CL_A143-Lantern Mouse-4
+19006 CL_HALL7-Big Spider-{Winter}
+19007 CL_HALL8-Big Spider-2-{Winter}
+19008 CL_HALL9-SpitterSpider-{Winter}
+19009 CL_B064-BigSpider-2-{Winter}
+19010 CL_B065-BigSpider-{Winter}
+19011 CL_C143-Bro
+19012 CL_C144-Bro
+19013 CL_B175-SpitterSpider-{Winter}
+19014 CL_B175-BigSpider-{Winter}
+19015 CL_LCLPIPE5-Lantern Mouse-6
+19016 CL_A334-Centipede-3
+19017 CL_A334-Centipede Small
+19018 CL_A334-Red Centipede
+19019 CL_C094-BigSpider-3-{Winter}
+19020 CL_C095-SpitterSpider-{Winter}
+19021 CL_A173-BigSpider-{Winter}
+19022 CL_A174-BigSpider-{Winter}
+19023 CL_A424-Lantern Mouse-8
+19024 CL_B116-BigSpider-{Winter}
+19025 CL_C133-Cyan
+19026 CL_C123-BigSpider-2-{Winter}
+19027 CL_E022-Cyan
+19028 CL_E023-Yellow-5
+19029 CL_B054-Blue
+19030 CL_LC024-Lantern Mouse-4
+19031 CL_A082-Blue
+19032 CL_D022-White
+19033 CL_E043-SpitterSpider-{Winter}
+19034 CL_E043-BigSpider-2-{Winter}
+19035 CL_A103-Centiwing
+19036 CL_C212-Yellow-2
+19037 CL_C214-Yellow-3
+19038 CL_V037-Cyan
+19039 CL_V013-SpitterSpider-{Winter}
+19040 CL_D123-Lantern Mouse-8
+19041 CL_B263-SpitterSpider-{Winter}
+19042 CL_B265-BigSpider-3-{Winter}
+19043 CL_B243-BigSpider-3-{Winter}
+19044 CL_C074-Lantern Mouse-4
+19045 CL_C083-BigSpider-2-{Winter}
+19046 CL_LCFILTERS10-BigSpider-3-{Winter}
+19047 CL_LCFILTERS6-SpitterSpider-2-{Winter}
+19048 CL_A065-Blue
+19049 CL_LSCOREACCESS6-BigSpider-5-{Winter}
+19050 CL_A053-Lantern Mouse-4
+19051 CL_CURVE3-Lantern Mouse-4
+19052 CL_CURVE2-BigSpider-{Winter}
+20000 UGOFFSCREEN0-Scavenger-13-{Ignorecycle}
+20001 UG_A223-Drop Bug-{Ignorecycle}
+20002 UG_A023-Blue-{Ignorecycle}
+20003 UG_A024-JungleLeech-10-{Ignorecycle}
+20004 UG_A062-JungleLeech-10-{Ignorecycle}
+20005 UG_A163-TentaclePlant-{Ignorecycle}
+20006 UG_A165-JungleLeech-15-{Ignorecycle}
+20007 UG_A167-TentaclePlant-{Ignorecycle}
+20008 UG_A073-JungleLeech-9-{Ignorecycle}
+20009 UG_A074-Snail-2-{Ignorecycle}
+20010 UG_A075-Mimic-{18}
+20011 UG_A192-Centipede-5
+20012 UG_A192-Small Centipede-4
+20013 UG_GUTTER012-Snail-1-{Ignorecycle}
+20014 UG_GUTTER014-JungleLeech-12-{Ignorecycle}
+20015 UG_GUTTER022-SpitterSpider-{Ignorecycle}
+20016 UG_GUTTER037-DropBug-{Ignorecycle}
+20017 UG_GUTTER038-Snail-1-{Ignorecycle}
+20018 UG_GUTTER039-Snail-2-{Ignorecycle}
+20019 UG_GUTTER046-Big Spider-3-{Ignorecycle}
+20020 UG_GUTTER045-MotherSpider-{Ignorecycle}
+20021 UG_A212-Mimic-{16}
+20022 UG_A213-Blue-{Ignorecycle}
+20023 UG_D022-Small Centipede-3
+20024 UG_A055-Mimic-{9}
+20025 UG_A056-Mimic-{10}
+20026 UG_A253-Eel
+20027 UG_A255-JungleLeech-5-{Ignorecycle}
+20028 UG_A256-JungleLeech-7-{Ignorecycle}
+20029 UG_B073-Small Centipede-6
+20030 UG_B074-Small Centipede-4
+20031 UG_B074-Red Centipede
+20032 UG_TOLL6-Mimic-{21}
+20033 UG_TOLL8-Mimic-{16}
+20034 LINEAGEUG_C016
+20035 LINEAGEUG_C018
+20036 LINEAGEUG_A192
+20037 LINEAGEUG_B034
+20038 UG_D032-TentaclePlant-{Ignorecycle}
+20039 UG_D038-TentaclePlant-{Ignorecycle}
+20040 UG_C043-TentaclePlant-{Ignorecycle}
+20041 UG_C032-Drop Bug-{Ignorecycle}
+20042 UG_DARK014-TentaclePlant-{Ignorecycle}
+20043 UG_DARK016-Big Spider-2-{Ignorecycle}
+20044 UG_DARK033-MotherSpider-2-{Ignorecycle}
+21000 VS_A064-Salamander-{PreCycle}
+21001 VS_B076-Eel-{PreCycle}
+21002 VS_A044-Eel-{PreCycle}
+21003 VS_H0212-Eel-{PreCycle}
+21004 VS_E064-Tentacle Plant-{PreCycle}
+21005 VS_E069-Salamander-{PreCycle}
+21006 VS_B153-Tentacle Plant-{PreCycle}
+21007 VS_D026-Tentacle Plant-{PreCycle}
+21008 VS_A022-Eggbug-{PreCycle}
+21009 VS_B177-Tentacle Plant
+21010 VS_C128-Tentacle Plant
+21011 VS_C1211-Tentacle Plant
+21012 VS_F0217-Tentacle Plant
+21013 VS_C064-Tentacle Plant
+21014 VSOFFSCREEN(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Scavenger-8
+21015 VSOFFSCREEN(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)0-Vulture-2
+21016 VS_C05(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Pole Mimic-{13}
+21017 VS_C05(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Pole Mimic-{21}
+21018 VS_C05(Gourmand)3-Centipede-4
+21019 VS_C05(Gourmand)4-Red Centipede
+21020 VS_D04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Black-2
+21021 VS_D04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-Black
+21022 VS_B16(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Black
+21023 VS_C10(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Black-2
+21024 VS_F02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Black-2
+21025 VS_F02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)14-Salamander-2
+21026 VS_E02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-Black
+21027 VS_E02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)10-Black-2
+21028 VS_E02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)13-Black
+21029 VS_A05(Gourmand)4-Cyan-3
+21030 VS_D01(Gourmand)4-DropBug
+21031 VS_A04(Gourmand)4-DropBug
+21032 VS_C01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)12-Eel
+21033 VS_C01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)13-Salamander-2
+21034 VS_C07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)8-Centipede-2
+21035 VS_C07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)11-Centipede-3
+21036 VS_B09(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Centipede-2
+21037 VS_B09(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Small Centipede-4
+21038 VS_D03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Snail-3
+21039 VS_C08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Snail-4
+21040 VS_C08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)7-Jet Fish
+21041 VS_C03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Snail-4
+21042 VS_D02(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Snail-3
+21043 VS_E01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Jet Fish
+21044 VS_C04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Pink
+21045 VS_C04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-CicadaA-3
+21046 VS_C04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-CicadaB-5
+21047 VS_C04(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-Pole Mimic-{12}
+21048 VS_B07(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Centipede-4
+21049 VS_A03(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)4-Small Centipede-3
+21050 VS_B12(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)6-Small Centipede-5
+21051 VS_C09(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-Egg Bug-2
+21052 VS_A08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)2-Centipede-2
+21053 VS_A08(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Small Centipede-4
+21054 VS_F01(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)5-Small Centipede-8
+21055 VS_C13(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)3-Centipede-3
+21056 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)VS_C135
+21057 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)VS_C044
+21058 LINEAGE(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)VS_A054
+21059 LINEAGE(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)VS_C023
+21060 VSOFFSCREEN(Yellow)0-Scavenger-9
+21061 VSOFFSCREEN(Yellow)0-Vulture-1
+21062 VS_C05(Yellow)4-Pole Mimic-{21}
+21063 VS_D04(Yellow)6-Black-2
+21064 VS_D04(Yellow)8-Black
+21065 VS_B16(Yellow)7-Black
+21066 VS_C10(Yellow)7-Black
+21067 VS_F02(Yellow)7-Black-2
+21068 VS_F02(Yellow)14-Eel
+21069 VS_E02(Yellow)8-Black
+21070 VS_E02(Yellow)10-Black-2
+21071 VS_A05(Yellow)4-Salamander
+21072 VS_C01(Yellow)12-Eel
+21073 VS_C01(Yellow)13-Salamander-2
+21074 VS_C07(Yellow)8-Centipede-1
+21075 VS_C07(Yellow)11-Centipede-3
+21076 VS_B09(Yellow)3-Centipede
+21077 VS_B09(Yellow)5-Small Centipede-4
+21078 VS_D03(Yellow)4-Snail-3
+21079 VS_C08(Yellow)4-Snail-4
+21080 VS_C08(Yellow)7-Jet Fish
+21081 VS_C03(Yellow)4-Snail-4
+21082 VS_D02(Yellow)4-Snail-3
+21083 VS_E01(Yellow)6-Jet Fish
+21084 VS_C02(Yellow)3-Eel
+21085 VS_C04(Yellow)4-Pink
+21086 VS_C04(Yellow)3-CicadaA-3
+21087 VS_C04(Yellow)6-CicadaB-5
+21088 VS_B07(Yellow)6-Centipede-3
+21089 VS_A03(Yellow)4-Small Centipede-3
+21090 VS_B12(Yellow)6-Small Centipede-5
+21091 VS_C09(Yellow)2-Egg Bug-2
+21092 VS_A08(Yellow)2-Centipede-2
+21093 VS_A08(Yellow)3-Small Centipede-4
+21094 VS_F01(Yellow)5-Small Centipede-8
+21095 VS_C13(Yellow)3-Centipede-3
+21096 LINEAGE(Yellow)VS_C135
+21097 LINEAGE(Yellow)VS_C044
+21098 LINEAGE(Yellow)VS_A054
+21099 VSOFFSCREEN(Rivulet)0-Scavenger-9
+21100 VSOFFSCREEN(Rivulet)0-Vulture-2
+21101 VS_C05(Rivulet)4-Pole Mimic-{21}
+21102 VS_D04(Rivulet)6-Black-2
+21103 VS_D04(Rivulet)8-Black
+21104 VS_B16(Rivulet)7-Black
+21105 VS_C10(Rivulet)7-Black
+21106 VS_F02(Rivulet)7-Black-2
+21107 VS_F02(Rivulet)14-Eel
+21108 VS_E02(Rivulet)8-Black
+21109 VS_E02(Rivulet)10-Black-2
+21110 VS_A05(Rivulet)4-Salamander
+21111 VS_C01(Rivulet)12-Eel
+21112 VS_C01(Rivulet)10-Sea Leech-4
+21113 VS_C01(Rivulet)12-Sea Leech-5
+21114 VS_C01(Rivulet)13-Sea Leech-3
+21115 VS_C07(Rivulet)7-Yellow-3
+21116 VS_B09(Rivulet)3-Yellow-2
+21117 VS_B09(Rivulet)5-Small Centipede-4
+21118 VS_D03(Rivulet)3-Eel
+21119 VS_D03(Rivulet)4-Snail-3
+21120 VS_C08(Rivulet)7-Aquacenti
+21121 VS_C08(Rivulet)4-Snail-4
+21122 VS_C08(Rivulet)7-Jet Fish
+21123 VS_C03(Rivulet)4-White
+21124 VS_C03(Rivulet)4-Snail-4
+21125 VS_D02(Rivulet)4-Snail-3
+21126 VS_E01(Rivulet)7-Aquacenti
+21127 VS_E01(Rivulet)7-Eel
+21128 VS_E01(Rivulet)6-Jet Fish
+21129 VS_C02(Rivulet)3-Cyan
+21130 VS_C04(Rivulet)2-Centiwing-2
+21131 VS_C04(Rivulet)4-Centiwing
+21132 VS_C04(Rivulet)2-Pole Mimic-{12}
+21133 VS_B07(Rivulet)6-Centipede-3
+21134 VS_A03(Rivulet)4-Small Centipede-3
+21135 VS_B12(Rivulet)6-Small Centipede-5
+21136 VS_C09(Rivulet)5-Centipede-3
+21137 VS_A08(Rivulet)2-Centipede-2
+21138 VS_A08(Rivulet)3-Small Centipede-4
+21139 VS_F01(Rivulet)5-Small Centipede-8
+21140 VS_F01(Rivulet)5-Eel
+21141 VS_E06(Rivulet)3-Eel
+21142 VS_C13(Rivulet)3-Centiwing-3
+21143 LINEAGE(Rivulet)VS_C135
+21144 LINEAGE(Rivulet)VS_C044
+21145 LINEAGE(Rivulet)VS_A054
+21146 LINEAGE(Rivulet)VS_C023
+21147 VSOFFSCREEN(Red)0-Scavenger-8
+21148 VSOFFSCREEN(Red)0-Vulture-3
+21149 VSOFFSCREEN(Red)0-KingVulture-1
+21150 VSOFFSCREEN(Spear)0-Scavenger-9
+21151 VSOFFSCREEN(Spear)0-KingVulture-1
+21152 VSOFFSCREEN(Spear)0-Vulture-3
+21153 VSOFFSCREEN(Artificer)0-Scavenger-12
+21154 VSOFFSCREEN(Artificer)0-Vulture-3
+21155 VSOFFSCREEN(Artificer)0-KingVulture-1
+21156 VS_C05(Red,Artificer,Spear)3-Centipede-4
+21157 VS_C05(Red,Artificer,Spear)4-Red Centipede
+21158 VS_D04(Red,Artificer,Spear)6-Black-2
+21159 VS_D04(Red,Artificer,Spear)8-Black-2
+21160 VS_B16(Red,Artificer,Spear)7-Black-2
+21161 VS_C10(Red,Artificer,Spear)7-Black-2
+21162 VS_E02(Red,Artificer,Spear)8-Black-2
+21163 VS_E02(Red,Artificer,Spear)10-Black-2
+21164 VS_E02(Red,Artificer,Spear)13-Black
+21165 VS_F02(Red,Artificer,Spear)7-Black-3
+21166 VS_F02(Red,Artificer,Spear)14-Salamander-2
+21167 VS_A05(Red,Artificer,Spear)4-Cyan-3
+21168 VS_C01(Red,Artificer,Spear)12-Salamander
+21169 VS_C01(Red,Artificer,Spear)13-Salamander-2
+21170 VS_D01(Red,Artificer,Spear)4-DropBug
+21171 VS_A04(Red,Artificer,Spear)4-DropBug
+21172 VS_C07(Red,Artificer,Spear)8-Centipede-2
+21173 VS_C07(Red,Artificer,Spear)11-Centipede-4
+21174 VS_B09(Red,Artificer,Spear)3-Centipede-3
+21175 VS_B09(Red,Artificer,Spear)5-Small Centipede-3
+21176 VS_D03(Red,Artificer,Spear)4-Snail-3
+21177 VS_C08(Red,Artificer,Spear)4-Snail-4
+21178 VS_C08(Red,Artificer,Spear)7-Jet Fish
+21179 VS_C03(Red,Artificer,Spear)4-Snail-4
+21180 VS_C03(Red,Artificer,Spear)5-DropBug
+21181 VS_D02(Red,Artificer,Spear)4-Snail-3
+21182 VS_E01(Red,Artificer,Spear)6-Jet Fish
+21183 VS_C02(Red,Artificer,Spear)3-Cyan
+21184 VS_C04(Red,Artificer,Spear)2-Pole Mimic-{12}
+21185 VS_C04(Red,Artificer,Spear)3-CicadaA-2
+21186 VS_C04(Red,Artificer,Spear)6-CicadaB-3
+21187 VS_B07(Red,Artificer,Spear)6-Centipede-5
+21188 VS_A03(Red,Artificer,Spear)4-Small Centipede-2
+21189 VS_A03(Red,Artificer,Spear)5-Centipede
+21190 VS_B12(Red,Artificer,Spear)6-Small Centipede-5
+21191 VS_C09(Red,Artificer,Spear)2-Egg Bug-2
+21192 VS_A08(Red,Artificer,Spear)2-Centipede-2
+21193 VS_A08(Red,Artificer,Spear)3-Small Centipede-4
+21194 VS_H01(Red,Artificer,Spear)8-Tentacle Plant
+21195 VS_C11(Red,Artificer,Spear)3-Black
+21196 VS_F01(Red,Artificer,Spear)5-Centipede-2
+21197 VS_C13(Red,Artificer,Spear)3-CicadaA-2
+21198 VS_C13(Red,Artificer,Spear)6-CicadaB-3
+21199 VS_C13(Red,Artificer,Spear)5-Cyan
+21200 VS_A10(Red,Artificer,Spear)4-DropBug
+21201 VS_A15(Red,Artificer,Spear)6-DropBug
+21202 LINEAGE(Red,Artificer,Spear)VS_C135
+21203 LINEAGE(Red,Artificer,Spear)VS_C044
+21204 LINEAGE(Red,Artificer,Spear)VS_A054
+21205 LINEAGE(Red,Artificer,Spear)VS_C023
+21206 VSOFFSCREEN(Saint)0-MirosVulture-3-{Night}
+21207 VSOFFSCREEN(Saint)0-Scavenger-14
+21208 VSOFFSCREEN(Saint)0-Vulture-2
+21209 VS_D04(Saint)6-Black-2
+21210 VS_D04(Saint)8-Black-2
+21211 VS_B16(Saint)7-Black-2
+21212 VS_C10(Saint)7-Black-2
+21213 VS_E02(Saint)8-Black
+21214 VS_E02(Saint)10-Black
+21215 VS_E02(Saint)13-Black
+21216 VS_E02(Saint)7-LanternMouse-2
+21217 VS_E02(Saint)6-Big Spider-2-{Ignorecycle}
+21218 VS_E02(Saint)4-SpitterSpider-{Ignorecycle}
+21219 VS_F02(Saint)7-Black-3
+21220 VS_B06(Saint)3-LanternMouse-3
+21221 VS_B09(Saint)3-Yellow-2
+21222 VS_C07(Saint)7-Yellow-3
+21223 VS_C04(Saint)2-Centiwing-2
+21224 VS_C04(Saint)4-Centiwing
+21225 VS_C04(Saint)4-Big Spider-3-{Winter}
+21226 VS_C04(Saint)4-Strawberry
+21227 VS_C05(Saint)3-Centipede-4
+21228 VS_C05(Saint)4-Red Centipede
+21229 VS_A08(Saint)2-Centipede-2
+21230 VS_A08(Saint)3-Small Centipede-4
+21231 VS_F01(Saint)9-LanternMouse-5
+21232 VS_B12(Saint)6-Small Centipede-5
+21233 VS_H01(Saint)8-Tentacle Plant
+21234 VS_H01(Saint)2-Drop Bug-{Ignorecycle}
+21235 VS_E06(Saint)4-Centipede-4
+21236 VS_E06(Saint)4-Small Centipede-3
+21237 VS_E06(Saint)3-Drop Bug-{Ignorecycle}
+21238 VS_C02(Saint)3-Cyan-2
+21239 VS_C03(Saint)4-Strawberry
+21240 VS_A04(Saint)3-Strawberry
+21241 VS_C09(Saint)5-Centipede-3
+21242 VS_C09(Saint)2-SpitterSpider-2
+21243 VS_C08(Saint)7-Aquacenti
+21244 VS_C08(Saint)3-Sea Leech-6
+21245 VS_C08(Saint)4-Sea Leech-4
+21246 VS_E01(Saint)7-Aquacenti
+21247 VS_E01(Saint)7-Sea Leech-5
+21248 VS_D02(Saint)5-Aquacenti
+21249 VS_D02(Saint)6-Sea Leech-6
+21250 VS_D03(Saint)4-Sea Leech-6
+21251 VS_C01(Saint)10-Sea Leech-4
+21252 VS_C01(Saint)12-Sea Leech-5
+21253 VS_C01(Saint)13-Sea Leech-3
+21254 VS_C13(Saint)3-Centiwing-3
+21255 VSOFFSCREEN(Inv)0-Scavenger-12
+21256 VSOFFSCREEN(Inv)0-MirosVulture-2
+21257 VS_C05(Inv)3-Red Centipede
+21258 VS_C05(Inv)4-Red Centipede
+21259 VS_D04(Inv)6-Red
+21260 VS_D04(Inv)8-Red
+21261 VS_B16(Inv)7-Red
+21262 VS_C10(Inv)7-Red
+21263 VS_E02(Inv)8-Red
+21264 VS_E02(Inv)10-Red
+21265 VS_E02(Inv)13-Red
+21266 VS_F02(Inv)7-Red
+21267 VS_F02(Inv)14-Red
+21268 VS_A05(Inv)4-Cyan-3
+21269 VS_C01(Inv)12-Red
+21270 VS_C01(Inv)13-Red
+21271 VS_D01(Inv)4-DropBug
+21272 VS_A04(Inv)4-DropBug
+21273 VS_C07(Inv)8-Red Centipede
+21274 VS_C07(Inv)11-Red Centipede
+21275 VS_B09(Inv)3-Red Centipede
+21276 VS_B09(Inv)5-Small Centipede-3
+21277 VS_D03(Inv)4-Snail-3
+21278 VS_C08(Inv)4-Snail-4
+21279 VS_C08(Inv)7-Jet Fish
+21280 VS_C03(Inv)4-Snail-4
+21281 VS_C03(Inv)5-DropBug
+21282 VS_D02(Inv)4-Snail-3
+21283 VS_E01(Inv)6-Jet Fish
+21284 VS_C02(Inv)3-Cyan
+21285 VS_C04(Inv)3-CicadaA-2
+21286 VS_C04(Inv)6-CicadaB-3
+21287 VS_C04(Inv)2-Pole Mimic-{12}
+21288 VS_B07(Inv)6-Red Centipede-5
+21289 VS_A03(Inv)4-Small Centipede-2
+21290 VS_A03(Inv)5-Red Centipede
+21291 VS_B12(Inv)6-Small Centipede-5
+21292 VS_C09(Inv)2-Egg Bug-2
+21293 VS_A08(Inv)2-Red Centipede
+21294 VS_A08(Inv)3-Small Centipede-4
+21295 VS_H01(Inv)8-Tentacle Plant
+21296 VS_C11(Inv)3-Red
+21297 VS_F01(Inv)5-Red Centipede
+21298 VS_C13(Inv)3-CicadaA-2
+21299 VS_C13(Inv)6-CicadaB-3
+21300 VS_C13(Inv)5-Cyan
+21301 VS_A10(Inv)4-DropBug
+21302 VS_A15(Inv)6-DropBug
+21303 LINEAGE(Inv)VS_C135
+21304 LINEAGE(Inv)VS_C044
+21305 LINEAGE(Inv)VS_A054
+21306 LINEAGE(Inv)VS_C023
+21307 VS_BASEMENT02(Inv)4-Tentacle Plant
