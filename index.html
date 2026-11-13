@@ -285,6 +285,10 @@ html, body {
 
     function start(buildBase, assetsUrl) {
         setStatus("Loading Rain World...");
+        // The build's patched file layer retries a failed file against this base
+        // before it gives up, so a single missing data file cannot stop the load.
+        var branchAssets = ASSET_BRANCH + ASSETS_PATH;
+        window.rainWorldAssetFallback = assetsUrl.indexOf(ASSET_BRANCH) === 0 ? "" : branchAssets;
         return loadScript(buildBase + BUILD + ".loader.js").then(function () {
             if (typeof createUnityInstance !== "function") {
                 throw new Error("The Unity loader did not define createUnityInstance.");

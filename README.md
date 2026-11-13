@@ -60,6 +60,22 @@ python3 -m http.server 8000                  # then open http://localhost:8000/
 
 Run it from the repo root so `StreamingAssets/` sits next to `index.html`.
 
+## Build patches
+
+`Build/WebGLUnity6Build.framework.js` is patched from the stock export by
+`patch_build.py`. Its file layer used to throw out of the middle of a read when a
+file 404'd or did not match its manifest length, which stalled the game on the
+loading art. Now a failed file is retried against `window.rainWorldAssetFallback`
+(the `game-assets` branch) and, if it still fails, the load logs it, the launcher
+shows the path, and the game continues with an empty placeholder.
+
+Re-apply after replacing `Build/` with a fresh export:
+
+```bash
+python3 patch_build.py           # apply
+python3 patch_build.py --check   # is it applied?
+```
+
 ## Troubleshooting
 
 A red banner inside the game names the file that failed and where it came from.
