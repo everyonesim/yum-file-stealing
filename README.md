@@ -62,11 +62,15 @@ Run it from the repo root so `StreamingAssets/` sits next to `index.html`.
 
 ## Asset delivery
 
-`index.html` picks the first asset base that answers: this folder, `rain-world/`,
-the jsDelivr copy of the `game-assets` branch, then the raw branch. jsDelivr comes
-first because it answers in milliseconds and caches for a week; the raw host is
-kept for the handful of files over 20 MB that the CDN refuses. Every base is
-handed to the build as a fallback, so a file missing from one host still loads.
+`index.html` picks the first asset base that answers with a *complete* tree: this
+folder, then `rain-world/`, then the `game-assets` branch. A folder that has the
+manifest but not the data (the usual sign of an extractor that skipped the
+`WebPortBytes` mirrors) is skipped rather than streamed half-broken, and every
+base it rejected is handed to the build as a fallback.
+
+jsDelivr and selcdn were both tried as a faster host for the assets and neither
+will serve this branch: the tree is over their package limits, so they answer 403.
+The raw branch is the remote source.
 
 The stock port reads files one at a time with blocking requests, which makes a
 region load crawl when the data comes over the network. The patch prefetches

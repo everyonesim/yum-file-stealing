@@ -124,19 +124,17 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13a";
+    var BUILD_VERSION = "2026-11-13b";
     var ASSETS_PATH = "StreamingAssets";
-    // Where the asset tree can also live if it is too big for Pages. The CDN
-    // is preferred: it caches for a week and answers in a few milliseconds,
-    // the raw host is the fallback (it serves the files over 20 MB that the
-    // CDN refuses).
+    // Where the asset tree can also live if it is too big for Pages. selcdn and
+    // jsDelivr were tried here and both refuse a tree this size, so the raw
+    // branch is the remote source.
     var ASSET_BRANCH = "https://raw.githubusercontent.com/everyonesim/yum-file-stealing/game-assets/";
-    var ASSET_CDN = "https://cdn.jsdelivr.net/gh/everyonesim/yum-file-stealing@game-assets/";
 
     // Checked in order. "" is this page's own folder, so the game works from
     // the repo root and from the old rain-world/ layout.
     var BUILD_BASES = ["", "rain-world/"];
-    var ASSET_BASES = ["", "rain-world/", ASSET_CDN, ASSET_BRANCH];
+    var ASSET_BASES = ["", "rain-world/", ASSET_BRANCH];
 
     var canvas = document.getElementById("unity-canvas");
     var loading = document.getElementById("loading");
@@ -186,18 +184,13 @@ html, body {
             return String(part);
         }).join(" ");
 
-        if (!/Rain World (file|save)/i.test(text)) return;
+        // A single base failing is normal: the build tries the next one. Only
+        // report a file that every base failed to supply.
+        if (!/Rain World file (unavailable|manifest request failed)/i.test(text.trim())) return;
 
-        var hint = "";
-        if (/size mismatch/i.test(text)) {
-            hint = "That file is truncated or was replaced by a different build. Run sync_assets.py --verify to repair it.";
-        } else if (/request failed/i.test(text)) {
-            hint = "That file is missing from StreamingAssets (or the case of its path does not match). Run sync_assets.py --verify.";
-        } else if (/manifest request failed/i.test(text)) {
-            hint = "StreamingAssets/webport-files.json could not be fetched from the asset folder.";
-        } else if (/network error/i.test(text)) {
-            hint = "The request was blocked or the host stopped responding.";
-        }
+        var hint = /manifest request failed/i.test(text)
+            ? "webport-files.json could not be read from the game folder or the game-assets branch."
+            : "No source had that file, so the game continued without it. Run python3 sync_assets.py --verify to see what your local copy is missing.";
         showBanner("Rain World could not read a game file", text, hint);
     };
 
@@ -236,6 +229,48 @@ html, body {
             .catch(function () { return false; });
     }
 
+    // A folder can hold the manifest and still be missing most of the data (an
+    // extractor that skipped the WebPortBytes mirrors leaves the game without
+    // its shaders and text). Spot-check files across the tree, including those
+    // mirrors, before trusting a base.
+    var SAMPLE_FILES = [
+        "GameVersion.txt",
+        "world/worldversion.txt",
+        "world/regions.txt",
+        "world/su-rooms/su_a02.txt",
+        "WebPortBytes/text/text_eng/strings.txt.b64",
+        "WebPortBytes/shaders/Blizzard.shader.b64"
+    ];
+
+    function complete(base) {
+        var index = 0;
+        function next() {
+            if (index >= SAMPLE_FILES.length) return Promise.resolve(true);
+            var url = base + ASSETS_PATH + "/" + SAMPLE_FILES[index++];
+            return head(url).then(function (ok) { return ok ? next() : false; });
+        }
+        return next();
+    }
+
+    var rejectedBases = [];
+
+    function firstCompleteAssets() {
+        var index = 0;
+        function next() {
+            if (index >= ASSET_BASES.length) return Promise.resolve(null);
+            var base = ASSET_BASES[index++];
+            return head(base + ASSETS_PATH + "/webport-files.json").then(function (ok) {
+                if (!ok) return next();
+                return complete(base).then(function (good) {
+                    if (good) return base;
+                    rejectedBases.push(base? base : "./");
+                    return next();
+                });
+            });
+        }
+        return next();
+    }
+
     function firstAvailable(bases, relative) {
         var index = 0;
         function next() {
@@ -260,11 +295,14 @@ html, body {
                 "Upload the Build folder (loader, framework, wasm, data) to the repo root.");
             return null;
         }
-        return firstAvailable(ASSET_BASES, ASSETS_PATH + "/webport-files.json")
-            .then(function (assetBase) {
+        return firstCompleteAssets().then(function (assetBase) {
                 if (assetBase === null) {
-                    fail("Missing StreamingAssets/webport-files.json.",
-                        "The game streams its data from that folder. Upload StreamingAssets to the repo root, or put it on the game-assets branch.");
+                    fail(rejectedBases.length
+                            ? "StreamingAssets is there but incomplete."
+                            : "Missing StreamingAssets/webport-files.json.",
+                        rejectedBases.length
+                            ? "Some of its data files are missing, including the WebPortBytes mirrors that hold the shaders and text. Run python3 sync_assets.py to fill the gaps, or let the game stream from the game-assets branch."
+                            : "The game streams its data from that folder. Upload StreamingAssets to the repo root, or put it on the game-assets branch.");
                     return null;
                 }
                 return { build: buildBase, assets: assetBase + ASSETS_PATH };
@@ -325,6 +363,13 @@ html, body {
         }).then(function (instance) {
             window.gameInstance = instance;
             loading.style.display = "none";
+            if (rejectedBases.length) {
+                nativeError("StreamingAssets in " + rejectedBases.join(", ") +
+                    " is incomplete, so assets are streamed from the game-assets branch.");
+                assetsEl.textContent = "local StreamingAssets incomplete \u00b7 streaming from the asset branch";
+                assetsEl.classList.add("show");
+                setTimeout(function () { assetsEl.classList.remove("show"); }, 6000);
+            }
             watchAssets();
             canvas.focus();
         });
