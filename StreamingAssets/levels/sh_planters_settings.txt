@@ -1,0 +1,6 @@
+Template: NONE
+Grime: 0.2282609
+Palette: 8
+PlacedObjects: LanternOnStick><998.0616><303.5152><14~-88, LanternOnStick><342.0742><251.9261><-31~-79, MultiplayerItem><577.3729><389.5922><Spear~17.32051~-10~0.8369565, MultiplayerItem><593.1171><370.6006><Spear~17.32051~-10~0.8369565, MultiplayerItem><737.2731><332.5513><Spear~17.32051~-10~0.8369565, MultiplayerItem><767.0621><331.6815><Spear~17.32051~-10~0.8369565, MultiplayerItem><563.2698><375.551><Spear~65.31995~79.9968~0.8369565, MultiplayerItem><342.3237><520.0944><Spear~17.32051~-10~0.5543478, MultiplayerItem><726.6851><335.447><ExplosiveSpear~-9.473328~-172~0.07608695, MultiplayerItem><581.3999><375.5241><ExplosiveSpear~-132.6795~-207.1823~0.1304348, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><839.0583><629.8087><0.4565217><1, OMNI><AM_ENV-LightWind.ogg><663.8273><628.9344><0.3695652><1, 
+FadePalette: 12, 0.2391304

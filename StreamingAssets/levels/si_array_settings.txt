@@ -1,0 +1,11 @@
+Template: NONE
+Clouds: 0.2173913
+Grime: 0.2391304
+RandomItemDensity: 0.8913044
+Palette: 2
+EffectColorA: 10
+EffectColorB: 1
+Effects: SkyDandelions-0.6195652-24-87, SkyBloom-0.2826087-20-20, 
+PlacedObjects: MultiplayerItem><324.355><191.2821><Spear~17.32051~-10~0.4347826, MultiplayerItem><717.2967><187.0581><Spear~17.32051~-10~0.4456522, MultiplayerItem><597.4499><414.7861><Spear~17.32051~-10~0.3804348, MultiplayerItem><1004.432><620.6746><Spear~17.32051~-10~0.3804348, MultiplayerItem><993.6046><703.5795><Bomb~17.32051~-10~0.01086957, MultiplayerItem><774.8><636.7457><Spear~17.32051~-10~0.3804348, MultiplayerItem><999.456><185.6429><Spear~17.32051~-10~0, MultiplayerItem><549.8374><629.1165><Spear~17.32051~-10~0.3152174, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><822.6398><639.0831><0.4673913><1, OMNI><AM_ENV-Outside.ogg><649.6522><642.6202><0.3586957><0.8826087, 
+FadePalette: 3, 0.1956522

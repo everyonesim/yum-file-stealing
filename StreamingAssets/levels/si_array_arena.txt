@@ -1,0 +1,29 @@
+DenGroup - DENS - 4,5,6
+
+CreatureGroup - CENTIS - chance:0.3
+Creature - Centiwing - dens:DENS - group:CENTIS - chance:0.8 - amount:4-5
+
+CreatureGroup - WHITES - symbol:A1
+Creature - White - dens:DENS - group:WHITES - chance:0.8 - amount:3
+
+CreatureGroup - BLUES - symbol:A2
+Creature - Blue - dens:DENS - group:BLUES - chance:0.8 - amount:3
+
+Creature - Blue - dens:DENS - chance:0.7 - amount:2
+Creature - White - dens:DENS - chance:0.15 - amount:2
+
+Creature - Vulture - chance:0.4 - RARE
+Creature - KingVulture - chance:0.2 - RARE
+
+Creature - Vulture - chance:0.4 - symbol:A3 - RARE
+
+
+Creature - Cicada - dens:DENS - chance:0.3 - amount:3-5
+
+Creature - Needle Worm - dens:DENS - chance:0.2 - amount:2
+
+CreatureGroup - WORMS - chance:0.65
+Creature - Tube Worm - dens:DENS - chance:0.8 - amount:players - group:WORMS
+
+CreatureGroup - CYANS - chance:0.15
+Creature - Cyan - dens:DENS - chance:0.5 - amount:5 - group:CYANS

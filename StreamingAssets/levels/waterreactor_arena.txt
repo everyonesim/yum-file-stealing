@@ -1,0 +1,33 @@
+Creature - Bro - dens:7,8,9 - chance:1
+Creature - Bro - dens:7,8,9 - chance:1
+Creature - Bro - dens:7,8,9 - chance:0.5 - RARE
+
+Creature - Salamander - dens:4,3,5 - chance:0.75
+Creature - Salamander - dens:4,3,5 - chance:0.75
+Creature - Salamander - dens:4,3,5 - chance:0.75
+Creature - Salamander - dens:4,3,5 - chance:0.75
+
+Creature - Snail - dens:6 - chance:0.75
+Creature - Snail - dens:6 - chance:0.75
+Creature - Snail - dens:6 - chance:0.75
+
+CreatureGroup - CENTIS - symbol:A1
+Creature - Centipede - dens:4,3,5 - chance:0.9 - group:CENTIS
+Creature - Centipede - dens:4,3,5 - chance:0.9 - group:CENTIS
+Creature - Centipede - dens:4,3,5 - chance:0.9 - group:CENTIS
+Creature - Centipede - dens:4,3,5 - chance:0.9 - group:CENTIS
+
+CreatureGroup - SCAVS - symbol:A2
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.8 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.8 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.5 - group:SCAVS
+
+Creature - Pink - dens:4,3,5 - chance:0.15 - symbol:B1
+Creature - White - dens:4,3,5 - chance:0.15 - symbol:B2
+Creature - Blue - dens:4,3,5 - chance:0.15 - symbol:B3
+
+Creature - Pink - dens:4,3,5 - chance:0.15 - symbol:C1
+Creature - White - dens:4,3,5 - chance:0.15 - symbol:C2
+Creature - Blue - dens:4,3,5 - chance:0.15 - symbol:C3

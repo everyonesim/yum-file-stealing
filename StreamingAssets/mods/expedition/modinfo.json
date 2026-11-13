@@ -1,0 +1,9 @@
+{
+	"id": "expedition",
+	"name": "Expedition",
+	"authors": "LeeMoriya",
+	"description": "Set out on an Expedition in this challenging new game mode. Complete random challenges whilst avoiding permadeath and work towards unlocking new useful perks, punishing burdens, and music tracks to play in the Jukebox.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

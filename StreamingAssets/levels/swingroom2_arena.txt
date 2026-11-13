@@ -1,0 +1,29 @@
+Creature - Tube Worm - dens:7,8 - chance:1.0 - amount:4-5
+
+CreatureGroup - CICS - chance:0.4
+Creature - Cicada - dens:4,5,6 - chance:0.3 - amount:2 - group:CICS
+
+Creature - Needle Worm - dens:4 - chance:0.025
+Creature - White - dens:4,5,6 - chance:0.025
+Creature - Vulture - chance:0.025
+
+Creature - Red - dens:5,6,7 - chance:0.3 - symbol:A1
+
+CreatureGroup - SPIDS - symbol:A2
+Creature - Spitter Spider - group:SPIDS - dens:4,5,6 - amount:3-5 - chance:0.4
+
+Creature - Vulture - chance:0.3 - symbol:A3 - RARE
+Creature - KingVulture - chance:0.1 - symbol:A3 - RARE
+
+CreatureGroup - LIZ - symbol:A4
+Creature - White - dens:4,5,6 - chance:0.4 - amount:4 - group:LIZ
+Creature - Blue - dens:4,5,6 - chance:0.3 - amount:2 - group:LIZ
+
+CreatureGroup - WRMS - symbol:A5
+Creature - Needle Worm - dens:4 - chance:0.4 - amount:3-4 - group:WRMS
+
+CreatureGroup - DROPBUGS - chance:0.1
+Creature - DropBug - dens:4,5,6 - chance:0.5 - group:DROPBUGS - amount:2-6
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:4,5,6 - chance:0.5 - amount:2-3 - group:CYANS

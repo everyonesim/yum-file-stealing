@@ -1,0 +1,15 @@
+Template: NONE
+WaveSpeed: 0.5543478
+WaveLength: 0.9673913
+WaveAmplitude: 0.3695652
+SecondWaveLength: 0.4818838
+SecondWaveAmplitude: 0.5978261
+Clouds: 0.2065217
+Grime: 0.6086956
+RandomItemDensity: 0.6304348
+Palette: 27
+EffectColorA: 2
+EffectColorB: 6
+PlacedObjects: MultiplayerItem><271.8256><652.5098><Spear~17.32051~-10~0.423913, MultiplayerItem><1445.849><531.5356><Spear~17.32051~-10~0.423913, MultiplayerItem><1244.986><790.4536><Spear~17.32051~-10~0.423913, MultiplayerItem><1390.889><790.9518><Spear~17.32051~-10~0.423913, MultiplayerItem><625.1912><797.2383><Spear~17.32051~-10~0.423913, MultiplayerItem><470.0513><800.4438><Spear~17.32051~-10~0.423913, MultiplayerItem><858.1198><648.8464><ExplosiveSpear~17.32051~-10~0.1195652, 
+AmbientSounds: OMNI><AM_WAT-Sea02.ogg><828.0642><647.324><0.4782609><1, OMNI><AM_WAT-Lakeside.ogg><656.197><648.0345><0.5><0.9021739, 
+FadePalette: 13, 0.2173913

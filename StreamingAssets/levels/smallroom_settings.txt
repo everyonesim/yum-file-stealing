@@ -1,0 +1,10 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.5434783
+RandomItemDensity: 0.5978261
+RandomItemSpearChance: 0.2652173
+Palette: 4
+EffectColorB: 8
+PlacedObjects: MultiplayerItem><409.8228><232.4072><Spear~17.32051~-10~0.5326087, MultiplayerItem><515.1133><111.6649><Spear~-17.6795~-77~0.4130435, MultiplayerItem><364.1989><116.5209><Spear~-407.6795~-128~0.5760869, MultiplayerItem><465.0068><108.6999><Spear~293.3205~-82~0.4565217, MultiplayerItem><492.0709><116.313><Spear~22.3205~-141~0.6847826, MultiplayerItem><606.8><124.4983><Spear~17.32051~-10~0.4673917, MultiplayerItem><436.9023><114.6745><Spear~-211.6795~-132~0.5652174, MultiplayerItem><480.43><114.0626><ExplosiveSpear~17.32051~-10~0.05434782, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><580.5686><635.9157><0.3913043><0.7652174, OMNI><AM_SUB-CaveTone.ogg><757.5212><631.1989><0.3913043><0.9021739, 
+FadePalette: 7, 0.1413043

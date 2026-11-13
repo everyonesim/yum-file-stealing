@@ -1,0 +1,4 @@
+Creature - Vulture - dens:-1 - chance:100.0
+Creature - Vulture - dens:-1 - chance:100.0
+Creature - Vulture - dens:-1 - chance:0.4 - RARE
+Creature - KingVulture - dens:-1 - chance:0.4 - RARE

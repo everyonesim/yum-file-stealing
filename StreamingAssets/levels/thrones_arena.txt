@@ -1,0 +1,15 @@
+DenGroup - DENS - 4,5,6
+
+Creature - Scavenger - amount:5-7
+Creature - Blue - dens:DENS - chance:0.6
+Creature - White - dens:DENS - chance:0.5
+Creature - Pink - dens:DENS - chance:0.3
+Creature - Needle Worm - dens:DENS - chance:0.2
+
+CreatureGroup - WORMS - chance:0.25
+Creature - Tube Worm - amount:players - dens:DENS - group:WORMS
+
+Creature - Vulture - chance:0.06 - RARE
+Creature - KingVulture - chance:0.06 - RARE
+
+Creature - Cicada - chance:0.3 - dens:DENS - amount:0-4

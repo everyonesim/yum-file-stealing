@@ -1,0 +1,15 @@
+Template: NONE
+DangerType: FloodAndRain
+WaveSpeed: 0.6413044
+WaveLength: 0.8369565
+WaveAmplitude: 0.1956522
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.25
+Palette: 13
+EffectColorA: 9
+EffectColorB: 6
+Effects: Fog-0.326087-20-20, 
+PlacedObjects: MultiplayerItem><756.315><612.6882><Spear~17.32051~-10~0.4891304, MultiplayerItem><412.5958><458.9255><Spear~17.32051~-10~0.4891304, MultiplayerItem><548.3532><435.6141><Spear~17.32051~-10~0.4891304, MultiplayerItem><484.3597><611.6075><Spear~17.32051~-10~0.4891304, MultiplayerItem><637.6951><897.7977><Spear~17.32051~-10~0.5214897, MultiplayerItem><961.6453><588.9174><Spear~17.32051~-10~0.4130435, MultiplayerItem><1251.583><613.932><Spear~17.32051~-10~0.4130435, MultiplayerItem><897.9307><812.8356><Rock~9.320496~-71~0.75, MultiplayerItem><326.2731><929.1982><Rock~29.34799~-57.10559~0.458865, MultiplayerItem><987.5563><910.7015><Rock~-246.6795~-86~0.4698102, MultiplayerItem><615.4458><548.2091><Bomb~17.32051~-10~0.04347826, 
+AmbientSounds: OMNI><AM_WAT-Sea01.ogg><716.4485><649.2261><0.4565217><1, OMNI><AM_WAT-Lakeside.ogg><543.3444><649.6244><0.4565217><1, 
+FadePalette: 4, 0.173913

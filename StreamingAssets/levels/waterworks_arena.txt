@@ -1,0 +1,59 @@
+Creature - Green - dens:8,9 - chance:0.1
+Creature - Pink - dens:4,8,9 - chance:0.15
+Creature - Pink - dens:4,8,9 - chance:0.1
+Creature - Blue - dens:4,5 - chance:0.1
+Creature - Blue - dens:4,5 - chance:0.1
+
+Creature - Salamander - dens:4,8,9 - chance:0.3
+Creature - Salamander - dens:4,8,9 - chance:0.3
+
+CreatureGroup - SNAILS - chance:0.3
+Creature - Snail - dens:4,5,8,9 - chance:0.7 - group:SNAILS
+Creature - Snail - dens:4,5,8,9 - chance:0.7 - group:SNAILS
+Creature - Snail - dens:4,5,8,9 - chance:0.7 - group:SNAILS
+Creature - Snail - dens:4,5,8,9 - chance:0.7 - group:SNAILS
+
+CreatureGroup - FEWSCAVS - chance:0.3
+Creature - Scavenger - dens:-1 - chance:1.0 - group:FEWSCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:FEWSCAVS
+
+Creature - Jetfish - dens:6,7 - chance:0.5
+Creature - Jetfish - dens:6,7 - chance:0.5
+Creature - Jetfish - dens:6,7 - chance:0.5
+
+CreatureGroup - BLUES - invSymbol:A1
+Creature - Blue - dens:4,5 - chance:1.0 - group:BLUES
+Creature - Blue - dens:4,5 - chance:0.8 - group:BLUES
+Creature - Blue - dens:4,5 - chance:0.5 - group:BLUES
+Creature - Blue - dens:4,5 - chance:0.2 - group:BLUES
+
+CreatureGroup - WHITES - invSymbol:A2
+Creature - White - dens:4,5,8,9 - chance:1.0 - group:WHITES
+Creature - White - dens:4,5,8,9 - chance:0.5 - group:WHITES
+Creature - White - dens:4,5,8,9 - chance:0.3 - group:WHITES
+
+CreatureGroup - SCAVS - invSymbol:A3
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.9 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.6 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.6 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:0.6 - group:SCAVS
+
+CreatureGroup - CENTIS - invSymbol:A4 - chance:0.4
+Creature - Centiwing - dens:4,5,8,9 - chance:1.0 - group:CENTIS
+Creature - Centiwing - dens:4,5,8,9 - chance:1.0 - group:CENTIS
+Creature - Centiwing - dens:4,5,8,9 - chance:0.5 - group:CENTIS
+Creature - Centiwing - dens:4,5,8,9 - chance:0.3 - group:CENTIS
+
+CreatureGroup - CYANS - chance:0.1 - invSymbol:A5
+Creature - Cyan - dens:4,5,8,9 - chance:0.5 - amount:3-5 - group:CYANS
+
+Creature - Big Eel - dens:-1 - chance:0.25 - RARE
+
+Creature - Vulture - dens:-1 - chance:0.4 - RARE
+Creature - KingVulture - dens:-1 - chance:0.25 - RARE
+
+Creature - DropBug - dens:4,5,8,9 - chance:0.1
+
+

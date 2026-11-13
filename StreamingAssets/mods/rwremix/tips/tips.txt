@@ -1,0 +1,72 @@
+// X~Y~ Tip
+//		X = Group ID for hint (comma separated for multiple groups)
+// 		Y = Image filename for hint (optional). Still images should be suffixed by .png, animated atlases should not.
+
+// Basic Essentials
+0~drop~tips-drop
+0~clock.png~tips-clock
+0~tips-crouch
+
+// Basic Essentials Part 2
+1~tips-escape
+1~tips-distract
+1~tips-rocks
+1~spearstick~tips-spearstick
+1~tips-pipeflash
+
+// Basic Essentials Part 3
+2~swallow~tips-swallow
+2~tips-foodtypes
+2~tips-batharvest
+2~swap~tips-handorder
+2~tips-deathpenalty
+2~tips-audio
+2~cheese~tips-cheese
+
+// Move Tech Transition 1
+3~slide~tips-slide
+3~roll~tips-roll
+
+// Move Tech Transition 2
+4~slideleap~tips-slideleap
+
+// Miscellaneous
+5~tips-noise
+5~tips-shelterstore
+5~tips-deathrecovery
+5~tips-reputation
+5~tips-hoarding
+5~tips-utilitycreats
+5~tips-prepared
+5~breathe~tips-breathe
+
+// Movement Tech
+6~throwboost~tips-throwboost
+6~tunnelboost~tips-tunnelboost
+6~tunnelturn~tips-tunnelturn
+6~turnboost~tips-turnboost
+6~backflip~tips-backflip
+6~swim~tips-swim
+
+// Advanced Mechanics
+7~slidecancel~tips-slidecancel
+7~cannon~tips-cannon
+7~vertpole~tips-vertpole
+7~powerthrow~tips-powerthrow
+7~superslide~tips-superslide
+7~polehop~tips-polehop
+7~wallpounce~tips-wallpounce
+
+// Karma and Passages
+8~Passage_Martyr.png~tips-martyr
+8~Passage_Hunter.png~tips-hunter
+8~Passage_Monk.png~tips-monk
+8~Passage_Outlaw.png~tips-outlaw
+8~Passage_Saint.png~tips-saint
+8~Passage_Nomad.png~tips-nomad
+8~Passage_Traveller.png~tips-wanderer
+8~Passage_DragonSlayer.png~tips-dragonslayer
+8~Passage_Friend.png~tips-friend
+8~Passage_Chieftain.png~tips-chieftain
+8~Passage_Scholar.png~tips-scholar
+// exclude pilgrim and mother

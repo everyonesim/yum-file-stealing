@@ -1,0 +1,9 @@
+{
+	"id": "jollycoop",
+	"name": "Jolly Co-op",
+	"authors": "Garrakx",
+	"description": "Local co-op story and other gamemodes with up to 4 players. The journey is better with friends!",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

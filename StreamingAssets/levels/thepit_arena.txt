@@ -1,0 +1,23 @@
+GoalAmount - 7
+
+DenGroup - DENS - 4,5,6,7,8,9
+
+Creature - Green - dens:DENS - chance:0.6
+Creature - Pink - dens:DENS - chance:0.6
+Creature - Blue - dens:DENS - chance:0.6
+Creature - White - dens:DENS - chance:0.6
+
+CreatureGroup - SCAVS - invSymbol:A1
+Creature - Scavenger - chance:1.0 - group:SCAVS - amount:4
+
+CreatureGroup - YELLOWS - invSymbol:A2
+Creature - Yellow - dens:DENS - chance:1.0 - group:YELLOWS - amount:4
+
+CreatureGroup - CENTIS - invSymbol:A3 - chance:0.6
+Creature - Centipede - dens:DENS - chance:1.0 - group:CENTIS - amount:4
+
+Creature - Vulture - dens:-1 - chance:0.15 - RARE
+Creature - KingVulture - dens:-1 - chance:0.1 - RARE
+
+CreatureGroup - CYANS - chance:0.1 - invSymbol:A4
+Creature - Cyan - dens:DENS - chance:0.5 - amount:2-3 - group:CYANS

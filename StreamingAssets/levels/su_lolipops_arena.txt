@@ -1,0 +1,15 @@
+DenGroup - GROUND - 6,7,8
+DenGroup - UPTOP - 4,5
+
+Creature - Green - dens:GROUND - chance:0.4 - amount:8
+Creature - Pink - dens:GROUND - chance:0.7 - amount:2
+Creature - Blue - dens:UPTOP - chance:0.1 - amount:2
+Creature - White - dens:UPTOP - chance:0.1 - amount:2
+Creature - Cicada - dens:UPTOP - chance:0.1 - amount:5
+
+Creature - Vulture - chance:0.02 - RARE
+
+CreatureGroup - SCAVS - chance:0.1
+Creature - Scavenger - group:SCAVS - chance:0.8 - amount:2-4
+
+Creature - Tube Worm - dens:GROUND - chance:0.04 - RARE

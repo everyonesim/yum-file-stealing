@@ -1,0 +1,17 @@
+Creature - Blue - dens:4,5,6,7 - chance:0.2 - amount:2
+
+Creature - Green - dens:5,6,7 - chance:0.7 - amount:4-6
+
+Creature - Pink - dens:4,5,6,7 - chance:0.7 - amount:2
+
+Creature - Scavenger - dens:-1 - chance:0.8 - amount:6
+
+Creature - Vulture - dens:-1 - chance:0.1 - RARE
+
+Creature - Needle Worm - dens:4,5,6,7 - chance:0.25
+
+Creature - DropBug - dens:4,5,6,7 - chance:0.05
+
+Creature - Cyan - dens:4,5,6,7 - chance:0.15 - amount:2
+
+Creature - Cicada - dens:4,5,6,7 - chance:0.1 - amount:2-4

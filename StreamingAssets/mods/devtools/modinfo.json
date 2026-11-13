@@ -1,0 +1,9 @@
+{
+	"id": "devtools",
+	"name": "Dev Tools",
+	"authors": "Videocult",
+	"description": "Enables the in-game Developer Tools which provide the tools necessary to edit maps and regions, and to help with the process of modding the game.<LINE> <LINE>Press O in-game to enable/disable Dev Tools, and press H to bring up the main Dev Tools interface.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

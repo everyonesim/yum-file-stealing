@@ -1,0 +1,11 @@
+{
+	"id": "rwremix",
+	"name": "Rain World Remix",
+	"version": "1.9.15b",
+	"hide_version": true,
+	"authors": "AndrewFM and Willburd",
+	"description": "A wide variety of configurable accessibility features and community requested features, including new gameplay mechanics and bonus features. Use the configuration screen to toggle individual features on or off.",
+	"requirements": [],
+	"requirements_names": [],
+	"checksum_override_version": false
+}

@@ -1,0 +1,6 @@
+Creature - Pink - dens:2,3,4,5 - chance:1.0
+Creature - Pink - dens:2,3,4,5 - chance:1.0
+Creature - Pink - dens:2,3,4,5 - chance:0.8
+Creature - Blue - dens:2,3,4,5 - chance:0.5
+Creature - Green - dens:2,3,4,5 - chance:1.0
+Creature - Green - dens:2,3,4,5 - chance:0.5

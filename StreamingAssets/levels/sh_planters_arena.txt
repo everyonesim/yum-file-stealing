@@ -1,0 +1,15 @@
+PlayersGlow
+
+DenGroup - DENS - 5,6,7
+
+Creature - Pink - dens:DENS - chance:0.2
+Creature - Black - dens:DENS - chance:0.8 - amount:3
+
+Creature - Big Spider - dens:DENS - chance:0.7 - amount:3
+Creature - Spitter Spider - dens:DENS - chance:0.4 - amount:3
+
+CreatureGroup - MICE - symbol:A1
+Creature - LanternMouse - dens:4 - chance:0.8 - amount:3 - group:MICE
+
+CreatureGroup - SPIDS - symbol:A2
+Creature - Spider - dens:DENS - chance:0.8 - amount:3 - group:SPIDS

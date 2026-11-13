@@ -1,0 +1,18 @@
+Creature - Jetfish - dens:5,6,7 - chance:1
+Creature - Jetfish - dens:5,6,7 - chance:1
+Creature - Jetfish - dens:5,6,7 - chance:0.7
+Creature - Jetfish - dens:5,6,7 - chance:0.7
+
+Creature - Salamander - dens:2,3,4,5,6,7 - chance:0.9
+Creature - Salamander - dens:2,3,4,5,6,7 - chance:0.6
+
+Creature - White - dens:3,2,4 - chance:0.9
+Creature - White - dens:3,2,4 - chance:0.6
+
+Creature - Blue - dens:3,2,4 - chance:0.9
+Creature - Blue - dens:3,2,4 - chance:0.6
+
+Creature - Leviathan - dens:-1 - chance:0.6 - RARE
+Creature - Vulture - dens:-1 - chance:0.075 - RARE
+Creature - KingVulture - dens:-1 - chance:0.025 - RARE
+

@@ -1,0 +1,23 @@
+DenGroup - DENS - 4,5,6
+DenGroup - CEILINGDENS - 7,8
+
+CreatureGroup - SCAVS - invSymbol:A1
+Creature - Scavenger - group:SCAVS - chance:0.8 - amount:4-7
+
+CreatureGroup - LIZARDS - invSymbol:A2
+Creature - Pink - group:LIZARDS - dens:DENS - chance:0.5 - amount:1-2
+Creature - Blue - group:LIZARDS - dens:4,5,6,7,8 - chance:0.5 - amount:1-3
+Creature - White - group:LIZARDS - dens:DENS - chance:0.4 - amount:1-3
+
+Creature - Vulture - chance:0.1 - amount:0-2 - invSymbol:A3 - RARE
+Creature - KingVulture - chance:0.05 - invSymbol:A3 - RARE
+
+CreatureGroup - CENTIS - chance:0.2
+Creature - Centipede - group:CENTIS - dens:4,5,6,7,8 - chance:0.8 - amount:2-4
+
+CreatureGroup - SPIDERS - chance:0.75
+Creature - Big Spider - group:SPIDERS - dens:4,5,6,7,8 - chance:0.8 - amount:2-6
+Creature - Spitter Spider - group:SPIDERS - dens:4,5,6,7,8 - chance:0.6 - amount:3-4
+
+Creature - DropBug - dens:4,5,6,7,8 - chance:0.07
+Creature - DropBug - dens:4,5,6,7,8 - chance:0.07

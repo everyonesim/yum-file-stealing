@@ -1,0 +1,36 @@
+{"frames": {
+
+"ctNone.png":
+{
+	"frame": {"x":28,"y":2,"w":5,"h":5},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":5,"h":5},
+	"sourceSize": {"w":11,"h":11}
+},
+"ctOff.png":
+{
+	"frame": {"x":2,"y":2,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":11},
+	"sourceSize": {"w":11,"h":11}
+},
+"ctOn.png":
+{
+	"frame": {"x":15,"y":2,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":11},
+	"sourceSize": {"w":11,"h":11}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "uiSpritesMMF.png",
+	"format": "RGBA8888",
+	"size": {"w":35,"h":15},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:797b6b278fe15b14e1a93514aa769a0d:69d788e5aa41c31a8597ccd5a9c78634:e0948cd6c0f6f43a2a0d94f10795472b$"
+}
+}

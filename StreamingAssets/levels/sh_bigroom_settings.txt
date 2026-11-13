@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: Flood
+Grime: 0.2391304
+Palette: 12
+PlacedObjects: LightSource><840.9245><322.6454><1~Environment~-180~8~50~86.60254~1~0, MultiplayerItem><1063.651><653.4564><Spear~17.32051~-10~0.4673913, MultiplayerItem><249.689><508.4405><Spear~17.32051~-10~0.4673913, MultiplayerItem><664.8426><268.4273><Spear~17.32051~-10~0.4673913, MultiplayerItem><610.7795><89.06858><Spear~16.3205~48.99946~0.7391304, MultiplayerItem><673.5737><88.34451><Spear~17.32051~-10~0.9021739, LanternOnStick><184.4456><257.4583><-8~-73, MultiplayerItem><647.1721><90.55251><ExplosiveSpear~333.316~-36.99958~0.25, MultiplayerItem><203.8051><398.9423><SporePlant~17.32051~-10~0.09782609, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><824.683><634.5807><0.5><0.9217392, OMNI><AM_ENV-LightWind.ogg><642.6884><628.0597><0.3695652><0.8826087, 
+FadePalette: 8, 0.5217391
