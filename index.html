@@ -124,13 +124,17 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     var ASSETS_PATH = "StreamingAssets";
-    // Where the asset tree can also live if it is too big for Pages.
+    // Where the asset tree can also live if it is too big for Pages. The CDN
+    // is preferred: it caches for a week and answers in a few milliseconds,
+    // the raw host is the fallback (it serves the files over 20 MB that the
+    // CDN refuses).
     var ASSET_BRANCH = "https://raw.githubusercontent.com/everyonesim/yum-file-stealing/game-assets/";
+    var ASSET_CDN = "https://cdn.jsdelivr.net/gh/everyonesim/yum-file-stealing@game-assets/";
 
     // Checked in order. "" is this page's own folder, so the game works from
     // the repo root and from the old rain-world/ layout.
     var BUILD_BASES = ["", "rain-world/"];
-    var ASSET_BASES = ["", "rain-world/", ASSET_BRANCH];
+    var ASSET_BASES = ["", "rain-world/", ASSET_CDN, ASSET_BRANCH];
 
     var canvas = document.getElementById("unity-canvas");
     var loading = document.getElementById("loading");
@@ -261,7 +265,7 @@ html, body {
                         "The game streams its data from that folder. Upload StreamingAssets to the repo root, or put it on the game-assets branch.");
                     return null;
                 }
-                return { build: buildBase, assets: assetBase.replace(/\/$/, "") + "/" + ASSETS_PATH };
+                return { build: buildBase, assets: assetBase + ASSETS_PATH };
             });
     }).then(function (paths) {
         if (!paths) return;
@@ -285,10 +289,16 @@ html, body {
 
     function start(buildBase, assetsUrl) {
         setStatus("Loading Rain World...");
-        // The build's patched file layer retries a failed file against this base
-        // before it gives up, so a single missing data file cannot stop the load.
-        var branchAssets = ASSET_BRANCH + ASSETS_PATH;
-        window.rainWorldAssetFallback = assetsUrl === branchAssets ? "" : branchAssets;
+        // The build's patched file layer retries a failed file against these
+        // bases, and prefetches from them in parallel, so one slow or missing
+        // file cannot stall the load.
+        var fallbacks = [];
+        ASSET_BASES.forEach(function (base) {
+            var candidate = base + ASSETS_PATH;
+            if (candidate !== assetsUrl && fallbacks.indexOf(candidate) < 0) fallbacks.push(candidate);
+        });
+        window.rainWorldAssetFallbacks = fallbacks;
+        window.rainWorldAssetFallback = fallbacks.length ? fallbacks[0] : "";
         return loadScript(buildBase + BUILD + ".loader.js").then(function () {
             if (typeof createUnityInstance !== "function") {
                 throw new Error("The Unity loader did not define createUnityInstance.");
@@ -327,6 +337,33 @@ html, body {
     // request, so a region load blocks the page for a while; showing the
     // byte count makes progress visible instead of looking hung.
     // ---------------------------------------------------------------
+    var formatBytes = function (bytes) {
+        if (bytes >= 1073741824) return (bytes / 1073741824).toFixed(2) + " GB";
+        if (bytes >= 1048576) return (bytes / 1048576).toFixed(1) + " MB";
+        return Math.round(bytes / 1024) + " KB";
+    };
+
+    // The patched build reports the file it is reading, so a slow load always
+    // shows what it is waiting on instead of looking stuck.
+    var currentFile = "";
+    var currentFileAt = 0;
+    var seenFiles = [];
+    window.rainWorldFileStatus = function (info) {
+        if (!info || !info.path) return;
+        currentFile = String(info.path);
+        currentFileAt = Date.now();
+        seenFiles.push(currentFile);
+        if (seenFiles.length > 6) seenFiles.shift();
+        assetsEl.textContent = "loading " + currentFile.split("/").slice(-1)[0] +
+            " \u00b7 " + formatBytes(info.downloaded || 0) + " in " + (info.files || 0) + " files" +
+            (info.bytes ? " \u00b7 " + formatBytes(info.bytes) + " buffered" : "");
+        assetsEl.classList.add("show");
+        clearTimeout(window.__fileHide);
+        window.__fileHide = setTimeout(function () {
+            if (Date.now() - currentFileAt >= 3900) currentFile = "";
+        }, 4000);
+    };
+
     function watchAssets() {
         var files = window.rainWorldFiles;
         if (!files) {
@@ -337,16 +374,12 @@ html, body {
         var lastBytes = -1;
         var lastChange = Date.now();
 
-        function formatBytes(bytes) {
-            if (bytes >= 1073741824) return (bytes / 1073741824).toFixed(2) + " GB";
-            if (bytes >= 1048576) return (bytes / 1048576).toFixed(1) + " MB";
-            return Math.round(bytes / 1024) + " KB";
-        }
-
         function tick() {
             var downloads = files.downloads || 0;
             var bytes = files.downloadedBytes || 0;
-            if (downloads !== lastDownloads || bytes !== lastBytes) {
+            if (Date.now() - currentFileAt < 3900) {
+                lastChange = Date.now();
+            } else if (downloads !== lastDownloads || bytes !== lastBytes) {
                 lastDownloads = downloads;
                 lastBytes = bytes;
                 lastChange = Date.now();

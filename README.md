@@ -60,14 +60,30 @@ python3 -m http.server 8000                  # then open http://localhost:8000/
 
 Run it from the repo root so `StreamingAssets/` sits next to `index.html`.
 
+## Asset delivery
+
+`index.html` picks the first asset base that answers: this folder, `rain-world/`,
+the jsDelivr copy of the `game-assets` branch, then the raw branch. jsDelivr comes
+first because it answers in milliseconds and caches for a week; the raw host is
+kept for the handful of files over 20 MB that the CDN refuses. Every base is
+handed to the build as a fallback, so a file missing from one host still loads.
+
+The stock port reads files one at a time with blocking requests, which makes a
+region load crawl when the data comes over the network. The patch prefetches
+about 100 MB ahead of the file the game last opened, eight requests at a time, so
+the blocking reads mostly hit memory. The launcher also shows the file being read
+in the corner of the screen, so a slow load never looks stuck.
+
 ## Build patches
 
 `Build/WebGLUnity6Build.framework.js` is patched from the stock export by
 `patch_build.py`. Its file layer used to throw out of the middle of a read when a
 file 404'd or did not match its manifest length, which stalled the game on the
-loading art. Now a failed file is retried against `window.rainWorldAssetFallback`
-(the `game-assets` branch) and, if it still fails, the load logs it, the launcher
-shows the path, and the game continues with an empty placeholder.
+loading art. Now a failed file is retried against every other asset base
+(`window.rainWorldAssetFallbacks`) and, if it still fails, the load logs it, the
+launcher shows the path, and the game continues with an empty placeholder. A path
+that is missing from `webport-files.json` entirely is fetched on demand, and files
+are prefetched in parallel ahead of the game's reads.
 
 Re-apply after replacing `Build/` with a fresh export:
 
