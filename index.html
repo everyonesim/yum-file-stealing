@@ -54,6 +54,46 @@ html, body {
 
 /* Live asset readout: the game streams its data files with blocking
    requests, so region loads look frozen. Surface the traffic. */
+#hud {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 10px;
+    width: min(86%, 560px);
+    padding: 8px 12px 10px;
+    border-radius: 9px;
+    background: rgba(0, 0, 0, .72);
+    border: 1px solid rgba(255, 255, 255, .14);
+    color: #cfe0b8;
+    font: 12px/1.45 ui-monospace, Menlo, Consolas, monospace;
+    pointer-events: none;
+    z-index: 5;
+    transition: opacity .4s ease;
+    opacity: .96;
+}
+#hud.dim { opacity: .55; }
+#hudtext { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#hudbar {
+    margin-top: 7px;
+    height: 8px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, .12);
+    overflow: hidden;
+}
+#hudfill {
+    height: 100%;
+    width: 0%;
+    background: #8da85c;
+    transition: width .25s ease;
+}
+#hudfiles {
+    margin-top: 5px;
+    color: #8fa07d;
+    font-size: 11px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 #assets {
     position: absolute;
     left: 50%;
@@ -116,7 +156,7 @@ html, body {
     <div id="error"></div>
 </div>
 
-<div id="assets"></div>
+<div id="hud"><div id="hudtext">Loading Rain World...</div><div id="hudbar"><div id="hudfill"></div></div><div id="hudfiles"></div></div>
 <div id="banner"></div>
 
 <script>
@@ -125,7 +165,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13g";
+    var BUILD_VERSION = "2026-11-13i";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -142,7 +182,10 @@ html, body {
     var progress = document.getElementById("progress");
     var statusEl = document.getElementById("status");
     var errorEl = document.getElementById("error");
-    var assetsEl = document.getElementById("assets");
+    var hud = document.getElementById("hud");
+    var hudText = document.getElementById("hudtext");
+    var hudFill = document.getElementById("hudfill");
+    var hudFiles = document.getElementById("hudfiles");
     var banner = document.getElementById("banner");
 
     var bannerShown = false;
@@ -348,6 +391,8 @@ html, body {
                     progress.style.width = percent + "%";
                     setStatus("Fetching region data... " + percent + "%" +
                         (total ? " (" + formatBytes(received) + " of " + formatBytes(total) + ")" : ""));
+                    hudShow(percent, "region data " + percent + "%",
+                        formatBytes(received) + (total ? " of " + formatBytes(total) : ""));
                     lastProgress = Date.now();
                     return pump();
                 });
@@ -362,16 +407,20 @@ html, body {
             var headerLength = view.getUint32(0, true);
             var count = view.getUint32(4, true);
             var header = JSON.parse(new TextDecoder("utf-8").decode(new Uint8Array(buffer, 8, headerLength)));
-            var lengths = new Uint32Array(buffer, 8 + headerLength, count);
+            // The header is JSON, so its length is not 4-byte aligned and the
+            // length table cannot be a Uint32Array view. Read it with a DataView.
+            var lengthsAt = 8 + headerLength;
             var index = {};
-            var offset = 8 + headerLength + count * 4;
+            var offset = lengthsAt + count * 4;
             for (var i = 0; i < count; i++) {
-                index[header.paths[i]] = [offset, lengths[i]];
-                offset += lengths[i];
+                var length = view.getUint32(lengthsAt + i * 4, true);
+                index[header.paths[i]] = [offset, length];
+                offset += length;
             }
             window.rainWorldPack = { index: index, raw: new Uint8Array(buffer) };
             setStatus("Region data ready (" + count + " files)");
             progress.style.width = "0%";
+            hudShow(100, "region data ready", count + " files in memory");
         }).catch(function (reason) {
             // Not fatal: without the pack the files come off the asset base.
             console.warn("Rain World region pack unavailable:", String(reason && reason.message ? reason.message : reason));
@@ -439,6 +488,7 @@ html, body {
                 var percent = Math.round(value * 100);
                 progress.style.width = percent + "%";
                 setStatus("Loading Rain World... " + percent + "%");
+                hudShow(percent, "engine " + percent + "%", "downloading the game build");
                 lastProgress = Date.now();
                 lastPercent = percent;
             });
@@ -448,9 +498,7 @@ html, body {
             if (rejectedBases.length) {
                 nativeError("StreamingAssets in " + rejectedBases.join(", ") +
                     " is incomplete, so assets are streamed from the game-assets branch.");
-                assetsEl.textContent = "StreamingAssets is missing some files \u00b7 those come from the asset branch";
-                assetsEl.classList.add("show");
-                setTimeout(function () { assetsEl.classList.remove("show"); }, 6000);
+                hudShow(0, "StreamingAssets is missing some files", "those come from the asset branch");
             }
             watchAssets();
             canvas.focus();
@@ -477,20 +525,35 @@ html, body {
     var currentFile = "";
     var currentFileAt = 0;
     var seenFiles = [];
+    var HUD_PACKED = 0;
+    function hudShow(percent, text, detail) {
+        hud.classList.remove("dim");
+        hud.style.display = "block";
+        hudFill.style.width = Math.max(0, Math.min(100, percent)) + "%";
+        hudText.textContent = text;
+        hudFiles.textContent = detail || "";
+    }
+
     window.rainWorldFileStatus = function (info) {
         if (!info || !info.path) return;
         currentFile = String(info.path);
         currentFileAt = Date.now();
-        seenFiles.push(currentFile);
-        if (seenFiles.length > 6) seenFiles.shift();
-        assetsEl.textContent = "loading " + currentFile.split("/").slice(-1)[0] +
-            " \u00b7 " + formatBytes(info.downloaded || 0) + " in " + (info.files || 0) + " files" +
-            (info.packed ? " \u00b7 " + info.packed + " from the region pack" : "") +
-            (info.bytes ? " \u00b7 " + formatBytes(info.bytes) + " buffered" : "");
-        assetsEl.classList.add("show");
+        if (info.packed) HUD_PACKED = info.packed;
+        var folder = (info.dir || "").split("/").slice(-2).join("/");
+        var percent = info.dirTotal ? (info.dirDone / info.dirTotal) * 100 : 0;
+        var name = currentFile.split("/").slice(-1)[0];
+        hudShow(percent,
+            (folder ? folder + ": " + info.dirDone + "/" + info.dirTotal + " files" : "loading " + name) +
+            " \u00b7 " + formatBytes(info.downloaded || 0) + " over " + (info.files || 0) + " requests",
+            name + (info.recent && info.recent.length > 1
+                ? "  \u2190 " + info.recent.slice(0, -1).reverse().map(function (entry) {
+                    return entry.split("/").slice(-1)[0];
+                }).join(", ")
+                : ""));
         clearTimeout(window.__fileHide);
         window.__fileHide = setTimeout(function () {
             if (Date.now() - currentFileAt >= 3900) currentFile = "";
+            hud.classList.add("dim");
         }, 4000);
     };
 
@@ -513,11 +576,11 @@ html, body {
                 lastDownloads = downloads;
                 lastBytes = bytes;
                 lastChange = Date.now();
-                assetsEl.textContent = "assets " + formatBytes(bytes) +
-                    " / " + downloads + " files";
-                assetsEl.classList.add("show");
+                hudShow(100, "engine running \u00b7 " + formatBytes(bytes) + " over " + downloads + " requests",
+                    HUD_PACKED ? HUD_PACKED + " files came from the region pack" : "");
+                hud.classList.add("dim");
             } else if (Date.now() - lastChange > 2500) {
-                assetsEl.classList.remove("show");
+                hud.classList.add("dim");
             }
             setTimeout(tick, 400);
         }
