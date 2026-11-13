@@ -1,6 +1,11 @@
+# Rain World streams its data from this folder, and it is about 1.4 GB:
+# too large for a GitHub Pages site, so it lives on the game-assets branch.
+StreamingAssets/
 rain-world/StreamingAssets/
-rain-world/Build/
+
 RainWorld-WebGL.zip
-failed-assets.txt
 missing-assets.txt
+failed-assets.txt
 __pycache__/
+
+# Build/ is published with the site (about 87 MB), so it is not ignored.

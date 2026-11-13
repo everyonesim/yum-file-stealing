@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Rain World</title>
+<style>
+* { box-sizing: border-box; }
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #000;
+    font-family: Arial, sans-serif;
+}
+#unity-canvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: #000;
+    outline: none;
+}
+#loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: min(380px, 84%);
+    color: #fff;
+    text-align: center;
+}
+#bar {
+    height: 10px;
+    margin-top: 15px;
+    background: #333;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#progress {
+    height: 100%;
+    width: 0%;
+    background: #8da85c;
+    transition: width .15s linear;
+}
+#error {
+    color: #ff9a9a;
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+}
+#error:empty { display: none; }
+
+/* Live asset readout: the game streams its data files with blocking
+   requests, so region loads look frozen. Surface the traffic. */
+#assets {
+    position: absolute;
+    left: 12px;
+    bottom: 12px;
+    max-width: min(70%, 520px);
+    padding: 7px 11px;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, .62);
+    border: 1px solid rgba(255, 255, 255, .12);
+    color: #cfe0b8;
+    font: 12px/1.4 ui-monospace, Menlo, Consolas, monospace;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity .4s ease;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#assets.show { opacity: 1; }
+
+#banner {
+    position: absolute;
+    left: 50%;
+    top: 14px;
+    transform: translateX(-50%);
+    width: min(680px, 92%);
+    padding: 12px 15px;
+    border-radius: 10px;
+    background: #2a1214;
+    border: 1px solid #7d2b30;
+    color: #ffd9d9;
+    font-size: 13px;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+    display: none;
+}
+#banner.show { display: block; }
+#banner b { color: #fff; }
+#banner code {
+    display: block;
+    margin-top: 6px;
+    padding: 6px 8px;
+    background: rgba(0, 0, 0, .45);
+    border-radius: 6px;
+    color: #ffe9a8;
+    font: 12px/1.45 ui-monospace, Menlo, Consolas, monospace;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+#banner .hint { display: block; margin-top: 8px; color: #e7b9bb; }
+</style>
+</head>
+<body>
+<canvas id="unity-canvas" tabindex="0"></canvas>
+
+<div id="loading">
+    <div id="status">Loading Rain World...</div>
+    <div id="bar"><div id="progress"></div></div>
+    <div id="error"></div>
+</div>
+
+<div id="assets"></div>
+<div id="banner"></div>
+
+<script>
+(function () {
+    "use strict";
+
+    var BUILD = "Build/WebGLUnity6Build";
+    var ASSETS_PATH = "StreamingAssets";
+    // Where the asset tree can also live if it is too big for Pages.
+    var ASSET_BRANCH = "https://raw.githubusercontent.com/everyonesim/yum-file-stealing/game-assets/";
+
+    // Checked in order. "" is this page's own folder, so the game works from
+    // the repo root and from the old rain-world/ layout.
+    var BUILD_BASES = ["", "rain-world/"];
+    var ASSET_BASES = ["", "rain-world/", ASSET_BRANCH];
+
+    var canvas = document.getElementById("unity-canvas");
+    var loading = document.getElementById("loading");
+    var progress = document.getElementById("progress");
+    var statusEl = document.getElementById("status");
+    var errorEl = document.getElementById("error");
+    var assetsEl = document.getElementById("assets");
+    var banner = document.getElementById("banner");
+
+    var bannerShown = false;
+
+    function showBanner(title, detail, hint) {
+        if (bannerShown && title !== "Game stopped") { /* keep first error */ }
+        bannerShown = true;
+        banner.innerHTML = "<b>" + escapeHtml(title) + "</b>" +
+            (detail ? "<code>" + escapeHtml(detail) + "</code>" : "") +
+            (hint ? "<span class='hint'>" + escapeHtml(hint) + "</span>" : "");
+        banner.classList.add("show");
+    }
+
+    function escapeHtml(value) {
+        return String(value)
+            .replace(/&/g, "&amp;")
+            .replace(/</g, "&lt;")
+            .replace(/>/g, "&gt;");
+    }
+
+    function setStatus(text) {
+        statusEl.textContent = text;
+    }
+
+    // ---------------------------------------------------------------
+    // Surface the engine's own file errors. The build streams every data
+    // file with a blocking request, and a missing or truncated file only
+    // ever reaches console.error before the load stalls, so mirror those
+    // messages on screen with the path that failed.
+    // ---------------------------------------------------------------
+    var nativeError = console.error ? console.error.bind(console) : function () {};
+
+    console.error = function () {
+        nativeError.apply(null, arguments);
+        var text = Array.prototype.map.call(arguments, function (part) {
+            if (part instanceof Error) return part.message;
+            if (typeof part === "object" && part !== null) {
+                try { return JSON.stringify(part); } catch (e) { return String(part); }
+            }
+            return String(part);
+        }).join(" ");
+
+        if (!/Rain World (file|save)/i.test(text)) return;
+
+        var hint = "";
+        if (/size mismatch/i.test(text)) {
+            hint = "That file is truncated or was replaced by a different build. Run sync_assets.py --verify to repair it.";
+        } else if (/request failed/i.test(text)) {
+            hint = "That file is missing from StreamingAssets (or the case of its path does not match). Run sync_assets.py --verify.";
+        } else if (/manifest request failed/i.test(text)) {
+            hint = "StreamingAssets/webport-files.json could not be fetched from the asset folder.";
+        } else if (/network error/i.test(text)) {
+            hint = "The request was blocked or the host stopped responding.";
+        }
+        showBanner("Rain World could not read a game file", text, hint);
+    };
+
+    window.addEventListener("error", function (event) {
+        if (event && event.message) {
+            showBanner("Rain World error", event.message,
+                "Open the browser console for the full stack trace.");
+        }
+    });
+
+    window.addEventListener("unhandledrejection", function (event) {
+        var reason = event && event.reason;
+        showBanner("Rain World error",
+            reason && reason.message ? reason.message : String(reason),
+            "Open the browser console for the full stack trace.");
+    });
+
+    // Remember the last file the engine asked for, so a stall can be named.
+    var lastRequest = "";
+    var nativeOpen = XMLHttpRequest.prototype.open;
+    XMLHttpRequest.prototype.open = function (method, url) {
+        lastRequest = String(url);
+        return nativeOpen.apply(this, arguments);
+    };
+
+    // ---------------------------------------------------------------
+    // Locate the build and the asset tree before touching the loader.
+    // ---------------------------------------------------------------
+    function head(url) {
+        return fetch(url, { method: "HEAD", cache: "no-store" })
+            .then(function (response) {
+                if (response.ok) return true;
+                if (response.status === 405) return true; // HEAD refused, assume servable
+                return false;
+            })
+            .catch(function () { return false; });
+    }
+
+    function firstAvailable(bases, relative) {
+        var index = 0;
+        function next() {
+            if (index >= bases.length) return Promise.resolve(null);
+            var base = bases[index++];
+            return head(base + relative).then(function (ok) {
+                return ok ? base : next();
+            });
+        }
+        return next();
+    }
+
+    function fail(message, hint) {
+        setStatus("Game failed to load");
+        errorEl.textContent = message;
+        showBanner("Rain World could not start", message, hint || "");
+    }
+
+    firstAvailable(BUILD_BASES, BUILD + ".loader.js").then(function (buildBase) {
+        if (buildBase === null) {
+            fail("Missing Build/WebGLUnity6Build.loader.js next to index.html.",
+                "Upload the Build folder (loader, framework, wasm, data) to the repo root.");
+            return null;
+        }
+        return firstAvailable(ASSET_BASES, ASSETS_PATH + "/webport-files.json")
+            .then(function (assetBase) {
+                if (assetBase === null) {
+                    fail("Missing StreamingAssets/webport-files.json.",
+                        "The game streams its data from that folder. Upload StreamingAssets to the repo root, or put it on the game-assets branch.");
+                    return null;
+                }
+                return { build: buildBase, assets: assetBase.replace(/\/$/, "") + "/" + ASSETS_PATH };
+            });
+    }).then(function (paths) {
+        if (!paths) return;
+        return start(paths.build, paths.assets);
+    }).catch(function (reason) {
+        fail(String(reason && reason.message ? reason.message : reason), "");
+    });
+
+    // ---------------------------------------------------------------
+    // Boot
+    // ---------------------------------------------------------------
+    function loadScript(src) {
+        return new Promise(function (resolve, reject) {
+            var script = document.createElement("script");
+            script.src = src;
+            script.onload = resolve;
+            script.onerror = function () { reject(new Error("Could not download " + src)); };
+            document.body.appendChild(script);
+        });
+    }
+
+    function start(buildBase, assetsUrl) {
+        setStatus("Loading Rain World...");
+        return loadScript(buildBase + BUILD + ".loader.js").then(function () {
+            if (typeof createUnityInstance !== "function") {
+                throw new Error("The Unity loader did not define createUnityInstance.");
+            }
+            return createUnityInstance(canvas, {
+                dataUrl: buildBase + BUILD + ".data",
+                frameworkUrl: buildBase + BUILD + ".framework.js",
+                codeUrl: buildBase + BUILD + ".wasm",
+                streamingAssetsUrl: assetsUrl,
+                companyName: "Videocult",
+                productName: "Rain World",
+                productVersion: "1.11.8",
+                showBanner: function (message, kind) {
+                    if (kind === "error") showBanner("Rain World error", message, "");
+                    else nativeError(message);
+                }
+            }, function (value) {
+                var percent = Math.round(value * 100);
+                progress.style.width = percent + "%";
+                setStatus("Loading Rain World... " + percent + "%");
+            });
+        }).then(function (instance) {
+            window.gameInstance = instance;
+            loading.style.display = "none";
+            watchAssets();
+            canvas.focus();
+        });
+    }
+
+    // Keyboard input needs the canvas focused; a click anywhere gives it back.
+    document.addEventListener("pointerdown", function () { canvas.focus(); }, true);
+    window.addEventListener("blur", function () { setTimeout(function () { canvas.focus(); }, 0); });
+
+    // ---------------------------------------------------------------
+    // Asset traffic readout. The port reads each data file with a blocking
+    // request, so a region load blocks the page for a while; showing the
+    // byte count makes progress visible instead of looking hung.
+    // ---------------------------------------------------------------
+    function watchAssets() {
+        var files = window.rainWorldFiles;
+        if (!files) {
+            setTimeout(watchAssets, 400);
+            return;
+        }
+        var lastDownloads = -1;
+        var lastBytes = -1;
+        var lastChange = Date.now();
+
+        function formatBytes(bytes) {
+            if (bytes >= 1073741824) return (bytes / 1073741824).toFixed(2) + " GB";
+            if (bytes >= 1048576) return (bytes / 1048576).toFixed(1) + " MB";
+            return Math.round(bytes / 1024) + " KB";
+        }
+
+        function tick() {
+            var downloads = files.downloads || 0;
+            var bytes = files.downloadedBytes || 0;
+            if (downloads !== lastDownloads || bytes !== lastBytes) {
+                lastDownloads = downloads;
+                lastBytes = bytes;
+                lastChange = Date.now();
+                assetsEl.textContent = "assets " + formatBytes(bytes) +
+                    " / " + downloads + " files";
+                assetsEl.classList.add("show");
+            } else if (Date.now() - lastChange > 2500) {
+                assetsEl.classList.remove("show");
+            }
+            setTimeout(tick, 400);
+        }
+        tick();
+    }
+})();
+</script>
+</body>
+</html>
