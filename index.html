@@ -165,7 +165,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13i";
+    var BUILD_VERSION = "2026-11-13k";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -187,6 +187,33 @@ html, body {
     var hudFill = document.getElementById("hudfill");
     var hudFiles = document.getElementById("hudfiles");
     var banner = document.getElementById("banner");
+
+    // Anything that throws on this page, including inside a call the engine makes
+    // into the patched file layer, goes on the bar instead of dying silently.
+    window.addEventListener("error", function (event) {
+        var message = event && event.message ? event.message : "script error";
+        hudShow(0, "script error: " + message,
+            (event && event.filename ? event.filename + ":" + (event.lineno || 0) : ""));
+        console.error("Rain World script error:", message, event && event.filename, event && event.lineno);
+    });
+    window.addEventListener("unhandledrejection", function (event) {
+        var reason = event && event.reason ? (event.reason.message || String(event.reason)) : "promise rejected";
+        hudShow(0, "promise error: " + reason, "");
+        console.error("Rain World promise error:", reason);
+    });
+
+    // A wasm abort or an out-of-memory only ever shows up on the console. Copy
+    // the fatal ones onto the bar so a dead engine is not just a black screen.
+    var nativeConsoleError = console.error.bind(console);
+    console.error = function () {
+        var text = Array.prototype.map.call(arguments, function (item) {
+            return item instanceof Error ? item.message : String(item);
+        }).join(" ");
+        if (/abort|out of memory|memory access|runtimeerror|uncaught exception/i.test(text)) {
+            hudShow(0, "engine error: " + text.slice(0, 160), "");
+        }
+        nativeConsoleError.apply(null, arguments);
+    };
 
     var bannerShown = false;
 
@@ -566,6 +593,7 @@ html, body {
         var lastDownloads = -1;
         var lastBytes = -1;
         var lastChange = Date.now();
+        var lastIdleReport = 0;
 
         function tick() {
             var downloads = files.downloads || 0;
@@ -581,6 +609,17 @@ html, body {
                 hud.classList.add("dim");
             } else if (Date.now() - lastChange > 2500) {
                 hud.classList.add("dim");
+                var idle = Date.now() - lastChange;
+                if (idle > 10000 && Date.now() - lastIdleReport > 2000) {
+                    lastIdleReport = Date.now();
+                    var logs = [];
+                    try { logs = files.scanLogs ? files.scanLogs() : []; } catch (error) { logs = []; }
+                    hudShow(100,
+                        "engine idle " + Math.round(idle / 1000) + "s \u00b7 not waiting on files",
+                        logs.length
+                            ? logs[logs.length - 1].replace(/\s+/g, " ").slice(-240)
+                            : "the game has not written a log entry");
+                }
             }
             setTimeout(tick, 400);
         }
