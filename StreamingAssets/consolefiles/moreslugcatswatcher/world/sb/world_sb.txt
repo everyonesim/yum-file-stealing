@@ -1,0 +1,348 @@
+CONDITIONAL LINKS
+Saint : EXCLUSIVEROOM : SB_E05SAINT
+Saint : EXCLUSIVEROOM : SB_GOR02SAINT
+Rivulet : EXCLUSIVEROOM : SB_GOR02RIV
+Rivulet : HIDEROOM : GATE_SB_OE
+Saint : HIDEROOM : SB_E05
+Saint : HIDEROOM : SB_A14
+Saint : HIDEROOM : SB_D02
+Saint : HIDEROOM : SB_A02
+Saint : HIDEROOM : SB_J04
+Saint : HIDEROOM : SB_A08
+Saint : HIDEROOM : SB_B03
+Saint : HIDEROOM : SB_A07
+Saint : HIDEROOM : SB_E03
+Saint : HIDEROOM : SB_D05
+Saint : HIDEROOM : SB_A06
+Saint : HIDEROOM : SB_A05
+Saint : HIDEROOM : SB_D03
+Saint : HIDEROOM : SB_D07
+Saint : HIDEROOM : SB_D01
+Saint : HIDEROOM : SB_C08
+Saint : HIDEROOM : SB_E01
+Saint : HIDEROOM : SB_E06
+Saint : HIDEROOM : SB_C09
+Saint : HIDEROOM : SB_L01
+Saint : HIDEROOM : SB_GOR02
+Saint : HIDEROOM : GATE_SB_OE
+Rivulet : HIDEROOM : SB_GOR02
+Saint : SB_E05 : SB_D06 : DISCONNECTED
+Saint : SB_D06 : SB_E05 : SB_E05SAINT
+Saint : SB_E05SAINT : 1 : SB_D06
+Saint : SB_GOR01 : SB_GOR02 : SB_GOR02SAINT
+Saint : SB_GOR02 : SB_GOR01 : DISCONNECTED
+Saint : SB_GOR02SAINT : 1 : SB_GOR01
+Rivulet : SB_GOR01 : SB_GOR02 : SB_GOR02RIV
+Rivulet : SB_GOR02 : SB_GOR01 : DISCONNECTED
+Rivulet : SB_GOR02RIV : 1 : SB_GOR01
+END CONDITIONAL LINKS
+ROOMS
+GATE_DS_SB : DISCONNECTED, SB_D04, DISCONNECTED : GATE
+GATE_SB_SL : SB_G02, DISCONNECTED : GATE
+GATE_LF_SB : DISCONNECTED, SB_F03, DISCONNECTED : GATE
+SB_F03 : SB_TOPSIDE, GATE_LF_SB, SB_A10, SB_A09, SB_H03
+SB_A10 : SB_F03
+SB_A09 : SB_F03, SB_H03
+SB_H03 : SB_A09, SB_F03, SB_TESTB, SB_GOR01, SB_H02, SB_C11
+SB_S06 : SB_GOR01 : SHELTER
+SB_H02 : SB_H03, SB_E04, SB_A03, SB_A04
+SB_A04 : SB_H02, SB_A13, SB_A01
+SB_A13 : SB_A04 : SCAVTRADER
+SB_A01 : SB_A04, SB_A11, SB_C01
+SB_A11 : SB_A01, SB_B01
+SB_B01 : SB_A11, SB_S07, SB_A12
+SB_S07 : SB_B01 : SHELTER
+SB_A12 : SB_A03, SB_B01
+SB_C01 : SB_B02, SB_A01 : SWARMROOM
+SB_B02 : SB_C01, SB_C05
+SB_C05 : SB_B02, SB_I01
+SB_A03 : SB_E04, SB_H02, SB_A12
+SB_E04 : SB_TESTC, SB_H02, SB_G03, SB_A03, SB_C06
+SB_C06 : SB_E04, SB_S03, SB_F02
+SB_S03 : SB_C06 : SHELTER
+SB_F02 : SB_C06, SB_D04, SB_E07, SB_I01
+SB_D04 : SB_S04, GATE_DS_SB, SB_F02
+SB_S04 : SB_D04 : SHELTER
+SB_G03 : SB_E04, SB_J01, SB_F01
+SB_F01 : SB_G03, SB_J03, SB_C10
+SB_J01 : DISCONNECTED, SB_E02, SB_G03, SB_C07 : SWARMROOM
+SB_E02 : SB_G02, SB_J01, SB_J02
+SB_G02 : SB_E02, SB_S05, GATE_SB_SL
+SB_S05 : SB_G02 : SHELTER
+SB_C07 : SB_J02, SB_J01
+SB_J02 : SB_E02, SB_J03, SB_C07
+SB_J03 : DISCONNECTED, SB_J02, SB_F01, SB_S02
+SB_S02 : SB_J03 : SHELTER
+SB_I01 : SB_C05, SB_F02, SB_S01, SB_E07, SB_D06
+SB_S01 : SB_I01 : SHELTER
+SB_D06 : SB_I01, SB_E05
+SB_E05 : SB_D06, SB_A14
+SB_A14 : SB_D02, SB_E05
+SB_D02 : SB_A14, SB_E03, SB_A05, SB_A02
+SB_A02 : SB_J04, DISCONNECTED, SB_D02
+SB_J04 : SB_A02, SB_B03, SB_A08, SB_A06
+SB_A08 : SB_B03, SB_J04
+SB_B03 : SB_J04, SB_D03, SB_A08, SB_A07
+SB_A07 : SB_B03, SB_E03
+SB_E03 : SB_A07, SB_D02, SB_D05
+SB_D05 : SB_E03, SB_A06, SB_A05
+SB_A06 : SB_D05, SB_J04
+SB_A05 : SB_D02, SB_D05
+SB_D03 : SB_B03, SB_D07
+SB_D07 : SB_D03, SB_D01
+SB_D01 : SB_D07, DISCONNECTED, SB_C08
+SB_C08 : SB_D01, SB_E01
+SB_E01 : SB_C08, SB_E06
+SB_E06 : SB_C09, SB_E01
+SB_C09 : SB_E06, SB_L01
+SB_L01 : SB_C09 : PERF_HEAVY
+GATE_SB_OE : DISCONNECTED, SB_GOR02 : GATE
+GATE_SB_VS : DISCONNECTED, SB_G04 : GATE
+SB_E07 : SB_C10, SB_B04, DISCONNECTED, SB_F02, SB_I01
+SB_B04 : SB_E07, SB_G04, SB_S10
+SB_S10 : SB_B04 : SHELTER
+SB_C10 : SB_J10, SB_F01, SB_G04, SB_E07
+SB_G04 : SB_C10, DISCONNECTED, GATE_SB_VS, SB_B04 : PERF_HEAVY
+SB_E05SAINT : DISCONNECTED
+SB_GOR01 : SB_GOR02, SB_S06, SB_H03 : SWARMROOM
+SB_GOR02 : GATE_SB_OE, SB_GOR01
+SB_GOR02SAINT : DISCONNECTED, DISCONNECTED
+SB_GOR02RIV : DISCONNECTED, DISCONNECTED
+SB_TESTB : SB_H03, SB_C02 : SWARMROOM
+SB_TESTC : SB_E04, SB_C02
+SB_C02 : SB_TESTC, SB_TESTB
+SB_TOPSIDE : SB_F03, SB_S09
+SB_S09 : SB_TOPSIDE : SHELTER
+SB_J10 : SB_C11, SB_C10 : PERF_HEAVY
+SB_C11 : SB_H03, SB_J10
+END ROOMS
+CREATURES
+SB_A04 : 3-TentaclePlant
+SB_G03 : 3-TentaclePlant, 4-Centipede, 5-Centipede, 6-Centipede
+SB_J01 : 4-Centipede, 6-Centipede
+LINEAGE : SB_B01 : 3 : BigSpider-0.5, SpitterSpider-0.3, Red-0
+LINEAGE : SB_B01 : 4 : Caramel-0.5, Black-0.3, Red-0
+LINEAGE : SB_A01 : 3 : Small Centipede-0.6, Centipede-{0.4}-0.3, Centipede-{0.8}-0.7, Red Centipede-0
+(White)SB_H02 : 4-Centipede-{0.7}, 6-Small Centipede-3, 7-Centipede-2
+(Yellow)SB_H02 : 4-Centipede-{0.7}, 6-Small Centipede-3, 7-Centipede-2
+(Yellow)SB_E04 : 6-Centipede
+(Yellow)OFFSCREEN : 0-Miros-5, 0-Scavenger-10, 0-Leviathan
+(Yellow)SB_J02 : 3-Salamander, 4-Salamander, 5-Eel-{PreCycle}-2
+(Yellow)SB_H03 : 10-Small Centipede-2, 7-Small Centipede, 7-Blue, 9-Small Centipede-3
+(Yellow)SB_C07 : 2-Salamander
+(Yellow)SB_F02 : 5-Black, 6-Black, 8-Black
+(Yellow)SB_I01 : 9-Black, 10-Black, 11-Black, 12-Black, 13-Black
+(Yellow)SB_C06 : 4-Black
+(Yellow)SB_F01 : 3-Black, 4-Black, 5-Black
+(Red)OFFSCREEN : 0-Miros-10, 0-Scavenger-15, 0-Leviathan
+(Red)SB_H03 : 10-Centipede-2, 6-SpitterSpider, 7-BigSpider-3, 8-BigSpider-2, 9-BigSpider-2, 6-Centipede-2
+(Red)SB_C06 : 3-Black, 4-Black-2
+(Red)SB_F02 : 5-Black, 6-Black, 7-Black, 8-Black-2
+(Red)SB_J03 : 8-Black, 7-Black, 4-TentaclePlant, 5-Small Centipede-3, 6-Centipede-3, 5-Salamander-{PreCycle}
+(Red)SB_J02 : 3-Cyan-3, 5-JetFish, 5-Eel-{PreCycle}-2
+(Red)SB_G02 : 3-DropBug-2, 4-Centipede, 10-TentaclePlant, 5-Centipede-2, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(Red)SB_E02 : 3-DropBug-2, 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centipede
+(Red)SB_C01 : 2-TentaclePlant, 7-Black, 9-Black, 4-DropBug
+(Red)SB_B02 : 3-TentaclePlant, 2-DropBug, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(Red)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+(Red)SB_A03 : 3-DropBug, 4-TentaclePlant, 5-Cyan-2
+(Red)SB_F01 : 3-SpitterSpider, 4-SpitterSpider-2, 5-BigSpider
+(Red)SB_D04 : 9-Black, 5-BigSpider, 6-BigSpider
+(Red)LINEAGE : SB_J02 : 4 : Jetfish-0.5, Salamander-0
+(Red)LINEAGE : SB_C07 : 3 : Salamander-1, Cyan-0
+(Red)LINEAGE : SB_E04 : 5 : Eggbug-1, SpitterSpider-0
+(Red)LINEAGE : SB_A03 : 6 : Cyan-0.3, White-0.5, Red-0
+(Red)LINEAGE : SB_E02 : 4 : Dropbug-0.8, SpitterSpider-0.5, Cyan-0.3, SpitterSpider-0
+(White)LINEAGE : SB_A04 : 4 : Dropbug-0.4, SpitterSpider-0.4, Red-0
+(Red)LINEAGE : SB_A04 : 4 : Dropbug-0.4, SpitterSpider-0.4, Red-0
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Miros-7, 0-Scavenger-10, 0-Leviathan
+(X-Gourmand,Red,Artificer,Spear,Inv,Saint)SB_C01 : 2-TentaclePlant, 7-Black, 9-Black
+(X-Red,Artificer,Spear,Gourmand,Saint,Inv)SB_G02 : 4-Centipede, 10-TentaclePlant, 5-Centipede-2, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(X-Gourmand,Red,Artificer,Spear,Saint,Inv)SB_E02 : 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centipede
+(X-Red,Artificer,Spear,Gourmand,Inv,Saint)SB_B02 : 3-TentaclePlant, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(X-Rivulet)SB_A01 : 3-Small Centipede-4, 4-Centipede-2
+(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_J02 : 3-Salamander, 4-Salamander-3, 5-Eel-{PreCycle}-2
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_H03 : 10-Small Centipede-2, 7-Caramel, 8-Blue-2, 9-Small Centipede-3
+(X-Yellow,Rivulet,Artificer,Spear,Gourmand,Saint,Inv)SB_C07 : 2-Salamander, 3-Salamander
+(X-White,Yellow,Rivulet,Artificer,Spear,Saint,Inv)SB_H02 : 4-Centipede-3, 5-BigSpider-5, 7-Centipede-4, 5-Red Centipede
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_F02 : 4-Black, 5-Black, 6-Black, 7-Black
+(X-Yellow,Red,Artificer,Spear,Inv)SB_E04 : 5-Centipede
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_C06 : 3-Black, 4-Black
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_F01 : 3-Black, 4-Black-2, 5-Black
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)SB_J03 : 7-Black, 4-TentaclePlant, 5-Small Centipede-3, 6-Centipede-2, 5-Salamander-{PreCycle}
+(X-Yellow,Rivulet,Saint)SB_I01 : 8-Black, 9-Black, 10-Black, 11-Black, 12-Black, 13-Black
+(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_A03 : 4-TentaclePlant, 5-Caramel
+(X-Saint)SB_C02 : 3-TentaclePlant, 4-JetFish, 2-Eel-{PreCycle}-2
+(X-Yellow,Rivulet,Saint)SB_TESTC : 2-TentaclePlant, 5-Caramel, 4-Small Centipede-5, 5-Salamander-{PreCycle}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)SB_TESTB : 2-Salamander, 3-Small Centipede-3
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SB_E07 : 8-Black-2
+(X-Gourmand,Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)SB_C10 : 17-TentaclePlant, 5-BigSpider-2
+(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)SB_GOR01 : 3-Small Centipede-5, 5-Blue, 6-Small Centipede-5
+(X-Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)SB_C11 : 2-Centipede-2
+(X-Yellow,Red,Artificer,Spear,Saint)SB_J10 : 3-TentaclePlant, 4-Centipede, 6-Small Centipede-2
+(X-Gourmand,Red,Artificer,Spear,Inv,Saint)SB_G04 : 15-Black, 17-Black, 7-MotherSpider
+(X-Saint)LINEAGE : SB_B02 : 4 : MotherSpider-0.5, Black-0.2, Red-0
+(X-Saint)LINEAGE : SB_B02 : 5 : Blue-0.5, White-0.5, Black-0.5, Red-0
+(X-Red,Artificer,Spear,Saint,Inv)LINEAGE : SB_A03 : 6 : Blue-0.3, White-0.5, Red-0
+(Rivulet)OFFSCREEN : 0-Miros-6, 0-Scavenger-11, 0-Leviathan
+(Artificer)OFFSCREEN : 0-Miros-8, 0-Scavenger-21, 0-Leviathan
+(Spear)OFFSCREEN : 0-Miros-7, 0-Scavenger-18, 0-Leviathan
+(Saint)OFFSCREEN : 0-Miros-{Ignorecycle}-11, 0-Scavenger-17, 0-Leviathan
+(Inv)OFFSCREEN : 0-Miros-10, 0-MirosVulture-3, 0-Scavenger-15, 0-Leviathan
+(Gourmand)SB_C01 : 2-TentaclePlant, 7-Black, 9-Black, 4-DropBug
+(Artificer)SB_C01 : 2-TentaclePlant, 7-Black, 9-Black, 4-DropBug
+(Spear)SB_C01 : 2-TentaclePlant, 7-Black, 9-Black, 4-DropBug
+(Inv)SB_C01 : 2-TentaclePlant, 7-Black, 9-Black, 4-DropBug
+(Saint)SB_C01 : 2-TentaclePlant, 7-Black, 9-Yeek-{Winter}-5, 9-Black
+(Artificer)SB_G02 : 3-DropBug-2, 4-Centipede, 10-TentaclePlant, 5-Centipede-2, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(Spear)SB_G02 : 3-DropBug-2, 4-Centipede, 10-TentaclePlant, 5-Centipede-2, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(Gourmand)SB_G02 : 3-DropBug-2, 4-Centipede, 10-TentaclePlant, 5-Centipede-2, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(Inv)SB_G02 : 3-DropBug-2, 5-Salamander-{PreCycle}
+(Saint)SB_G02 : 4-Lantern Mouse-5, 10-TentaclePlant, 5-Centipede-2, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(Gourmand)SB_E02 : 3-DropBug-3, 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centipede
+(Inv)SB_E02 : 3-DropBug-3, 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centipede
+(Artificer)SB_E02 : 3-DropBug-2, 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centipede
+(Spear)SB_E02 : 3-DropBug-2, 6-TentaclePlant, 7-TentaclePlant, 5-Centipede, 10-Centipede, 8-Centipede
+(Saint)SB_E02 : 6-TentaclePlant, 7-TentaclePlant, 5-Lantern Mouse-5, 10-Centipede, 8-Centipede
+(Artificer)SB_B02 : 3-TentaclePlant, 2-DropBug, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(Spear)SB_B02 : 3-TentaclePlant, 2-DropBug, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(Gourmand)SB_B02 : 3-TentaclePlant, 2-DropBug, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(Inv)SB_B02 : 3-TentaclePlant, 2-DropBug, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(Saint)SB_B02 : 3-TentaclePlant, 5-Yeek-{Winter}-3, 3-Salamander-{PreCycle}, 2-Eel-{PreCycle}
+(Rivulet)SB_A01 : 3-Red Centipede, 4-Small Centipede-3
+(Gourmand)SB_J02 : 3-Cyan-3, 5-Eel-{PreCycle}-2
+(Rivulet)SB_J02 : 3-Salamander, 4-Eel, 5-Jetfish-3, 5-Eel-{PreCycle}-2
+(Artificer)SB_J02 : 3-Cyan-3, 5-JetFish, 5-Eel-{PreCycle}-2
+(Spear)SB_J02 : 3-Cyan-3, 5-JetFish, 5-Eel-{PreCycle}-2
+(Saint)SB_J02 : 5-Jetfish-3, 5-Eel-{PreCycle}-2
+(Inv)SB_J02 : 3-Red-3, 5-JetFish, 5-Eel-{PreCycle}-2
+(Rivulet)SB_H03 : 10-Small Centipede-2, 6-Small Centipede, 6-Yellow-3, 9-Small Centipede-3
+(Artificer)SB_H03 : 10-Centipede-2, 6-SpitterSpider, 7-BigSpider-3, 8-BigSpider-2, 9-BigSpider-2, 6-Centipede-2
+(Spear)SB_H03 : 10-Centipede-2, 6-SpitterSpider, 7-BigSpider-3, 8-BigSpider-2, 9-BigSpider-2, 6-Centipede-2
+(Saint)SB_H03 : 10-Small Centipede-2, 7-Small Centipede, 7-Yellow-3, 9-Small Centipede-3
+(Inv)SB_H03 : 7-Red-3, 8-SpitterSpider-2, 9-SpitterSpider-2, 6-RedCentipede-2
+(Rivulet)SB_C07 : 2-Eel
+(Artificer)SB_C07 : 2-Salamander, 3-Dropbug
+(Spear)SB_C07 : 2-Salamander, 3-Dropbug
+(Gourmand)SB_C07 : 2-Salamander, 3-Dropbug
+(Saint)SB_C07 : 2-Lantern Mouse-6
+(Inv)SB_C07 : 2-Red, 3-Dropbug
+(Rivulet)SB_H02 : 4-Centipede-{0.7}, 6-Small Centipede-3, 7-Centipede-2, 5-Yeek-3
+(Artificer)SB_H02 : 4-Centipede-3, 5-BigSpider-5, 6-SpitterSpider-2, 7-Centipede-4, 5-Red Centipede
+(Spear)SB_H02 : 4-Centipede-3, 5-BigSpider-5, 6-SpitterSpider-2, 7-Centipede-4, 5-Red Centipede
+(Saint)SB_H02 : 4-Centipede-3, 5-BigSpider-5, 6-SpitterSpider-2, 7-Centipede-4, 5-Red Centipede
+(Inv)SB_H02 : 4-RedCentipede-3, 5-SpitterSpider-5, 6-SpitterSpider-2, 7-RedCentipede-4, 5-Red Centipede
+(Rivulet)SB_F02 : 5-Black, 6-Black, 8-Black
+(Artificer)SB_F02 : 5-Black, 6-Black, 7-Black, 8-Black-2
+(Spear)SB_F02 : 5-Black, 6-Black, 7-Black, 8-Black-2
+(Saint)SB_F02 : 5-Black-{Ignorecycle}, 6-Black-{Ignorecycle}, 8-Black-{Ignorecycle}
+(Inv)SB_F02 : 5-Black, 6-Red, 7-SpitterSpider, 8-Black-2
+(Artificer)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+(Spear)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+(Inv)SB_E04 : 6-SpitterSpider, 6-MotherSpider
+(Rivulet)SB_C06 : 4-Black
+(Artificer)SB_C06 : 3-Black, 4-Black-2
+(Spear)SB_C06 : 3-Black, 4-Black-2
+(Saint)SB_C06 : 4-Black-{Ignorecycle}
+(Inv)SB_C06 : 3-Red, 4-Black-2
+(Rivulet)SB_F01 : 3-Black, 4-Black, 5-Black
+(Artificer)SB_F01 : 3-SpitterSpider, 4-SpitterSpider-2, 5-BigSpider
+(Spear)SB_F01 : 3-SpitterSpider, 4-SpitterSpider-2, 5-BigSpider
+(Saint)SB_F01 : 3-Drop Bug-{Ignorecycle}, 4-Black-{Ignorecycle}, 5-Black-{Ignorecycle}
+(Inv)SB_F01 : 3-SpitterSpider, 4-SpitterSpider-2, 5-SpitterSpider
+(Rivulet)SB_J03 : 8-Black, 7-Black, 4-TentaclePlant, 5-Small Centipede-3, 6-Centipede-2, 5-Salamander-{PreCycle}
+(Artificer)SB_J03 : 8-Black, 7-Black, 4-TentaclePlant, 5-Small Centipede-3, 6-Centipede-3, 5-Salamander-{PreCycle}
+(Spear)SB_J03 : 8-Black, 7-Black, 4-TentaclePlant, 5-Small Centipede-3, 6-Centipede-3, 5-Salamander-{PreCycle}
+(Saint)SB_J03 : 8-Black-{Ignorecycle}, 5-Black-{Ignorecycle}, 4-SpitterSpider, 5-Small Centipede-3, 6-TentaclePlant, 5-Salamander-{PreCycle}
+(Inv)SB_J03 : 8-Black, 7-Black, 4-SpitterSpider, 5-Small Centipede-3, 6-RedCentipede-3, 5-Salamander-{PreCycle}
+(Rivulet)SB_I01 : 9-Black, 10-Black, 11-Black, 12-Black, 13-Black
+(Saint)SB_I01 : 9-Black-{Ignorecycle}, 10-Black-{Ignorecycle}, 11-Black-{Ignorecycle}, 12-Black-{Ignorecycle}
+(Gourmand)SB_A03 : 3-DropBug, 4-TentaclePlant, 5-Caramel
+(Rivulet)SB_A03 : 5-Caramel, 4-BigSpider-2
+(Artificer)SB_A03 : 3-DropBug, 4-TentaclePlant, 5-Cyan-2
+(Spear)SB_A03 : 3-DropBug, 4-TentaclePlant, 5-Cyan-2
+(Saint)SB_A03 : 5-Caramel, 4-BigSpider-2
+(Inv)SB_A03 : 3-DropBug, 4-TentaclePlant, 5-Red-2
+(Rivulet)SB_D04 : 7-SpitterSpider, 9-TentaclePlant
+(Saint)SB_D04 : 7-SpitterSpider, 9-TentaclePlant
+(Artificer)SB_D04 : 9-Black, 5-BigSpider, 6-BigSpider
+(Spear)SB_D04 : 9-Black, 5-BigSpider, 6-BigSpider
+(Inv)SB_D04 : 9-Red, 5-SpitterSpider, 6-SpitterSpider
+(Saint)SB_C02 : 4-Jetfish, 2-Eel-{PreCycle}-2
+(Yellow)SB_TESTC : 2-TentaclePlant, 5-Caramel, 4-Small Centipede-3, 5-Salamander-{PreCycle}
+(Rivulet)SB_TESTC : 2-TentaclePlant, 5-Caramel, 4-Small Centipede-3, 5-Salamander-{PreCycle}
+(Saint)SB_TESTC : 2-TentaclePlant, 5-Caramel, 4-Small Centipede-3, 5-Salamander-{PreCycle}
+(Yellow)SB_TESTB : 2-Salamander, 3-Small Centipede-4
+(Rivulet)SB_TESTB : 2-Salamander, 3-Small Centipede-4
+(Red)SB_TESTB : 2-Salamander, 3-Small Centipede-4
+(Artificer)SB_TESTB : 2-Salamander, 3-Small Centipede-4
+(Spear)SB_TESTB : 2-Salamander, 3-Small Centipede-4
+(Saint)SB_TESTB : 3-Small Centipede-4
+(Yellow)SB_E07 : 8-Black
+(Rivulet)SB_E07 : 8-Black
+(Red)SB_E07 : 5-BigSpider, 8-Black-2, 11-MotherSpider
+(Artificer)SB_E07 : 5-BigSpider, 8-Black-2, 11-MotherSpider
+(Spear)SB_E07 : 5-BigSpider, 8-Black-2, 11-MotherSpider
+(Inv)SB_E07 : 5-BigSpider, 8-Black-2, 11-MotherSpider
+(Saint)SB_E07 : 8-Black-{Ignorecycle}-2
+(Gourmand)SB_C10 : 19-Mimic-{11}, 5-BigSpider-2
+(Yellow)SB_C10 : 17-TentaclePlant, 5-BigSpider
+(Rivulet)SB_C10 : 17-TentaclePlant, 5-BigSpider
+(Red)SB_C10 : 17-Mimic-{21}, 19-Mimic-{11}, 5-BigSpider, 12-SpitterSpider
+(Artificer)SB_C10 : 17-Mimic-{21}, 19-Mimic-{11}, 5-BigSpider, 12-SpitterSpider
+(Spear)SB_C10 : 17-Mimic-{21}, 19-Mimic-{11}, 5-BigSpider, 12-SpitterSpider
+(Inv)SB_C10 : 17-Mimic-{21}, 19-Mimic-{11}, 5-BigSpider, 12-SpitterSpider
+(Saint)SB_C10 : 5-BigSpider-2, 8-Black-{Ignorecycle}
+(Yellow)SB_GOR01 : 3-Small Centipede-4, 3-Centipede-2, 6-Small Centipede-2
+(Rivulet)SB_GOR01 : 3-Small Centipede-4, 3-Yeek-3, 6-Yeek-2
+(Red)SB_GOR01 : 3-Small Centipede-5, 3-Centipede-2, 4-BigSpider-5, 5-Blue, 6-Small Centipede-5
+(Artificer)SB_GOR01 : 3-Small Centipede-5, 3-Centipede-2, 4-BigSpider-5, 5-Blue, 6-Small Centipede-5
+(Spear)SB_GOR01 : 3-Small Centipede-5, 3-Centipede-2, 4-BigSpider-5, 5-Blue, 6-Small Centipede-5
+(Inv)SB_GOR01 : 3-Small Centipede-5, 3-RedCentipede-2, 4-Spider-5, 5-Red, 6-Small Centipede-5
+(Saint)SB_GOR01 : 3-Small Centipede-4, 3-Yeek-{Winter}-3, 6-Yeek-{Winter}-2
+(Yellow)SB_C11 : 2-Small Centipede-3
+(Rivulet)SB_C11 : 2-Yellow-2
+(Saint)SB_C11 : 2-Yellow-2
+(Red)SB_C11 : 2-Blue
+(Artificer)SB_C11 : 2-Blue
+(Spear)SB_C11 : 2-Blue
+(Inv)SB_C11 : 2-RedCentipede
+(Yellow)SB_J10 : 3-TentaclePlant, 4-Small Centipede, 6-Small Centipede-2
+(Red)SB_J10 : 3-TentaclePlant, 4-Centipede-2
+(Artificer)SB_J10 : 3-TentaclePlant, 4-Centipede-2
+(Spear)SB_J10 : 3-TentaclePlant, 4-Centipede-2
+(Saint)SB_J10 : 3-TentaclePlant, 4-Centipede-2
+(Red)SB_TOPSIDE : 2-BigNeedleWorm, 2-SmallNeedleWorm-3
+(Artificer)SB_TOPSIDE : 2-BigNeedleWorm, 2-SmallNeedleWorm-3
+(Spear)SB_TOPSIDE : 2-BigNeedleWorm, 2-SmallNeedleWorm-3
+(White)SB_TOPSIDE : 2-BigNeedleWorm, 2-SmallNeedleWorm-3
+(Gourmand)SB_TOPSIDE : 2-BigNeedleWorm, 2-SmallNeedleWorm-3
+(Gourmand)SB_G04 : 6-SpitterSpider, 7-MotherSpider, 15-Black, 17-Black
+(Red)SB_G04 : 3-DropBug-2, 15-Black, 17-Black-2, 7-SpitterSpider-2, 6-MotherSpider
+(Artificer)SB_G04 : 3-DropBug-2, 15-Black, 17-Black-2, 7-SpitterSpider-2, 6-MotherSpider
+(Spear)SB_G04 : 3-DropBug-2, 15-Black, 17-Black-2, 7-SpitterSpider-2, 6-MotherSpider
+(Inv)SB_G04 : 3-DropBug-2, 15-Black, 17-Black-2, 7-SpitterSpider-2, 6-MotherSpider
+(Saint)SB_G04 : 6-SpitterSpider-2, 9-Drop Bug-{Ignorecycle}
+(Saint)LINEAGE : SB_B02 : 4 : BigSpider-0.5, Black-0.2, Red-0
+(Artificer)LINEAGE : SB_A03 : 6 : Cyan-0.3, White-0.5, Red-0
+(Spear)LINEAGE : SB_A03 : 6 : Cyan-0.3, White-0.5, Red-0
+(Saint)LINEAGE : SB_A03 : 6 : BigSpider-0.3, White-0.5, Red-0
+(Inv)LINEAGE : SB_A03 : 6 : Red-0
+(Gourmand)LINEAGE : SB_A04 : 4 : Dropbug-0.4, SpitterSpider-0.4, Red-0
+(Artificer)LINEAGE : SB_A04 : 4 : Dropbug-0.4, SpitterSpider-0.4, Red-0
+(Spear)LINEAGE : SB_A04 : 4 : Dropbug-0.4, SpitterSpider-0.4, Red-0
+(Artificer)LINEAGE : SB_J02 : 4 : Jetfish-0.5, Salamander-0
+(Spear)LINEAGE : SB_J02 : 4 : Jetfish-0.5, Salamander-0
+(Artificer)LINEAGE : SB_C07 : 3 : Salamander-1, Cyan-0
+(Spear)LINEAGE : SB_C07 : 3 : Salamander-1, Cyan-0
+(Artificer)LINEAGE : SB_E04 : 5 : Eggbug-1, SpitterSpider-0
+(Spear)LINEAGE : SB_E04 : 5 : Eggbug-1, SpitterSpider-0
+(Artificer)LINEAGE : SB_E02 : 4 : Dropbug-0.8, SpitterSpider-0.5, Cyan-0.3, SpitterSpider-0
+(Spear)LINEAGE : SB_E02 : 4 : Dropbug-0.8, SpitterSpider-0.5, Cyan-0.3, SpitterSpider-0
+(Inv)LINEAGE : SB_J02 : 4 : Red-0
+(Inv)LINEAGE : SB_C07 : 3 : Red-0
+(Inv)LINEAGE : SB_E04 : 5 : SpitterSpider-0
+(Inv)LINEAGE : SB_E02 : 4 : Red-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

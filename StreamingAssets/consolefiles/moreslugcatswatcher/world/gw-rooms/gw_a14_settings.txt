@@ -1,0 +1,7 @@
+PlacedObjects: BlueToken><502.5674><409.0617><17~-59~0~0~1~RedLizard~White|Yellow|Rivulet|Artificer|Spear|Gourmand~0~0~0, 
+DangerType: Flood
+WaveSpeed: 0.5340279
+WaveLength: 0.9829861
+WaveAmplitude: 0.0001155701
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

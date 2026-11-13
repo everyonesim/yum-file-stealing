@@ -1,0 +1,5 @@
+DangerType: Flood
+FadePalette: 9, 0.6956522
+WaveAmplitude: 0.01086957
+SecondWaveAmplitude: 0.3478261
+PlacedObjects: BrokenShelterWaterLevel><440.3228><338.6573><, 

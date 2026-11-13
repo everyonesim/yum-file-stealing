@@ -1,0 +1,310 @@
+CONDITIONAL LINKS
+Saint : SU_B14 : SU_C01 : DISCONNECTED
+Saint : SU_B14 : GATE_SU_DS : DISCONNECTED
+Saint : SU_C01 : SU_B14 : SU_B14SAINT
+Saint : GATE_SU_DS : SU_B14 : SU_B14SAINT
+Saint : SU_B14SAINT : 1 : SU_C01
+Saint : SU_B14SAINT : 2 : GATE_SU_DS
+END CONDITIONAL LINKS
+ROOMS
+GATE_SU_DS : SU_B14, DISCONNECTED : GATE
+GATE_SU_HI : SU_B13, DISCONNECTED : GATE
+GATE_LF_SU : DISCONNECTED, SU_A45 : GATE
+SU_B13 : GATE_SU_HI, SU_A33
+SU_A33 : SU_B13, SU_B04, SU_A20
+SU_B04 : SU_A33, SU_A37, SU_A34
+SU_A34 : SU_A20, SU_B04
+SU_A37 : SU_S04, SU_B04, SU_A63, SU_A39
+SU_S04 : SU_A37 : SHELTER
+SU_A63 : SU_B12, SU_A37, DISCONNECTED
+SU_B12 : SU_A63, SU_A17
+SU_A17 : SU_A40, SU_B12
+SU_A40 : SU_A17, SU_B07 : SWARMROOM
+SU_B07 : SU_A40, SU_A02
+SU_A02 : SU_A53, SU_B07
+SU_A53 : SU_A39, SU_A02, SU_A38, SU_A25
+SU_A39 : SU_A37, SU_A06, SU_A53
+SU_A38 : SU_A06, SU_A53, SU_A25
+SU_A25 : SU_A38, SU_A53, SU_A23, SU_A24
+SU_A24 : SU_A25, SU_A23 : SWARMROOM
+SU_A23 : SU_A25, SU_A24, SU_A22
+SU_A22 : SU_A43, SU_A23, SU_S01
+SU_C04 : SU_CAVE01, SU_A41
+SU_A41 : SU_A42, SU_A43, SU_C04, SU_A44
+SU_A42 : SU_A41 : SWARMROOM
+SU_A43 : SU_A41, SU_A22
+SU_A44 : SU_A41
+SU_S01 : SU_A22 : SHELTER
+SU_A06 : SU_A39, SU_A36, SU_A38 : SWARMROOM
+SU_A36 : SU_A06, SU_B08
+SU_B08 : SU_B09, SU_A36
+SU_B09 : SU_A31, SU_A35, SU_B08, SU_B10
+SU_A35 : SU_B09, SU_A20
+SU_A20 : SU_A33, SU_A29, SU_A34, SU_A35
+SU_A31 : SU_B02, SU_B09, SU_A32
+SU_A32 : SU_A31, SU_B05
+SU_B05 : SU_B06, SU_A07, SU_A32
+SU_A07 : SU_B05, SU_C02 : SWARMROOM
+SU_A45 : SU_C02, GATE_LF_SU
+SU_C02 : SU_A45, SU_A07 : SCAVOUTPOST
+SU_B06 : SU_B11, SU_A12, SU_B05
+SU_B11 : SU_A13, SU_B06, SU_A12
+SU_A12 : SU_B11, SU_B06, SU_B02
+SU_A13 : SU_B11, SU_B02 : SWARMROOM
+SU_B02 : SU_A13, SU_A12, SU_A29, SU_A31 : SWARMROOM
+SU_A29 : SU_B02, SU_A20
+SU_B10 : SU_B09, SU_A10
+SU_A10 : SU_B01, SU_B10
+SU_B01 : SU_A10, SU_A04, SU_S03, SU_A30
+SU_S03 : SU_B01 : SHELTER
+SU_A04 : SU_B01, SU_C01
+SU_C01 : SU_A04, SU_A30, SU_B14 : SWARMROOM
+SU_B14 : SU_C01, GATE_SU_DS
+SU_A30 : SU_B01, SU_C01
+GATE_OE_SU : DISCONNECTED, SU_INTRO01 : GATE
+SU_B14SAINT : DISCONNECTED, DISCONNECTED
+SU_CAVE01 : SU_PS1, SU_C04, SU_CAVE02
+SU_CAVE02 : SU_VR1, SU_CAVE01, SU_PUMP03, SU_CAVE05 : SWARMROOM
+SU_PUMP03 : SU_CAVE02, SU_S05, SU_CAVE03, SU_CAVE04
+SU_S05 : SU_PUMP03 : SHELTER
+SU_CAVE03 : SU_PUMP03, SU_PMPSTATION01, SU_CAVE04
+SU_CAVE04 : SU_CAVE03, SU_PUMP03
+SU_CAVE05 : SU_CAVE02, SU_PMPSTATION01
+SU_PMPSTATION01 : SU_CAVE03, SU_CAVE05, SU_INTRO01
+SU_INTRO01 : SU_PMPSTATION01, GATE_OE_SU
+SU_PS1 : SU_CAVE01, SU_VR1
+SU_VR1 : SU_PS1, SU_CAVE02
+END ROOMS
+CREATURES
+(White)OFFSCREEN : 0-Scavenger-5
+(White)LINEAGE : SU_A20 : 6 : Pink-0.1, NONE-0.5, Blue-0.2, Red-0
+(White)LINEAGE : SU_B07 : 2 : Green-0.2, Caramel-0.5, Pink-0.2, Strawberry-0.5, Red-0
+(White)LINEAGE : SU_C02 : 4 : Green-0.1, NONE-0.5, Yellow-0.2, Red-0
+(White)LINEAGE : SU_A04 : 5 : NONE-0.05, Mimic-{17}-0.4, Mimic-{13}-0.4, TentaclePlant-0
+(Yellow)LINEAGE : SU_A06 : 3 : Green-0.1, NONE-0.5, Pink-0.5, Cyan-0.5, Strawberry-0
+(White)SU_B05 : 4-Green
+(Yellow)SU_B05 : 4-Green
+(White)SU_B01 : 6-Mimic-{24}
+(Yellow)SU_B01 : 6-Mimic-{24}
+(Yellow)OFFSCREEN : 0-Scavenger-4
+(Yellow)SU_A20 : 6-Small Centipede-2
+(Yellow)LINEAGE : SU_B08 : 2 : Green-0.1, NONE-0.5, Yellow-0
+(Yellow)LINEAGE : SU_B12 : 3 : Green-0.1, Caramel-0.5, Blue-0
+(Yellow)LINEAGE : SU_A40 : 2 : Green-0.1, NONE-0.5, Blue-0
+(Yellow)LINEAGE : SU_B07 : 2 : Green-0.2, NONE-0.5, Yellow-0
+(Yellow)LINEAGE : SU_C02 : 4 : Caramel-0.1, Pink-0.5, Yellow-0
+(Yellow)SU_A04 : 4-Green, 2-CicadaB-2, 3-CicadaB
+(Yellow)SU_C02 : 3-SmallNeedleWorm-3, 5-Pink, 4-TentaclePlant-{PreCycle}
+(Red)OFFSCREEN : 0-KingVulture, 0-Vulture-2, 0-Scavenger-6
+(Red)SU_B09 : 4-DropBug-2
+(Red)SU_A17 : 2-White, 2-Eel-{PreCycle}-2
+(Red)SU_A20 : 6-Centipede-5
+(Red)SU_B04 : 3-DropBug-2, 4-DropBug, 5-DropBug, 5-Salamander-{PreCycle}-2
+(Red)SU_B05 : 4-Pink
+(Red)SU_B01 : 6-TentaclePlant
+(Red)SU_A10 : 2-TentaclePlant, 3-Green
+(Red)SU_A30 : 2-DropBug, 2-Eel-{PreCycle}
+(Red)SU_B07 : 3-Green, 3-TentaclePlant-{PreCycle}
+(Red)SU_B02 : 4-CicadaB, 5-CicadaB, 7-Centipede, 8-Centipede-2
+(Red)SU_A32 : 2-DropBug
+(Red)SU_B08 : 3-Red
+(Red)SU_A13 : 4-DropBug, 3-CicadaB
+(Red)SU_C02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 4-TentaclePlant-{PreCycle}
+(Red)LINEAGE : SU_A06 : 4 : Red-1, NONE-0.001, Red-0
+(Red)LINEAGE : SU_A06 : 3 : DropBug-0.1, NONE-0.5, BigSpider-0.5, SpitterSpider-0
+(Red)LINEAGE : SU_B08 : 2 : Green-0.3, Red-0
+(Red)LINEAGE : SU_B12 : 3 : Pink-0.4, Blue-0.15, Red-0
+(Red)LINEAGE : SU_A40 : 2 : Green-0.5, Blue-0.4, Cyan-0
+(Red)LINEAGE : SU_B07 : 2 : Green-0.5, Pink-0.4, Cyan-0
+(Red)LINEAGE : SU_C02 : 4 : Green-0.5, Yellow-0.9, Cyan-0
+(Red)LINEAGE : SU_A04 : 4 : Blue-0.1, White-0.5, Cyan-0
+(Red)LINEAGE : SU_B11 : 6 : Blue-0.1, White-0.5, Strawberry-0
+(Red)LINEAGE : SU_B11 : 7 : Blue-0.1, White-0.5, Cyan-0
+(Red)LINEAGE : SU_B06 : 4 : Blue-0.8, White-0.5, Cyan-0
+(Red)LINEAGE : SU_B06 : 5 : Blue-0.8, White-0.5, Strawberry-0
+(Red)LINEAGE : SU_A04 : 5 : NONE-0.05, TentaclePlant-0
+(White)SU_B12 : 2-Green
+(Red)SU_B12 : 2-Green
+(White)LINEAGE : SU_A02 : 2 : NONE-0.05, Mimic-{16}-0.4, Mimic-{18}-0.4, TentaclePlant-0
+(Red)LINEAGE : SU_A02 : 2 : NONE-0.05, Mimic-{16}-0.4, Mimic-{18}-0.4, TentaclePlant-0
+(White)LINEAGE : SU_A02 : 3 : NONE-0.05, Mimic-{18}-0.4, Mimic-{14}-0.4, TentaclePlant-0
+(Red)LINEAGE : SU_A02 : 3 : NONE-0.05, Mimic-{18}-0.4, Mimic-{14}-0.4, TentaclePlant-0
+(White)LINEAGE : SU_B05 : 4 : NONE-0.05, Mimic-{14}-0.4, TentaclePlant-0
+(Red)LINEAGE : SU_B05 : 4 : NONE-0.05, Mimic-{14}-0.4, TentaclePlant-0
+(X-Saint)SU_B11 : 4-CicadaB, 5-CicadaA, 8-TentaclePlant-{PreCycle}
+(X-Red,Artificer,Spear,Saint,Inv)SU_B02 : 4-CicadaB, 5-CicadaB
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)SU_B06 : 4-Salamander-{PreCycle}, 6-CicadaB, 7-CicadaB
+(X-Rivulet,Saint,Inv)SU_A07 : 4-Green, 5-Pink
+(X-Saint)LINEAGE : SU_A30 : 2 : NONE-0.3, EggBug-0
+(X-Saint)LINEAGE : SU_A31 : 3 : NONE-0.1, Small Centipede-1, Centipede-{0.3}-1, Centipede-{0.5}-1, Centipede-{0.7}-0
+(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Scavenger-5
+(X-Red,Artificer,Spear,Rivulet,Saint,Inv)SU_B07 : 3-TentaclePlant-{PreCycle}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SU_C02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 5-Pink, 4-TentaclePlant-{PreCycle}
+(X-Red,Artificer,Spear,Saint,Rivulet,Inv)SU_A30 : 2-Salamander-{PreCycle}
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)SU_A17 : 2-Salamander-{PreCycle}-2
+(X-White,Yellow,Saint)SU_CAVE01 : 4-Eel-{PreCycle}
+(X-Gourmand,Rivulet,Red,Artificer,Spear,Saint,Inv)SU_B04 : 3-Pink, 4-Green, 5-Salamander-{PreCycle}-2
+(X-Rivulet,Saint,Inv,Red,Artificer,Spear)SU_A10 : 2-Mimic-{21}, 3-Green
+(X-Yellow,Rivulet,Saint,Inv)SU_A04 : 4-Pink-2, 2-CicadaB, 3-CicadaB
+(X-Red,Artificer,Spear,Rivulet,Yellow,Saint,Inv)LINEAGE : SU_A06 : 3 : Green-0.1, NONE-0.5, Pink-0.1, Strawberry-0.5, Red-0
+(X-Yellow,Red,Artificer,Spear,Rivulet,Saint,Inv)LINEAGE : SU_B08 : 2 : Green-0.1, NONE-0.5, Yellow-0.2, Strawberry-0
+(X-Yellow,Red,Artificer,Spear,Rivulet,Saint,Inv)LINEAGE : SU_B12 : 3 : Green-0.1, NONE-0.5, Blue-0.2, Strawberry-0
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)LINEAGE : SU_A40 : 2 : Green-0.1, Pink-0.5, Blue-0.2, Red-0
+(Saint)SU_B11 : 8-Centiwing-4, 8-TentaclePlant-{PreCycle}
+(Artificer)SU_B02 : 4-CicadaB, 5-CicadaB, 7-Centipede, 8-Centipede-2
+(Spear)SU_B02 : 4-CicadaB, 5-CicadaB, 7-Centipede, 8-Centipede-2
+(Saint)SU_B02 : 6-Yellow-4, 7-Yellow-2
+(Inv)SU_B02 : 7-RedCentipede, 8-RedCentipede-2
+(Rivulet)SU_B06 : 4-White-{PreCycle}, 6-CicadaB, 7-CicadaB
+(Red)SU_B06 : 4-White-{PreCycle}, 6-CicadaB, 7-CicadaB
+(Artificer)SU_B06 : 4-White-{PreCycle}, 6-CicadaB, 7-CicadaB
+(Spear)SU_B06 : 4-White-{PreCycle}, 6-CicadaB, 7-CicadaB
+(Inv)SU_B06 : 4-Red-{PreCycle}, 6-CicadaB, 7-CicadaB
+(Rivulet)SU_A07 : 4-Caramel, 5-CicadaB-4, 3-CicadaA
+(Saint)SU_A07 : 4-Caramel
+(Inv)SU_A07 : 4-Red
+(Gourmand)OFFSCREEN : 0-KingVulture, 0-Scavenger-5
+(Rivulet)OFFSCREEN : 0-Vulture-3, 0-Scavenger-10
+(Artificer)OFFSCREEN : 0-Scavenger-15, 0-KingVulture, 0-Vulture-2
+(Spear)OFFSCREEN : 0-Scavenger-9, 0-KingVulture, 0-Vulture-2
+(Saint)OFFSCREEN : 0-MirosVulture-{Night}-2, 0-Vulture-2, 0-Scavenger-14
+(Inv)OFFSCREEN : 0-Scavenger-8, 0-MirosVulture-3
+(Artificer)SU_B07 : 3-Green, 3-TentaclePlant-{PreCycle}
+(Spear)SU_B07 : 3-Green, 3-TentaclePlant-{PreCycle}
+(Saint)SU_B07 : 3-Yellow-3, 3-TentaclePlant-{PreCycle}
+(Inv)SU_B07 : 3-Red, 3-TentaclePlant-{PreCycle}
+(Rivulet)SU_C02 : 3-SmallNeedleWorm-3, 5-Caramel, 4-TentaclePlant-{PreCycle}
+(Artificer)SU_C02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 4-TentaclePlant-{PreCycle}
+(Spear)SU_C02 : 2-BigNeedleWorm, 3-SmallNeedleWorm-3, 4-TentaclePlant-{PreCycle}
+(Saint)SU_C02 : 2-Centiwing-2, 5-Caramel
+(Inv)SU_C02 : 2-Centiwing-2, 5-Red
+(Artificer)SU_A30 : 2-DropBug, 2-Eel-{PreCycle}
+(Spear)SU_A30 : 2-DropBug, 2-Eel-{PreCycle}
+(Rivulet)SU_A30 : 2-Eel-{PreCycle}
+(Inv)SU_A30 : 2-DropBug
+(Rivulet)SU_A17 : 2-Cyan-2, 2-Eel-{PreCycle}-2
+(Artificer)SU_A17 : 2-White, 2-Eel-{PreCycle}-2
+(Spear)SU_A17 : 2-White, 2-Eel-{PreCycle}-2
+(Saint)SU_A17 : 2-Cyan-2
+(Inv)SU_A17 : 2-Red
+(Gourmand)SU_B04 : 3-DropBug-2, 4-Green, 5-Salamander-{PreCycle}-2
+(Rivulet)SU_B04 : 3-Pink, 4-Caramel, 5-Salamander-{PreCycle}-2
+(Artificer)SU_B04 : 3-DropBug-2, 4-DropBug, 5-DropBug, 5-Salamander-{PreCycle}-2
+(Spear)SU_B04 : 3-DropBug-2, 4-DropBug, 5-DropBug, 5-Salamander-{PreCycle}-2
+(Saint)SU_B04 : 4-Yellow-2, 5-Yellow-3, 5-Salamander-{PreCycle}-2
+(Inv)SU_B04 : 3-DropBug-2, 4-DropBug, 5-DropBug, 5-Salamander-{PreCycle}-2
+(Gourmand)LINEAGE : SU_A20 : 6 : Pink-0.1, NONE-0.5, Blue-0.2, Red-0
+(Gourmand)LINEAGE : SU_B07 : 2 : Green-0.2, Caramel-0.5, Pink-0.2, Strawberry-0.5, Red-0
+(Gourmand)LINEAGE : SU_C02 : 4 : Green-0.1, NONE-0.5, Yellow-0.2, Red-0
+(Rivulet)SU_A10 : 2-TentaclePlant, 3-Caramel
+(Saint)SU_A10 : 3-Caramel
+(Inv)SU_A10 : 2-TentaclePlant, 3-Red
+(Artificer)SU_A10 : 2-TentaclePlant, 3-Green
+(Spear)SU_A10 : 2-TentaclePlant, 3-Green
+(Gourmand)SU_B12 : 2-Green
+(Artificer)SU_B12 : 2-Green
+(Spear)SU_B12 : 2-Green
+(Rivulet)SU_A04 : 4-White, 2-CicadaB-2, 3-CicadaB
+(Saint)SU_A04 : 4-Strawberry
+(Gourmand)LINEAGE : SU_A02 : 2 : NONE-0.05, Mimic-{16}-0.4, Mimic-{18}-0.4, TentaclePlant-0
+(Artificer)LINEAGE : SU_A02 : 2 : NONE-0.05, Mimic-{16}-0.4, Mimic-{18}-0.4, TentaclePlant-0
+(Spear)LINEAGE : SU_A02 : 2 : NONE-0.05, Mimic-{16}-0.4, Mimic-{18}-0.4, TentaclePlant-0
+(Gourmand)LINEAGE : SU_A02 : 3 : NONE-0.05, Mimic-{18}-0.4, Mimic-{14}-0.4, TentaclePlant-0
+(Artificer)LINEAGE : SU_A02 : 3 : NONE-0.05, Mimic-{18}-0.4, Mimic-{14}-0.4, TentaclePlant-0
+(Spear)LINEAGE : SU_A02 : 3 : NONE-0.05, Mimic-{18}-0.4, Mimic-{14}-0.4, TentaclePlant-0
+(Artificer)LINEAGE : SU_B05 : 4 : NONE-0.05, Mimic-{14}-0.4, TentaclePlant-0
+(Spear)LINEAGE : SU_B05 : 4 : NONE-0.05, Mimic-{14}-0.4, TentaclePlant-0
+(Artificer)SU_B09 : 4-DropBug-2
+(Spear)SU_B09 : 4-DropBug-2
+(Saint)SU_B09 : 4-Centipede-5
+(Inv)SU_B09 : 4-DropBug-2
+(Artificer)SU_A20 : 6-Centipede-5
+(Spear)SU_A20 : 6-Centipede-5
+(Rivulet)SU_A20 : 6-Small Centipede-2
+(Saint)SU_A20 : 5-Centipede-3, 6-Small Centipede-2
+(Inv)SU_A20 : 6-RedCentipede-5
+(Gourmand)SU_B05 : 4-Green
+(Artificer)SU_B05 : 4-Pink
+(Spear)SU_B05 : 4-Pink
+(Saint)SU_B05 : 4-Caramel
+(Inv)SU_B05 : 4-Red
+(Gourmand)SU_B01 : 6-Mimic-{24}
+(Rivulet)SU_B01 : 6-TentaclePlant
+(Inv)SU_B01 : 6-TentaclePlant
+(Artificer)SU_B01 : 6-TentaclePlant
+(Spear)SU_B01 : 6-TentaclePlant
+(Artificer)SU_A32 : 2-DropBug
+(Spear)SU_A32 : 2-DropBug
+(Inv)SU_A32 : 2-DropBug
+(Saint)SU_A32 : 2-Red
+(Gourmand)SU_B08 : 3-Red
+(Artificer)SU_B08 : 3-Red
+(Spear)SU_B08 : 3-Red
+(Inv)SU_B08 : 3-Red
+(Saint)SU_B08 : 3-Caramel
+(Artificer)SU_A13 : 4-DropBug, 3-CicadaB
+(Spear)SU_A13 : 4-DropBug, 3-CicadaB
+(Inv)SU_A13 : 4-DropBug, 3-CicadaB
+(Artificer)LINEAGE : SU_A06 : 3 : DropBug-0.1, NONE-0.5, BigSpider-0.5, SpitterSpider-0
+(Spear)LINEAGE : SU_A06 : 3 : DropBug-0.1, NONE-0.5, BigSpider-0.5, SpitterSpider-0
+(Rivulet)LINEAGE : SU_A06 : 3 : Caramel-0.1, NONE-0.5, Cyan-0.5, Yellow-0.5, Red-0
+(Artificer)LINEAGE : SU_A06 : 4 : Red-1, NONE-0.001, Red-0
+(Spear)LINEAGE : SU_A06 : 4 : Red-1, NONE-0.001, Red-0
+(Artificer)LINEAGE : SU_B08 : 2 : Green-0.3, Red-0
+(Spear)LINEAGE : SU_B08 : 2 : Green-0.3, Red-0
+(Rivulet)LINEAGE : SU_B08 : 2 : Green-0.1, NONE-0.5, Yellow-0
+(Artificer)LINEAGE : SU_B12 : 3 : Pink-0.4, Blue-0.15, Red-0
+(Spear)LINEAGE : SU_B12 : 3 : Pink-0.4, Blue-0.15, Red-0
+(Rivulet)LINEAGE : SU_B12 : 3 : Green-0.1, Caramel-0.5, Blue-0
+(Artificer)LINEAGE : SU_A40 : 2 : Green-0.5, Blue-0.4, Cyan-0
+(Spear)LINEAGE : SU_A40 : 2 : Green-0.5, Blue-0.4, Cyan-0
+(Rivulet)LINEAGE : SU_A40 : 2 : Green-0.1, NONE-0.5, Blue-0
+(Artificer)LINEAGE : SU_B07 : 2 : Green-0.5, Pink-0.4, Cyan-0
+(Spear)LINEAGE : SU_B07 : 2 : Green-0.5, Pink-0.4, Cyan-0
+(Rivulet)LINEAGE : SU_B07 : 2 : Green-0.2, NONE-0.5, Strawberry-0
+(Artificer)LINEAGE : SU_C02 : 4 : Green-0.5, Yellow-0.9, Cyan-0
+(Spear)LINEAGE : SU_C02 : 4 : Green-0.5, Yellow-0.9, Cyan-0
+(Rivulet)LINEAGE : SU_C02 : 4 : Caramel-0.1, Pink-0.5, Strawberry-0
+(Artificer)LINEAGE : SU_B11 : 6 : Blue-0.1, White-0.5, Strawberry-0
+(Spear)LINEAGE : SU_B11 : 6 : Blue-0.1, White-0.5, Strawberry-0
+(Artificer)LINEAGE : SU_B11 : 7 : Blue-0.1, White-0.5, Cyan-0
+(Spear)LINEAGE : SU_B11 : 7 : Blue-0.1, White-0.5, Cyan-0
+(Artificer)LINEAGE : SU_B06 : 4 : Blue-0.8, White-0.5, Cyan-0
+(Spear)LINEAGE : SU_B06 : 4 : Blue-0.8, White-0.5, Cyan-0
+(Artificer)LINEAGE : SU_B06 : 5 : Blue-0.8, White-0.5, Strawberry-0
+(Spear)LINEAGE : SU_B06 : 5 : Blue-0.8, White-0.5, Strawberry-0
+(Artificer)LINEAGE : SU_A04 : 4 : Blue-0.1, White-0.5, Cyan-0
+(Spear)LINEAGE : SU_A04 : 4 : Blue-0.1, White-0.5, Cyan-0
+(Artificer)LINEAGE : SU_A04 : 5 : NONE-0.05, TentaclePlant-0
+(Spear)LINEAGE : SU_A04 : 5 : NONE-0.05, TentaclePlant-0
+(Gourmand)LINEAGE : SU_A04 : 5 : NONE-0.05, Mimic-{17}-0.4, Mimic-{13}-0.4, TentaclePlant-0
+(Rivulet)SU_A06 : 3-Caramel
+(Saint)SU_A06 : 3-Caramel
+(Inv)SU_A06 : 3-Red
+(Rivulet)SU_A02 : 3-Caramel
+(Saint)SU_A02 : 3-Strawberry
+(Inv)SU_A02 : 3-Strawberry
+(Rivulet)SU_A31 : 3-Centipede-2
+(Saint)SU_A31 : 3-Small Centipede-3
+(Inv)SU_A31 : 3-RedCentipede
+(Rivulet)SU_A40 : 2-Cyan-3
+(Inv)SU_A40 : 2-Cyan-3
+(Saint)SU_A40 : 2-Strawberry
+(Inv)LINEAGE : SU_A06 : 4 : Red-0
+(Inv)LINEAGE : SU_A06 : 3 : SpitterSpider-0
+(Inv)LINEAGE : SU_B08 : 2 : Red-0
+(Inv)LINEAGE : SU_B12 : 3 : Red-0
+(Inv)LINEAGE : SU_A40 : 2 : Cyan-0
+(Inv)LINEAGE : SU_B07 : 2 : Cyan-0
+(Inv)LINEAGE : SU_C02 : 4 : Cyan-0
+(Inv)LINEAGE : SU_A04 : 4 : Cyan-0
+(Inv)LINEAGE : SU_B11 : 6 : Cyan-0
+(Inv)LINEAGE : SU_B11 : 7 : Cyan-0
+(Inv)LINEAGE : SU_B06 : 4 : Cyan-0
+(Inv)LINEAGE : SU_B06 : 5 : Cyan-0
+(Inv)LINEAGE : SU_A04 : 5 : TentaclePlant-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+SU_A22
+SU_C04
+END BAT MIGRATION BLOCKAGES

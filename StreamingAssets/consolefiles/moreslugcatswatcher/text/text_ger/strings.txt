@@ -1,0 +1,712 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|Halte UNTEN und die Spezialtaste gleichzeitig gedrückt, um einen Weg zum gewählten Ziel zu erstellen
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|AUFWÄRTS und SPEZIAL ohne eine Karmablume zu halten, ist gefährlich.
+creaturetype-MothGrub|Mottenlarve
+Unfortunate Evolution|Beklagenswerte Evolution
+creaturetype-Barnacle|Seepocke
+creaturetype-SandGrub|Sandmade
+creaturetype-SkyWhale|Himmelswal
+creaturetype-RotLoach|Moderkoloss
+creaturetype-RippleSpider|Wellenspinne
+Press VIEW to cancel warp|Drücke auf die ANSICHT-Taste, um den Sprung abzubrechen
+creaturetype-IndigoLizard|Indigoblaue Echse
+creaturetype-GrappleSnake|Greifschlange
+creaturetype-PeachLizard|Pfirsichfarbene Echse
+The Crown upon the thorn|Die Krone auf dem Dorn
+creaturetype-BigSandGrub|Sandwurm
+objecttype-Pomegranate|Granatapfel
+creaturetype-DrillCrab|Bohrkrebs
+creaturetype-SmallMoth|Kleine Motte
+creaturetype-Millipede|Tausendfüßler
+objecttype-GraffitiBomb|Graffiti-Bombe
+The Lantern in the dusk|Die Laterne in der Dämmerung
+creaturetype-FireSprite|Feuerkobold
+creaturetype-Tardigrade|Wasserbär
+Press PAUSE BUTTON to cancel warp|Drücke auf PAUSE, um den Sprung abzubrechen
+The paths overflow beyond measure|Die Pfade erstrecken sich ins Unermessliche.
+Oh such enthusiasm! I am honored!|Oh, diese Begeisterung! Ich fühle mich geehrt!
+Press + Button to cancel warp|Drücke auf den Plus-Knopf, um den Sprung abzubrechen
+Press - Button to cancel warp|Drücke auf den Minus-Knopf, um den Sprung abzubrechen
+watcher-character-description|Ein Außenseiter, allein und unnahbar. Ein Beobachter, der sich nicht einmischt.<LINE>Diese Distanz eröffnet neue Perspektiven und neue Verbindungen. Eine Reise wie keine andere.
+creaturetype-ScavengerTemplar|Aasfresser-Templer
+Press OPTIONS BUTTON to cancel warp|Drücke auf die OPTIONS-Taste, um den Sprung abzubrechen
+A presence already binds this place|Dieser Ort ist bereits von einer Präsenz erfüllt.
+This fringe is already too unstable|Dieser Rand ist schon zu instabil.
+Nothing to waste, every bit counts!|Man soll nichts verschwenden, jedes Bisschen zählt!
+SPECIAL button - Hold to warp to selected region|Spezialtaste – Halten, um in die ausgewählte Region zu springen
+Free them. They will show you the way.|Befreie sie. Sie werden dir den Weg zeigen.
+The Child forsaken to time|Das der Zeit überlassene Kind
+objecttype-FireSpriteLarva|Feuerkoboldlarve
+THE WATCHER|DER HÜTER
+The Watcher|Der Hüter
+Coral Caves|Korallengrotten
+The Surface|Die Oberfläche
+Hydroponics|Hydrokultur
+Watcher|Hüter
+Outer Rim|Randzone
+Deep Reef|Tiefes Riff
+Rusted Wrecks|Rostige Wracks
+Torrid Desert|Sengende Wüste
+Thermal Relay|Thermorelais
+Station Annex|Stationsanlage
+Signal Spires|Signaltürme
+Ancient Urban|Altes Stadtviertel
+Stormy Coast|Stürmische Küste
+Cold Storage|Frostlager
+Tundra Fault|Tundra-Verwerfung
+Aether Ridge|Ätherkamm
+Pillar Grove|Säulenhain
+Turbulent Pump|Turbulente Pumpe
+Desolate Tract|Trostlose Ebene
+Aerial Tramway|Seilbahn
+Fallen Tramway|Gefallene Seilbahn
+Sunbaked Alley|Sonnengasse
+Migration Path|Migrationspfad
+Blast Deck|Druckdeck
+Ridgeworks|Großer Grat
+Salination|Salzebene
+Heat Ducts|Wärmekanal
+Fetid Glen|Stinkende Schlucht
+The Throne|Der Thron
+Marvelous!|Wunderbar!
+Shattered Terrace|Zertrümmerte Terrasse
+Verdant Waterways|Grüne Wasserwege
+Crumbling Fringes|Bröckelnde Ränder
+creaturetype-Frog|Frosch
+LeaveSpinningTop1|HOA! Schau! Es ist zu dumm, um überhaupt achtzugeben! HOAHOAHOAHOA!
+LeaveSpinningTop2|HOA!! Wie unverschämt!! Ich wollte ihm ein Geschenk machen.
+DieAtSpinningTop1|HOAHOAHOA!! JA!! Geh zurück in den Boden!! Was für ein Idiot!! HOAHOAHOAHOAHOA!
+DieAtSpinningTop2|HOA! Schau!! Sie haben dich schon gekriegt! HOAHOAHOAHOAHOA!
+DieAtSpinningTop3|HOAHOAHOAHOAHOA!! Und hier anscheinend auch?? Zu dumm zum Leben, zu einfältig zum Sterben.<LINE>Wie langweilig! Bäh! Ich gehe jetzt.
+So vital! Hah ha!|So lebendig! Hah ha!
+Badlands|Ödland
+Decaying Tunnels|Zerfallene Tunnel
+creaturetype-Rat|Ratte
+Ah! So spirited!|Ah! So temperamentvoll!
+Infested Wastes|Verseuchte Wüste
+Shrouded Stacks|Vernebelte Stapel
+Corrupted Factories|Marode Fabriken
+Torrential Railways|Reißende Eisenbahn
+creaturetype-Angler|Seeteufel
+Daemon|Dämon
+Fractured Gateways|Zerbrochene Tore
+creaturetype-Loach|Schmerle
+Oh, show me again!|Oh, zeig es mir noch mal!
+creaturetype-BigMoth|Große Motte
+creaturetype-BoxWorm|Kistenwurm
+creaturetype-Rattler|Knochenrüttler
+objecttype-Boomerang|Bumerang
+creaturetype-ScavengerDisciple|Aasfresser-Jünger
+Oh, you have brought sundries?|Oh, du hast etwas mitgebracht?
+Never again will you be alone.|Du wirst nie mehr allein sein.
+Oh, my friend, you have grown!|Oh, mein Freund, du bist gewachsen!
+creaturetype-BlizzardLizard|Schneesturmechse
+creaturetype-BasiliskLizard|Basiliskenechse
+Hold the SPECIAL button to camouflage from predators|Halte die SPEZIALTASTE, um dich vor Raubtieren zu tarnen.
+Hold UP and SPECIAL together to form new random paths|Halte AUFWÄRTS und SPEZIAL, um neue zufällige Pfade zu formen.
+Delight! For you will be exalted in this new kingdom!|Welch eine Freude! In diesem neuen Königreich wirst du erhöht!
+This will consume the effect of a karma flower in the process|Dies verbraucht den Effekt einer Karmablume.
+However, this can also form new random paths in a pinch|Allerdings kannst du so im Notfall auch neue zufällige Pfade formen.
+You can leave them here if you wish, as a contribution.|Du kannst es hier lassen, wenn du möchtest, als Spende.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Vorstöße in neue Gebiete fordern ihren Tribut, aber Schlaf kann dir helfen, dich zu erholen.
+Traveling too deep without resting will have consequences|Wenn du zu lange ohne Pause unterwegs bist, hat das Konsequenzen.
+This remains a place of rest|Dies bleibt ein Ort der Ruhe.
+It is a joy to see you play!|Es ist eine Freude, dich spielen zu sehen!
+My processes will dissolve them to their base components and those components will be added to the mass.|Meine Prozesse werden sie in ihre Bestandteile zerlegen und der Masse hinzufügen.
+Ahh yes! The paths! How wonderous!|Ahh, ja! Die Pfade! Wie wunderlich!
+How auspicious it was, our meeting...|Was für ein Glück verheißendes Treffen ...
+Forgive me if I cannot respond in kind. This body is so limited...|Verzeih mir, dass ich nicht mitmachen kann. Dieser Körper ist so einschränkend ...
+How I have wished for this day. My dear friend, welcome.|Wie sehr habe ich mich nach diesem Tag gesehnt. Mein lieber Freund, willkommen.
+Bite|Beißen
+Hiss|Fauchen
+Call|Rufen
+SRS:|SRS:
+NSH:|KBB:
+EOC:|EDW:
+BSM:|GSM:
+NGI:|NI:
+Scar|Narbe
+Luna|Luna
+Hang|Hängen
+Bash|Schmettern
+Flee|Fliehen
+Grab|Greifen
+Spit|Spucken
+Noot|Tuten
+Howl|Heulen
+Snip|Schnippeln
+Jump|Springen
+Moo!|Muh!
+None|Keines
+Lunge|Anspringen
+Saint|Heiliger
+Gills|Kiemen
+Vents|Belüftung
+Click|Klicken
+Sleep|Schlafen
+Birth|Gebären
+Chomp|Mampfen
+Throw|Werfen
+Shock|Schocken
+Point|Zeigen
+Laser|Laser
+Arena|Arena
+Class|Klasse
+Items|Gegenstände
+STOP.|STOPP.
+Launch|Abfeuern
+Tongue|Zunge
+Spears|Speere
+Struts|Streben
+Burrow|Graben
+Attach|Festsaugen
+Squeak|Quieken
+Pounce|Anspringen
+Skewer|Aufspießen
+Detach|Loslösen
+Snatch|Fangen
+Sprint|Sprinten
+Signal|Signalisieren
+Ascend|Aufsteigen
+DON'T.|NICHT.
+LEAVE.|HAU AB.
+Consume|Konsumieren
+Rivulet|Rinnsal
+The Rot|Die Fäulnis
+Rubicon|Rubikon
+Pick Up|Aufnehmen
+Release|Lösen
+Discard|Wegwerfen
+Stealth|Schleichen
+Ensnare|Einfangen
+Harpoon|Harpunieren
+Pick up|Aufnehmen
+Descend|Absteigen
+...WHY?|... WARUM?
+Are my words reaching you?|Erreichen dich meine Worte?
+Go... away! You ate... me!|Geh ... weg! Du hast mich ... gegessen!
+creaturetype-ScavengerKing|Aasfresserhäuptling
+objecttype-SingularityBomb|Singularitätsbombe
+Undiscovered Transcription|Noch nicht transkribiert
+Destroy all armored plates|Zerstöre alle Panzerplatten.
+Please, don't touch those!|Bitte berühre sie nicht!
+Ah, you must be in a rush.|Ah, du hast es sicher eilig.
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|Stopp. Wenn du vorhast, meine Systeme noch mehr zu beschädigen, dann habe ich keinen Grund, unser Gespräch fortzuführen.
+Very well, you are on your own, creature. Please leave.|Na schön, du bist auf dich allein gestellt, Kreatur. Bitte geh jetzt.
+We've read this, little creature. As previously stated:|Die haben wir bereits gelesen, kleines Wesen. Wie ich schon sagte:
+Hold Eat while grabbing an unconscious creature to maul|Halte Essen, während du eine bewusstlose Kreatur packst, um sie zu essen.
+Hold throw while flying to charge your ascension burst.|Halte während des Fliegens Werfen, um deinen Aufstiegsstoß aufzuladen.
+Hold the pick-up button to pull needles from your body.|Halte die Aufnehmentaste, um Nadeln aus deinem Körper zu ziehen.
+You're not leaving? I suppose I should continue then...|Du gehst doch nicht? Dann mache ich da weiter, wo ich aufgehört habe ...
+However, you really shouldn't stay. It's too dangerous.|Aber du solltest wirklich nicht länger bleiben. Es ist zu gefährlich.
+Don't. My systems have already been damaged enough as it is. Go away.|Lass das. Meine Systeme sind schon beschädigt genug. Geh weg.
+Best of luck to you, and your family. There is nothing else I can do.|Alles Gute dir und deiner Familie. Ich kann sonst nichts mehr tun.
+Go... away... bad... thing...|Geh ... weg ... böses ... Ding ...
+Five Pebbles (Primary Cortex)|Fünf Kiesel (Hauptkortex)
+Abstract Convergence Manifold|Abstrakte Konvergenzverzweigung
+Take your offspring with you.|Nimm deinen Nachwuchs mit.
+Too... broken...|Zu ... kaputt ...
+The Rot (Depths)|Die Fäulnis (Tiefen)
+Silent Construct|Stilles Konstrukt
+Windswept Spires|Windgepeitschte Türme
+Hold to view map|Halten, um Karte anzuzeigen
+Parry ## attacks|Pariere ## Angriffe.
+Met Five Pebbles|Fünf Kiesel kennengelernt
+...help... me...|... hilf ... mir ...
+LET GO! p please|LASS MICH LOS! B-bitte.
+Shall we finish?|Sollen wir das beenden?
+No! You... killed... me!|Nein! Du ... hast ... mich ... getötet!
+The Rot (Cystic Conduit)|Die Fäulnis (Zystischer Kanal)
+creaturetype-StowawayBug|Blinder Passagier
+creaturetype-JungleLeech|Dschungelegel
+Submerged Superstructure|Unterwasserüberbau
+Please do not do that...|Bitte tu das nicht ...
+...Not forgotten pain...|... Der Schmerz ist unvergessen ...
+No! <CapPlayerName> ate... me!|Nein! <CapPlayerName> hat mich ... gegessen!
+##<LINE>without anything dying|##,<LINE>ohne dass etwas stirbt.
+Welcome back little messenger.|Willkommen zurück, kleiner Bote.
+...Little green friend. Hello.|... Kleiner Besucher. Hallo.
+Spanish translation by Garrakx|Spanish translation by Garrakx
+No! Am... broken... because you...|Nein! Bin ... kaputt ... wegen dir ...
+Five Pebbles (Linear Systems Rail)|Fünf Kiesel (Linearsystemschiene)
+Looks to the Moon (Memory Conflux)|Blickt zum Mond (Speicherkonflux)
+Have you brought your family here?|Hast du ein Kind dabei?
+Hello again. Shall I keep reading?|Hallo noch mal. Soll ich weiterlesen?
+No!|Nein!
+WO:|WO:
+PI:|FI:
+GS:|SS:
+SI:|HI:
+HR:|HR:
+CW:|JDW:
+EP:|SI:
+FP:|FK:
+HF:|HW:
+UU:|WI:
+Sit|Sitzen
+Bow|Bücken
+Eat|Essen
+Fly|Fliegen
+Run|Rennen
+Leave... me alone. Terrible... creature...|Lass mich ... in Ruhe. Böse ... Kreatur ...
+I have read this. As I have stated before:|Die habe ich bereits gelesen. Wie ich schon sagte:
+Explosive jump while holding down to parry|Führe einen Explosivsprung aus, während du Unten hältst, um abzuwehren.
+Looks to the Moon's Transcription (Future)|Transkript von Blickt zum Mond (Zukunft)
+You'd better hurry along, little creature!|Du solltest dich lieber beeilen, tapferer Bote.
+I have nothing to say to you, <PlayerName>.|Ich habe dir nichts zu sagen, <PlayerName>.
+Press jump in the air to extend your tongue|Drücke Springen, während du in der Luft bist, um deine Zunge auszustrecken.
+Use directional inputs to aim the ascension|Steuere den Aufstieg mit den Richtungseingaben.
+Did you not register what I've said to you?|Hast du nicht gehört, was ich gesagt habe?
+Please, leave quickly, while you still can.|Bitte verschwinde von hier, solange du noch kannst.
+Go away, <PlayerName>.|Geh weg, <PlayerName>.
+creaturetype-EelLizard|Aalechse
+creaturetype-AquaCenti|Aquaped
+creaturetype-Inspector|Inspektor
+Atop the Tallest Tower|An der Spitze des höchsten Turms
+Primordial Underground|Urzeitlicher Untergrund
+Survive for ## seconds|Überlebe ## Sekunden lang.
+Safari region unlocked|Freigeschaltete Safariregion
+Hold grab to activate.|Halte zum Aktivieren Aufnehmen.
+The Pilgrim-linebreaks|Der Pilger
+Wait, that's not food!|Moment mal, das ist keine Nahrung!
+not... edible, please.|nicht ... essbar, bitte.
+...don't... trust you.|... vertraue ... dir nicht.
+Keep your family safe!|Bring deine Familie in Sicherheit!
+...Go find... shelter.|... Geh und finde ... ein Zuhause.
+Assets and content by:|Assets and content by:
+Leave me alone...|Lass mich in Ruhe ...
+creaturetype-Yeek|Mondhüpfer
+Forgotten Conduit|Vergessener Kanal
+Frosted Cathedral|Vereiste Kathedrale
+Glacial Wasteland|Eiswüste
+Ancient Labyrinth|Altes Labyrinth
+Put a ## in a den|Tue in eine Höhle: ##.
+...Nice to see...|... Schön, dich zu sehen ...
+...Cold coming...|... Der Frost kommt ...
+Stop! Stop giving me your junk!|Stopp! Ich will deinen Müll nicht!
+saint_old_ascension_tutorial_ps|Steuere den Aufstieg mit den Richtungstasten.
+Facility Roots (Western Intake)|Anlagenwurzeln (westlicher Zugang)
+Clear the game as ## to unlock.|Beende zum Freischalten das Spiel als ##.
+...why did you... save... me...|... warum hast du ... mich ... gerettet ...
+Where do you find all of these?|Wo findest du die alle?
+Let us see what you have found.|Mal sehen, was du gefunden hast.
+...Why... take all I... have...|... Warum ... nimmst du alles ... was ich habe ...
+...Thank you... for... company.|... Danke ... dass du mir ... Gesellschaft leistest.
+...Find heat... Cold is danger.|... Suche Wärme ... Kälte ist gefährlich.
+Korean translation by topicular|Korean translation by topicular
+Leave me alone! You terrible creature!|Lass mich in Ruhe! Du böse Kreatur!
+Pups can now be found in Sandbox Mode.|Welpen können jetzt im Sandbox-Modus gefunden werden.
+Cold... You better go. I will be fine.|Kälte ... Du solltest besser gehen. Ich komme schon klar.
+The storm is coming. You should leave.|Der Wolkenbruch beginnt bald. Du solltest von hier verschwinden.
+We have read this one, little creature.|Die haben wir bereits gelesen, kleines Wesen.
+Clear the game as <X> or <Y> to unlock.|Beende zum Freischalten das Spiel als <X> oder <Y>.
+Is that something new? Allow me to see.|Ist das etwas Neues? Lass mich mal sehen.
+Special button interactions:|Besondere Tasteninteraktionen:
+Auxiliary Transmission Array|Nebentransmissionsmatrix
+Auxillery Transmission Array|Nebentransmissionsfeld
+Hold to select and use doors|Halten, um Türen auszuwählen und zu benutzen
+...It is... warmer... today.|... Heute ist es ... wärmer.
+Tap Pick up and Jump together to explosive jump|Tippe gleichzeitig auf Aufnehmen und Springen für einen Explosivsprung.
+Hold Throw while flying to perform an ascension|Halte während des Fliegens Werfen, um einen Aufstieg zu vollziehen.
+Rubicon content is now available in Arena Mode.|Rubikon-Inhalte sind jetzt im Arenamodus verfügbar.
+I am surprised you have found so many of these.|Ich staune, dass du so viele davon gefunden hast.
+Ah, don't worry about me. You should get going!|Ah, kümmer dich nicht um mich. Du solltest dich auf den Weg machen!
+Oh. It's you, why have you come back...? Again.|Oh. Du bist es. Warum bist du zurückgekommen? Schon wieder.
+Hold Pick Up with an empty hand to generate a spear|Halte mit freier Hand Aufnehmen, um einen Speer zu erzeugen.
+This is not a request. I have important work to do.|Dies ist keine Bitte. Ich habe Wichtiges zu erledigen.
+Press throw with empty hands to extend your tongue|Drücke mit leeren Händen Werfen, um deine Zunge auszustrecken.
+Hold Pick Up to move a spear to and from your back|Halte Aufnehmen, um einen Speer von deinem Rücken zu nehmen oder zurückzutun.
+Undelete the challenge you just deleted to unlock.|Hebe zum Freischalten die Löschung der gerade gelöschten Herausforderung auf.
+Hello again. I hope you have a reason to visit me.|Hallo noch mal. Ich hoffe, du hast einen Grund für deinen Besuch.
+Tap Pick up and Jump together to take flight|Tippe gleichzeitig auf Aufnehmen und Springen, um zu fliegen.
+You better go, <PlayerName>! I will be fine.|Du musst dir einen Unterschlupf suchen, <PlayerName>! Mach dir um mich keine Sorgen.
+...So little... left. Why hurt... me more...|... So wenig ... übrig. Warum tust du ... mir noch mehr weh ...
+saint_old_ascension_tutorial_switch|Steuere den Aufstieg mit dem Steuerkreuz.
+Looks to the Moon (Neural Terminus)|Blickt zum Mond (Neuraler Endpunkt)
+Have you come back to see me again?|Bist du zurückgekommen, um mich zu sehen?
+Get... get away... round.... thing.|Verschwinde ... rundes ... Ding.
+Wait, please don't leave with that!|Warte, du kannst dich damit nicht aus dem Staub machen!
+...Friend... please find... safety.|... Freund ... bitte bring dich ... in Sicherheit.
+saint_old_ascension_tutorial_xbox|Steuere den Aufstieg mit dem Steuerkreuz.
+Looks to the Moon's Transcription|Transkript von Blickt zum Mond
+Ah. Have you found something new?|Ah. Hast du etwas Neues gefunden?
+Oh... Good luck, little creature.|Viel Glück, mein unglücklicher kleiner Freund.
+Hold Pick Up while holding up to combine two differing items|Halte Aufnehmen, während du Oben hältst, um zwei Gegenstände zu kombinieren.
+Try using your weight in creative ways to gain an advantage.|Setze dein Gewicht auf kreative Weise ein, um dir einen Vorteil zu verschaffen.
+Oh? What have you found this time? Let's see what it says...|Oh? Was hast du diesmal gefunden? Lesen wir, was draufsteht ...
+Hold Pick Up to regurgitate a random item|Halte Aufnehmen um einen zufälligen Gegenstand auszuwürgen.
+Clear a total of ## challenges to unlock.|Schließe zum Freischalten insgesamt ## Herausforderungen ab.
+There's not a lot of time. You should go!|Es bleibt nicht viel Zeit. Du musst deines Weges gehen!
+Take your offspring with you when you go.|Nimm deinen Nachwuchs mit, wenn du gehst.
+Have you brought something new this time?|Hast du dieses Mal etwas Neues mitgebracht?
+[ Collection Empty ]|[Sammlung leer]
+Unique pearls read :|Einzigartige Perlen gelesen:
+creaturetype-FireBug|Feuerkäfer
+creaturetype-SlugNPC|Schneckenbaby
+objecttype-JokeRifle|Scherzgewehr
+objecttype-GooieDuck|Filafrucht
+objecttype-LillyPuck|Lilienwurz
+objecttype-MoonCloak|Mantel
+Ascend all creatures|Lasse alle Wesen aufsteigen.
+Escort a ## to a den|Eskortiere zu einer Höhle: ##.
+Food quest completed|Nahrungsaufgabe abgeschlossen
+The Nomad-linebreaks|Der Nomade
+Oh, leaving already?|Gehst du schon?
+Where are you going?|Wo willst du hin?
+Looks to the Moon (Abstract Convergence Manifold)|Blickt zum Mond (Abstrakte Konvergenzverzweigung)
+Change the slugcat class/abilities for Player <X>|Schneckenkatzenklasse/Fähigkeiten für Spieler <X> wählen
+Refer to the Pause Menu for Safari Mode controls.|Im Pausemenü findest du die Steuerung für den Safarimodus.
+Looks to the Moon (Vents)|Blickt zum Mond (Lüftung)
+creaturetype-MirosVulture|Mirosgeier
+creaturetype-MotherSpider|Spinnenmutter
+objecttype-DandelionPeach|Löwenzahnpfirsich
+Unknown Pearl Contents...|Unbekannter Perleninhalt ...
+## without anything dying|##, ohne dass etwas stirbt.
+Arena character unlocked:|Freigeschalteter Arena-Charakter:
+What are you doing? Stop!|Was soll das? Lass das!
+...storm... coming... Go!|... Sturm ... kommt ... Geh!
+...Please find... Warmth.|... Bitte finde ... Wärme.
+...Why did... you stay...|... Warum bist du ... geblieben ...
+Submerged Superstructure (The Heart)|Unterwasserüberbau (Das Herz)
+Ah, welcome back. As I was saying...|Willkommen zurück. Wie ich schon sagte ...
+##<LINE>without letting a @@ die|##,<LINE>ohne dass @@ stirbt.
+Submerged Superstructure (Vents)|Unterwasserüberbau (Lüftung)
+Oh... Good bye, little creature.|Oh ... Auf Wiedersehen, kleines Wesen.
+While in the air, tap jump and pick-up together to take flight.|Drücke gleichzeitig SPRINGEN und AUFNEHMEN, während du in der Luft bist, um zu fliegen.
+Developer Commentary mode is now available in the Options menu.|Der Entwicklerkommentarmodus ist jetzt im Optionsmenü verfügbar.
+Stop, that's dangerous! You are going to break something again!|Hör auf, das ist gefährlich! Du wirst wieder etwas kaputtmachen!
+Hold throw and directional inputs while flying to perform an ascension.|Halte während des Fliegens WERFEN und die Richtungseingaben, um einen Aufstieg zu vollziehen.
+Friends sheltered :|Freunde untergebracht:
+objecttype-GlowWeed|Leuchtkraut
+Waterfront Facility|Anlage am Wasser
+Linear Systems Rail|Linearsystemschiene
+Befriend a creature|Freunde dich mit einem Wesen an.
+Unique pearls read:|Gelesene einzigartige Perlen:
+stop, don... don't!|stopp, tu das ... nicht!
+Let us take a look.|Sehen wir uns das mal an.
+It is getting cold.|Es wird eisig kalt.
+What are you doing?|Was machst du da?
+...All I... have...|... Alles, was ich ... habe ...
+...Bring it back...|... Bring es zurück ...
+creaturetype-SpitLizard|Karamellechse
+creaturetype-ZoopLizard|Erdbeerechse
+Warp to random creature|Zu zufälliger Kreatur springen
+Are you not interested?|Interessiert dich das nicht?
+What a dumb creature...|Was für ein dummes Wesen ...
+creaturetype-TerrorLongLegs|Langbeinermutter
+creaturetype-ScavengerElite|Elite-Aasfresser
+Five Pebble's Transcription|Transkript von Fünf Kiesel
+## without letting a @@ die|## ohne Tod von: @@.
+...Little... green thing...|... Kleines ... grünes Ding ...
+...You should... find heat.|... Du solltest ... dich wärmen.
+...Too cold... Alone again.|... Eiskalt ... Wieder alleine.
+creaturetype-BigJelly|Riesige Qualle
+objecttype-EnergyCell|Verdünnungszelle
+Met Looks to the Moon|Blickt zum Mond kennengelernt
+The Martyr-linebreaks|Der Märtyrer
+The Mother-linebreaks|Die Mutter
+No! Don't... hurt me!|Nein! Tu mir ... nicht weh!
+... stop... please...|... bitte ... hör auf ...
+Please do not return.|Bitte komm nicht zurück.
+That can't be good...|Das kann nicht gut sein ...
+...No, don't... take!|... Nein, nimm das ... nicht!
+...Give it... back...|... Gib es ... zurück ...
+...Leave me... alone.|... Lass mich ... in Ruhe.
+objecttype-FireEgg|Feuerei
+[ No Data Loaded ]|[ Keine Daten geladen ]
+Kill all creatures|Töte alle Wesen.
+Friends sheltered:|Untergebrachte Freunde:
+Leave me... alone.|Lass mich ... in Ruhe.
+Let me continue...|Lass mich fortfahren ...
+...Give... back...|... Gib es ... zurück ...
+objecttype-Seed|Popcorn
+THE SPEARMASTER|DER SPEERKÄMPFER
+The Spearmaster|Der Speerkämpfer
+Solitary Towers|Einsame Türme
+Neural Terminus|Neuraler Endpunkt
+Desolate Fields|Trostlose Felder
+Suburban Drifts|Vorstadtströmungen
+Barren Conduits|Karge Kanäle
+Emotional State|Gefühlszustand
+Ascend every ##|Lasse alle ## aufsteigen.
+Pop every plant|Lasse alle Pflanzen platzen.
+Parry ## attack|Pariere ## Angriff.
+Oh... Good bye.|Oh ... Auf Wiedersehen.
+GET OUT!|RAUS HIER!
+Gourmand|Feinschmecker
+Pipeyard|Rohrlager
+The Husk|Die Hülle
+Ascended|Aufgestiegen
+Parries:|Paraden:
+GET OUT.|VERZIEH DICH.
+Suns...?|Sonnen ...?
+...No...|... Nein ...
+Five Pebbles:|Fünf Kiesel:
+THE ARTIFICER|DER HANDWERKER
+The Artificer|Der Handwerker
+Outer Expanse|Wildnis
+The Precipice|Der Abgrund
+Journey's End|Ende der Reise
+Change target|Ziel ändern
+Win Condition|Siegbedingung
+Kill every ##|Töte alle ##.
+Befriend a ##|Freunde dich mit einem Wesen an: #.
+Gain ## point|Verdiene ## Punkt.
+What is this?|Was ist das?
+Please leave.|Bitte geh jetzt.
+...Go away...|... Geh weg ...
+THE RIVULET|DAS RINNSAL
+The Rivulet|Das Rinnsal
+Spearmaster|Speerkämpfer
+Undergrowth|Unterholz
+Sunken Pier|Versunkener Ankerplatz
+Frozen Mast|Gefrorener Mast
+Sump Tunnel|Tunnelgrube
+Hang on Mom|An Mutter festhalten
+Telekinesis|Telekinese
+<X> and <Y>|<X> und <Y>
+The Pilgrim|Der Pilger
+...storm...|... Sturm ...
+...Hello...|... Hallo ...
+THE GOURMAND|DER FEINSCHMECKER
+The Gourmand|Der Feinschmecker
+Random start|Zufälliger Start
+Icy Monument|Eisiges Monument
+Bitter Aerie|Trauriger Horst
+Frigid Coast|Kalte Küste
+Disable Rain|Regen deaktivieren
+Pick up Food|Essen aufnehmen
+Hello there.|Hallo, du da.
+Well then...|Na dann ...
+...Why back?|... Warum bist du zurück?
+THE SAINT|DER HEILIGE
+The Saint|Der Heilige
+Artificer|Handwerker
+The Floor|Der Boden
+The Shell|Die Schale
+The Heart|Das Herz
+Water Jet|Wasserstrahl
+Spray Ink|Tinte sprühen
+Creatures|Wesen
+The Nomad|Der Nomade
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|Schließe zum Freischalten das Spiel als Feinschmecker, Handwerker oder Jäger ab.
+Hold the EAT button while a stunned creature is being held.|Halte die ESSEN-Taste, während du ein betäubtes Wesen hältst.
+The Rarefaction Cell item is now available in Sandbox Mode.|Die Verdünnungszelle ist jetzt im Sandbox-Modus verfügbar.
+Little messenger, we do not have much time. You must hurry!|Kleiner Bote, wir haben nicht viel Zeit. Du musst dich beeilen!
+Clear the game as Rivulet and Spearmaster to unlock.|Schließe zum Freischalten das Spiel als Rinnsal und Speerkämpfer ab.
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|Kann unter Wasser atmen und bewegt sich leichtfüßig durch die Welt.<LINE>Diese Anpassungen sind notwendig, weil du einer Welt mit zunehmenden<LINE>Überschwemmungen ausgesetzt bist, in der die Zeit drängt.
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|Ein wilder Kämpfer und Meister der Pyrotechnik und des Sprengstoffs.<LINE>Er tut alles, um in der Nahrungskette aufzusteigen. Dein Abenteuer<LINE>wird von ständigem Blutvergießen und Kämpfen geprägt sein.
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|Gebrechlich und mit einer langen Zunge bewaffnet. Dein Abenteuer wird die<LINE>vollkommene Erleuchtung bringen, aber diesen Weg zu gehen erfordert Geduld,<LINE>Umsicht und völlige Übereinkunft mit der Welt.
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...|Eine Abnormität, die sich mithilfe von Nadeln aus dem eigenen Körper ernährt. Ein Reisender<LINE>aus der Ferne. Ein Gefühl in deinem Innern bringt dich dazu, erneut aufzubrechen, Bote ...
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|Genießt die einfachen Freuden des Lebens. Die Welt im Bauch zu tragen,<LINE>bringt viele taktische Vorteile, aber du musst härter arbeiten, um dich zu ernähren.
+COLLECTION|SAMMLUNG
+Metropolis|Metropole
+The Gutter|Die Rinne
+Cannonball|Kanonenkugel
+Swap Heads|Köpfe austauschen
+Camouflage|Tarnen
+Time Limit|Zeitlimit
+## Seconds|## Sekunden
+Acceptance|Akzeptanz
+The Martyr|Der Märtyrer
+The Mother|Die Mutter
+Looks to the Moon's Transcription (Pre-Collapse)|Transkript von Blickt zum Mond (vor dem Kollaps)
+The Rifle item is now available in Sandbox Mode.|Das Gewehr ist jetzt im Sandbox-Modus verfügbar.
+How cute, you brought your family, <PlayerName>?|Wie niedlich, du hast dein Kind mitgebracht, <PlayerName>?
+12th Council Pillar, the House of Braids|Säule des 12. Rates, Haus der Flechten
+Pups can now be found in some campaigns.|Welpen können jetzt in einigen Kampagnen gefunden werden.
+Ah, you have found me something to read?|Ah, du hast mir etwas zu lesen gefunden?
+Oh... Please be careful on your journey.|Bitte sei vorsichtig auf deiner Reise.
+Please, a moment of your time to finish?|Ich bitte um einen Moment deiner Zeit, um zum Ende zu kommen.
+Primary Cortex|Hauptkortex
+Cystic Conduit|Zystischer Kanal
+Desolate Canal|Trostloser Kanal
+Play as target|Als Ziel spielen
+Revoke Control|Steuerung widerrufen
+Challenge #<X>|Herausforderung Nr. <X>
+Gain ## points|Verdiene ## Punkte.
+it... hurts...|das ... tut weh ...
+Let me finish.|Lass mich fortfahren.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Reise erneut in Regionen, die du in den Kampagnen erforscht hast,<LINE>dieses Mal als außenstehender Beobachter, der die Entfaltung des Ökosystems<LINE>ungestört von den Eskapaden des Spielers erlebt.
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Versuche, in einer Reihe von vorgefertigten Arenaszenarien<LINE>die Gewinnanforderungen zu erfüllen. Schalte weitere Herausforderungen frei,<LINE>indem du die Kampagnen abschließt.
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|Drücke kurz gleichzeitig Springen und Aufnehmen, während du in der Luft bist, um die karmische Erleuchtung zu aktivieren.
+While in the air, press jump and pick-up together, to propel yourself explosively.|Drücke gleichzeitig Springen und Aufnehmen, während du in der Luft bist, um dich explosiv vorwärts zu bewegen.
+Tap the throw button to extend your tongue. Press jump while attached to let go.|Drücke kurz die Wurftaste, um deine Zunge auszustrecken. Drücke Springen, während du befestigt bist, um loszulassen.
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|Drücke kurz Springen, während du in der Luft bist, um deine Zunge auszustrecken. Drücke erneut Springen, während du befestigt bist, um loszulassen.
+While you are attached to something, use up and down to extend or retract your tongue.|Verwende Hoch und Runter, während du an etwas befestigt bist, um deine Zunge auszustrecken oder einzuholen.
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|Dir ist kalt und du bist hungrig. Finde einen Unterschlupf, um dich vor dem Sturm zu schützen, sonst wirst du von der Kälte ohnmächtig.
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|In dieser extremen Kälte kannst du deine Körpertemperatur nur mit warmen Objekten aufrechterhalten, aber sie wärmen nicht ewig!
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|Wenn du schon ständig hier aufkreuzt, könntest du mir wenigstens etwas Neues zu lesen mitbringen.
+Stab creatures with your white needles to leech energy from their bodies.|Stich Kreaturen mit deinen weißen Nadeln, um Energie aus ihren Körpern zu saugen.
+I wonder, just how much time has passed since some of these were written.|Ich frage mich, vor wie langer Zeit sie geschrieben wurden.
+Another? Let us see... to be honest, I'm as curious to see it as you are.|Noch eine? Mal sehen ... Ganz ehrlich, ich bin genauso neugierig darauf wie du.
+Hold up and grab with differing objects in each hand, in order to procure something new.|Halte Hoch und Greifen, während du in jeder Hand einen anderen Gegenstand hältst, um sie zu etwas Neuem zu kombinieren.
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|Es freut mich, dich wiederzusehen, aber die Zeit läuft. Mach schnell!
+Holding up and grab with two differing food items, will eat them together as a meal.|Halte Hoch und Greifen, während du in jeder Hand ein anderes Nahrungsmittel hältst, um sie zu zusammen als Mahlzeit zu essen.
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|Wenn du nichts in dir trägst, kannst du zufällige Gegenstände ausspucken. Dies kostet allerdings Nahrung.
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|Was soll das? Bitte!! Ich habe gerade erst meine Freiheit zurückerhalten. Warum bist du so grausam zu mir?
+Hold pick-up with compatible ammunition in hand to load the rifle.|Halte Aufnehmen, während du passende Munition in der Hand hältst, um das Gewehr zu laden.
+Ah, you remind me of an old creature who used to visit here often.|Ah, du erinnerst mich an ein altes Wesen, das mich früher oft besucht hat.
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|Halte Aufnehmen, um Steine oder Speere in Sprengstoff umzuwandeln. Dies kostet Nahrung.
+Those are the only memories I have left. I will cease functioning without them.|Dies sind die einzigen Erinnerungen, die mir geblieben sind. Ohne sie kann ich nicht funktionieren.
+The passage of time has since taken them away, of course. That was a while ago.|Aber es ist mittlerweile von uns geschieden. Das ist schon eine Weile her.
+Combat and other fast movements will quickly exhaust you.|Kämpfe und andere schnelle Bewegungen führen schnell zu Ermüdung.
+Artificer can maul creatures while they are still alive.|Der Handwerker kann Kreaturen bei lebendigem Leibe fressen.
+Please, don't scare me like that. I don't appreciate it.|Bitte erschrecke mich nicht so. Ich mag das nicht.
+Now, I hope you have reason to visit me. I am very busy.|Ich hoffe, du hast einen guten Grund für deinen Besuch. Ich habe viel zu tun.
+Another ordeal to add to my running tally of bad luck...|Eine weitere Tortur, die sich zu meiner Pechsträhne gesellt ...
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|Ab diesem Punkt auf der Zeitleiste bleibt das Tor zur Wildnis offen.
+Pups can now be found in Sandbox Mode, and some campaigns.|Welpen können jetzt im Sandbox-Modus sowie in einigen Kampagnen gefunden werden.
+Let us see if there is anything important written on this.|Mal sehen, ob da etwas Wichtiges draufsteht.
+Little creature, please leave. I would prefer to be alone.|Du kleiner Rüpel. Verschwinde bitte. Ich wäre lieber allein.
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|Was soll das?! Nur, weil du mir geholfen hast, heißt das nicht, dass du mich so behandeln darfst.
+In your current state. I can only assume that you have found what you were looking for.|So wie du aussiehst, kann ich wohl davon ausgehen, dass du gefunden hast, wonach du suchtest.
+Why would you do that to me?! I don't understand you, <PlayerName>.|Warum tust du mir das an?! Ich verstehe dich nicht, <PlayerName>.
+Please stop! I beg you. I don't... understand your motivation...|Bitte hör auf! Ich flehe dich an. Ich verstehe nicht ... warum du das tust ...
+I can only think that you somehow find me pleasant to listen to.|Anscheinend hörst du mir gern zu.
+Do you have something new, or have you come to just stare at me?|Hast du etwas Neues mitgebracht, oder bist du nur gekommen, um mich anzustarren?
+Your company is welcome little creature, but please do not stay.|Im Moment ist mir deine Anwesenheit recht, aber du kannst nicht bleiben.
+Why?! Why would you?? Please, I have so much more I need to do, still...|Warum?! Warum tust du so was?? Ich bitte dich ... Ich muss noch so viel tun ...
+Thank you for visiting me, but I'm afraid there is nothing here for you.|Danke für deinen Besuch, aber ich fürchte, hier gibt es nichts für dich.
+Despite some power to my facility being restored, those are still crucial to my survival!|Die Stromversorgung meiner Anlage ist zwar teilweise wiederhergestellt, aber sie sind trotzdem unentbehrlich für mein Überleben!
+Your intention was to help me, was it not? Then please don't play with those!|Deine Absicht war, mir zu helfen, oder nicht? Dann spiel nicht damit!
+This is no time for games little messenger. Hurry now, before it is too late!|Du hast keine Zeit für Spielchen. Beeile dich, sonst ist es zu spät!
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|Das ist kein Spielzeug, <PlayerName>. Ich kann sie niemandem anvertrauen.
+Stay as long as you'd like. But not too long.|Bleib so lange, wie du willst. Aber nicht zu lange.
+Have you found something else for me to read?|Hast du noch anderen Lesestoff für mich gefunden?
+It is nice to see you again little messenger!|Es freut mich, dich wiederzusehen, kleiner Bote!
+This chamber is not very well insulated from the cold.|Diese Kammer ist nicht gut gegen Kälte isoliert.
+I do enjoy the company though. You and your family are always welcome here.|Aber ich mag Gesellschaft. Du und deine Familie seid hier jederzeit willkommen.
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|Das ist ein geschärftes Stück eines Bewehrungsstabs ... Was willst du wissen?<LINE>Ich will dir ja nicht zu nahe treten, aber du wirkst zu gebrechlich, um das effektiv einsetzen zu können.
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|Leider sind meine Handlungen so eingeschränkt,<LINE>dass ich keine Gewalt gegen meine eigenen Bürger anwenden kann.
+You've returned! I thought you were leaving. Allow me to continue...|Du bist zurück! Ich dachte, du würdest weggehen. Erlaube mir, fortzufahren ...
+Ah, nevermind, let me finish our conversation.|Egal, lass mich unser Gespräch beenden.
+Now, please leave. I would prefer to be alone.|Und jetzt geh bitte. Ich möchte allein sein.
+Please do not take advantage of this. I do not have the patience for your continued presence here.|Bitte nutze das nicht aus. Meine Geduld ist am Ende, deine Anwesenheit hier missfällt mir.
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|Ich gehe zurück an die Arbeit. Wenn du nichts Produktives<LINE>für mich hast, habe ich dir nichts mehr zu sagen.
+Oh, it's you again? I had told you to leave and never return.|Oh, du schon wieder? Ich hatte dir doch gesagt, dass du gehen und nie wieder zurückkommen sollst.
+Leave immediately and don't come back. And take THEM with you!|Verschwinde jetzt sofort und lass dich hier nicht mehr blicken. Und nimm DIE mit!
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|Ah, du bist zurück. Wie du weißt, mag ich die Kreaturen, die durch meine Anlage wandern, nicht besonders.
+For your own sake, I hope it was worth your struggle.|Ich hoffe für dich, dass es die Mühe wert war.
+For what reason do you visit so often? There is nothing more I can do for you.|Warum kommst du so oft her? Ich kann nichts mehr für dich tun.
+I have nothing for you here little messenger. Please, I have little time left.|Ich habe hier nichts für dich, du armes Ding. Ich bitte dich, ich habe nicht viel Zeit.
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|Warum hast du den Boten wieder hierher geschickt? Bitte geh, ich kann mir keine weiteren<LINE>Ablenkungen leisten. Ich bin jetzt der Einzige, der das in Ordnung bringen kann. Ich hoffe, du verstehst mich ...
+How did it even manage to do that?...|Wie hat er das überhaupt geschafft?
+...Nothing here... Nothing... left...|... Hier ist nichts ... Nichts ... übrig ...
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|Ich würde dich bitten, die nicht zu essen. Meine Nabelschnur hält mich bei Bewusstsein,<LINE>aber jedes einzelne verlorene Neuron ist ein Stück von mir, das verloren geht ...
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|Warum bist du zurückgekommen? Willst du sterben? Ich habe<LINE>nichts mehr für dich ... Bitte geh. Es ist in deinem eigenen Interesse.
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|Du solltest nicht hier sein. Diese Anlage befindet sich in ständigem Verfall.<LINE>Hier gibt es nichts, das für normale lebende Wesen angenehm wäre.
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|Früher machte es mich wütend, wenn irgendwelche Kreaturen durch meinen Überbau krochen.<LINE>Aber jetzt bin ich dankbar für dieses seltene Gespräch.
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Um stark und schnell zu bleiben, ist eine stetige Zufuhr von Fleisch erforderlich.<LINE>Doch der Hunger wird nicht dein einziges Problem sein ... Dieser Pfad ist extrem<LINE>gefährlich, denn jeder Zyklus zehrt an einem ominösen Countdown.
+Custom colors|Benutzerdefinierte Farben
+tips-distract|Wenn ein Raubtier dir den Weg versperrt, kannst du verschiedene Taktiken einsetzen.<LINE>Lenke es ab, locke es mit Geräuschen weg, nutze einen Köder,<LINE>den es statt dir fressen kann, usw.
+tips-hoarding|Wenn deine Nahrung voll ist, kannst du in deinem Unterschlupf<LINE>zusätzliche Vorräte verstauen, um es bei nachfolgenden Zyklen einfacher zu haben.
+tips-prepared|Reise nicht mit leeren Händen. Gegenstände sofort zur Verfügung zu haben, kann<LINE>über Leben und Tod entscheiden ... Du weißt nie, wann du sie brauchen wirst.
+tips-backflip|Ändere schnell deine Bewegungsrichtung und drücke gleichzeitig die Sprungtaste,<LINE>um einen Rückwärtssalto zu vollführen, mit dem du ein wenig höher springen kannst<LINE>als mit einem normalen Sprung. Bei der Landung aus einem<LINE>Rückwärtssalto kannst du auch eine Rolle ausführen.
+tips-vertpole|Wirf am höchsten Punkt eines Rückwärtssaltos einen Speer nach unten,<LINE>um eine vertikale Stange im Boden zu verankern. So kannst du neue Orte erreichen.
+tips-wanderer|Der Wanderer hat die ganze Welt gesehen und alles, was sie zu bieten hat.<LINE>Für ihn ist jede Reise wie ein kleiner Schritt.
+Body|Körper
+Eyes|Augen
+HIGH|HOCH
+Restore Default|Standard wiederherstellen
+Back to options|Zurück zu den Optionen
+tips-spearstick|Du kannst Speere in Oberflächen stecken, um Kletterstangen zu erzeugen.<LINE>So kannst du neue Wege öffnen und zuvor unerreichbare Orte erreichen.
+tips-batharvest|Du kannst Flederfliegen mit Geschossen aus der Luft schlagen, um sie leichter zu fangen,<LINE>oder mit einem Speer mehrere auf einmal aufspießen.
+tips-reputation|Deine Handlungen entscheiden über dein Ansehen bei den Bewohnern des Ökosystems.<LINE>Sei selbst zu deinen Feinden großzügig – vielleicht wird der Gefallen erwidert.<LINE>Andernfalls könntest du irgendwann von allen gejagt werden.
+tips-throwboost|Wenn du während eines Sprungs einen Gegenstand wirfst, wirst du leicht in Wurfrichtung beschleunigt.<LINE>So kannst du die Reichweite deiner Sprünge erhöhen.
+tips-tunnelturn|Halte die Sprungtaste und deine entgegengesetzte Blickrichtung,<LINE>während du durch einen engen Gang kriechst,<LINE>um dich umzudrehen. Wenn du in Blickrichtung kriechst, bist du schneller.
+tips-powerthrow|Wenn du während des Rutschens einen Speer vorwärts wirfst, hat der Speer<LINE>mehr Tempo und Aufschlagkraft. So kannst du Kreaturen länger<LINE>betäuben und bestimmte Verteidigungen durchbrechen.
+tips-superslide|Wirf während des Rutschens einen Gegenstand nach hinten,<LINE>um wesentlich weiter zu rutschen.
+tips-wallpounce|Springe auf eine Wand zu und drücke in dem Moment, in dem du sie erreichst,<LINE>die Sprungtaste, während du in Richtung der Wand gedrückt hältst,<LINE>um bei Wandsprüngen wesentlich stärker abzuprallen.
+HUE|FARBTON
+SAT|SÄTTIGUNG
+LIT|HELLIGKEIT
+LOW|NIEDRIG
+CHOOSE|AUSWÄHLEN
+MEDIUM|MITTEL
+Oh no.|Oh nein.
+Analog Sensitivity|Analoge Empfindlichkeit
+tips-deathrecovery|Die Nahrungskette ist komplex. Wenn du von einer Kreatur gepackt wirst,<LINE>könntest du Glück haben – vielleicht lässt sie dich wieder los, wenn sie<LINE>in einen Kampf gerät oder selbst gefressen wird.
+tips-utilitycreats|Nicht alle Wesen sind Raubtiere, vor denen du dich in Acht nehmen musst.<LINE>Es gibt auch viele Wesen, die dir bei deinem Abenteuer behilflich sein können.
+FPS Limit|FPS-Limit
+Unlimited|Unbegrenzt
+tips-drop|Drücke gleichzeitig Unten und die Aufnehmentaste,<LINE>um den Gegenstand in deiner Hand auf den Boden zu legen, ohne ihn zu werfen.
+tips-roll|Wenn du aus großer Höhe fällst, dann halte diagonal nach unten, um bei der Landung<LINE>eine Rolle auszuführen. Das mildert den Aufprall<LINE>und verleiht dir zusätzliche Beweglichkeit.
+tips-swim|Schwimme unter Wasser in einer kontrollierten Schlangenbewegung, um schneller zu schwimmen.<LINE>Wackele dafür mit dem Körper rhythmisch nach oben und unten oder nach links und rechts.
+tips-monk|Der Mönch geht den Weg eines Beutetiers. Er sucht in der Wildnis nach Nahrung,<LINE>um zu überleben, aber in einer Welt voller Raubtiere ist er ständig in Gefahr.
+Quality|Qualität
+Backgrounds|Hintergründe
+tips-crouch|Du brauchst nicht Unten zu halten, um geduckt zu bleiben. Drücke einmal kurz Unten,<LINE>um in die Kriechhaltung zu gehen, und drücke dann kurz Oben, um wieder aufzustehen.
+tips-escape|Es ist oft besser, Konfrontationen und Kämpfen aus dem Weg zu gehen, wenn die Möglichkeit besteht.<LINE>Viele Raubtiere sind stark und gefährlich, also sei lieber vorsichtig.
+tips-cheese|Du kannst Rohre einsetzen, um deinen Standort mit einem Raubtier zu tauschen, das dich verfolgt.<LINE>So kannst du es leicht von deiner Fährte abbringen.
+tips-cannon|Drücke beim Austritt aus einem Rohr die Sprungtaste,<LINE>um dich schnell aus dem Rohr zu katapultieren.
+tips-martyr|Der Märtyrer schert sich nicht um sein eigenes Überleben und verkümmert,<LINE>bis sein Körper zu Staub zerfällt.
+tips-hunter|Der Jäger geht den Weg des Raubtiers, aber in dieser grausamen<LINE>und gefühllosen Welt garantiert seine Jagdbeute nicht immer sein Überleben.
+tips-outlaw|Der Gesetzlose lebt für den Kampf. Er tötet jeden, der sich ihm nähert, egal ob Freund oder Feind.
+tips-friend|Der Freund liebt alle anderen und das Unbekannte. Die Welt ist grausam und unerbittlich,<LINE>aber gemeinsam kann man in ihr Trost und Schutz finden.
+Old tongue controls?|Alte Zungensteuerung?
+Enable wallpouncing?|Wandsprünge aktivieren?
+Enable speedrun timer?|Speedrun-Timer aktivieren?
+CONFIGURE TITLE SCREEN|TITELBILDSCHIRM KONFIGURIEREN
+Keep your friend safe!|Bewahre deinen Freund vor Schaden!
+I must resume my work.|Ich muss weiterarbeiten.
+Enable shelter item transport?|Gegenstandstransport zum Unterschlupf aktivieren?
+<CapPlayerName>, are you okay?|<CapPlayerName>, geht es dir gut?
+Enable slug senses?|Schneckensinne aktivieren?
+CONFIGURE SUB MENUS|UNTERMENÜS KONFIGURIEREN
+Show tips between cycles?|Tipps zwischen Zyklen anzeigen?
+Enable Developer Commentary?|Entwicklerkommentare aktivieren?
+Change graphics quality|Grafikqualität ändern
+Take your pet with you.|Nimm dein Haustier mit.
+Change menu background images|Menü-Hintergrundbilder ändern
+Display a speedrun timer at the top of the screen during gameplay?|Während des Spiels einen Speedrun-Timer am oberen Bildschirmrand anzeigen?
+Activate tongue abilities with the throw button instead of the jump button?|Die Zungensteuerung durch die Wurftaste statt durch die Sprungtaste aktivieren?
+Allow passages to transport key items in your shelter to your new destination?|Passagen erlauben, um wichtige Gegenstände in deinem Unterschlupf zu deinem neuen Ziel zu transportieren?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Kreaturen und wichtige Gegenstände in der Nähe als Symbole auf der Gedächtniskarte der Schneckenkatze anzeigen?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Die Fähigkeit der Wandsprünge der Schneckenkatze in den alten Versionen von Rain World aktivieren?
+Spawn developer commentary collectables in the single player campaigns?|Entwicklerkommentare in Einzelspielerkampagnen als Sammelobjekte aktivieren?
+Periodically show survival hints and explain gameplay mechanics for new players?|Zwischendurch Überlebenstipps anzeigen und Spielmechaniken für neue Spieler erklären?
+Configure the background image used on the title screen|Konfiguriere das Hintergrundbild für den Titelbildschirm.
+Configure the background image used in the sub menus|Konfiguriere das Hintergrundbild für die Untermenüs.
+Wiggling around quickly might startle this creature.|Dieses Wesen kann leicht erschrecken, wenn du schnell herumwackelst.
+I am afraid to ask how you brought your friend here.|Ich traue mich kaum zu fragen, wie du deinen Freund hier hereinbekommen hast.
+tips-clock|Drücke die Kartentaste, um weitere Informationen zu sehen, zum Beispiel deine Nahrungsleiste.<LINE>Der gepunktete Kreis links unten zeigt die Zeit bis zum Regen an.<LINE>Lass ihn nicht aus den Augen!
+tips-rocks|Steine sind zwar keine tödliche Waffe, aber sie können vielfältig eingesetzt werden.<LINE>Du kannst mit ihnen ablenken, abwehren, entwaffnen, betäuben,<LINE>Schwachstellen aufdecken, Kreaturen von Stangen und Vorsprüngen stoßen usw.
+tips-audio|Drohende Gefahren werden oftmals zuerst durch Geräusche angezeigt,<LINE>noch bevor sie sichtbar sind. Hör gut zu.
+tips-slide|Drücke diagonal nach unten und gleichzeitig die Sprungtaste, während du dich bewegst,<LINE>um zu rutschen. So kannst du über den Boden rutschen<LINE>und für kurze Zeit schneller vorankommen.
+tips-noise|Andere Wesen können deine Anwesenheit nicht nur sehen, sondern auch hören.<LINE>Versuche, leise zu sein, sonst könntest du unerwünschte Aufmerksamkeit erregen.
+tips-saint|Der Heilige wählt den Weg des Friedens.<LINE>Jemanden anders zu verletzen bedeutet, sich selbst zu verletzen.
+tips-nomad|Der Nomade lebt in einer sich ständig verändernden Welt. Er lebt ein Leben<LINE>endloser Schritte auf einer ewigen Reise zu einem unbekannten Ziel.
+Calm down!|Beruhige dich!
+tips-pipeflash|Rohröffnungen blinken, wenn auf der anderen Seite Gefahr droht.<LINE>Die Farbe des Blinkens ist ein Hinweis auf die Art der Gefahr.
+tips-foodtypes|Flederfliegen und hängendes Obst sind bei Weitem nicht die einzigen Nahrungsquellen.<LINE>Einige Pflanzen und Kreaturen sind essbar, aber nur unter bestimmten Bedingungen.<LINE>Probiere verschiedene Dinge aus.
+tips-handorder|Der Gegenstand in deiner rechten Hand ist dein Hauptgegenstand und wird<LINE>zuerst verwendet oder geworfen. Drücke die Aufnehmentaste, um die<LINE>Gegenstände in deinen Händen auszutauschen.
+tips-slideleap|Drücke während des Rutschens oder während einer Rolle die Sprungtaste,<LINE>um die Bewegung zu einem weiten Sprung zu verketten. So erhöhst du deine<LINE>Beweglichkeit und kannst schnell große Entfernungen überwinden.
+tips-turnboost|Ändere schnell deine Bewegungsrichtung, um für kurze Zeit einen kleinen Temposchub in<LINE>die neue Richtung zu erhalten. Hüpfe danach<LINE>mehrmals, um den Temposchub zu verlängern.
+tips-chieftain|Der Häuptling hat sich der Stärke und Gemeinschaft im Angesicht des Unbekannten verschrieben.<LINE>Er ist Teil dieser Welt geworden, und mithilfe seiner Verbundenheit wird er überleben.
+tips-swallow|Du kannst kleine, nicht essbare Gegenstände in deinem Magen verstauen, indem du<LINE>einige Sekunden lang die Aufnehmentaste drückst. Halte sie erneut,<LINE>um den Gegenstand wieder herauszuwürgen.
+tips-breathe|Achte auf deine Atmung, bevor du ins Wasser springst und tauchst. Wenn du schwer atmest,<LINE>dann bleibe kurz stehen, um wieder zu Atem zu kommen.
+tips-polehop|Drücke genau vor der Landung auf einer horizontalen Stange die Sprungtaste,<LINE>um von der Stange abzufedern. Diese Bewegung kannst du verketten,<LINE>um schnell von Stange zu Stange zu springen.
+tips-scholar|Der Lehrling versucht, die Welt zu verstehen, wie sie einst war.<LINE>Er blickt in eine kristallisierte Vergangenheit und findet darin neuen Lebenszweck.
+tips-deathpenalty|Bevor du für dein Abenteuer bereit bist, ist es nicht wichtig, ob du stirbst. Nimm dir Zeit,<LINE>ohne Rücksicht auf Verluste zu experimentieren, zu erkunden, die örtlichen Gegebenheiten<LINE>zu erforschen, Nahrungsquellen zu entdecken usw.
+tips-shelterstore|In Unterschlüpfen verstaute Gegenstände bleiben von einem Zyklus zum nächsten erhalten<LINE>und verschwinden auch nicht, wenn du die Region verlässt. Unterschlüpfe sind<LINE>die einzige Möglichkeit, wertvolle Gegenstände vor dem Regen zu bewahren!
+tips-dragonslayer|Der Drachentöter liebt die Jagd. Er hat sich die Monster dieser Welt untertan gemacht.
+What did you do!?|Was hast du getan?!
+Stop it! Go away!|Hör auf! Verschwinde!
+tips-tunnelboost|Drücke kurz die Sprungtaste, während du durch einen engen Gang kriechst,<LINE>um deine Geschwindigkeit leicht zu erhöhen.
+tips-slidecancel|Drücke während des Rutschens schnell die Sprungtaste und gleichzeitig<LINE>deine entgegengesetzte Bewegungsrichtung. So brichst du das Rutschen<LINE>ab und kehrst zum Ausgangspunkt zurück.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|Manche Gegenstände bieten Einsatzmöglichkeiten, die nicht sofort offensichtlich sind. Experimentiere mit allem, was du findest.
+There are many paths to explore in this world.|In dieser Welt gibt es viele Pfade zu erforschen.
+If you are struggling, try returning to a previous region.|Wenn du nicht weiterkommst, dann versuche es in einer Region, die du bereits kennst.
+You may find a new path forward, or discover something that makes your survival here easier.|Vielleicht findest du einen neuen Weg nach vorn oder findest etwas, das dein Überleben erleichtert.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|Aber es gibt nichts, was dich daran hindert, die Herausforderungen dieser Region in deinem jetzigen Zustand zu überwinden.
+Your friend is very large, how did you fit them in here?|Dein Freund ist sehr groß. Wie hast du es geschafft, das er hier hereinpasst?
+How did you bring that in here... I think it is as surprised as I am!|Wie hast du das hier hereinbekommen? Ich glaube, es ist genauso überrascht wie ich!
+Oh, that is not a friend...|Oh, das ist nicht mein Freund ...
+Oh...|Oh ...
+I do enjoy the company of you and your friend though, <PlayerName>.|Aber ich mag die Gesellschaft von dir und deinem Freund, <PlayerName>.
+Is this your friend, <PlayerName>?|Ist das dein Freund, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Alles Gute dir und deinem Gefährten. Ich kann sonst nichts mehr tun.
+Please do not bring more wildlife into my chamber.|Bitte bring nicht noch mehr wilde Tiere in meine Kammer.
+How did you fit them inside here anyhow?|Wie hast du den überhaupt hier hereinbekommen?
+Take your friend with you. Please. I beg you.|Nimm deinen Freund und geh. Bitte. Ich flehe dich an.

@@ -1,0 +1,5 @@
+warb_j01:2:wara_p05
+warb_f03:4:False:False,warb_f11:4:False:False,warb_j07:4:False:False
+warb_b41,warb_h13
+warb_f01:0:0:ware_h21,warb_f18:0:0:WARC_B12,warb_j08:1:1:NULL
+warb_f03:3,warb_f08:1,warb_f11:2,warb_f14:1,warb_f15:2,warb_f16:2,warb_f19:1,warb_f24:1,warb_g23:1,warb_g27:1,warb_h13:6,warb_j01:4,warb_j02:1,warb_j04:3

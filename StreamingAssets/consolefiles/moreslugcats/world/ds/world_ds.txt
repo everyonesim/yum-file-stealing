@@ -1,0 +1,193 @@
+CONDITIONAL LINKS
+END CONDITIONAL LINKS
+ROOMS
+GATE_DS_SB : DS_D02, DISCONNECTED, DS_S03 : GATE
+GATE_SU_DS : DISCONNECTED, DS_B02 : GATE
+GATE_DS_GW : DISCONNECTED, DS_B10, DISCONNECTED : GATE
+DS_S03 : GATE_DS_SB : SHELTER
+DS_B02 : GATE_SU_DS, DS_A22
+DS_A22 : DS_A15, DS_B02, DS_A06
+DS_A06 : DS_A22, DS_A02, DS_A01
+DS_A02 : DISCONNECTED, DS_A06, DS_B03
+DS_A01 : DS_A06 : SWARMROOM
+DS_A20 : DS_S01r, DS_B03
+DS_S01r : DS_A20 : SHELTER
+DS_B03 : DS_A02, DS_A16, DS_A20, DS_A14, DS_A10
+DS_A15 : DS_A23, DS_A22
+DS_A23 : DS_A09, DS_A15
+DS_A09 : DS_A19, DS_A23
+DS_A19 : DS_B04, DS_A09 : SWARMROOM
+DS_B04 : DS_A19, DS_A08
+DS_A08 : DS_B07, DS_B04, DS_S04
+DS_S04 : DS_A08 : SHELTER
+DS_B07 : DS_A08, DS_C04, DS_A24 : SWARMROOM
+DS_A16 : DS_B03, DS_A07
+DS_A07 : DS_A16, DS_A17
+DS_A17 : DS_A24, DS_A07
+DS_A24 : DS_B07, DS_A11, DS_A17
+DS_A11 : DS_A24
+DS_C04 : DS_B07, DS_C01, DS_B08
+DS_A14 : DS_B03, DS_B01
+DS_B01 : DS_A14, DS_A25, DS_D01
+DS_A25 : DS_B01, DS_GUTTER01, DS_B08
+DS_B08 : DS_C04, DS_A25
+DS_C01 : DISCONNECTED, DS_A21, DS_C04, DS_S02l, DS_D01, DS_C03
+DS_S02l : DS_C01 : SHELTER
+DS_A21 : DS_GUTTER05, DS_C01
+DS_C03 : DS_B10, DS_C01
+DS_B10 : GATE_DS_GW, DS_C03
+DS_D01 : DS_B01, DS_C01, DS_A05
+DS_A05 : DS_D03, DS_D01 : SWARMROOM
+DS_D03 : DS_A27, DISCONNECTED, DS_A05
+DS_A27 : DS_C02, DS_D03
+DS_C02 : DS_A26, DS_D02, DS_A27
+DS_D02 : DS_C02, GATE_DS_SB
+DS_A26 : DS_B06, DS_C02
+DS_B06 : DS_A26, DS_A13
+DS_A13 : DS_B06, DS_A10
+DS_A10 : DS_B03, DS_A13
+GATE_DS_CC : DISCONNECTED, DS_GUTTER03 : GATE
+DS_GUTTER01 : DS_GUTTER02, DS_A25
+DS_GUTTER02 : DS_GUTTER03, DS_GUTTER01
+DS_GUTTER03 : GATE_DS_CC, DISCONNECTED, DISCONNECTED, DS_GUTTER04, DS_GUTTER02
+DS_GUTTER04 : DS_GUTTER03, DS_GUTTER05, DS_RIVSTART
+DS_GUTTER05 : DS_GUTTER04, DS_A21
+DS_RIVSTART : DS_GUTTER04
+END ROOMS
+CREATURES
+DS_D02 : 2-TentaclePlant
+DS_A27 : 2-TentaclePlant
+(Yellow)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 7-Snail
+(White)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(Yellow)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(White)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
+(Yellow)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
+(White)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
+(Yellow)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
+(White)LINEAGE : DS_A22 : 3 : Green-0.2, Salamander-0.2, White-0
+(Yellow)LINEAGE : DS_A22 : 3 : Green-0.2, Caramel-0.2, Salamander-0.2, White-0
+(White)LINEAGE : DS_A09 : 2 : Salamander-0.2, Blue-0.5, White-0.5, Red-0
+(Yellow)LINEAGE : DS_A09 : 2 : Eel-0.2, Blue-0.5, White-0.5, Red-0
+(White)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+(Yellow)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+(Red)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 7-Snail
+(Red)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-8
+(Red)DS_A09 : 2-DropBug-2
+(Red)DS_A08 : 3-TentaclePlant, 4-Snail-2, 5-Snail-2
+(Red)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1, RedCentipede-0
+(Red)LINEAGE : DS_A16 : 2 : DropBug-1, Salamander-1, Cyan-0.1, Red-0
+(Red)LINEAGE : DS_A06 : 3 : Salamander-1, Cyan-0.1, Red-0
+(Red)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(Red)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
+(X-Rivulet,Spear,Artificer)OFFSCREEN : 0-Scavenger-3
+(X-Rivulet,Spear,White,Yellow)DS_A05 : 3-Leech-15, 4-Leech-10, 2-Snail-3, 3-TentaclePlant-{PreCycle}
+(X-Rivulet)DS_A21 : 2-Mimic-{14}, 3-Snail-2, 4-Snail-2
+(X-Rivulet,White,Yellow)DS_C01 : 6-Leech-15, 7-Leech-10, 6-Eel-{PreCycle}
+(X-Spear)DS_A07 : 2-Snail, 2-Leech-5
+(X-Rivulet,White,Yellow)DS_A17 : 2-Snail, 2-Eel-{PreCycle}
+(X-Spear,Artificer)DS_A13 : 2-Leech-5, 3-Leech-5, 3-TentaclePlant-{PreCycle}
+(X-Spear,Rivulet)DS_A14 : 2-Leech-5, 3-Leech-5
+(X-Spear,Rivulet)DS_B01 : 3-Leech-5, 4-Leech-5, 5-Snail-3
+(X-Rivulet,Spear,Artificer,Inv)DS_A25 : 3-Leech-5, 4-Leech-7, 5-Snail-2, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}
+(X-Spear)DS_C04 : 3-TentaclePlant
+(X-Rivulet,Yellow,Red,Artificer,Spear,Inv)DS_B07 : 4-Salamander, 5-Snail, 6-Snail, 7-Snail
+(X-Red,Artificer,Spear,Rivulet,Inv)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-5
+(X-Red,Artificer,Spear,Inv)DS_A08 : 3-Snail-2, 5-Snail-2
+(X-Artificer,Spear,Inv)DS_A02 : 3-Eel-{PreCycle}
+(X-Artificer,Spear)DS_A22 : 4-Salamander-{PreCycle}
+(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER01 : 2-Snail-3, 4-Leech-12
+(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER03 : 8-Snail-3, 9-Snail, 9-Eel-{PreCycle}
+(X-Yellow,Rivulet,Inv,Red,Artificer,Spear)DS_GUTTER04 : 4-Snail
+(Rivulet)OFFSCREEN : 0-Scavenger-10
+(Spear)OFFSCREEN : 0-Scavenger-7
+(Artificer)OFFSCREEN : 0-Scavenger-8
+(White)DS_A05 : 3-Leech-15, 4-Leech-10, 2-Snail-3
+(Yellow)DS_A05 : 3-Leech-15, 4-Leech-10, 2-Snail-3
+(Rivulet)DS_A05 : 3-JungleLeech-15, 4-JungleLeech-10, 2-Snail-3, 3-TentaclePlant-{PreCycle}
+(Rivulet)DS_A21 : 3-Snail-2, 4-Snail-2
+(Rivulet)DS_C01 : 6-JungleLeech-15, 7-JungleLeech-10, 6-Salamander-{PreCycle}, 6-Eel-{PreCycle}
+(White)DS_C01 : 6-Leech-15, 7-Leech-10
+(Yellow)DS_C01 : 6-Leech-15, 7-Leech-10
+(Rivulet)DS_A17 : 2-Eel-{PreCycle}
+(White)DS_A17 : 2-Snail
+(Yellow)DS_A17 : 2-Snail
+(Spear)DS_A13 : 2-Leech-5, 3-TentaclePlant-{PreCycle}
+(Artificer)DS_A13 : 2-Leech-5
+(Rivulet)DS_A14 : 2-JungleLeech-5, 3-JungleLeech-5
+(Spear)DS_B01 : 5-TentaclePlant-{PreCycle}
+(Rivulet)DS_B01 : 3-Leech-5, 4-Leech-5, 5-Snail-3, 4-Salamander-{PreCycle}
+(Rivulet)DS_A25 : 3-JungleLeech-5, 4-JungleLeech-7, 5-Snail-2, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}
+(Spear)DS_A25 : 4-Leech-5, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}
+(Artificer)DS_A25 : 4-Leech-5, 3-TentaclePlant-{PreCycle}, 4-TentaclePlant-{PreCycle}
+(Spear)DS_C04 : 3-RedCentipede
+(Rivulet)DS_B07 : 4-Eel, 5-Snail, 6-Snail, 7-Snail
+(Artificer)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 7-Snail
+(Spear)DS_B07 : 3-DropBug-3, 4-Cyan-3, 5-Snail, 6-Snail, 7-Snail
+(Rivulet)DS_A16 : 3-Snail, 4-Snail-2, 5-JungleLeech-15
+(Artificer)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-8
+(Spear)DS_A16 : 3-Snail, 4-Snail-2, 5-Leech-8
+(Artificer)DS_A08 : 3-TentaclePlant, 4-Snail-2, 5-Snail-2
+(Spear)DS_A08 : 3-TentaclePlant, 4-Snail-2, 5-Snail-2
+(Gourmand)LINEAGE : DS_A06 : 3 : Green-0.2, Salamander-0.5, Blue-0.3, Red-0
+(Rivulet)LINEAGE : DS_A06 : 3 : Blue-0.2, Salamander-0.5, Eel-0.3, Red-0
+(Artificer)LINEAGE : DS_A06 : 3 : Salamander-1, Cyan-0.1, Red-0
+(Spear)LINEAGE : DS_A06 : 3 : Salamander-1, Cyan-0.1, Red-0
+(Gourmand)LINEAGE : DS_A02 : 4 : Pink-0.2, Salamander-0.5, Blue-0.3, Red-0
+(Rivulet)LINEAGE : DS_A02 : 4 : Blue-0.2, Salamander-0.5, Eel-0.3, Red-0
+(Artificer)DS_A02 : 3-Centipede-4, 4-Centipede-5, 3-Eel-{PreCycle}
+(Spear)DS_A02 : 3-Centipede-4, 4-Centipede-5, 3-Eel-{PreCycle}
+(Gourmand)LINEAGE : DS_A22 : 3 : Green-0.2, Salamander-0.2, White-0
+(Rivulet)LINEAGE : DS_A22 : 3 : Green-0.2, Caramel-0.2, Salamander-0.2, White-0
+(Artificer)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(Spear)LINEAGE : DS_A22 : 3 : Green-0.5, Salamander-1, White-1, Cyan-0
+(Gourmand)LINEAGE : DS_A09 : 2 : Salamander-0.2, Blue-0.5, White-0.5, Red-0
+(Rivulet)LINEAGE : DS_A09 : 2 : Eel-0.2, Blue-0.5, White-0.5, Red-0
+(Artificer)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
+(Spear)LINEAGE : DS_A09 : 2 : Salamander-0.2, Cyan-0.1, Red-0
+(Gourmand)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+(Rivulet)LINEAGE : DS_A16 : 2 : Salamander-0.2, Blue-0.2, White-0
+(Artificer)LINEAGE : DS_A16 : 2 : DropBug-1, Salamander-1, Cyan-0.1, Red-0
+(Spear)LINEAGE : DS_A16 : 2 : DropBug-1, Salamander-1, Cyan-0.1, Red-0
+(Artificer)DS_A22 : 4-DropBug-2, 4-Salamander-{PreCycle}
+(Spear)DS_A22 : 4-DropBug-2, 4-Salamander-{PreCycle}
+(Artificer)DS_A09 : 2-DropBug-2
+(Spear)DS_A09 : 2-DropBug-2
+(Inv)DS_A09 : 2-DropBug-2
+(Artificer)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1, RedCentipede-0
+(Spear)LINEAGE : DS_A02 : 4 : Centipede-0.6, Centipede-{1.0}-1, RedCentipede-0
+(Gourmand)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(Rivulet)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(Inv)LINEAGE : DS_A08 : 4 : Mimic-{14}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(Yellow)DS_GUTTER01 : 2-Snail, 4-Leech-10
+(Yellow)DS_GUTTER03 : 8-Snail-2, 9-Snail-3, 9-Eel-{PreCycle}
+(Yellow)DS_GUTTER04 : 4-Snail-2
+(Rivulet)DS_A11 : 2-Eel
+(Rivulet)DS_GUTTER01 : 2-Snail, 4-JungleLeech-12
+(Inv)DS_GUTTER01 : 2-Snail, 4-JungleLeech-12
+(Rivulet)DS_GUTTER02 : 2-SpitterSpider
+(Inv)DS_GUTTER02 : 2-SpitterSpider
+(Rivulet)DS_GUTTER03 : 8-Snail, 9-Snail-2, 9-Eel-{PreCycle}
+(Rivulet)DS_GUTTER04 : 4-Snail-2
+(Red)DS_GUTTER01 : 2-Snail-3, 4-Leech-12
+(Artificer)DS_GUTTER01 : 2-Snail-3, 4-Leech-12
+(Spear)DS_GUTTER01 : 2-Snail-3, 4-Leech-12
+(Red)DS_GUTTER03 : 7-DropBug-2, 8-Snail-3, 9-Snail-3, 9-Eel-{PreCycle}
+(Artificer)DS_GUTTER03 : 7-DropBug-2, 8-Snail-3, 9-Snail-3, 9-Eel-{PreCycle}
+(Spear)DS_GUTTER03 : 7-DropBug-2, 8-Snail-3, 9-Snail-3, 9-Eel-{PreCycle}
+(Inv)DS_GUTTER03 : 7-DropBug-2, 8-Snail-3, 9-Snail-3, 9-Eel-{PreCycle}
+(Red)DS_GUTTER04 : 4-Snail-3
+(Artificer)DS_GUTTER04 : 4-Snail-3
+(Spear)DS_GUTTER04 : 4-Snail-3
+(Inv)DS_A02 : 3-RedCentipede-4, 4-RedCentipede-5
+(Inv)DS_B07 : 3-DropBug-3, 4-Red-3, 5-Snail, 6-DropBug, 7-DropBug
+(Inv)DS_A25 : 4-Leech-5
+(Inv)DS_A16 : 3-Snail, 4-DropBug-2, 5-Leech-8
+(Inv)DS_A08 : 3-TentaclePlant, 4-Snail-2, 5-DropBug-2
+(Inv)LINEAGE : DS_A02 : 4 : RedCentipede-0
+(Inv)LINEAGE : DS_A16 : 2 : Red-0
+(Inv)LINEAGE : DS_A06 : 3 : Red-0
+(Inv)LINEAGE : DS_A22 : 3 : Red-0
+(Inv)LINEAGE : DS_A09 : 2 : Red-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

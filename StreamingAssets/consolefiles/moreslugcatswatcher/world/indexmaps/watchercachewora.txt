@@ -1,0 +1,5 @@
+
+wora_alfesque:4:False:True,wora_city10x:3:False:True,wora_city14x:5:False:True,wora_city21:5:False:True,wora_city5:5:False:True,wora_city8:5:False:True,wora_desert1:5:False:True,wora_desert5:5:False:True,wora_desert9:5:False:True,wora_start:2:False:True
+
+wora_egg04:0:1:wora_dial,wora_starcatcher03:1:0:WRSA_C01
+wora_city04x:3,wora_city10x:2,wora_city13:2,wora_city14x:2,wora_city16:1,wora_city17:1,wora_city20:2,wora_city23:3,wora_city2x:4,wora_city3:1,wora_city6:1,wora_city7:3

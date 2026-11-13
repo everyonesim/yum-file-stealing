@@ -1,0 +1,8 @@
+Template: NONE
+Grime: 0.1086956
+BkgDroneVolume: 0
+Palette: 17
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><830.5569><648.6979><0.423913><1, OMNI><AM_SUB-BlankState.ogg><653.1877><647.8099><0.3152174><1, 
+FadePalette: 21, 0.2065217, 0.1413043, 0.05434782
+DangerType: Flood
+PlacedObjects: SSLightRod><428.0669><427.4385><104.3205~-139~0.6195652~0~104.7826~0.3369565, SSLightRod><526.8474><429.1207><17.32051~-10~0.6195652~0~104.7826~0.326087, 

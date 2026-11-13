@@ -1,0 +1,24 @@
+GoalAmount - 6.5
+
+Creature - Centipede - dens:9 - chance:0.7 - amount:4
+
+CreatureGroup - EXTRACENTIS - symbol:A1
+Creature - Centipede - dens:4,5,6,7,8 - chance:0.9 - group:EXTRACENTIS - amount:4-5
+
+CreatureGroup - SCAVS - symbol:A2
+Creature - Scavenger - dens:-1 - chance:0.85 - group:SCAVS - amount:4-5
+
+CreatureGroup - YELLOWS - symbol:A3
+Creature - Yellow - dens:4,5,6,7,8 - chance:0.85 - group:YELLOWS - amount:4-5
+
+Creature - Vulture - dens:-1 - chance:0.15 - RARE
+Creature - KingVulture - dens:-1 - chance:0.05 - RARE
+
+CreatureGroup - DROPBUGS - chance:0.5
+Creature - DropBug - dens:4,5,6,7,8 - chance:0.5 - group:DROPBUGS - amount:2-5
+
+Creature - Green - dens:4,5,6,7,8 - chance:0.01 - amount:2
+Creature - Pink - dens:4,5,6,7,8 - chance:0.01 - amount:3
+Creature - Blue - dens:4,5,6,7,8 - chance:0.01
+Creature - White - dens:4,5,6,7,8 - chance:0.01
+Creature - Cicada - dens:4,5,6,7,8 - chance:0.01 - amount:3

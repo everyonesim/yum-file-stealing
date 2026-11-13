@@ -1,0 +1,4 @@
+
+whir_a18:0:False:True,whir_b07:0:False:True,whir_c04:0:False:True
+
+whir_a06:0:1:NULL,whir_a22:0:1:NULL,whir_b13:0:1:NULL

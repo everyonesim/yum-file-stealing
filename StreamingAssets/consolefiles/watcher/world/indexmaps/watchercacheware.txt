@@ -1,0 +1,5 @@
+ware_i14:7:wskc_a03
+ware_h01:3:False:False,ware_h02:3:False:False
+ware_h06,ware_h11
+ware_g15:1:1:NULL,ware_h16:0:0:wtda_b16,ware_h21:0:0:warb_f01
+ware_h01:4,ware_h02:6,ware_h05:2,ware_h07:2,ware_h10:1,ware_i04:7,ware_i07:1,ware_i10:4

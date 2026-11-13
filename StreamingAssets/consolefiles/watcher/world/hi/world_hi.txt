@@ -1,0 +1,212 @@
+CONDITIONAL LINKS
+Watcher : EXCLUSIVEROOM : HI_B04W
+Watcher : EXCLUSIVEROOM : HI_A17W
+Watcher : EXCLUSIVEROOM : HI_C15W
+Watcher : EXCLUSIVEROOM : HI_W01
+Watcher : EXCLUSIVEROOM : HI_W02
+Watcher : EXCLUSIVEROOM : HI_W03
+Watcher : EXCLUSIVEROOM : HI_W04
+Watcher : EXCLUSIVEROOM : HI_W05
+Watcher : EXCLUSIVEROOM : HI_W06
+Watcher : EXCLUSIVEROOM : HI_W07
+Watcher : EXCLUSIVEROOM : HI_W09
+Watcher : EXCLUSIVEROOM : HI_W11
+Watcher : EXCLUSIVEROOM : HI_W12
+Watcher : EXCLUSIVEROOM : HI_W13
+Watcher : EXCLUSIVEROOM : HI_W14
+Watcher : EXCLUSIVEROOM : HI_W15
+Watcher : EXCLUSIVEROOM : HI_W16
+Watcher : EXCLUSIVEROOM : HI_W17
+Watcher : EXCLUSIVEROOM : HI_W18
+Watcher : EXCLUSIVEROOM : HI_W19
+Watcher : EXCLUSIVEROOM : HI_WS01
+Watcher : HIDEROOM : HI_B04
+Watcher : HIDEROOM : HI_A17
+Watcher : HIDEROOM : HI_A18
+Watcher : HIDEROOM : HI_C05
+Watcher : HIDEROOM : HI_A06
+Watcher : HIDEROOM : HI_A24
+Watcher : HIDEROOM : HI_S04
+Watcher : HIDEROOM : HI_A19
+Watcher : HIDEROOM : GATE_HI_GW
+Watcher : HIDEROOM : HI_C15
+Watcher : HIDEROOM : HI_A28
+Watcher : HIDEROOM : GATE_HI_VS
+Watcher : HI_B04 : GATE_SU_HI : DISCONNECTED
+Watcher : HI_B04 : HI_S03 : DISCONNECTED
+Watcher : HI_B04 : HI_A07 : DISCONNECTED
+Watcher : HI_B04 : HI_B12 : DISCONNECTED
+Watcher : GATE_SU_HI : HI_B04 : HI_B04W
+Watcher : HI_S03 : HI_B04 : HI_B04W
+Watcher : HI_A07 : HI_B04 : HI_B04W
+Watcher : HI_B12 : HI_B04 : HI_B04W
+Watcher : HI_A17 : HI_A23 : DISCONNECTED
+Watcher : HI_A17 : HI_A16 : DISCONNECTED
+Watcher : HI_A17 : HI_A18 : DISCONNECTED
+Watcher : HI_A16 : HI_A17 : HI_A17W
+Watcher : HI_A23 : HI_A17 : HI_A17W
+Watcher : HI_C15 : HI_C14 : DISCONNECTED
+Watcher : HI_C15 : HI_A28 : DISCONNECTED
+Watcher : HI_C14 : HI_C15 : HI_C15W
+END CONDITIONAL LINKS
+ROOMS
+GATE_HI_CC : DISCONNECTED, HI_C11 : GATE
+GATE_HI_GW : DISCONNECTED, HI_A19, DISCONNECTED : GATE
+GATE_SU_HI : DISCONNECTED, HI_B04 : GATE
+GATE_HI_SH : HI_C13, DISCONNECTED, DISCONNECTED : GATE
+HI_C13 : HI_D01, GATE_HI_SH, HI_S06
+HI_S06 : HI_C13 : SHELTER
+HI_B04 : HI_B12, HI_A07, GATE_SU_HI, HI_S03
+HI_S03 : HI_B04 : SHELTER
+HI_B12 : HI_B13, HI_B04
+HI_B13 : HI_A15, HI_B12 : SWARMROOM
+HI_A15 : HI_B13, HI_A20, HI_A14
+HI_A20 : HI_S01, HI_A15
+HI_S01 : HI_A20 : SHELTER
+HI_A14 : HI_A15, HI_C02, HI_A07
+HI_A07 : HI_A14, HI_B04, HI_C02
+HI_C02 : HI_A14, HI_B08, HI_A07, HI_A23, DISCONNECTED
+HI_B02 : HI_C01, HI_A22 : SWARMROOM
+HI_A22 : HI_B02, HI_C14
+HI_C14 : HI_A22, HI_B05
+HI_C01 : HI_B02, HI_B03, HI_B08
+HI_B03 : HI_C01, HI_C04
+HI_B08 : HI_C01, HI_C04, HI_C02
+HI_C04 : HI_B03, HI_B08, HI_B06, HI_A21, HI_A25
+HI_A25 : HI_C04, HI_A16
+HI_A21 : HI_C04, HI_S02
+HI_S02 : HI_A21 : SHELTER
+HI_B06 : HI_A10, HI_C04, HI_A11
+HI_A10 : HI_C11, HI_S05, HI_B06
+HI_S05 : HI_A10 : SHELTER
+HI_C11 : GATE_HI_CC, HI_B09, HI_A10
+HI_B09 : HI_C11, HI_B07 : SWARMROOM
+HI_B07 : HI_B09, HI_B14
+HI_B14 : HI_B07, HI_C03, HI_D01
+HI_D01 : HI_C13, HI_B14
+HI_C03 : HI_B14, HI_A11, HI_B15
+HI_A11 : HI_B06, HI_C03
+HI_B15 : HI_C03, HI_A04
+HI_A04 : HI_A26, HI_B15
+HI_A26 : HI_B05, HI_A04
+HI_B05 : HI_C14, HI_A26, HI_A16
+HI_A16 : HI_A25, HI_B05, HI_A17, HI_A27
+HI_A17 : HI_A18, HI_A23, HI_A16
+HI_A27 : HI_A16
+HI_A23 : HI_C02, HI_A17
+HI_A18 : HI_C05, HI_A17
+HI_C05 : HI_A06, HI_A18
+HI_A06 : HI_A24, HI_C05 : SWARMROOM
+HI_A24 : HI_A06, HI_A19, HI_S04
+HI_S04 : HI_A24 : SHELTER
+HI_A19 : HI_A24, GATE_HI_GW
+HI_B04W : HI_B12, HI_W02, HI_A07, GATE_SU_HI, HI_S03
+HI_A17W : DISCONNECTED, HI_A23, HI_A16
+HI_C15W : HI_C14, DISCONNECTED, DISCONNECTED
+HI_W01 : HI_W04, HI_W02
+HI_W02 : HI_W01, HI_B04W
+HI_W03 : HI_W12, DISCONNECTED, HI_W17, HI_W04
+HI_W04 : HI_W03, HI_W05, HI_W01
+HI_W05 : DISCONNECTED, DISCONNECTED, DISCONNECTED, DISCONNECTED, HI_W06, HI_W04
+HI_W06 : HI_W05
+HI_W07 : HI_W11, HI_W17
+HI_W09 : HI_W12, HI_W15, HI_W16, DISCONNECTED, HI_W13, HI_W11
+HI_W11 : HI_W07, HI_W09, HI_W19
+HI_W12 : HI_W09, HI_W03, DISCONNECTED, HI_W18
+HI_W13 : HI_W09, HI_W14, DISCONNECTED
+HI_W14 : HI_W13
+HI_W15 : HI_W09, HI_WS01, HI_W16
+HI_W16 : HI_W15, HI_W09
+HI_W17 : HI_W18, HI_W03, DISCONNECTED, HI_W07
+HI_W18 : HI_W12, HI_W17, DISCONNECTED
+HI_W19 : HI_W11
+HI_WS01 : HI_W15 : SHELTER
+END ROOMS
+CREATURES
+HI_B12 : 2-Blue
+HI_A18 : 2-Green
+HI_A06 : 2-Green
+HI_A19 : 4-Garbage Worm-2
+LINEAGE : HI_B06 : 4 : NONE-0.05, Mimic-{16}-1, Mimic-{14}-1, NONE-0
+LINEAGE : HI_C01 : 5 : Pink-0.2, Blue-0.5, White-0.3, Red-0
+LINEAGE : HI_B03 : 3 : NONE-0.05, Blue-0.2, Red-0
+LINEAGE : HI_B13 : 2 : Pink-0.2, NONE-0.5, Blue-0.2, Cyan-0.3, Red-0
+LINEAGE : HI_C02 : 5 : Pink-0.2, Blue-0.5, Cyan-0.3, Red-0
+(White)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6
+(White)HI_B09 : 3-Green, 2-White
+(White)HI_B15 : 2-Small Centipede-3, 3-Centipede-{0.5}
+(White)HI_B07 : 3-Pink, 2-Pink
+(White)HI_C05 : 3-Pink, 4-Pink
+(White)HI_A04 : 2-Mimic-{18}
+(Yellow)HI_A04 : 2-Mimic-{18}
+(White)HI_C11 : 3-Blue
+(Yellow)HI_C11 : 3-Blue
+(White)HI_C03 : 3-White
+(Yellow)HI_C03 : 3-White
+(White)HI_B05 : 3-White
+(Yellow)HI_B05 : 3-White
+(White)HI_A16 : 4-Green
+(Yellow)HI_A16 : 4-Green
+(White)HI_C04 : 5-Blue, 6-Snail, 7-Snail-2
+(Yellow)HI_C04 : 5-Blue, 6-Snail, 7-Snail-2
+(White)LINEAGE : HI_C01 : 4 : Blue-0.1, Cyan-0.2, Red-0
+(Yellow)LINEAGE : HI_C01 : 4 : Blue-0.1, Cyan-0.2, Red-0
+(White)LINEAGE : HI_C02 : 6 : Green-0.2, Blue-0.5, Red-0
+(Yellow)LINEAGE : HI_C02 : 6 : Green-0.2, Blue-0.5, Red-0
+(White)LINEAGE : HI_B06 : 3 : Green-0.2, Blue-0.5, White-0.2, Red-0
+(Yellow)LINEAGE : HI_B06 : 3 : Green-0.2, Blue-0.5, White-0.2, Red-0
+(Yellow)OFFSCREEN : 0-Vulture, 0-Scavenger-5
+(Yellow)HI_B09 : 3-Green, 2-Eggbug
+(Yellow)HI_B15 : 2-Small Centipede-3, 3-Centipede-{0.3}
+(Yellow)HI_B07 : 3-Pink, 2-EggBug
+(Yellow)HI_C05 : 3-EggBug, 4-Pink
+(Red)OFFSCREEN : 0-Vulture-2, 0-KingVulture, 0-Scavenger-7
+(Red)LINEAGE : OFFSCREEN : 0 : Vulture-0.65, KingVulture-0
+(Red)LINEAGE : OFFSCREEN : 0 : Vulture-0.7, KingVulture-0
+(Red)HI_B09 : 3-Dropwig, 2-White
+(Red)HI_B05 : 3-Dropwig
+(Red)HI_C11 : 3-Cyan
+(Red)HI_A16 : 4-Blue
+(Red)HI_A17 : 3-Green
+(Red)HI_B12 : 3-EggBug
+(Red)HI_B07 : 3-Pink-2, 2-EggBug
+(Red)HI_A25 : 2-Dropbug
+(Red)HI_B15 : 2-Small Centipede-2, 3-Centipede-{0.55}, 2-Centipede-{0.72}, 3-Centipede-{0.68}
+(Red)HI_C04 : 5-Cyan
+(Red)HI_B06 : 3-Cyan, 4-Red
+(Red)LINEAGE : HI_B03 : 3 : Blue-1, White-1, Cyan-0
+(Red)LINEAGE : HI_C11 : 4 : Blue-0.4, Dropwig-1, Cyan-0
+(Red)LINEAGE : HI_C01 : 3 : NONE-0.07, Blue-0.4, NONE-0.1, Cyan-0
+(Red)LINEAGE : HI_C02 : 6 : Dropwig-0.2, BigSpider-0.5, SpitterSpider-0
+(Red)LINEAGE : HI_C01 : 4 : Cyan-0.3, Red-0
+(Red)LINEAGE : HI_A04 : 2 : Mimic-{18}-0.7, TentaclePlant-0
+(Red)LINEAGE : HI_C03 : 3 : White-0.2, Cyan-0
+(Red)LINEAGE : HI_C04 : 5 : Blue-0.5, NONE-0.2, White-0.5, NONE-0.5, Cyan-0
+(Watcher)OFFSCREEN : 0-Vulture-2, 0-KingVulture-2, 0-Scavenger-7
+HI_W03 : 4-DropWig
+HI_W04 : 5-DropWig
+HI_W07 : 4-Garbage Worm-4, 4-CicadaB, 4-CicadaA, 5-Green, 6-Green
+HI_W11 : 5-White
+HI_W12 : 3-Garbage Worm-3, 4-BigNeedle, 4-SmallNeedle-2, 9-Green, 12-Eel-{PreCycle}
+HI_W17 : 6-CicadaB-3, 5-CicadaA-2
+HI_W19 : 1-Pink
+LINEAGE : HI_W12 : 11 : Mimic-{16}-0.1, TentaclePlant-0
+LINEAGE : HI_W15 : 4 : Pink-0.9, White-0.2, Blue-0.5, Pink-0.2, Red-0
+(Watcher)LINEAGE : HI_B06 : 3 : Green-0.2, Blue-0.5, White-0.2, Red-0
+(Watcher)LINEAGE : HI_C01 : 4 : Blue-0.1, Cyan-0.2, Red-0
+(Watcher)LINEAGE : HI_C02 : 6 : Green-0.2, Blue-0
+(Watcher)HI_B09 : 3-Green, 2-White
+(Watcher)HI_B15 : 2-Small Centipede-3, 3-Centipede-{0.5}
+(Watcher)HI_C04 : 5-Blue, 6-Snail, 7-Snail-2, 7-TentaclePlant-{PreCycle}, 5-Cyan-{PreCycle}
+(Watcher)HI_B07 : 3-Pink, 2-Pink, 3-TentaclePlant-{PreCycle}
+(Watcher)HI_A04 : 2-Mimic-{18}
+(Watcher)HI_C11 : 3-Blue
+(Watcher)HI_C03 : 3-Cyan, 3-Eel-{PreCycle}
+(Watcher)HI_D01 : 2-Cyan-{PreCycle}-2
+(Watcher)HI_A17W : 3-Cyan-{PreCycle}
+(Watcher)HI_B05 : 3-Cyan
+(Watcher)HI_A16 : 4-Green
+(Watcher)HI_B06 : 4-Red
+END CREATURES
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

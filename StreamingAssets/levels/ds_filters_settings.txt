@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+RandomItemDensity: 0.5217391
+RandomItemSpearChance: 0.4391304
+Palette: 4
+EffectColorA: 0
+EffectColorB: 6
+PlacedObjects: MultiplayerItem><1088.058><509.9432><Spear~17.32051~-10~0.2934783, MultiplayerItem><1068.448><354.0242><Spear~17.32051~-10~0.2934783, MultiplayerItem><944.1821><309.8119><Spear~73.3205~-165~0.2934783, MultiplayerItem><435.0649><296.0757><Spear~17.32051~-10~0.2934783, MultiplayerItem><293.1227><351.8457><Spear~17.32051~-10~0.2934783, MultiplayerItem><372.0523><659.0303><Spear~17.32051~-10~0.2934783, MultiplayerItem><959.0748><353.3767><SporePlant~58.3205~-117~0.3369565, MultiplayerItem><411.8781><337.2036><SporePlant~3.320496~-192.0787~0.4891304, MultiplayerItem><920.0401><335.7606><SporePlant~17.32051~-10~0.1737332, MultiplayerItem><430.6999><329.019><SporePlant~17.32051~-10~0.1737332, MultiplayerItem><273.4269><701.0933><SporePlant~17.32051~-10~0.3152174, MultiplayerItem><264.3683><655.1534><ExplosiveSpear~17.32051~-10~0.04347826, MultiplayerItem><420.4583><661.9152><Bomb~17.32051~-10~0.04347826, 
+AmbientSounds: OMNI><SO_WAT-ProperDrips.ogg><826.0757><628.4351><0.4347826><1, OMNI><SO_WAT-LightFlow.ogg><641.1166><639.149><0.3152174><1, OMNI><AM_ENV-LightWind.ogg><468.8224><635.3135><0.4130435><0.823913, 

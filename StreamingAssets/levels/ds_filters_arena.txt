@@ -1,0 +1,14 @@
+DenGroup - AIR - 4,5,6
+DenGroup - WATER - 7,8,9,10
+
+Creature - Snail - dens:WATER - chance:0.6 - amount:0-3
+Creature - Bro - dens:WATER - chance:0.05 - RARE
+
+Creature - Salamander - dens:WATER - chance:0.7 - amount:4
+Creature - White - dens:AIR - chance:0.2 - amount:2
+Creature - Pink - dens:AIR - chance:0.4 - amount:3
+Creature - Green - dens:AIR - chance:0.2
+Creature - Blue - dens:AIR - chance:0.1 - amount:3
+
+CreatureGroup - LEECHES - chance:0.5
+Creature - Leech - dens:WATER - chance:0.8 - amount:2

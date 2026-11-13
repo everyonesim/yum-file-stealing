@@ -1,0 +1,1 @@
+SingularityBomb~White|Artificer|Watcher,ElectricSpear~White|Yellow|Artificer|Watcher,ScavengerElite~White|Artificer|Watcher&LC~White|Yellow|Red|Rivulet|Artificer|Saint|Spear|Gourmand|Watcher&LC_second~Artificer,LC~Artificer&Artificer~White|Yellow|Red|Rivulet|Artificer|Saint|Spear|Gourmand|Watcher&&LC~White|Yellow|Red|Rivulet|Artificer|Saint|Spear|Gourmand|Watcher

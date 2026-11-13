@@ -1,0 +1,10 @@
+Template: CC_SettingsTemplate_Inside
+Clouds: 0.3586957
+Grime: 0.3586957
+BkgDroneVolume: 0.2869565
+Palette: 6
+Effects: Fog-0.2282609-20-20, 
+PlacedObjects: DangleFruit><529.5568><2875.551><0~0~2~3, DangleFruit><496.5387><2737.196><0~0~2~3, DangleFruit><456.0904><2831.38><0~0~2~3, 
+FadePalette: 8, 0.3586957, 0.3804348, 0.5, 0.5978261
+AmbientSounds: SPOT><AM_WIN-StrongWnd2.ogg><750.5905><407.9283><0.3478261><1.273913><479.5905><10.92834><46.64465><306.6447><0><1, 
+DangerType: FloodAndRain

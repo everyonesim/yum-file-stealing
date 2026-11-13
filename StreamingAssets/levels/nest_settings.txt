@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.25
+Grime: 0.3586957
+Palette: 19
+PlacedObjects: MultiplayerItem><760.5087><674.343><Spear~-91.59583~-83.99213~0.6847839, MultiplayerItem><471.7766><366.357><Spear~17.32051~-10~0.3484988, MultiplayerItem><1159.646><110.983><Spear~17.32051~-10~0.4463249, MultiplayerItem><329.0194><113.2562><Spear~17.32051~-10~0.4463249, MultiplayerItem><660.33><271.6323><Spear~17.32051~-10~0.4463249, MultiplayerItem><483.4453><113.9058><ExplosiveSpear~17.32051~-10~0.1195652, MultiplayerItem><460.3809><210.6188><SporePlant~17.32051~-10~0.1195652, LanternOnStick><279.922><534.9173><12~-85, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><847.561><641.4405><0.4130435><0.9217392, OMNI><AM_SUB-MysticCave1.ogg><658.0482><646.0559><0.3369565><1, 
+FadePalette: 8, 0.4130435

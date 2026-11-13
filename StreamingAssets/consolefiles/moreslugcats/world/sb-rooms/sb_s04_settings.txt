@@ -1,0 +1,8 @@
+Template: SB_SettingsTemplate_Filter
+DangerType: Flood
+Palette: 20
+PlacedObjects: LightFixture><396.3><268.2442><RedLight~17.32051~-10~79, LightFixture><574.5382><211.3037><RedLight~17.32051~-10~71, BrokenShelterWaterLevel><354.8933><248.1395><, 
+AmbientSounds: OMNI><AM_SUB-BlankState.ogg><831.3393><631.821><0.3478261><1, 
+FadePalette: 8, 0.3804348
+Clouds: 1
+Grime: 0

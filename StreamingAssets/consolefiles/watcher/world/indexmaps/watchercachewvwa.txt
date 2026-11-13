@@ -1,0 +1,5 @@
+wvwa_f03:5:warc_c12
+wvwa_d01:3.5:False:False,wvwa_f02:3.5:False:False
+wvwa_f01
+wvwa_a09:1:1:NULL,wvwa_e01:0:0:wrfb_b12,wvwa_h01:0:0:wpta_c07
+wvwa_a01:2,wvwa_a04:2,wvwa_a06:2,wvwa_a08:2,wvwa_a11:2,wvwa_b02:3,wvwa_b04:1,wvwa_b05:1,wvwa_b07:2,wvwa_b10:3,wvwa_c01:3,wvwa_f01:1,wvwa_h01:5,wvwa_h02:3

@@ -1,0 +1,5 @@
+
+wmpa_a07:2.5:False:False,wmpa_d03:2.5:False:False
+wmpa_b01
+wmpa_a09:0:0:warf_d30,wmpa_c06:1:1:NULL,wmpa_c07:0:0:ward_e12,wmpa_d09:0:0:wbla_b08
+wmpa_a03:4,wmpa_a04:1,wmpa_b01:3,wmpa_b02:3,wmpa_b04:2,wmpa_b07:1,wmpa_c02:1,wmpa_c03:2,wmpa_d02:1,wmpa_d03:4,wmpa_d04:3,wmpa_d05:2,wmpa_d08:2

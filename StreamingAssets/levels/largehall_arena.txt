@@ -1,0 +1,45 @@
+GoalAmount - 8
+
+DenGroup - LIZDENS - 4,5,6,7,8
+
+Creature - Centipede - invSymbol:A1 - dens:LIZDENS - chance:0.9 - amount:3-7
+
+CreatureGroup - SCAVS - invSymbol:A2
+Creature - Scavenger - chance:100.0 - group:SCAVS
+Creature - Scavenger - chance:1.0 - group:SCAVS - amount:3-6
+
+Creature - Vulture - chance:0.3 - invSymbol:A3 - RARE
+Creature - Vulture - chance:0.3 - RARE
+Creature - KingVulture - chance:0.2 - RARE
+
+Creature - Pink - dens:LIZDENS - chance:0.5 - symbol:B1
+Creature - White - dens:LIZDENS - chance:0.5 - symbol:B2
+Creature - Green - dens:LIZDENS - chance:0.5 - symbol:B3
+Creature - Blue - dens:LIZDENS - chance:0.5 - symbol:B4
+
+Creature - Pink - dens:LIZDENS - chance:0.5 - symbol:C1
+Creature - White - dens:LIZDENS - chance:0.5 - symbol:C2
+Creature - Green - dens:LIZDENS - chance:0.5 - symbol:C3
+Creature - Blue - dens:LIZDENS - chance:0.5 - symbol:C4
+
+Creature - Pink - dens:LIZDENS - chance:0.1 - symbol:D1
+Creature - White - dens:LIZDENS - chance:0.1 - symbol:D2
+Creature - Green - dens:LIZDENS - chance:0.1 - symbol:D3
+Creature - Blue - dens:LIZDENS - chance:0.1 - symbol:D4
+
+CreatureGroup - SPIDERS - chance:0.1
+Creature - Big Spider - dens:LIZDENS - chance:0.8 - group:SPIDERS - amount:3-6
+Creature - Spitter Spider - dens:LIZDENS - chance:0.8 - group:SPIDERS - amount:3
+
+CreatureGroup - WORMS - chance:0.05
+Creature - Tube Worm - dens:LIZDENS - chance:0.8 - amount:players - group:WORMS
+
+
+Creature - DropBug - dens:LIZDENS - chance:0.15
+Creature - DropBug - dens:LIZDENS - chance:0.07
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:LIZDENS - chance:0.5 - amount:2-3 - group:CYANS
+
+Creature - Cicada - dens:LIZDENS - chance:0.01 - amount:3
+

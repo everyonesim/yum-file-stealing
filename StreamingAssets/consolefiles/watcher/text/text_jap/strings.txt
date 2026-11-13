@@ -1,0 +1,231 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|下とスペシャルボタンを長押しすると、選択した目的地へのルートを作成できます
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|カルマフラワーなしで上とスペシャルを長押しすることは、不安定で危険です
+creaturetype-MothGrub|モスウジ
+Unfortunate Evolution|不幸な進化
+creaturetype-Barnacle|フジツボ
+creaturetype-SandGrub|サンドウジ
+creaturetype-SkyWhale|空飛ぶクジラ
+creaturetype-RotLoach|腐敗したベヒーモス
+creaturetype-RippleSpider|リップルグモ
+Press VIEW to cancel warp|VIEWを押してワープをキャンセル
+creaturetype-IndigoLizard|インディゴトカゲ
+creaturetype-GrappleSnake|絡みつきヘビ
+creaturetype-PeachLizard|モモトカゲ
+The Crown upon the thorn|茨の上の王冠
+creaturetype-BigSandGrub|サンドワーム
+objecttype-Pomegranate|ザクロ
+creaturetype-DrillCrab|ドリルガニ
+creaturetype-SmallMoth|小さな蛾
+creaturetype-Millipede|ヤスデ
+objecttype-GraffitiBomb|グラフィティボム
+The Lantern in the dusk|夕暮れのランタン
+creaturetype-FireSprite|炎の妖精
+creaturetype-Tardigrade|クマムシ
+Press PAUSE BUTTON to cancel warp|一時停止ボタンを押してワープをキャンセル
+The paths overflow beyond measure|道は測りきれないほど溢れています
+Oh such enthusiasm! I am honored!|ああ、なんという情熱！光栄だ！
+Press + Button to cancel warp|+ ボタンを押してワープをキャンセル
+Press - Button to cancel warp|- ボタンを押してワープをキャンセル
+watcher-character-description|孤独で冷淡なアウトサイダー。眺めるだけで関わることはない。<LINE>その距離が新たな視点とつながりをもたらす。類を見ない旅なのだ。
+creaturetype-ScavengerTemplar|スカベンジャー騎士団
+Press OPTIONS BUTTON to cancel warp|OPTIONSボタンを押してワープをキャンセル
+A presence already binds this place|何かの存在がすでにこの場所と結びついています
+This fringe is already too unstable|この辺境はすでに非常に不安定です
+Nothing to waste, every bit counts!|無駄はひとつもない。すべてが重要なんだ！
+SPECIAL button - Hold to warp to selected region|スペシャルボタン - 長押しで選択した地域へワープ
+Free them. They will show you the way.|彼らを解放しよう。君に道を示してくれる。
+The Child forsaken to time|時に見捨てられた子
+objecttype-FireSpriteLarva|炎の妖精の幼虫
+THE WATCHER|ウォッチャー
+The Watcher|ウォッチャー
+Coral Caves|珊瑚の洞窟
+The Surface|地表
+Hydroponics|水耕栽培
+Watcher|ウォッチャー
+Outer Rim|外縁域
+Deep Reef|深礁
+Rusted Wrecks|錆びた残骸
+Torrid Desert|灼熱の砂漠
+Thermal Relay|熱動継電器
+Station Annex|ステーションアネックス
+Signal Spires|信号塔
+Ancient Urban|古代都市
+Stormy Coast|嵐の海岸
+Cold Storage|冷蔵所
+Tundra Fault|ツンドラフォールト
+Aether Ridge|エーテルリッジ
+Pillar Grove|柱の木立
+Turbulent Pump|荒ぶるポンプ
+Desolate Tract|荒れ果てた区域
+Aerial Tramway|空中トラム
+Fallen Tramway|崩壊したトラム
+Sunbaked Alley|灼けた路地
+Migration Path|渡り道
+Blast Deck|ブラストデッキ
+Ridgeworks|リッジワークス
+Salination|塩分化
+Heat Ducts|ヒートダクト
+Fetid Glen|悪臭の峡谷
+The Throne|玉座
+Marvelous!|お見事！
+Shattered Terrace|砕けたテラス
+Verdant Waterways|緑豊かな水路
+Crumbling Fringes|崩れゆく辺境
+creaturetype-Frog|カエル
+LeaveSpinningTop1|おあ！見て！バカすぎて何も気づいてない！おあおあ！
+LeaveSpinningTop2|おあ！失礼な！プレゼントをあげようとしてたのに。
+DieAtSpinningTop1|おあおあ！よし！土の中に帰れ！バーカ！おあおあおあ！
+DieAtSpinningTop2|おあ！見て！もう捕まってる！おあおあおあおあ
+DieAtSpinningTop3|おあおあおあ！ここもか？生きるにはバカすぎるし、死ぬ価値もない。<LINE>つまんない！べーっ！もう行くよ。
+So vital! Hah ha!|生命力にあふれているね！ははっ！
+Badlands|悪地
+Decaying Tunnels|朽ち果てたトンネル
+creaturetype-Rat|ラット
+Ah! So spirited!|ああ！なんと勇ましい！
+Infested Wastes|有害な廃棄場
+Shrouded Stacks|覆われた積み場
+Corrupted Factories|腐敗した工場
+Torrential Railways|土砂降り鉄道
+creaturetype-Angler|アンコウ
+Daemon|ダイモン
+Fractured Gateways|ひび割れた門
+creaturetype-Loach|ドジョウ
+Oh, show me again!|頼む、もう一度見せてくれ！
+creaturetype-BigMoth|大きな蛾
+creaturetype-BoxWorm|ボックスワーム
+creaturetype-Rattler|ボーンシェイカー
+objecttype-Boomerang|ブーメラン
+creaturetype-ScavengerDisciple|スカベンジャーの弟子
+Oh, you have brought sundries?|おお、お土産を持ってきてくれたんだな？
+Never again will you be alone.|もう一人ぼっちになることはないよ。
+Oh, my friend, you have grown!|ああ、友よ！君は成長したね！
+creaturetype-BlizzardLizard|吹雪トカゲ
+creaturetype-BasiliskLizard|バジリスクトカゲ
+Hold the SPECIAL button to camouflage from predators|スペシャルボタンを長押しすると、捕食者からの自身をカモフラージュします
+Hold UP and SPECIAL together to form new random paths|上とスペシャルを同時に長押しすると、新しいランダムな道を作ります
+Delight! For you will be exalted in this new kingdom!|嬉しいよ！君はこの新たな王国で高く称えられることだろう！
+This will consume the effect of a karma flower in the process|この過程でカルマフラワーの効果が消費されます
+However, this can also form new random paths in a pinch|しかし、これによりピンチの状況下で新しいランダムな道を作ることもできます
+You can leave them here if you wish, as a contribution.|もしよければ、寄付としてここに置いてくれたまえ。
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|新たなフロンティアに踏み込むことは体に負担をかけますが、眠ることで回復を促すことができます
+Traveling too deep without resting will have consequences|休まずに深く進みすぎると、後々問題が生じます
+This remains a place of rest|ここは休息の場所です
+It is a joy to see you play!|君が戦う姿を見れて嬉しいよ！
+My processes will dissolve them to their base components and those components will be added to the mass.|私のプロセスがそれを基本的な成分に変え、そして全体に加わることになる。
+Ahh yes! The paths! How wonderous!|ああ、そうだ！あの道！なんて素晴らしいのだろう！
+How auspicious it was, our meeting...|私たちの出会いは、幸先の良いものだった...
+Forgive me if I cannot respond in kind. This body is so limited...|私が同じように返せなくても、許してくれ。この体には限界があるんだ...
+How I have wished for this day. My dear friend, welcome.|この日をどれほど待ち望んでいたことか。親愛なる友よ、ようこそ。
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|強くて素早く、安定した肉の供給が食事として必要だ。しかし、胃袋だけが問題ではない...<LINE>この道は、各サイクルごとに不吉なカウントダウンが刻まれる、危険極まりない道なのだ。
+Custom colors|色をカスタム
+tips-distract|道をふさいでいる捕食動物は、多くの戦術で突破することができます。<LINE>気をそらす、物音でおびき寄せる、自分を食べる代わりに食べられる生贄を配備するなど。<LINE>
+tips-hoarding|すでに食料が満タンの場合でも、雨宿り場に余分な物資をため込んでおけば、<LINE>今後のサイクルが楽になります。
+tips-prepared|手ぶらで旅行するのはやめましょう。<LINE>すぐ使えるアイテムがあるかどうかが、生死を分けることも...いつ必要になるかわかりません。
+tips-backflip|素早く移動方向を切り替え、同時にジャンプボタンを押します。これにより、<LINE>通常のジャンプよりも若干高さのあるバックフリップを開始します。バックフリップを行うと、<LINE>回転を開始することもできます。
+tips-vertpole|バックフリップの頂点で、槍を下に投げると、地面に垂直の柱を作ることができます。<LINE>これを利用して、到達できる場所をさらに広げましょう。
+tips-wanderer|放浪者は、この世界の隅々まで、この世界が提供するものすべてを見てきました。<LINE>その先にある旅は、彼らにとってはもう一つのステップに過ぎません。
+Body|体
+Eyes|目
+HIGH|高
+Restore Default|デフォルトを復元
+Back to options|オプションに戻る
+tips-spearstick|槍を地面に刺すと、その場しのぎのクライミングポールを作成することができます。<LINE>これを使って新しいルートを開拓し、今までアクセスできなかった場所に行くことができます。
+tips-batharvest|発射物を使って空中にいるコウモリバエを打ち落とし、捕獲しやすくします。<LINE>槍で刺すと、一度に複数捕獲できます。
+tips-reputation|あなたの行動は、エコシステムの住民の間であなたの評判を高めます。<LINE>敵に対しても寛大であれば、恩返しがあるかもしれません。そうでなければ、<LINE>あらゆる人から狙われることになるかもしれません。
+tips-throwboost|空中でアイテムを投げると、投げた方向に少しブーストがかかります。<LINE>これを利用して、ジャンプの水平方向の範囲を広げることができます。
+tips-tunnelturn|狭い通路を這っているとき、ジャンプボタンを押しながら、向いている方向と反対側を向くと、<LINE>振り向くことができます。這っている方向を向いている間は、<LINE>移動速度が速くなります。
+tips-powerthrow|スライド中に槍を前方に投げると、槍の速度と衝撃が増加します。<LINE>これにより、生物を長時間スタンさせることができ、特定の防御を<LINE>貫通させることができます。
+tips-superslide|スライド中に後方にオブジェクトを投げると、<LINE>スライドの距離が劇的に伸びます。
+tips-wallpounce|壁に向かってジャンプし、壁に向かってホールドしたままジャンプボタンを直接タップすると、<LINE>壁ジャンプの反発力が大幅に向上します。
+HUE|色合い
+SAT|彩度
+LIT|点灯
+LOW|低
+CHOOSE|選択
+MEDIUM|中
+Oh no.|あらまあ。
+Analog Sensitivity|アナログ感度
+tips-deathrecovery|食物連鎖は複雑です。運が良ければ、生物に捕まった後でも、のちに小競り合いに巻き込まれたり、<LINE>自分が食べられたりして、捕獲されなくなることもあります！
+tips-utilitycreats|すべての生物が避けるべき捕食動物というわけではありません。<LINE>旅の途中で、役立つ生物もたくさんいます。
+FPS Limit|FPS制限
+Unlimited|無制限
+tips-drop|下と拾うボタンを同時に押すと、<LINE>手に持っているアイテムを投げずに地面に置くことができます。
+tips-roll|遠距離から落下しているときに、斜め下方向にホールドすると、地面との接触で回転が開始されます。<LINE>これにより、落下の衝撃が緩和され、<LINE>機動力が高まります。
+tips-swim|水中でコントロールされた蛇行運動をして、泳ぐ速度を上げましょう。<LINE>上下左右にリズミカルに体をくねらせましょう。
+tips-monk|僧侶は、餌食の道です。生き残るためにこの世界の荒野を探し回りますが、<LINE>この道は捕食動物の世界では安全を保証するものではありません。
+Quality|品質
+Backgrounds|背景画像
+tips-crouch|しゃがんだ状態を維持するために、下を押し続ける必要はありません。<LINE>下を1回タップすると這う状態になり、上をタップすると立っている状態に戻ります。
+tips-escape|可能であれば、対立を避け、戦いから逃げたほうが良い場合が多いです。<LINE>捕食動物の多くは強力で危険なので、無理をしないようにしましょう。
+tips-cheese|パイプを利用して、追いかけてくる捕食動物と入れ替わることができます。<LINE>これで簡単に相手を振り切ることができます。
+tips-cannon|パイプから出るときに、ジャンプボタンを右にタップすると、<LINE>外側へ素早く移動できます。
+tips-martyr|殉教者は自らの生命を捨て、その身体が塵となるまで枯れていきます。
+tips-hunter|ハンターは捕食動物の道ですが、この残酷で冷酷な世界では、<LINE>狩りの成果が必ずしも生存を保証するわけではありません。
+tips-outlaw|無法者は、戦いに人生を捧げます。敵も味方も関係なく、寄ってきたものはすべて殺されてしまいます。
+tips-friend|友達は、他者や未知なるものを受け入れます。世界は残酷で容赦ありませんが、<LINE>一緒にいれば、安らぎと保護を得ることができます。
+Old tongue controls?|古いバージョンの舌コントロールを使用しますか？
+Enable wallpouncing?|壁の跳ね返りを有効にしますか？
+Enable speedrun timer?|スピードランタイマーを有効にしますか？
+CONFIGURE TITLE SCREEN|タイトル画面の設定
+Keep your friend safe!|仲間の安全を守るのよ！
+I must resume my work.|仕事に戻らないとな。
+Enable shelter item transport?|雨宿り場アイテムの輸送を有効にしますか？
+<CapPlayerName>, are you okay?|<CapPlayerName>、大丈夫？
+Enable slug senses?|ナメクジ感度を有効にしますか？
+CONFIGURE SUB MENUS|サブメニューの設定
+Show tips between cycles?|サイクル間のヒントを表示しますか？
+Enable Developer Commentary?|開発者解説を有効にしますか？
+Change graphics quality|グラフィック品質を変更
+Take your pet with you.|ペットを連れて行ってね。
+Change menu background images|メニュー背景画像を変更
+Display a speedrun timer at the top of the screen during gameplay?|ゲームプレイ中、画面上部にスピードランタイマーを表示しますか？
+Activate tongue abilities with the throw button instead of the jump button?|ジャンプボタンではなく、投げるボタンを使用して舌の能力を起動しますか？
+Allow passages to transport key items in your shelter to your new destination?|雨宿り場の重要なアイテムを新しい目的地まで輸送するための通路を許可しますか？
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|ナメクジネコのメモリーマップ上に、近くの生物と重要なアイテムをアイコンとして表示することを許可しますか？
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|従来のRain Worldバージョンから、ナメクジネコの壁の跳ね返り能力を有効にしますか？
+Spawn developer commentary collectables in the single player campaigns?|シングルプレイヤーキャンペーンで開発者解説コレクションをスポーンしますか？
+Periodically show survival hints and explain gameplay mechanics for new players?|定期的にサバイバルのヒントを表示し、新しいプレイヤーにゲームプレイの仕組みを説明しますか？
+Configure the background image used on the title screen|タイトル画面で使用する背景画像を設定
+Configure the background image used in the sub menus|サブメニューで使用する背景画像を設定
+Wiggling around quickly might startle this creature.|素早く体を動かすと、この生物を驚かせる可能性があります。
+I am afraid to ask how you brought your friend here.|申し訳ないけど、どうやって仲間をここに連れてきたんだ。
+tips-clock|マップボタンを押すと、食料バーなどの他の情報も表示されます。<LINE>左下の丸い点は、雨が降るまでの時間を表しています。<LINE>よく注意してみましょう！
+tips-rocks|岩は致命的な武器ではないかもしれませんが、多くの実用的な用途があります。<LINE>気をそらしたり、避けたり、解除したり、スタンさせたり、弱点を明らかにしたり、<LINE>生物を柱や岩棚から叩き落としたりすることができます。
+tips-audio|危険が迫っていることを示す最初の手がかりは、危険が目に見える前に、<LINE>音でわかることが多いです。注意して耳を傾けましょう。
+tips-slide|スライドを開始するには、移動中に斜め下方向にジャンプボタンを押します。<LINE>地面をスライドして、短時間で距離を稼ぐことができます。<LINE>
+tips-noise|生物は視覚だけでなく、騒音からもあなたの存在を察知することができます。<LINE>騒音を出し過ぎると、余計な注目を集めてしまうので注意しましょう。
+tips-saint|聖人は、平和主義の道です。他人を傷つけることは、自分自身を傷つけるということなのです。
+tips-nomad|遊牧民は、常に変化し続ける世界を体験します。未知の目標に向かって果てしなく<LINE>続く旅の一歩として、次から次へと人生を生きていきます。
+Calm down!|落ち着いて！
+tips-pipeflash|反対側に危険が迫っているとき、パイプの入り口が点滅します。<LINE>点滅の色で、危険の種類を把握することができます。
+tips-foodtypes|コウモリバエや吊るされた果物だけが唯一の食料ではありません。<LINE>一定の条件を満たせば、食べられる植物や生物もいます。実験してみましょう。
+tips-handorder|右手に持っているアイテムが、最初に使ったり投げたりできる主なアイテムです。<LINE>拾うボタンをダブルタップすると、両手に持っているアイテムを入れ替えることができます。
+tips-slideleap|スライドや回転中にジャンプをタップすると、ロングジャンプに連鎖します。<LINE>機動力を最大限に発揮して、素早く距離を稼ぐことができます。
+tips-turnboost|移動の方向をすばやく切り替えると、新しい方向への速度が短時間だけ少し上がります。<LINE>このスピードブーストをより長く維持するために、<LINE>その後もホッピングを続けましょう。
+tips-chieftain|族長は、未知の世界で強さとコミュニティを受け入れています。<LINE>彼らは、この世界の一部となり、新たな絆で生き抜いていくのです。
+tips-swallow|小さく、食べられないアイテムは、拾うボタンを数秒間押し続けることで、<LINE>胃の中に安全に保管することができます。また、長押しすると、<LINE>そのアイテムを元に戻すことができます。
+tips-breathe|水中に飛び込む前に、呼吸に注意しましょう。<LINE>息が荒い場合は、まず静止して、息を整える時間を作りましょう。
+tips-polehop|水平なポールと交差する直前にジャンプボタンをタップすると、ポールから跳ね返ることができます。<LINE>これを連鎖させることで、ポールを素早く飛び越えることができます。
+tips-scholar|学者は、かつての世界を理解しようとしています。結晶化した過去を見つめ、<LINE>その中に新たな意味を見出します。
+tips-deathpenalty|次に進む準備ができるまで、死はほとんど関係ありません。<LINE>後先を考えず、実験し、探索し、土地の配置を覚え、食料の場所などを覚えるために<LINE>時間をかけましょう。
+tips-shelterstore|シェルターに保管されたアイテムは、サイクルの間中、そこに留まり、地域を離れても残ります。<LINE>貴重品を雨から守る唯一の安全な場所です！<LINE>
+tips-dragonslayer|ドラゴンスレイヤーは、狩りを好みます。彼らはこの世の獣をひざまずかせました。
+What did you do!?|何をしたの！？
+Stop it! Go away!|やめて！あっちいって！
+tips-tunnelboost|狭い通路を這っているときにジャンプボタンをタップすると、<LINE>スピードが少し上がります。
+tips-slidecancel|スライド中に、ジャンプボタンと反対方向の動きを素早くタップします。<LINE>これにより、スライドがキャンセルされ、スタート地点に戻ります。
+The use of some objects may not be obvious at first glance, experiment with everything you find!|中には、パッと見ただけでは使い道がわからないものもあるので、見つけたものはすべて試してみましょう！
+There are many paths to explore in this world.|この世界には、探索すべき道がたくさんあります。
+If you are struggling, try returning to a previous region.|困ったときは、前の地域に戻ってみましょう。
+You may find a new path forward, or discover something that makes your survival here easier.|新しい道を見つけたり、ここでの生き残りを容易にする何かを発見したりできるかもしれません。
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|しかし、現状では、この地域のチャレンジを乗り越えることを阻止するものはありません。
+Your friend is very large, how did you fit them in here?|あなたの仲間はとても大きいけど、どうやってここに入れたの？
+How did you bring that in here... I think it is as surprised as I am!|どうやってここに持ってきたのかしら...自分のことのように驚いてるわ！
+Oh, that is not a friend...|ああ、それは仲間じゃないのね...
+Oh...|あら...
+I do enjoy the company of you and your friend though, <PlayerName>.|あなたと、あなたの仲間と一緒にいるのを楽しんでいるわ、<PlayerName>。
+Is this your friend, <PlayerName>?|<PlayerName>、これはあなたの仲間かしら？
+Best of luck to you, and your companion. There is nothing else I can do.|あなたと、あなたの仲間の幸運を祈るわ。私にできることは他にない。
+Please do not bring more wildlife into my chamber.|これ以上、私の部屋に野生動物を持ち込まないで。
+How did you fit them inside here anyhow?|どうやってここに入れたんだ？
+Take your friend with you. Please. I beg you.|仲間を連れて行ってくれ。お願いだ。頼む。

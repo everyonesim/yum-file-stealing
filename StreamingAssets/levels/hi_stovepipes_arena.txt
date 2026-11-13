@@ -1,0 +1,20 @@
+DenGroup - DENS - 4,5,6,7,8
+
+CreatureGroup - YELLOWS - chance:0.2 - invSymbol:A1
+Creature - Yellow - group:YELLOWS - chance:0.9 - amount:4-5
+
+Creature - Vulture - chance:0.8 - invSymbol:A2 - RARE
+Creature - Vulture - chance:0.1 - RARE
+Creature - KingVulture - chance:0.1 - RARE
+
+Creature - Pink - dens:DENS - chance:0.8 - amount:2
+Creature - Blue - dens:DENS - chance:0.8 - amount:2
+Creature - White - dens:DENS - chance:0.8 - amount:2
+
+Creature - Needle Worm - dens:DENS - chance:0.1 - amount:2
+
+CreatureGroup - SCAVS - chance:0.2 - invSymbol:A3
+Creature - Scavenger - chance:0.7 - amount:3-5 - group:SCAVS
+
+CreatureGroup - WORMS - chance:0.07
+Creature - Tube Worm - dens:DENS - chance:0.8 - amount:players - group:WORMS

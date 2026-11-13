@@ -1,0 +1,5 @@
+
+ward_d27:3:False:False,ward_e02:3:False:False,ward_e03:3:False:False,ward_r07:3.5:False:False,ward_r16:3.5:False:False
+ward_e11,ward_r11
+ward_b41:0:0:wskd_b42,ward_e01:0:0:warg_d06_future,ward_e09:1:1:NULL,ward_e12:0:0:wmpa_c07,ward_e33:0:0:wskc_a10,ward_r10:0:1:wssr_cramped
+ward_d27:2,ward_e01:2,ward_e02:2,ward_e04:1,ward_e06:2,ward_e11:2,ward_e20:2,ward_e21:1,ward_e22:2,ward_e23:2,ward_e26:10,ward_r01:2,ward_r06:3

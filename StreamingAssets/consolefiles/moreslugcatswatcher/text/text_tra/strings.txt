@@ -1,0 +1,712 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|同時按住「下方向鍵」與「特殊按鍵」以建立前往所選目的地的路徑
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|在沒有業力之花的時候，同時按住「上鍵」和「特殊」鍵非常不穩定，也十分危險
+creaturetype-MothGrub|幼蛾
+Unfortunate Evolution|不幸演化
+creaturetype-Barnacle|藤壺
+creaturetype-SandGrub|沙螬
+creaturetype-SkyWhale|天空鯨
+creaturetype-RotLoach|腐化巨獸
+creaturetype-RippleSpider|漣漪蜘蛛
+Press VIEW to cancel warp|按「查看」取消傳送
+creaturetype-IndigoLizard|靛藍蜥蜴
+creaturetype-GrappleSnake|扭蛇
+creaturetype-PeachLizard|桃蜥蜴
+The Crown upon the thorn|荊棘上的王冠
+creaturetype-BigSandGrub|沙蟲
+objecttype-Pomegranate|石榴
+creaturetype-DrillCrab|鑽蟹
+creaturetype-SmallMoth|小蛾
+creaturetype-Millipede|馬陸
+objecttype-GraffitiBomb|塗鴉炸彈
+The Lantern in the dusk|薄暮中的燈籠
+creaturetype-FireSprite|火精靈
+creaturetype-Tardigrade|水熊蟲
+Press PAUSE BUTTON to cancel warp|按「暫停」鍵取消傳送
+The paths overflow beyond measure|路徑超出限度
+Oh such enthusiasm! I am honored!|噢，你真是熱情！我好榮幸！
+Press + Button to cancel warp|按「+」鍵取消傳送
+Press - Button to cancel warp|按「-」鍵取消傳送
+watcher-character-description|孤獨又疏離的局外人，持續觀察卻不入局。<LINE>這樣的距離帶來了新的視角和關係，造就一段獨一無二的旅程。
+creaturetype-ScavengerTemplar|拾荒者聖騎士
+Press OPTIONS BUTTON to cancel warp|按「OPTIONS 按鈕」鍵取消傳送
+A presence already binds this place|某種存在早已將這裡束縛住
+This fringe is already too unstable|邊緣已經很不穩定了
+Nothing to waste, every bit counts!|沒有半點浪費，每一丁點都用上！
+SPECIAL button - Hold to warp to selected region|特殊按鍵 - 按住以傳送至所選區域
+Free them. They will show you the way.|解放它們。它們會為你指路。
+The Child forsaken to time|被時間遺棄的孩子
+objecttype-FireSpriteLarva|火精靈幼體
+THE WATCHER|觀望者
+The Watcher|觀望者
+Coral Caves|珊瑚洞穴
+The Surface|表面
+Hydroponics|水耕法
+Watcher|觀望者
+Outer Rim|外緣
+Deep Reef|深礁
+Rusted Wrecks|銹蝕殘骸
+Torrid Desert|炎熱沙漠
+Thermal Relay|過載繼電器
+Station Annex|車站別館
+Signal Spires|訊號尖塔
+Ancient Urban|上古舊城
+Stormy Coast|風暴海岸
+Cold Storage|冷庫
+Tundra Fault|苔原斷層
+Aether Ridge|乙太山脊
+Pillar Grove|柱林
+Turbulent Pump|渦流幫浦
+Desolate Tract|淒涼地帶
+Aerial Tramway|高架電車道
+Fallen Tramway|陷落電車道
+Sunbaked Alley|烈日巷
+Migration Path|遷徙之路
+Blast Deck|爆裂甲板
+Ridgeworks|山脊工程
+Salination|鹽化區
+Heat Ducts|供熱管道
+Fetid Glen|腐臭幽谷
+The Throne|王座
+Marvelous!|真神奇！
+Shattered Terrace|破碎露臺
+Verdant Waterways|翠綠水道
+Crumbling Fringes|崩落邊緣
+creaturetype-Frog|青蛙
+LeaveSpinningTop1|嘻！看啊！這也太蠢了，根本不值得注意！嘻嘻嘻嘻！！
+LeaveSpinningTop2|嘻！太無禮了！！我本來還打算送它一個禮物呢。
+DieAtSpinningTop1|嘻嘻嘻！！是的！！！回你的地底去吧！真是個蠢貨！！嘻嘻嘻嘻嘻
+DieAtSpinningTop2|嘻嘻！看吧！！它們已經抓到你了！嘻嘻嘻嘻嘻
+DieAtSpinningTop3|嘻嘻嘻嘻嘻嘻！！看起來這裡也一樣？？蠢得活不下去，卑劣到死不了。<LINE>真無聊！呸！我要走了。
+So vital! Hah ha!|真有元氣！哈哈！
+Badlands|不毛之地
+Decaying Tunnels|破敗隧道
+creaturetype-Rat|老鼠
+Ah! So spirited!|啊！真有活力！
+Infested Wastes|受染廢土
+Shrouded Stacks|隱蔽堆層
+Corrupted Factories|腐化工廠
+Torrential Railways|滂沱鐵道
+creaturetype-Angler|鮟鱇魚
+Daemon|惡魔
+Fractured Gateways|斷裂通道
+creaturetype-Loach|泥鰍
+Oh, show me again!|噢，再給我看看！
+creaturetype-BigMoth|大蛾
+creaturetype-BoxWorm|箱蟲
+creaturetype-Rattler|震骨者
+objecttype-Boomerang|迴旋鏢
+creaturetype-ScavengerDisciple|拾荒者門徒
+Oh, you have brought sundries?|哦，你帶了些雜物來？
+Never again will you be alone.|你再也不會孤單了。
+Oh, my friend, you have grown!|哦，我的朋友，你成長了！
+creaturetype-BlizzardLizard|暴雪蜥蜴
+creaturetype-BasiliskLizard|蛇怪蜥蜴
+Hold the SPECIAL button to camouflage from predators|按住「特殊」鍵進行偽裝，躲避掠食者
+Hold UP and SPECIAL together to form new random paths|同時按住「上鍵」和「特殊」鍵來生成全新的隨機路徑
+Delight! For you will be exalted in this new kingdom!|欣喜吧！因為在這個新王國中，你將受到尊崇！
+This will consume the effect of a karma flower in the process|此過程將會消耗一朵業力之花的效果
+However, this can also form new random paths in a pinch|但在緊要關頭，依然能讓你生成新的隨機路徑
+You can leave them here if you wish, as a contribution.|如果你願意，可以留在這裡當做貢獻。
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|穿到新邊境會對身體造成負擔，不過睡覺能幫助你恢復
+Traveling too deep without resting will have consequences|前往深處太久沒有休息會產生某些後果
+This remains a place of rest|這裡還是一處休憩之地
+It is a joy to see you play!|看你出手真有趣！
+My processes will dissolve them to their base components and those components will be added to the mass.|我會把它們分解成基本成分，然後這些成分會加進整體裡。
+Ahh yes! The paths! How wonderous!|啊對！路徑！真奇妙啊！
+How auspicious it was, our meeting...|我們的相遇是多麼幸運……
+Forgive me if I cannot respond in kind. This body is so limited...|請原諒我無法回以同樣的姿態。這具軀體實在受限……
+How I have wished for this day. My dear friend, welcome.|我一直盼望著這天。親愛的朋友，歡迎你。
+Bite|啃咬
+Hiss|嘶鳴
+Call|呼叫
+SRS:|七日：
+NSH:|無憂：
+EOC:|雲紀：
+BSM:|月姐：
+NGI:|NGI：
+Scar|疤痕
+Luna|月亮
+Hang|懸掛
+Bash|猛擊
+Flee|逃跑
+Grab|抓取
+Spit|噴吐
+Noot|吹號
+Howl|嚎叫
+Snip|剪斷
+Jump|跳躍
+Moo!|哞！
+None|無
+Lunge|猛衝
+Saint|聖徒
+Gills|鰓
+Vents|通風口
+Click|點擊
+Sleep|睡覺
+Birth|誕生
+Chomp|咀嚼
+Throw|投擲
+Shock|震驚
+Point|指點
+Laser|雷射
+Arena|競技場
+Class|職業
+Items|物品
+STOP.|住手。
+Launch|猛撲
+Tongue|舌頭
+Spears|長矛
+Struts|支柱
+Burrow|挖洞
+Attach|附著
+Squeak|尖叫
+Pounce|襲擊
+Skewer|刺穿
+Detach|脫離
+Snatch|搶奪
+Sprint|衝刺
+Signal|訊號
+Ascend|飛昇
+DON'T.|不要。
+LEAVE.|離開。
+Consume|吞食
+Rivulet|溪流
+The Rot|腐化之地
+Rubicon|魔方結點
+Pick Up|拾取
+Release|釋放
+Discard|丟棄
+Stealth|潛行
+Ensnare|誘捕
+Harpoon|魚叉
+Pick up|拾取
+Descend|降落
+...WHY?|……為什麼？
+Are my words reaching you?|你聽到我的話了嗎？
+Go... away! You ate... me!|走……開！你把我……吃掉了！
+creaturetype-ScavengerKing|拾荒者酋長
+objecttype-SingularityBomb|奇點炸彈
+Undiscovered Transcription|未發現的記錄
+Destroy all armored plates|摧毀所有裝甲板
+Please, don't touch those!|拜託你，別碰那些！
+Ah, you must be in a rush.|啊，你一定有急事。
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|住手。如果你是想繼續破壞我的系統，那我就沒有理由再跟你說話了。
+Very well, you are on your own, creature. Please leave.|很好，隨你吧，生物。請離開。
+We've read this, little creature. As previously stated:|我們讀過這顆了，小生靈。正如之前所說：
+Hold Eat while grabbing an unconscious creature to maul|抓住昏迷的生物時按住「進食」來撕咬
+Hold throw while flying to charge your ascension burst.|飛行時按住「投擲」，為飛昇爆發蓄力。
+Hold the pick-up button to pull needles from your body.|按住「拾取」從身上拔出針來使用。
+You're not leaving? I suppose I should continue then...|你不走了？那我就從剛才的地方接著講……
+However, you really shouldn't stay. It's too dangerous.|但你真的不該再待著，太危險了。
+Don't. My systems have already been damaged enough as it is. Go away.|不要。我的系統已經受損夠嚴重了。走開。
+Best of luck to you, and your family. There is nothing else I can do.|祝你和你的家人好運，現在已經沒有我能做的事了。
+Go... away... bad... thing...|走……開……壞……東西……
+Five Pebbles (Primary Cortex)|五塊卵石（主皮層）
+Abstract Convergence Manifold|抽象收束匯流管
+Take your offspring with you.|帶著你的小孩一起走。
+Too... broken...|故障……太嚴重……
+The Rot (Depths)|腐化之地（深處）
+Silent Construct|無聲構造
+Windswept Spires|風嘯尖塔
+Hold to view map|按住以查看地圖
+Parry ## attacks|格擋##次攻擊
+Met Five Pebbles|已見到五塊卵石
+...help... me...|……幫幫……我……
+LET GO! p please|快放手！求……求求你。
+Shall we finish?|現在能把話說完了嗎？
+No! You... killed... me!|不！你……殺了……我！
+The Rot (Cystic Conduit)|腐化之地（囊狀導管）
+creaturetype-StowawayBug|偷渡蟲
+creaturetype-JungleLeech|叢林水蛭
+Submerged Superstructure|沉沒巨構
+Please do not do that...|請別這樣……
+...Not forgotten pain...|……還沒忘記痛苦……
+No! <CapPlayerName> ate... me!|不！<CapPlayerName>把我……吃掉了！
+##<LINE>without anything dying|在無死亡的情況下##<LINE>
+Welcome back little messenger.|歡迎回來，小信使。
+...Little green friend. Hello.|……小訪客。你好。
+Spanish translation by Garrakx|Spanish translation by Garrakx
+No! Am... broken... because you...|不！壞……了……因為你……
+Five Pebbles (Linear Systems Rail)|五塊卵石（線性系統導軌）
+Looks to the Moon (Memory Conflux)|望月（記憶匯流點）
+Have you brought your family here?|你帶著小孩嗎？
+Hello again. Shall I keep reading?|又見面了。我要繼續讀嗎？
+No!|不！
+WO:|流兆：
+PI:|求慧：
+GS:|凝星：
+SI:|隱能：
+HR:|HR：
+CW:|追風：
+EP:|亂脈：
+FP:|五石：
+HF:|HF：
+UU:|UU：
+Sit|坐下
+Bow|鞠躬
+Eat|進食
+Fly|飛翔
+Run|跑
+Leave... me alone. Terrible... creature...|離我……遠點。可怕的……生物……
+I have read this. As I have stated before:|我讀過這顆了。正如我之前所說：
+Explosive jump while holding down to parry|按住下鍵時進行爆炸跳躍來格擋
+Looks to the Moon's Transcription (Future)|望月的記錄（未來）
+You'd better hurry along, little creature!|你最好快點走，勇敢的信使。
+I have nothing to say to you, <PlayerName>.|我對你無話可說，<PlayerName>。
+Press jump in the air to extend your tongue|在空中按下「跳躍」來伸出舌頭
+Use directional inputs to aim the ascension|使用方向鍵來調整飛昇方向
+Did you not register what I've said to you?|你沒有聽懂我剛剛說的話嗎？
+Please, leave quickly, while you still can.|拜託，快點離開，趁你還來得及。
+Go away, <PlayerName>.|走開，<PlayerName>。
+creaturetype-EelLizard|鰻形蜥蜴
+creaturetype-AquaCenti|海蜈蚣
+creaturetype-Inspector|巡查者
+Atop the Tallest Tower|至高塔之巔
+Primordial Underground|原始地下世界
+Survive for ## seconds|存活##秒
+Safari region unlocked|已解鎖觀察區域
+Hold grab to activate.|按住抓取以啟動。
+The Pilgrim-linebreaks|朝聖者
+Wait, that's not food!|等等，那不是食物！
+not... edible, please.|那……不能吃，求求你。
+...don't... trust you.|……不……相信你。
+Keep your family safe!|保護好你的家人！
+...Go find... shelter.|……去找到……家。
+Assets and content by:|Assets and content by:
+Leave me alone...|離我遠點……
+creaturetype-Yeek|夜客
+Forgotten Conduit|遺忘導管
+Frosted Cathedral|冰霜大教堂
+Glacial Wasteland|冰川荒地
+Ancient Labyrinth|上古迷宮
+Put a ## in a den|將##放回巢穴
+...Nice to see...|……很高興見到……
+...Cold coming...|……冰霜要來了……
+Stop! Stop giving me your junk!|住手！別再把你的垃圾丟給我！
+saint_old_ascension_tutorial_ps|使用方向鍵來調整飛昇方向。
+Facility Roots (Western Intake)|設施根源（西側入口）
+Clear the game as ## to unlock.|用##通關遊戲後解鎖。
+...why did you... save... me...|……你之前為什麼……要救……我……
+Where do you find all of these?|你都從哪找到這些的？
+Let us see what you have found.|我來看看你找到了什麼。
+...Why... take all I... have...|……為什麼……拿走我……僅剩的……
+...Thank you... for... company.|……謝謝你……來……陪我。
+...Find heat... Cold is danger.|……找個熱源……寒冷很危險。
+Korean translation by topicular|Korean translation by topicular
+Leave me alone! You terrible creature!|離我遠點！你這個可怕的生物！
+Pups can now be found in Sandbox Mode.|現可在沙盒模式中找到蛞蝓貓幼崽。
+Cold... You better go. I will be fine.|好冷……你最好離開這裡。我不會有事的。
+The storm is coming. You should leave.|暴雨就要開始了，你應該離開這裡。
+We have read this one, little creature.|我們讀過這顆了，小生靈。
+Clear the game as <X> or <Y> to unlock.|用<X>或<Y>通關遊戲後解鎖。
+Is that something new? Allow me to see.|那是新的嗎？我來看看。
+Special button interactions:|特殊按鍵操作：
+Auxiliary Transmission Array|輔助傳輸陣列
+Auxillery Transmission Array|輔助傳輸陣列
+Hold to select and use doors|按住以選擇並使用門
+...It is... warmer... today.|……今天……比較……溫暖了。
+Tap Pick up and Jump together to explosive jump|同時輕觸「拾取」和「跳躍」來進行爆炸跳躍
+Hold Throw while flying to perform an ascension|飛行時按住「投擲」來進行一次飛昇
+Rubicon content is now available in Arena Mode.|魔方結點內容現可在競技場模式中使用。
+I am surprised you have found so many of these.|你竟然能找到這麼多，真讓我驚訝。
+Ah, don't worry about me. You should get going!|啊，不用擔心我。你該出發了！
+Oh. It's you, why have you come back...? Again.|哦，是你啊，你怎麼……又回來了？
+Hold Pick Up with an empty hand to generate a spear|單手空手按住「拾取」來生成一支長矛
+This is not a request. I have important work to do.|這不是請求，我還有重要的事要做。
+Press throw with empty hands to extend your tongue|雙手空手按下「投擲」來伸出舌頭
+Hold Pick Up to move a spear to and from your back|按住「拾取」來把長矛放上或取下背部
+Undelete the challenge you just deleted to unlock.|將你剛剛刪除的挑戰復原後解鎖。
+Hello again. I hope you have a reason to visit me.|又見面了。我希望你來找我是有原因的。
+Tap Pick up and Jump together to take flight|同時輕觸「拾取」和「跳躍」來起飛
+You better go, <PlayerName>! I will be fine.|你得找個庇護所，<PlayerName>！不用擔心我。
+...So little... left. Why hurt... me more...|……只剩……一點了。為什麼……還要傷害我……
+saint_old_ascension_tutorial_switch|使用方向鍵來調整飛昇方向。
+Looks to the Moon (Neural Terminus)|望月（神經末梢）
+Have you come back to see me again?|你又回來看我了嗎？
+Get... get away... round.... thing.|離我……遠點……圓滾滾的……東西。
+Wait, please don't leave with that!|等等，你不能帶著那個離開！
+...Friend... please find... safety.|……朋友……請快去……安全的地方。
+saint_old_ascension_tutorial_xbox|使用方向鍵來調整飛昇方向。
+Looks to the Moon's Transcription|望月的記錄
+Ah. Have you found something new?|啊。你找到什麼新東西了嗎？
+Oh... Good luck, little creature.|祝你好運，我不幸的小小朋友。
+Hold Pick Up while holding up to combine two differing items|按住上鍵的同時按住「拾取」來合成兩件不同的物品
+Try using your weight in creative ways to gain an advantage.|試著善用你的重量，以巧妙的方式取得優勢。
+Oh? What have you found this time? Let's see what it says...|哦？這次你又找到了什麼？來看看寫了什麼吧……
+Hold Pick Up to regurgitate a random item|按住「拾取」來吐出一件隨機物品
+Clear a total of ## challenges to unlock.|總計完成##個挑戰後解鎖。
+There's not a lot of time. You should go!|時間不多了。你得動身了！
+Take your offspring with you when you go.|離開時記得帶上你的孩子。
+Have you brought something new this time?|這次帶來什麼新東西來了嗎？
+[ Collection Empty ]|【沒有收藏品】
+Unique pearls read :|已讀取的特殊珍珠：
+creaturetype-FireBug|火蟲
+creaturetype-SlugNPC|蛞蝓貓幼崽
+objecttype-JokeRifle|玩笑步槍
+objecttype-GooieDuck|黏糊懸菌
+objecttype-LillyPuck|百合花燈
+objecttype-MoonCloak|斗篷
+Ascend all creatures|飛昇所有生物
+Escort a ## to a den|護送##回巢穴
+Food quest completed|已完成美食任務
+The Nomad-linebreaks|流浪者
+Oh, leaving already?|要走了嗎？
+Where are you going?|你要去哪？
+Looks to the Moon (Abstract Convergence Manifold)|望月（抽象收束匯流管）
+Change the slugcat class/abilities for Player <X>|更改玩家<X>的蛞蝓貓職業/技能
+Refer to the Pause Menu for Safari Mode controls.|請參考暫停選單中的「觀察模式」操作說明。
+Looks to the Moon (Vents)|望月（通風口）
+creaturetype-MirosVulture|鋼鷲
+creaturetype-MotherSpider|蛛母
+objecttype-DandelionPeach|蒲公英果
+Unknown Pearl Contents...|未知的珍珠內容……
+## without anything dying|在無死亡的情況下##
+Arena character unlocked:|已解鎖競技場角色：
+What are you doing? Stop!|你在做什麼？住手！
+...storm... coming... Go!|……風暴……要來了……快走！
+...Please find... Warmth.|……請找個……溫暖的地方。
+...Why did... you stay...|……你為什麼……留下來了……
+Submerged Superstructure (The Heart)|沉沒巨構（心臟）
+Ah, welcome back. As I was saying...|歡迎回來。我剛才說到……
+##<LINE>without letting a @@ die|在不讓@@死亡的情況下##<LINE>
+Submerged Superstructure (Vents)|沉沒巨構（通風口）
+Oh... Good bye, little creature.|喔……再見了，小生靈。
+While in the air, tap jump and pick-up together to take flight.|在空中時，同時輕觸「跳躍」和「拾取」來起飛。
+Developer Commentary mode is now available in the Options menu.|開發者評論模式現在可在選項選單中使用。
+Stop, that's dangerous! You are going to break something again!|住手，那樣危險！你又要弄壞東西了！
+Hold throw and directional inputs while flying to perform an ascension.|在飛行時按住「投擲」和方向鍵來進行飛昇。
+Friends sheltered :|得到庇護的朋友：
+objecttype-GlowWeed|發光草
+Waterfront Facility|海濱設施
+Linear Systems Rail|線性系統導軌
+Befriend a creature|與一個生物成為朋友
+Unique pearls read:|已讀取的特殊珍珠：
+stop, don... don't!|住手，不……不要！
+Let us take a look.|我們來看看。
+It is getting cold.|氣溫正在驟降。
+What are you doing?|你在做什麼？
+...All I... have...|……我只剩……這個……
+...Bring it back...|……拿回來……
+creaturetype-SpitLizard|焦糖蜥蜴
+creaturetype-ZoopLizard|草莓蜥蜴
+Warp to random creature|變形為隨機生物
+Are you not interested?|你不感興趣嗎？
+What a dumb creature...|真是愚蠢的生物……
+creaturetype-TerrorLongLegs|棕長腿菌
+creaturetype-ScavengerElite|精英拾荒者
+Five Pebble's Transcription|五塊卵石的記錄
+## without letting a @@ die|在不讓@@死亡的情況下##
+...Little... green thing...|……渺小的……綠色傢伙……
+...You should... find heat.|……你應該……保持溫暖。
+...Too cold... Alone again.|……好冷……又剩我一個了。
+creaturetype-BigJelly|巨大水母
+objecttype-EnergyCell|稀化電池
+Met Looks to the Moon|已見到望月
+The Martyr-linebreaks|殉道者
+The Mother-linebreaks|慈母
+No! Don't... hurt me!|不！別……傷害我！
+... stop... please...|……住手……拜託……
+Please do not return.|請別回來了。
+That can't be good...|那可不妙……
+...No, don't... take!|……不，不要……拿走！
+...Give it... back...|……還給……我……
+...Leave me... alone.|……別來……煩我。
+objecttype-FireEgg|火卵
+[ No Data Loaded ]|【未載入資料】
+Kill all creatures|消滅所有生物
+Friends sheltered:|得到庇護的朋友：
+Leave me... alone.|別來……打擾我。
+Let me continue...|那我繼續說了……
+...Give... back...|……還給……我……
+objecttype-Seed|爆米花
+THE SPEARMASTER|長矛大師
+The Spearmaster|長矛大師
+Solitary Towers|孤塔
+Neural Terminus|神經末梢
+Desolate Fields|淒涼原野
+Suburban Drifts|郊外漂流場
+Barren Conduits|荒蕪導管
+Emotional State|情緒化
+Ascend every ##|飛昇所有##
+Pop every plant|炸掉所有植物
+Parry ## attack|格擋##次攻擊
+Oh... Good bye.|喔……再見。
+GET OUT!|滾出去！
+Gourmand|饕餮
+Pipeyard|管道堆場
+The Husk|軀殼
+Ascended|已飛昇
+Parries:|格擋：
+GET OUT.|出去。
+Suns...?|紅日……？
+...No...|……不……
+Five Pebbles:|五塊卵石：
+THE ARTIFICER|工匠
+The Artificer|工匠
+Outer Expanse|外層空間
+The Precipice|絕壁
+Journey's End|旅途終末
+Change target|變更目標
+Win Condition|獲勝條件
+Kill every ##|消滅所有##
+Befriend a ##|與##成為朋友
+Gain ## point|獲得##分
+What is this?|這是什麼？
+Please leave.|請離開。
+...Go away...|……走開……
+THE RIVULET|溪流
+The Rivulet|溪流
+Spearmaster|長矛大師
+Undergrowth|地下森林
+Sunken Pier|沉沒碼頭
+Frozen Mast|冰凍桅杆
+Sump Tunnel|污水坑道
+Hang on Mom|掛在媽媽身上
+Telekinesis|心靈感應
+<X> and <Y>|<X>和<Y>
+The Pilgrim|朝聖者
+...storm...|……風暴……
+...Hello...|……你好……
+THE GOURMAND|饕餮
+The Gourmand|饕餮
+Random start|隨機開始
+Icy Monument|冰雪紀念碑
+Bitter Aerie|嚴寒巢穴
+Frigid Coast|凜冽海岸
+Disable Rain|停用降雨
+Pick up Food|拾取食物
+Hello there.|你好啊。
+Well then...|好吧……
+...Why back?|……為什麼回來了？
+THE SAINT|聖徒
+The Saint|聖徒
+Artificer|工匠
+The Floor|地面
+The Shell|外殼
+The Heart|心臟
+Water Jet|噴水
+Spray Ink|噴墨
+Creatures|生物
+The Nomad|流浪者
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|用饕餮、工匠或獵手通關遊戲後解鎖。
+Hold the EAT button while a stunned creature is being held.|抓住昏迷的生物時按住「進食鍵」。
+The Rarefaction Cell item is now available in Sandbox Mode.|稀化電池現在可在沙盒模式中使用。
+Little messenger, we do not have much time. You must hurry!|小信使，我們時間不多了。你必須快一點！
+Clear the game as Rivulet and Spearmaster to unlock.|用溪流和長矛大師通關遊戲後解鎖。
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|能在水下呼吸、輕鬆穿梭於世界各處。這種適應力<LINE>在如今洪水愈發頻繁的世界相當重要，每一秒的時間都很寶貴。
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|兇猛的戰士，精通火藥與爆炸物。渴望在食物鏈中<LINE>不斷攀爬，你的旅程勢必一路伴隨著腥風血雨。
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|身軀孱弱，長著一條長長的舌頭。你將通向圓滿的領悟之旅，<LINE>但這條道路需要耐心、謹慎，以及與世界完全共鳴。
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...|使用從身體上拔下的針刺進食的異常生物。自遙遠之地而來；<LINE>你內心深處的某種感覺再度驅使你踏上旅途，信使啊……
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|沉迷於生活中的簡單樂趣。把世界都吞進肚子裡<LINE>會帶來許多戰術優勢，但代價是生存成本變高。
+COLLECTION|收藏
+Metropolis|大都會
+The Gutter|排水溝
+Cannonball|炮彈
+Swap Heads|換頭
+Camouflage|偽裝
+Time Limit|時限
+## Seconds|##秒
+Acceptance|接受
+The Martyr|殉道者
+The Mother|慈母
+Looks to the Moon's Transcription (Pre-Collapse)|望月的記錄（崩塌前）
+The Rifle item is now available in Sandbox Mode.|步槍物品現在可在沙盒模式中使用。
+How cute, you brought your family, <PlayerName>?|真可愛，你帶著你的小孩一起來呀，<PlayerName>？
+12th Council Pillar, the House of Braids|第十二委員會支柱，編織議會
+Pups can now be found in some campaigns.|現可在劇情中找到蛞蝓貓幼崽。
+Ah, you have found me something to read?|啊，你找到想讓我念的東西了嗎？
+Oh... Please be careful on your journey.|旅途上請多加小心。
+Please, a moment of your time to finish?|拜託，就佔用你一點時間說完可以嗎？
+Primary Cortex|主皮層
+Cystic Conduit|囊狀導管
+Desolate Canal|淒涼運河
+Play as target|扮演目標
+Revoke Control|解除控制
+Challenge #<X>|挑戰#<X>
+Gain ## points|獲得##分
+it... hurts...|這……很痛……
+Let me finish.|讓我說完。
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|重返劇情篇章中已探索過的區域。<LINE>這一次，你將化身為旁觀者，靜靜注視整個生態系發展，<LINE>不再受到玩家舉止的影響。
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|嘗試在預設競技場情境中達成勝利條件。<LINE>隨著劇情篇章的進展，<LINE>將會解鎖更多挑戰。
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|在空中時，同時輕觸「跳躍」和「拾取」來發動業力覺醒。
+While in the air, press jump and pick-up together, to propel yourself explosively.|在空中時，同時按下「跳躍」和「拾取」來將自己爆發推進。
+Tap the throw button to extend your tongue. Press jump while attached to let go.|輕觸「投擲鍵」來伸出舌頭，附著時按「跳躍」來鬆開。
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|在空中輕觸「跳躍」來伸出舌頭，附著時再次按下「跳躍」來鬆開。
+While you are attached to something, use up and down to extend or retract your tongue.|附著期間使用上下鍵來伸長或縮回舌頭。
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|你又冷又餓。盡快找到能躲避暴風的庇護所，否則你會因低溫昏倒。
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|在這種極寒下，只有溫熱的物體能恢復你的體溫，但也無法持久！
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|如果你打算常常來，至少帶點新的東西來給我讀。
+Stab creatures with your white needles to leech energy from their bodies.|用身上的白色針刺向生物，吸取其體內的能量。
+I wonder, just how much time has passed since some of these were written.|不知道這些珍珠從寫入後經過多久時間了。
+Another? Let us see... to be honest, I'm as curious to see it as you are.|又有一顆？我看看……老實說，我跟你一樣很好奇。
+Hold up and grab with differing objects in each hand, in order to procure something new.|雙手拿著不同的物品時，同時按住「上鍵」和「抓取鍵」來合成新物品。
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|很高興再次見到你，但時間不多了。動作快！
+Holding up and grab with two differing food items, will eat them together as a meal.|雙手拿著不同的食物時，同時按住「上鍵」和「抓取鍵」來一併食用。
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|如果你體內沒有任何東西，也可以消耗食物來吐出隨機物品。
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|你在做什麼？求求你！我才剛重獲自由，你怎麼能這麼殘忍？
+Hold pick-up with compatible ammunition in hand to load the rifle.|手持相容彈藥時，按住「拾取」來為步槍裝彈。
+Ah, you remind me of an old creature who used to visit here often.|啊，你讓我想起了一位以前常來拜訪的老生靈。
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|按住「拾取」來消耗食物，將岩石或長矛變成爆炸物。
+Those are the only memories I have left. I will cease functioning without them.|那是我僅存的記憶了。沒有它們，我就會停止運轉。
+The passage of time has since taken them away, of course. That was a while ago.|當然，歲月早已將牠帶走了。那是很久以前的事了。
+Combat and other fast movements will quickly exhaust you.|戰鬥與其他高速動作會迅速使你疲倦。
+Artificer can maul creatures while they are still alive.|工匠可以在生物還活著的時候撕咬牠們。
+Please, don't scare me like that. I don't appreciate it.|拜託，不要那樣嚇我。我不喜歡這樣。
+Now, I hope you have reason to visit me. I am very busy.|希望你是有正事才來找我。我很忙。
+Another ordeal to add to my running tally of bad luck...|又一樁倒楣事加進我那長長的清單了……
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|在此時間點之後，外層空間之門將保持解鎖狀態。
+Pups can now be found in Sandbox Mode, and some campaigns.|現可在沙盒模式和部分劇情中找到蛞蝓貓幼崽。
+Let us see if there is anything important written on this.|我們來看看這顆有沒有寫什麼重要的東西。
+Little creature, please leave. I would prefer to be alone.|小無賴，請離開吧。我比較喜歡獨處。
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|你在做什麼？你幫了我，不代表你就可以這樣對我。
+In your current state. I can only assume that you have found what you were looking for.|看你現在的樣子，我只能推測你已經找到了你想找的東西。
+Why would you do that to me?! I don't understand you, <PlayerName>.|你為什麼要那樣對我？<PlayerName>，我不懂。
+Please stop! I beg you. I don't... understand your motivation...|請住手！求求你。我不了解……你的動機……
+I can only think that you somehow find me pleasant to listen to.|我只能猜，你大概是覺得聽我說話滿愉快的。
+Do you have something new, or have you come to just stare at me?|你是有什麼新東西，還是只是來盯著我看的？
+Your company is welcome little creature, but please do not stay.|歡迎你來陪我，但你不能待太久。
+Why?! Why would you?? Please, I have so much more I need to do, still...|為什麼？！你為什麼要這樣？？拜託，我還有很多事情要做……
+Thank you for visiting me, but I'm afraid there is nothing here for you.|謝謝你來看我，但恐怕我沒什麼可以給你的了。
+Despite some power to my facility being restored, those are still crucial to my survival!|雖然我的設施恢復了部分電力，但神經元對我的生存還是相當重要！
+Your intention was to help me, was it not? Then please don't play with those!|你是要來幫助我的不是嗎？那就不要玩那些東西！
+This is no time for games little messenger. Hurry now, before it is too late!|現在不是玩耍的時候。趁還來得及，快走吧！
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|那些不是玩具，<PlayerName>。我不會把它們交給任何人。
+Stay as long as you'd like. But not too long.|你想待多久都行，但也別待太久。
+Have you found something else for me to read?|你找到什麼要我讀的東西了嗎？
+It is nice to see you again little messenger!|很高興再次見到你，小信使！
+This chamber is not very well insulated from the cold.|這個房間的保溫效果不是很好。
+I do enjoy the company though. You and your family are always welcome here.|我確實喜歡有人陪，隨時歡迎你和你的家人來。
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|這是一根削尖的鋼筋……你想知道什麼？<LINE>我無意冒犯，但你看起來太虛弱了，恐怕很難拿來做什麼。
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|很遺憾，我的運作程式中有一道限制，<LINE>禁止我對自己的公民施加暴力。
+You've returned! I thought you were leaving. Allow me to continue...|你回來了！我還以為你要走了。那我繼續說下去了……
+Ah, nevermind, let me finish our conversation.|算了，讓我把話說完吧。
+Now, please leave. I would prefer to be alone.|現在請離開吧，我比較喜歡獨處。
+Please do not take advantage of this. I do not have the patience for your continued presence here.|請不要利用這點。我沒有耐心容忍你繼續留在這裡了。
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|我要回去工作了。除非你有什麼對我有用的東西，<LINE>不然我沒有話想對你說了。
+Oh, it's you again? I had told you to leave and never return.|喔，又是你？我明明告訴過你，離開這裡永遠不要回來了。
+Leave immediately and don't come back. And take THEM with you!|趕緊離開，別再回來了。還有把牠們也一起帶走！
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|啊，你又回來了。你應該知道，我對在我設施裡亂跑的生物可沒什麼興趣。
+For your own sake, I hope it was worth your struggle.|看在你這麼辛苦的份上，希望你的努力是值得的。
+For what reason do you visit so often? There is nothing more I can do for you.|你這麼常來是為了什麼？我已經沒什麼能幫你了。
+I have nothing for you here little messenger. Please, I have little time left.|我這裡沒有什麼能給你的，可憐的小傢伙。拜託，我的時間也不多了。
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|怎麼又派信使過來了？請離開，我不能再分心了。<LINE>現在能解決這一切的只有我。我相信你能理解……
+How did it even manage to do that?...|它是怎麼做到的？……
+...Nothing here... Nothing... left...|……這裡什麼都沒有……什麼都……不剩……
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|如果你能不要吃那些，我將不勝感激。我的電纜會讓我保持清醒，<LINE>但每失去一個神經元，我就少了一部分……
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|你怎麼又回來了？你想死嗎？我沒什麼<LINE>可以給你的了……拜託離開吧，這是為了你好。
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|你不該在這裡。這座設施正持續崩壞，<LINE>這裡的一切都不適合一般意義上的生命存在。
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|以前有生物爬進我的巨構建築時，我都會很憤怒。<LINE>不過，如今我倒是感謝能有這麼難得的機會交流。
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|強壯而敏捷，需要穩定的肉類供給。但果腹不會是唯一的難題<LINE>……這條路危機四伏，每次雨迴圈都會讓那不祥的倒數計時不斷縮短。
+Custom colors|自訂顏色
+tips-distract|如果有掠食者堵住路，可以用很多方式突破，<LINE>例如製造干擾、用響聲將其引開，<LINE>或是犧牲其他小生物引牠們去吃等等。
+tips-hoarding|就算已經吃飽，也可以把額外的食物囤在庇護所裡，<LINE>這樣之後的雨迴圈就會比較輕鬆。
+tips-prepared|不要空手踏上旅途。手中有沒有可用的物品可能會決定你的生死……<LINE>你永遠不知道什麼時候可能需要用到。
+tips-backflip|快速變向的同時按下「跳躍」鍵，<LINE>能進行後空翻，高度略高於普通跳躍。<LINE>後空翻也可銜接翻滾。
+tips-vertpole|在後空翻的最高點時向下投擲長矛，可以在地面上插出垂直的<LINE>長杆。使用此方法可擴大可達範圍。
+tips-wanderer|漫遊者已看遍世界每個角落，以及世間所能提供的一切。<LINE>對他們來說，遠方的旅程只不過是邁出的另一步。
+Body|身體
+Eyes|眼睛
+HIGH|高
+Restore Default|還原預設
+Back to options|返回選項
+tips-spearstick|長矛能插在牆面上，變成簡易攀爬桿。善用此方法<LINE>來開闢新路線，到達以往無法觸及的位置。
+tips-batharvest|用投射物把蝠蠅從空中打下來會比較好抓。<LINE>用長矛刺穿，也可以一次抓好幾隻。
+tips-reputation|你的行動會影響你在生態系中的名聲。<LINE>就算是敵人也試著給予善意，也許你的善舉會得到回報。<LINE>否則你可能會被所有生物追殺。
+tips-throwboost|在半空中投擲物品會讓你往那個方向稍微推進。<LINE>你可以使用此動作增加跳躍的水平距離。
+tips-tunnelturn|在狹窄通道爬行時，<LINE>按住「跳躍」鍵和與「相反方向」鍵即可轉身。<LINE>面向自己爬行的方向時，移動速度更快。
+tips-powerthrow|滑行時向前投擲長矛能給長矛額外的速度<LINE>和衝擊力。對生物造成更長的昏迷時間，並且可以<LINE>穿透某些防禦。
+tips-superslide|滑行時向後拋出物品會大幅增加<LINE>滑行的距離。
+tips-wallpounce|躍向牆壁，然後在接觸瞬間輕觸「跳躍」鍵並面向牆壁時，<LINE>蹬牆跳的反彈力會大幅提升。
+HUE|色調
+SAT|飽和度
+LIT|亮度
+LOW|低
+CHOOSE|選擇
+MEDIUM|中
+Oh no.|噢不。
+Analog Sensitivity|控制器靈敏度
+tips-deathrecovery|食物鏈很複雜。如果夠幸運，就算你被抓住，<LINE>如果對方捲入衝突或自己被吃掉，也可能鬆手讓你逃走！
+tips-utilitycreats|並不是所有生物都是需要躲避的掠食者。在你的旅程中，<LINE>有些生物或許能夠幫助你。
+FPS Limit|幀數限制
+Unlimited|無限制
+tips-drop|同時按下「下鍵」和「拾取」鍵可以把手中的物品放到地上，<LINE>而不是丟出去。
+tips-roll|從高處墜落時，按住「斜下」鍵可以在<LINE>與地面接觸時翻滾，減少墜落的衝擊並<LINE>提高機動性。
+tips-swim|在水下以蛇形游動可以提高游泳速度。<LINE>你需要有節奏地上下或左右擺動身體。
+tips-monk|僧侶踏上的是一條獵物之路。他們在這個世界的荒野中覓食求生，<LINE>但這條路並不能保證他們免受掠食者的威脅。
+Quality|品質
+Backgrounds|背景
+tips-crouch|不需要一直按住「下鍵」才能保持蹲伏。輕觸一次「下鍵」即可進入爬行<LINE>姿態，然後輕觸「上鍵」即可返回站立姿態。
+tips-escape|盡量避免正面對抗，逃離戰鬥才是上策。<LINE>許多掠食者都很強大又危險，所以不要太衝動。
+tips-cheese|利用管道與追捕你的掠食者交換位置。這是<LINE>種甩掉牠們的簡單方法。
+tips-cannon|從管道出來的瞬間輕觸「跳躍」鍵，可以將自己快速<LINE>向外推出。
+tips-martyr|殉道者會捨棄生存欲，慢慢凋零直至化作塵土。
+tips-hunter|獵手踏上的是一條掠食者之路，但在這個殘酷無情的世界，<LINE>狩獵的成果未必能保證生存。
+tips-outlaw|暴徒生活在戰場上。無論是敵是友，靠近者皆倒下。
+tips-friend|朋友會擁抱彼此和未知之物。這個世界殘酷無情，<LINE>但只要一起同行，便能找到安慰與庇護。
+Old tongue controls?|確定使用舊版舌頭控制方式嗎？
+Enable wallpouncing?|確定啟用蹬牆跳嗎？
+Enable speedrun timer?|確定啟用速通計時器嗎？
+CONFIGURE TITLE SCREEN|設定標題畫面
+Keep your friend safe!|保護好你的朋友！
+I must resume my work.|我得繼續工作了。
+Enable shelter item transport?|確定啟用庇護所物品傳送嗎？
+<CapPlayerName>, are you okay?|<CapPlayerName>，你還好嗎？
+Enable slug senses?|確定啟用蛞蝓感知嗎？
+CONFIGURE SUB MENUS|設定子選單
+Show tips between cycles?|確定在雨迴圈之間顯示提示嗎？
+Enable Developer Commentary?|確定啟用開發者評論嗎？
+Change graphics quality|變更畫質
+Take your pet with you.|把你的寵物帶走。
+Change menu background images|變更選單背景圖
+Display a speedrun timer at the top of the screen during gameplay?|確定要在遊玩期間於螢幕上方顯示速通計時器嗎？
+Activate tongue abilities with the throw button instead of the jump button?|確定要以「投擲鍵」而非「跳躍」鍵來啟動舌頭控制嗎？
+Allow passages to transport key items in your shelter to your new destination?|確定要允許通道將你庇護所中的關鍵物品傳送至新目的地嗎？
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|確定要允許附近生物和關鍵物品在蛞蝓貓的記憶地圖上顯示為圖示嗎？
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|確定要啟用舊版《Rain World》蛞蝓貓的蹬牆跳能力嗎？
+Spawn developer commentary collectables in the single player campaigns?|確定要在單人劇情中生成開發者評論收藏品嗎？
+Periodically show survival hints and explain gameplay mechanics for new players?|確定要定期向新玩家顯示生存提示並解釋遊戲機制嗎？
+Configure the background image used on the title screen|設定標題畫面使用的背景圖
+Configure the background image used in the sub menus|設定子選單使用的背景圖
+Wiggling around quickly might startle this creature.|快速擺動可能會嚇到這個生物。
+I am afraid to ask how you brought your friend here.|我甚至不敢問你是怎麼把你朋友帶過來的。
+tips-clock|按下「地圖」鍵還會顯示其他資訊，例如你的飽食度。<LINE>左下角的圓點表示距離降雨的所剩時間。<LINE>請多加留意！
+tips-rocks|石頭雖然殺傷力不強，但用途很廣：<LINE>能干擾、格擋、繳械、擊暈、暴露弱點、將生物<LINE>從柱子和邊緣擊落等等！
+tips-audio|特殊的聲音通常是危險來臨的第一個線索，<LINE>那甚至會在你看見危險之前就出現。仔細張大耳朵吧。
+tips-slide|移動中按下「斜下」鍵並按下「跳躍」鍵即可開始滑行。<LINE>滑行可以讓你在短時間內<LINE>快速滑過地面。
+tips-noise|生物不僅能靠視覺發現你的存在，還可以透過聲音。<LINE>請注意不要太大聲，否則可能會引起不必要的注意。
+tips-saint|聖徒踏上的是一條和平之路。傷害其他生物就是傷害自己。
+tips-nomad|流浪者經歷不斷變化的世界。從此生到來生，<LINE>宛如在目標未知的無盡旅程中邁進。
+Calm down!|冷靜點！
+tips-pipeflash|管道入口在另一端有危險時會閃爍，閃光顏色<LINE>能提示你危險種類。
+tips-foodtypes|蝠蠅和懸掛的水果絕不是唯一的食物來源。有些植物<LINE>和生物在特定條件下也能吃。請多多嘗試吧。
+tips-handorder|右手的物品會優先使用或丟出。<LINE>連按兩下「拾取」鍵能交換左右手的物品。
+tips-slideleap|滑行或翻滾時輕觸「跳躍」能接上長距離跳躍，使<LINE>機動性最大化並迅速跨越一大段距離。
+tips-turnboost|快速變換移動方向會獲得<LINE>短暫的小幅加速。之後持續跳躍<LINE>能延長加速維持時間。
+tips-chieftain|酋長會擁抱未知的力量與群體。他們已成為<LINE>世界的一部分，有了新的羈絆，他們就會活下來。
+tips-swallow|按住「拾取」鍵幾秒，即可將不可食用的小物品<LINE>存放在胃中保管。同樣地，<LINE>也能按住將物品重新吐出來。
+tips-breathe|跳下水之前注意你的呼吸。如果你呼吸急促，<LINE>先站一下喘口氣再下水。
+tips-polehop|在落到橫杆前的瞬間，輕觸「跳躍」鍵可以從杆子上彈起。<LINE>此方法可銜接其他操作來快速跳過多根橫杆。
+tips-scholar|學者探尋世界曾經的模樣。<LINE>他們凝視歷史的結晶，在其中尋找新的意義。
+tips-deathpenalty|在你準備好繼續前進之前，死亡無關緊要。你可以<LINE>大膽一點，多探索、多嘗試、多熟悉地形和<LINE>食物位置等等。
+tips-shelterstore|庇護所裡的物品會跨過雨迴圈儲存，<LINE>就算離開區域也不會消失。這是能讓<LINE>貴重物品免受雨淋的唯一安全場所！
+tips-dragonslayer|屠龍者熱衷於狩獵。他們已經征服了這個世界的野獸。
+What did you do!?|你做了什麼？！
+Stop it! Go away!|住手！走開！
+tips-tunnelboost|在狹窄通道爬行時，輕觸「跳躍」鍵，<LINE>可以讓自己的速度略微提升。
+tips-slidecancel|滑行時快速輕觸「跳躍」鍵和與「相反方向」鍵<LINE>能取消滑行，並退回開始滑行的位置。
+The use of some objects may not be obvious at first glance, experiment with everything you find!|有些物品用途可能並不明顯，請嘗試與你發現的所有物品互動吧！
+There are many paths to explore in this world.|在這個世界上有許多可以探索的路徑。
+If you are struggling, try returning to a previous region.|如果你遇到困難，請嘗試回到之前的區域。
+You may find a new path forward, or discover something that makes your survival here easier.|你可能會找到一條新的前路，或者發現能讓生存更輕鬆的東西。
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|然而，你也可以靠現在的能力直面該區域的挑戰。
+Your friend is very large, how did you fit them in here?|你的朋友好大，你是怎麼把它塞進來的？
+How did you bring that in here... I think it is as surprised as I am!|你怎麼把它帶進來的……我想它和我一樣驚訝！
+Oh, that is not a friend...|哦，那可不是朋友……
+Oh...|喔……
+I do enjoy the company of you and your friend though, <PlayerName>.|不過我還是很喜歡你和你的朋友來陪我，<PlayerName>。
+Is this your friend, <PlayerName>?|<PlayerName>，這是你的朋友嗎？
+Best of luck to you, and your companion. There is nothing else I can do.|祝你和你的同伴好運，我已經幫不上忙了。
+Please do not bring more wildlife into my chamber.|請不要再把野生動物帶進我的房間。
+How did you fit them inside here anyhow?|你是怎麼把牠弄進來的？
+Take your friend with you. Please. I beg you.|把你的朋友帶走吧。拜託，算我求你。

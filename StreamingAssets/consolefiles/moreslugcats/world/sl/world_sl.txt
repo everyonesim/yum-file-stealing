@@ -1,0 +1,254 @@
+CONDITIONAL LINKS
+Saint : EXCLUSIVEROOM : GATE_SL_CL
+Saint : EXCLUSIVEROOM : SL_B02SAINT
+Saint : EXCLUSIVEROOM : SL_C16
+Saint : EXCLUSIVEROOM : SL_I02
+Saint : EXCLUSIVEROOM : SL_SCRUSHED
+Saint : EXCLUSIVEROOM : SL_B10
+Saint : EXCLUSIVEROOM : SL_B11
+Saint : EXCLUSIVEROOM : SL_C06SAINT
+Saint : HIDEROOM : SL_B02
+Saint : HIDEROOM : SL_C11
+Saint : HIDEROOM : SL_S02
+Saint : HIDEROOM : GATE_SH_SL
+Saint : HIDEROOM : SL_C06
+Saint : HIDEROOM : GATE_UW_SL
+Saint : HIDEROOM : SL_BRIDGEEND
+Saint : HIDEROOM : SL_S13
+Saint : HIDEROOM : SL_EDGE01
+Saint : HIDEROOM : SL_EDGE02
+Saint : HIDEROOM : SL_BRIDGE01
+Saint : SL_B02 : SL_A02 : DISCONNECTED
+Saint : SL_B02 : SL_C11 : DISCONNECTED
+Saint : SL_B02 : SL_A14 : DISCONNECTED
+Saint : SL_B02SAINT : 1 : SL_A02
+Saint : SL_B02SAINT : 2 : SL_A14
+Saint : SL_A02 : SL_B02 : SL_B02SAINT
+Saint : SL_A14 : SL_B02 : SL_B02SAINT
+Saint : SL_C06 : SL_S04 : DISCONNECTED
+Saint : SL_C06 : SL_A03 : DISCONNECTED
+Saint : SL_C06 : SL_A06 : DISCONNECTED
+Saint : SL_C06SAINT : 1 : SL_S04
+Saint : SL_C06SAINT : 2 : SL_A03
+Saint : SL_C06SAINT : 3 : SL_A06
+Saint : SL_S04 : SL_C06 : SL_C06SAINT
+Saint : SL_A03 : SL_C06 : SL_C06SAINT
+Saint : SL_A06 : SL_C06 : SL_C06SAINT
+END CONDITIONAL LINKS
+ROOMS
+GATE_SB_SL : DISCONNECTED, SL_D05 : GATE
+GATE_SH_SL : DISCONNECTED, SL_C11, DISCONNECTED, SL_S02 : GATE
+GATE_GW_SL : DISCONNECTED, DISCONNECTED, SL_A08 : GATE
+SL_S02 : GATE_SH_SL : SHELTER
+SL_A08 : GATE_GW_SL, SL_S07, SL_C12
+SL_S07 : SL_A08 : SHELTER
+SL_C12 : SL_A08, SL_F01
+SL_B02 : SL_A02, SL_C11, SL_A14
+SL_C11 : GATE_SH_SL, SL_B02
+SL_A14 : SL_B02, SL_A17, SL_E03
+SL_E03 : SL_H03, SL_A14, SL_S11
+SL_A02 : SL_C01, SL_B02, SL_A17
+SL_A17 : SL_A02, SL_A14
+SL_C01 : SL_A02, SL_B01, SL_A13
+SL_A13 : SL_C01, SL_A04
+SL_B01 : SL_C01, SL_D06 : SWARMROOM
+SL_F01 : SL_C12, SL_C08, SL_C02
+SL_C02 : SL_F01, SL_D06, SL_C10, SL_F02 : SWARMROOM
+SL_C10 : SL_C02, SL_A10
+SL_A10 : SL_C10, SL_D02
+SL_F02 : SL_S05, SL_D06, SL_C02, SL_D04
+SL_S05 : SL_F02 : SHELTER
+SL_D06 : SL_C02, SL_F02, SL_B01 : SWARMROOM
+SL_D04 : SL_F02, SL_A12, SL_H02 : SWARMROOM
+SL_A12 : SL_D04, SL_A04
+SL_H02 : SL_D04, SL_H03, SL_E02 : SWARMROOM
+SL_H03 : SL_C09, SL_C07, SL_H02, SL_E03
+SL_C09 : SL_A16, SL_H03
+SL_A16 : SL_S10, SL_I01, SL_C09
+SL_S10 : SL_A16 : SHELTER
+SL_I01 : SL_A15, SL_A16
+SL_A15 : SL_S06, SL_I01, SL_AI
+SL_S06 : SL_A15 : SHELTER
+SL_AI : SL_A15, SL_MOONTOP
+SL_C08 : SL_F01, SL_C05
+SL_C05 : SL_C08, SL_S09, SL_C04
+SL_S09 : SL_C05 : SHELTER
+SL_C04 : SL_D01, SL_C05
+SL_D01 : SL_C04, SL_D02, SL_ECNIUS01
+SL_D02 : SL_D01, SL_A10, SL_D03, SL_TUNNELA
+SL_D03 : SL_A04, SL_A03, SL_A07, SL_D02
+SL_A07 : SL_E01, SL_D03
+SL_A04 : SL_S03, SL_A12, SL_A13, SL_A11, SL_D03
+SL_S03 : SL_A04 : SHELTER
+SL_E01 : SL_B04, SL_C03, SL_A07, SL_A05
+SL_B04 : SL_E01, SL_C03 : SWARMROOM
+SL_C03 : SL_B04, SL_E01, SL_A11
+SL_A11 : SL_C03, SL_A04
+SL_A05 : SL_ECNIUS02, SL_E02, SL_E01
+SL_E02 : SL_H02, SL_S08, SL_A05, SL_C07
+SL_S08 : SL_E02 : SHELTER
+SL_C07 : SL_H03, SL_E02, SL_C14
+SL_A03 : SL_C06, SL_D03
+SL_C06 : SL_S04, SL_A03, SL_A06
+SL_S04 : SL_C06 : SHELTER
+SL_A06 : SL_D05, SL_C06
+SL_D05 : GATE_SB_SL, DISCONNECTED, SL_A06
+SL_S11 : SL_E03 : SHELTER
+GATE_UW_SL : SL_BRIDGEEND, DISCONNECTED, DISCONNECTED, DISCONNECTED : GATE
+GATE_SL_MS : SL_ROOF03, DISCONNECTED, DISCONNECTED : GATE
+GATE_MS_SL : SL_WALL05, DISCONNECTED, SL_S15 : GATE
+GATE_SL_CL : DISCONNECTED, SL_C16 : GATE
+GATE_SL_VS : SL_TUNNELA : GATE
+SL_TUNNELA : DISCONNECTED, DISCONNECTED, DISCONNECTED, GATE_SL_VS, SL_D02
+SL_C06SAINT : DISCONNECTED, DISCONNECTED, DISCONNECTED
+SL_C14 : SL_C07, SL_C15
+SL_C15 : SL_C14, SL_WALL02
+SL_WALL02 : SL_C15, SL_WALL05
+SL_WALL05 : SL_WALL02, GATE_MS_SL
+SL_S15 : GATE_MS_SL : SHELTER
+SL_BRIDGEEND : SL_BRIDGE01, GATE_UW_SL, SL_EDGE01
+SL_EDGE01 : SL_BRIDGEEND, SL_EDGE02, SL_S13
+SL_EDGE02 : SL_EDGE01
+SL_BRIDGE01 : SL_BRIDGEEND
+SL_S13 : SL_EDGE01 : SHELTER
+SL_ECNIUS01 : SL_D01, SL_ECNIUS03
+SL_ECNIUS02 : SL_ECNIUS03, SL_A05
+SL_ECNIUS03 : SL_ECNIUS02, SL_ECNIUS01
+SL_ROOF04 : SL_ACCSHAFT, DISCONNECTED, SL_MOONTOP
+SL_MOONTOP : SL_ROOF04, SL_AI
+SL_ACCSHAFT : SL_ROOF03, SL_ROOF04
+SL_ROOF03 : SL_TEMPLE, GATE_SL_MS, SL_ACCSHAFT
+SL_TEMPLE : SL_ROOF03, SL_ROOF01, SL_STOP
+SL_STOP : SL_TEMPLE : SHELTER
+SL_ROOF01 : SL_WALL06, SL_TEMPLE
+SL_WALL06 : SL_ROOF01
+SL_C16 : SL_I02, GATE_SL_CL
+SL_I02 : SL_C16, SL_B10, SL_SCRUSHED
+SL_SCRUSHED : SL_I02 : SHELTER
+SL_B10 : SL_I02, SL_B11
+SL_B11 : SL_B10, SL_B02SAINT
+SL_B02SAINT : SL_B11, DISCONNECTED, DISCONNECTED
+END ROOMS
+CREATURES
+SL_C11 : 2-Sea Leech-4, 3-Sea Leech-3, 4-Tentacle Plant, 5-Tentacle Plant
+SL_A03 : 2-Snail-2, 3-Snail-3
+SL_C06 : 3-Jet Fish, 4-Jet Fish
+SL_D05 : 7-Snail, 8-Snail, 4-Jetfish
+(White)OFFSCREEN : 0-Vulture-3, 0-Leviathan-2
+(White)SL_C10 : 2-Tentacle Plant
+(Yellow)OFFSCREEN : 0-Vulture, 0-Leviathan
+(Yellow)SL_B02 : 5-Sea Leech-3, 9-Tentacle Plant, 6-Eel-{PreCycle}
+(Yellow)SL_H03 : 5-Jet Fish, 7-Jet Fish, 9-Tentacle Plant
+(Yellow)SL_E02 : 4-Jet Fish, 5-Jet Fish, 6-Sea Leech-3, 7-Sea Leech-4, 8-Sea Leech-2
+(Yellow)SL_A10 : 3-Sea Leech-3
+(Yellow)SL_H02 : 5-Jet Fish, 7-Jet Fish, 8-Jet Fish, 3-Tentacle Plant, 9-Sea Leech-9, 10-Aquacenti-{PreCycle}
+(Yellow)SL_D04 : 4-Salamander, 5-Sea Leech-8, 7-Sea Leech-11, 7-Aquacenti-{PreCycle}
+(Red)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Leviathan-3, 0-Scavenger-5
+(Red)SL_F01 : 4-Sea Leech-8, 7-Jet Fish, 6-Jet Fish-2
+(Red)SL_C10 : 2-Bro
+(Red)SL_C04 : 3-Sea Leech-8
+(Red)SL_D04 : 4-Salamander, 5-Sea Leech-10, 6-Jet Fish, 7-Sea Leech-15, 7-Aquacenti-{PreCycle}
+(Red)LINEAGE : SL_F01 : 3 : White-0.5, Cyan-0
+(Red)LINEAGE : SL_B04 : 2 : White-0.5, Cyan-0
+(Red)LINEAGE : SL_B04 : 3 : White-0.5, Cyan-0
+(Red)SL_C02 : 5-Salamander, 6-Salamander, 5-Eel-{PreCycle}
+(X-White,Yellow,Red,Artificer,Gourmand,Rivulet,Spear,Saint,Inv)OFFSCREEN : 0-Vulture-3, 0-Leviathan-2
+(X-Yellow,Rivulet,Saint)SL_D06 : 5-Salamander, 6-Salamander, 7-Salamander, 8-Tentacle Plant, 9-Aquacenti-{PreCycle}
+(X-Saint)SL_F02 : 16-Garbage Worm-5, 4-Salamander, 6-Jet Fish, 7-Jet Fish, 5-Tentacle Plant, 8-Aquacenti-{PreCycle}
+(X-Yellow,Rivulet,Red,Saint)SL_C02 : 5-Eel, 6-Salamander, 5-Eel-{PreCycle}
+(X-Saint)SL_E01 : 4-Jet Fish, 5-Aquacenti-{PreCycle}
+(X-Yellow,Rivulet,Saint,Inv)SL_D03 : 6-Jet Fish, 5-Jet Fish
+(X-Yellow,Rivulet,Saint,Inv)SL_D01 : 6-Jet Fish, 4-Jet Fish, 5-Jet Fish
+(X-Saint,Inv)SL_C05 : 3-Jet Fish, 4-Salamander-{PreCycle}
+(X-Saint)SL_C03 : 3-Jet Fish, 5-Jet Fish
+(X-Rivulet,Saint)SL_A02 : 3-Salamander, 4-Sea Leech-10
+(X-Rivulet,Yellow,Saint)SL_A10 : 3-Sea Leech-6
+(X-Rivulet,Yellow,Saint)SL_E02 : 4-Jet Fish, 5-Jet Fish, 6-Sea Leech-7, 7-Sea Leech-7, 8-Sea Leech-7
+(X-Rivulet,Yellow,Saint,Inv)SL_H02 : 5-Jet Fish, 7-Jet Fish, 8-Jet Fish, 3-Tentacle Plant, 9-Sea Leech-15, 10-Aquacenti-{PreCycle}
+(X-Rivulet,Yellow,Saint,Inv)SL_H03 : 7-Sea Leech-6, 5-Jet Fish, 7-Jet Fish, 9-Tentacle Plant
+(X-Yellow,Rivulet)SL_B02 : 8-Sea Leech-5, 5-Sea Leech-5, 9-Tentacle Plant, 6-Eel-{PreCycle}
+(X-Yellow,Rivulet,Red,Saint,Inv)SL_D04 : 4-Salamander, 5-Sea Leech-10, 7-Sea Leech-15, 7-Aquacenti-{PreCycle}
+(X-Red,Inv,Saint)SL_F01 : 4-Jet Fish, 5-Jet Fish, 6-Jet Fish
+(X-Red,Saint,Inv)SL_C04 : 3-Sea Leech-5
+(X-Red,Inv,Saint)SL_B04 : 2-White
+(X-Saint)SL_B01 : 3-Eel-{PreCycle}
+(X-Saint)SL_C15 : 4-Jet Fish, 5-Aquacenti
+(X-Yellow,Rivulet,Red,Inv,Saint)SL_ECNIUS03 : 2-Snail, 3-Snail, 4-Jetfish
+(X-Yellow,Rivulet,Red,Inv,Saint)SL_EDGE02 : 3-Dropbug, 6-Cyan, 5-Snail-{PreCycle}-2, 6-Snail-{PreCycle}-3
+(X-Saint)LINEAGE : SL_D05 : 5 : NONE-0.05, Salamander-0
+(X-Saint)LINEAGE : SL_D05 : 6 : NONE-0.02, Salamander-0
+(X-Red,Inv)LINEAGE : SL_B04 : 3 : NONE-0.05, White-0.2, Red-0
+(Gourmand)OFFSCREEN : 0-Scavenger-3, 0-KingVulture
+(Rivulet)OFFSCREEN : 0-Vulture-3, 0-Leviathan-2
+(Saint)OFFSCREEN : 0-MirosVulture-{Ignorecycle}-5, 0-Leviathan-4
+(Inv)OFFSCREEN : 0-Miros Vulture-5, 0-Leviathan-6
+SL_WALL02 : 6-Jet Fish
+(Yellow)SL_D06 : 5-Eel, 6-Salamander, 8-Tentacle Plant, 9-Aquacenti-{PreCycle}
+(Rivulet)SL_D06 : 5-Eel, 6-Salamander, 8-Tentacle Plant, 9-Aquacenti-{PreCycle}
+(Saint)SL_D06 : 5-Yellow-3, 9-Sea Leech-11, 9-Aquacenti-{PreCycle}
+(Saint)SL_F02 : 10-Sea Leech-7, 9-Sea Leech-5, 8-Aquacenti-{PreCycle}
+(Yellow)SL_C02 : 6-Eel, 5-Eel-{PreCycle}
+(Rivulet)SL_C02 : 6-Eel, 5-Eel-{PreCycle}
+(Saint)SL_C02 : 10-Sea Leech-6, 12-Sea Leech-9, 7-Yellow-4, 5-Eel-{PreCycle}
+(Saint)SL_E01 : 4-Sea Leech-6, 5-Sea Leech-4, 5-Aquacenti-{PreCycle}
+(Yellow)SL_D03 : 5-Snail
+(Rivulet)SL_D03 : 6-Aquacenti
+(Saint)SL_D03 : 6-Aquacenti
+(Inv)SL_D03 : 6-Aquacenti
+(Yellow)SL_D01 : 6-Jet Fish, 4-Snail-2, 5-Jet Fish
+(Rivulet)SL_D01 : 6-Jet Fish, 4-Aquacenti, 5-Jet Fish
+(Inv)SL_D01 : 6-Jet Fish, 4-Aquacenti, 5-Jet Fish
+(Saint)SL_D01 : 4-Sea Leech-5, 5-Sea Leech-3, 7-Sea Leech-6
+(Saint)SL_C05 : 4-Sea Leech-6, 4-Salamander-{PreCycle}
+(Inv)SL_C05 : 4-Sea Leech-6, 4-Salamander-{PreCycle}
+(Rivulet)SL_A02 : 3-Eel, 4-Sea Leech-10
+(Saint)SL_A02 : 4-Sea Leech-4
+(Rivulet)SL_A10 : 3-Sea Leech-3
+(Rivulet)SL_E02 : 5-Eel, 6-Sea Leech-3, 7-Sea Leech-4, 8-Sea Leech-2
+(Saint)SL_E02 : 6-Sea Leech-2, 7-Sea Leech-4, 8-Sea Leech-3
+(Rivulet)SL_H02 : 5-Jet Fish, 7-Jet Fish, 8-Jet Fish, 3-Tentacle Plant, 9-Sea Leech-9, 10-Aquacenti-{PreCycle}
+(Saint)SL_H02 : 7-Sea Leech-4, 8-Sea Leech-5, 10-Sea Leech-5, 10-Aquacenti-{PreCycle}
+(Inv)SL_H02 : 5-Jet Fish, 7-Jet Fish, 9-Sea Leech-15, 10-Aquacenti-{PreCycle}
+(Rivulet)SL_H03 : 5-Jet Fish, 7-Jet Fish, 9-Tentacle Plant
+(Inv)SL_H03 : 7-Sea Leech-8, 5-Jet Fish, 7-Jet Fish, 9-Tentacle Plant
+(Rivulet)SL_B02 : 5-Sea Leech-3, 9-Tentacle Plant, 6-Eel-{PreCycle}
+(Rivulet)SL_D04 : 4-Salamander, 5-Sea Leech-8, 7-Sea Leech-11, 7-Aquacenti-{PreCycle}
+(Saint)SL_D04 : 5-Sea Leech-5, 6-Sea Leech-11, 7-Aquacenti-{PreCycle}
+(Inv)SL_D04 : 4-Red, 6-Jet Fish
+(Inv)SL_F01 : 4-Sea Leech-8, 7-Jet Fish, 6-Jet Fish-2
+(Saint)SL_F01 : 5-Sea Leech-4
+(Saint)SL_C04 : 5-Aquacenti
+(Inv)SL_C04 : 5-Aquacenti
+(Saint)SL_B01 : 3-Sea Leech-11, 3-Eel-{PreCycle}
+(Gourmand)SL_C10 : 2-Tentacle Plant
+(Gourmand)LINEAGE : SL_C10 : 2 : NONE-0.02, Bro-0
+(Inv)SL_C10 : 2-Daddy-{AlternateForm}
+(Rivulet)SL_D02 : 5-Aquacenti
+(White)SL_D02 : 5-Aquacenti-{PreCycle}
+(Inv)SL_D02 : 5-Aquacenti-{PreCycle}
+(Gourmand)SL_D02 : 5-Aquacenti-{PreCycle}
+(Saint)SL_C15 : 6-Aquacenti
+(Yellow)SL_ECNIUS03 : 2-Snail, 3-Snail, 4-Jetfish
+(Rivulet)SL_ECNIUS03 : 2-Snail, 3-Snail, 4-Jetfish
+(Red)SL_ECNIUS03 : 2-Snail, 3-Snail
+(Inv)SL_ECNIUS03 : 2-Snail, 3-Snail
+(Yellow)SL_EDGE02 : 6-Cyan, 5-Snail-{PreCycle}-2, 6-Snail-{PreCycle}-3
+(Rivulet)SL_EDGE02 : 6-Yellow-3, 5-Snail-{PreCycle}-2, 6-Snail-{PreCycle}-3
+(Red)SL_EDGE02 : 3-Dropbug-2, 6-Cyan, 5-Snail-{PreCycle}-2, 6-Snail-{PreCycle}-3
+(Inv)SL_EDGE02 : 3-Dropbug-2, 6-Cyan, 5-Snail-{PreCycle}-2, 6-Snail-{PreCycle}-3
+(Saint)SL_B02SAINT : 7-Sea Leech-8
+(Saint)SL_C14 : 3-Sea Leech-9
+(Saint)SL_B10 : 2-BigSpider-{Winter}
+(Saint)SL_I02 : 3-Lantern Mouse-5
+(Inv)LINEAGE : SL_B04 : 3 : Red-0
+(Inv)LINEAGE : SL_B04 : 2 : Red-0
+(Inv)LINEAGE : SL_F01 : 3 : Red-0
+(White)LINEAGE : SL_D02 : 5 : NONE-0.2, Aquacenti-0
+(Gourmand)LINEAGE : SL_D02 : 5 : NONE-0.2, Aquacenti-0
+(White)LINEAGE : SL_D01 : 4 : NONE-0.3, Aquacenti-0
+(Gourmand)LINEAGE : SL_D01 : 4 : NONE-0.3, Aquacenti-0
+(Red)LINEAGE : SL_D02 : 5 : NONE-0.1, Aquacenti-0
+(Red)LINEAGE : SL_D01 : 4 : NONE-0.15, Aquacenti-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

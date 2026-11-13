@@ -1,0 +1,5 @@
+
+wpga_b09:2:False:False,wpga_b12:2:False:False
+wpga_c01
+wpga_a02:1:1:NULL,wpga_b08:0:0:wrfa_a21,wpga_b10:0:0:wska_n04,wpga_e01:0:0:wskd_b01
+wpga_a09:3,wpga_a12:3,wpga_a20:2,wpga_a26:1,wpga_b07:3,wpga_b11:3,wpga_c03:3,wpga_c05:4,wpga_c06:5,wpga_d01:4,wpga_d02:2

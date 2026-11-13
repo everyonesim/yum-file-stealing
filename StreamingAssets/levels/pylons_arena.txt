@@ -1,0 +1,31 @@
+DenGroup - DENS - 2,3,4,5,6,7
+
+CreatureGroup - LIZARDS - symbol:A1
+Creature - Green - dens:DENS - chance:0.9 - amount:3 - group:LIZARDS
+Creature - Pink - dens:DENS - chance:0.9 - amount:2 - group:LIZARDS
+Creature - Blue - dens:DENS - chance:0.75 - group:LIZARDS
+Creature - White - dens:DENS - chance:0.75 - group:LIZARDS
+
+CreatureGroup - LIZARDS2 - symbol:A2
+Creature - Green - dens:DENS - chance:0.9 - amount:3 - group:LIZARDS2
+Creature - Pink - dens:DENS - chance:0.9 - amount:2 - group:LIZARDS2
+Creature - Blue - dens:DENS - chance:0.75 - group:LIZARDS2
+Creature - White - dens:DENS - chance:0.75 - group:LIZARDS2
+
+CreatureGroup - SPIDERS - symbol:A3 - chance:0.5
+Creature - Big Spider - dens:DENS - chance:0.9 - amount:4 - group:SPIDERS
+Creature - Spitter Spider - dens:DENS - chance:0.9 - amount:3 - group:SPIDERS
+Creature - Tube Worm - dens:DENS - chance:0.8 - amount:players - group:SPIDERS
+
+CreatureGroup - CENTIS - symbol:A4 - chance:0.75
+Creature - Centipede - dens:DENS - chance:0.9 - amount:8 - group:CENTIS
+Creature - Centiwing - dens:DENS - chance:0.7 - amount:0-3 - group:CENTIS
+
+CreatureGroup - WORMS - chance:0.2
+Creature - Tube Worm - dens:DENS - chance:0.8 - amount:players - group:WORMS
+
+Creature - Vulture - chance:0.025 - RARE
+Creature - KingVulture - chance:0.025 - RARE
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:DENS - chance:0.5 - amount:2-3 - group:CYANS

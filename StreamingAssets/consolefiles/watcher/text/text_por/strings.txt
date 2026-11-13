@@ -1,0 +1,231 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|Segure PARA BAIXO e o Botão ESPECIAL juntos para criar um caminho para um destino escolhido
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|Segurar CIMA e ESPECIAL sem uma flor de karma é instável e perigoso
+creaturetype-MothGrub|Larva de Mariposa
+Unfortunate Evolution|Evolução Desditosa
+creaturetype-Barnacle|Craca
+creaturetype-SandGrub|Larva da Areia
+creaturetype-SkyWhale|Baleia Celeste
+creaturetype-RotLoach|Monstruosidade Podre
+creaturetype-RippleSpider|Aranha Ondulante
+Press VIEW to cancel warp|Aperte VIEW para cancelar o teleporte
+creaturetype-IndigoLizard|Lagarto Anil
+creaturetype-GrappleSnake|Cobra Agarradeira
+creaturetype-PeachLizard|Lagarto Pessegueiro
+The Crown upon the thorn|A Coroa sobre o espinho
+creaturetype-BigSandGrub|Verme da Areia
+objecttype-Pomegranate|Romã
+creaturetype-DrillCrab|Caranguejo Brocador
+creaturetype-SmallMoth|Mariposinha
+creaturetype-Millipede|Miriápode
+objecttype-GraffitiBomb|Bomba de Grafite
+The Lantern in the dusk|A Lanterna no ocaso
+creaturetype-FireSprite|Espírito do Fogo
+creaturetype-Tardigrade|Tardígrado
+Press PAUSE BUTTON to cancel warp|Aperte o BOTÃO PAUSAR para cancelar o teleporte
+The paths overflow beyond measure|Os caminhos transbordam de forma incomensurável
+Oh such enthusiasm! I am honored!|Oh, quanto entusiasmo! É uma honra!
+Press + Button to cancel warp|Aperte o botão + para cancelar o teleporte
+Press - Button to cancel warp|Aperte o botão - para cancelar o teleporte
+watcher-character-description|Uma figura forasteira, solitária e distante. Observante, mas sem se envolver.<LINE>Desta distância, surgem novas perspectivas e novas conexões. Uma jornada sem igual.
+creaturetype-ScavengerTemplar|Templário Catador
+Press OPTIONS BUTTON to cancel warp|Aperte o BOTÃO OPTIONS para cancelar o teleporte
+A presence already binds this place|A presença já invade este lugar
+This fringe is already too unstable|Esta periferia já está muito instável
+Nothing to waste, every bit counts!|Nada se perde, cada pedacinho conta!
+SPECIAL button - Hold to warp to selected region|Botão ESPECIAL - Segure para se teleportar para a região selecionada
+Free them. They will show you the way.|Liberte-as. Elas mostrarão o caminho.
+The Child forsaken to time|A Criança abandonada no tempo
+objecttype-FireSpriteLarva|Larva de Espírito do Fogo
+THE WATCHER|O VIGIA
+The Watcher|O Vigia
+Coral Caves|Cavernas Coralinas
+The Surface|Superfície
+Hydroponics|Hidroponia
+Watcher|Vigia
+Outer Rim|Orla Exterior
+Deep Reef|Recife Profundo
+Rusted Wrecks|Destroços Enferrujados
+Torrid Desert|Deserto Tórrido
+Thermal Relay|Transmissor Térmico
+Station Annex|Anexo da Estação
+Signal Spires|Pináculos do Sinal
+Ancient Urban|Urbe Ancestral
+Stormy Coast|Costa Tempestuosa
+Cold Storage|Depósito Frio
+Tundra Fault|Falha da Tundra
+Aether Ridge|Cordilheira Etérea
+Pillar Grove|Bosque dos Pilares
+Turbulent Pump|Bomba Turbulenta
+Desolate Tract|Passagem Desolada
+Aerial Tramway|Trilho Aéreo
+Fallen Tramway|Trilho Desabado
+Sunbaked Alley|Beco Ensolarado
+Migration Path|Rota de Migração
+Blast Deck|Convés da Explosão
+Ridgeworks|Usina do Cume
+Salination|Salinação
+Heat Ducts|Dutos de Calor
+Fetid Glen|Vale Fétido
+The Throne|O Trono
+Marvelous!|Maravilha!
+Shattered Terrace|Terraço Estilhaçado
+Verdant Waterways|Hidrovias Verdejantes
+Crumbling Fringes|Periferia Esfacelante
+creaturetype-Frog|Sapo
+LeaveSpinningTop1|OA! Olha! Idiota demais até pra prestar atenção! OAOAOAOA!!
+LeaveSpinningTop2|OA!! Que grosseiro!! Eu ia dar um presente.
+DieAtSpinningTop1|OAOAOA!! Sim!!! Você vai voltar pro chão!! Que idiota!! OAOAOAOAOAO
+DieAtSpinningTop2|OA!! Viu?! Já pegaram você! OAOAOAOAOAO
+DieAtSpinningTop3|OAOAOAOAOA!! Aqui também, parece?? Besta demais pra viver, banal demais pra morrer.<LINE>Que tédio! Bleh! Eu vou embora.
+So vital! Hah ha!|Muita vitalidade! Haha!
+Badlands|Ermos
+Decaying Tunnels|Túneis Deteriorados
+creaturetype-Rat|Rato
+Ah! So spirited!|Ah! Que vivacidade!
+Infested Wastes|Desolação Infestada
+Shrouded Stacks|Chaminés Cobertas
+Corrupted Factories|Fábricas Corrompidas
+Torrential Railways|Ferrovias Torrenciais
+creaturetype-Angler|Pega-peixe
+Daemon|Daemon
+Fractured Gateways|Sendas Fraturadas
+creaturetype-Loach|Bótia
+Oh, show me again!|Ah, eu quero ver de novo!
+creaturetype-BigMoth|Mariposona
+creaturetype-BoxWorm|Verme Blocado
+creaturetype-Rattler|Treme-osso
+objecttype-Boomerang|Bumerangue
+creaturetype-ScavengerDisciple|Discípulo Catador
+Oh, you have brought sundries?|Oh, você me trouxe algo?
+Never again will you be alone.|Você nunca mais ficará só.
+Oh, my friend, you have grown!|Oh, como você cresceu!
+creaturetype-BlizzardLizard|Lagarto da Nevasca
+creaturetype-BasiliskLizard|Lagarto Basilisco
+Hold the SPECIAL button to camouflage from predators|Segure o botão ESPECIAL para se camuflar dos predadores
+Hold UP and SPECIAL together to form new random paths|Segure CIMA e ESPECIAL juntos para formar novos caminhos aleatórios
+Delight! For you will be exalted in this new kingdom!|Deleite-se! Pois seu nome será exaltado neste novo reino!
+This will consume the effect of a karma flower in the process|Isso consome o efeito de uma flor de karma no processo
+However, this can also form new random paths in a pinch|No entanto, isso também pode formar novos caminhos aleatórios na hora do aperto
+You can leave them here if you wish, as a contribution.|Pode deixar aqui, se for da sua vontade, como contribuição.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Cruzar novas fronteiras custa um preço para o corpo, mas dormir ajuda você a se recuperar
+Traveling too deep without resting will have consequences|Ir muito longe sem descansar traz consequências
+This remains a place of rest|Este permanece um lugar de descanso
+It is a joy to see you play!|É um deleite ver você jogar!
+My processes will dissolve them to their base components and those components will be added to the mass.|Meus processos dissolverão tudo em componentes básicos, que por sua vez serão adicionados à massa.
+Ahh yes! The paths! How wonderous!|Ah, sim! Os caminhos! Como são maravilhosos!
+How auspicious it was, our meeting...|Como foi auspicioso, nosso encontro...
+Forgive me if I cannot respond in kind. This body is so limited...|Perdão se eu não respondo à altura. Este corpo é muito limitado...
+How I have wished for this day. My dear friend, welcome.|Por muito tempo eu almejei esse dia. Boas-vindas, estimada amizade.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Forte e ágil, exige uma dieta constante de carne. Porém, o estômago não<LINE>será a sua única preocupação... esse caminho é de perigo extremo, onde<LINE>cada ciclo passa a uma contagem regressiva sinistra.
+Custom colors|Cores personalizadas
+tips-distract|Você pode usar muitas táticas para superar um predador bloqueando o caminho.<LINE>Crie uma distração, atraia-o para longe com barulho, use um sacrifício<LINE>que ele possa comer em vez de comer você, etc.
+tips-hoarding|Mesmo que já tenha comido e esteja cheio, você pode acumular suprimentos<LINE>extras dentro do seu abrigo para facilitar futuros ciclos.
+tips-prepared|Não viaje de mãos vazias. Ter itens imediatamente disponíveis pode ser a diferença<LINE>entre a vida e a morte... nunca se sabe quando se pode precisar deles.
+tips-backflip|Troque rapidamente a direção de movimento e pressione ao mesmo tempo o<LINE>botão pular. Isto iniciará um salto-mortal, que é um pouco mais alto do que<LINE>um pulo normal. Também pode iniciar uma cambalhota com um salto-mortal.
+tips-vertpole|No auge de um salto-mortal, arremesse uma lança para baixo para criar um<LINE>poste vertical no chão. Use isto para expandir ainda mais os lugares que você pode alcançar.
+tips-wanderer|O Viajante viu cada canto deste mundo, e tudo o que ele tem a oferecer.<LINE>A viagem para o outro lado é só mais um passo para ele.
+Body|Corpo
+Eyes|Olhos
+HIGH|ALTA
+Restore Default|Restaurar padrão
+Back to options|Voltar para opções
+tips-spearstick|Lanças podem ser alojadas em superfícies para criar postes improvisados para escalar.<LINE>Use isto para abrir novas rotas e chegar a locais anteriormente inacessíveis.
+tips-batharvest|Derrube as morcemoscas do ar com projéteis para ser mais fácil capturá-las.<LINE>Espete-as com lanças para capturar várias ao mesmo tempo.
+tips-reputation|Suas ações constroem sua reputação entre a população do ecossistema.<LINE>Seja generoso até mesmo com os inimigos, e talvez o favor seja retribuído.<LINE>Caso contrário, você poderá ser caçado por todos.
+tips-throwboost|Arremessar um item enquanto estiver no ar lhe dá um ligeiro impulso<LINE>na direção do arremesso. Use isto para estender o alcance horizontal dos seus saltos.
+tips-tunnelturn|Enquanto rasteja por um corredor apertado, segure o botão pular e a direção<LINE>oposta para onde você está voltado para se virar. Você se move mais rápido<LINE>quando rasteja para a frente.
+tips-powerthrow|Ao arremessar uma lança para frente enquanto desliza, ela terá mais velocidade<LINE>e impacto. Isto pode atordoar criaturas por mais tempo e<LINE>perfurar certas defesas.
+tips-superslide|Arremesse um objeto para trás enquanto desliza para aumentar drasticamente<LINE>a distância coberta pelo deslize.
+tips-wallpounce|Pular em direção a uma parede, depois tocar no botão pular diretamente no<LINE>impacto enquanto segura em direção à parede aumenta a força de ressalto dos seus pulos na parede.
+HUE|MAT
+SAT|SAT
+LIT|LUM
+LOW|BAIXA
+CHOOSE|ESCOLHER
+MEDIUM|MÉDIA
+Oh no.|Ah, não.
+Analog Sensitivity|Sensibilidade analógica
+tips-deathrecovery|A cadeia alimentar é complexa. Se você tiver sorte, mesmo depois de ser agarrado por<LINE>uma criatura, ela pode mais tarde perder o domínio se acabar em conflito ou for comida!
+tips-utilitycreats|Nem toda criatura é um predador a ser evitado. Há muitas criaturas que<LINE>talvez possam ajudar na sua jornada.
+FPS Limit|Limite de FPS
+Unlimited|Ilimitado
+tips-drop|Pressionar juntos os botões para baixo e pegar colocará o item da sua mão<LINE>no chão, sem arremessá-lo.
+tips-roll|Ao cair de um lugar alto, segure diagonalmente para baixo para iniciar<LINE>uma cambalhota em contato com o chão. Isto reduzirá o impacto da queda e lhe<LINE>dará um pouco mais de mobilidade.
+tips-swim|Serpenteie-se de forma controlada debaixo d'água para melhorar a velocidade<LINE>de nado. Sacuda o corpo ritmicamente para cima e para baixo, ou para a esquerda e para a direita.
+tips-monk|O Monge é o caminho da presa. Ele procura por comida na natureza para sobreviver,<LINE>mas este caminho não garante a segurança em um mundo de predadores.
+Quality|Qualidade
+Backgrounds|Fundos
+tips-crouch|Não é preciso segurar o botão para baixo para ficar agachado. Toque para baixo uma<LINE>vez para se agachar, e depois toque para cima para se levantar.
+tips-escape|Quando possível, muitas vezes é melhor evitar confrontos e fugir de lutas.<LINE>Muitos predadores são poderosos e perigosos, então não se entusiasme demais.
+tips-cheese|Use canos para trocar de lugar com um predador que está perseguindo você.<LINE>Esta pode ser uma maneira fácil de tirá-lo do seu encalço.
+tips-cannon|Toque no botão pular assim que sair de um cano para se impulsionar<LINE>rapidamente para fora.
+tips-martyr|O Mártir descarta sua própria sobrevivência, murchando até que seu corpo se torne pó.
+tips-hunter|O Caçador é o caminho de um predador, mas neste mundo cruel e indiferente,<LINE>os espólios de sua caça nem sempre são garantia de sobrevivência.
+tips-outlaw|O Fora-da-lei vive sua vida em batalha. Todos os que se<LINE>aproximam são mortos, sejam amigos ou inimigos.
+tips-friend|O Amigo abraça o próximo e o desconhecido. O mundo é cruel e implacável, mas juntos<LINE>é possível encontrar conforto e proteção.
+Old tongue controls?|Controles antigos da língua?
+Enable wallpouncing?|Habilitar saltos na parede?
+Enable speedrun timer?|Habilitar temporizador de speedrun?
+CONFIGURE TITLE SCREEN|CONFIGURAR TELA DE TÍTULO
+Keep your friend safe!|Mantenha seu amigo em segurança!
+I must resume my work.|Devo retomar o meu trabalho.
+Enable shelter item transport?|Habilitar transporte de itens do abrigo?
+<CapPlayerName>, are you okay?|<CapPlayerName>, você está bem?
+Enable slug senses?|Habilitar sentidos de lesma?
+CONFIGURE SUB MENUS|CONFIGURAR SUBMENUS
+Show tips between cycles?|Mostrar dicas entre os ciclos?
+Enable Developer Commentary?|Habilitar Comentário do Desenvolvedor?
+Change graphics quality|Alterar qualidade dos gráficos
+Take your pet with you.|Leve seu animal de estimação com você.
+Change menu background images|Alterar imagens de fundo do menu
+Display a speedrun timer at the top of the screen during gameplay?|Exibir um temporizador de speedrun na parte superior da tela durante o jogo?
+Activate tongue abilities with the throw button instead of the jump button?|Ativar as habilidades da língua com o botão de arremessar em vez do botão de pular?
+Allow passages to transport key items in your shelter to your new destination?|Permitir que as passagens transportem itens-chave em seu abrigo para seu novo destino?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Permitir que criaturas próximas e itens-chave sejam visíveis como ícones no mapa de memória do lesgato?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Habilitar a habilidade de salto na parede do lesgato das versões antigas do Rain World?
+Spawn developer commentary collectables in the single player campaigns?|Gerar colecionáveis de Comentário do Desenvolvedor nas campanhas singleplayer?
+Periodically show survival hints and explain gameplay mechanics for new players?|Mostrar dicas de sobrevivência periodicamente e explicar a mecânica de jogo para novos jogadores?
+Configure the background image used on the title screen|Configurar imagem de fundo usada na tela de título
+Configure the background image used in the sub menus|Configurar imagem de fundo usada nos submenus
+Wiggling around quickly might startle this creature.|Sacudir o corpo rapidamente pode assustar esta criatura.
+I am afraid to ask how you brought your friend here.|Tenho medo de perguntar como você trouxe seu amigo para cá.
+tips-clock|Pressionar o botão mapa também revela outras informações, como sua barra de comida.<LINE>O círculo de pontos no canto inferior esquerdo representa o tempo até a chegada da chuva.<LINE>Preste bastante atenção nele!
+tips-rocks|Rochas podem não ser uma arma letal, mas elas têm muitas utilidades práticas.<LINE>Elas podem distrair, desviar, desarmar, atordoar, revelar pontos fracos, derrubar criaturas<LINE>de postes e bordas, etc.!
+tips-audio|Muitas vezes, as pistas sonoras são o primeiro indicador de perigo iminente,<LINE>mesmo antes que o perigo esteja visível. Ouça com atenção.
+tips-slide|Pressione diagonalmente para baixo e o botão pular enquanto estiver em movimento<LINE>para começar a deslizar. Você vai deslizar rapidamente pela distância de cobertura<LINE>do solo por um tempo.
+tips-noise|Criaturas podem detectar sua presença não só pelo cheiro, mas também pelo<LINE>barulho. Cuidado para não fazer muito barulho, senão poderá atrair atenção indesejada.
+tips-saint|O Santo é um caminho de pacifismo. Prejudicar o outro é prejudicar a si mesmo.
+tips-nomad|O Nômade experimenta um mundo em constante mudança. Vivendo uma vida após<LINE>a outra como se fossem passos em uma jornada infindável rumo a um objetivo desconhecido.
+Calm down!|Calma!
+tips-pipeflash|As entradas dos canos piscam quando há perigo do outro lado. A cor da luz pode dar<LINE>uma pista sobre o tipo de perigo.
+tips-foodtypes|Morcemoscas e frutos pendurados estão longe de serem as<LINE>únicas comidas. Algumas plantas e criaturas são comestíveis,<LINE>mas só quando certas condições forem cumpridas. Experimente.
+tips-handorder|O item na sua mão direita é o item primário e será usado ou arremessado primeiro.<LINE>Toque duas vezes no botão pegar para trocar os itens de mão.
+tips-slideleap|Toque em pular durante um deslize ou cambalhota para originar um salto em<LINE>distância. Use isto para maximizar sua mobilidade e cobrir uma grande distância rapidamente.
+tips-turnboost|Trocar rapidamente a direção de movimento lhe dará um leve impulso de<LINE>velocidade por pouco tempo na nova direção. Depois continue pulando para manter<LINE>este impulso de velocidade por mais tempo.
+tips-chieftain|O Cacique abraça a força e a comunidade no desconhecido. Ele se tornou parte deste<LINE>mundo, e com seus novos laços, ele sobreviverá.
+tips-swallow|Você pode armazenar itens pequenos e não comestíveis no seu estômago para<LINE>mantê-los em segurança, segurando o botão pegar por alguns segundos.<LINE>Da mesma forma, segure-o para regurgitar o item de volta.
+tips-breathe|Preste atenção à sua respiração antes de pular debaixo d'água. Se estiver com a<LINE>respiração ofegante, pare e espere um segundo para recuperar o fôlego primeiro.
+tips-polehop|Tocar no botão pular pouco antes de cruzar um poste horizontal permite que<LINE>você quique no poste. A seguir, você pode saltar rapidamente pelos postes.
+tips-scholar|O Sábio procura entender o mundo como ele já foi. Olhando para um passado<LINE>cristalizado e encontrando um novo significado dentro dele.
+tips-deathpenalty|A morte pouco importa até que você esteja pronto para seguir em frente. Arrisque<LINE>tudo enquanto experimenta, explora, aprende o layout do terreno, descobre locais<LINE>onde há comida, etc.
+tips-shelterstore|Itens armazenados nos abrigos ficarão lá entre ciclos, e permanecerão<LINE>mesmo que você saia da região. Eles são os únicos locais seguros para proteger<LINE>seus itens valiosos da chuva!
+tips-dragonslayer|O Assassino de Dragões abraça a caça. Ele colocou as feras deste mundo aos seus pés.
+What did you do!?|O que você fez?!
+Stop it! Go away!|Pare! Vá embora!
+tips-tunnelboost|Toque no botão pular enquanto rasteja em um corredor apertado para receber<LINE>um leve impulso na velocidade.
+tips-slidecancel|Durante um deslize, toque rapidamente no botão pular e na direção oposta<LINE>do movimento. Isto cancelará o deslize e levará você de volta para onde começou.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|O uso de alguns objetos pode não ser óbvio à primeira vista, experimente tudo o que encontrar!
+There are many paths to explore in this world.|Há muitos caminhos para explorar neste mundo.
+If you are struggling, try returning to a previous region.|Se estiver com dificuldades, tente voltar a uma região anterior.
+You may find a new path forward, or discover something that makes your survival here easier.|Você pode encontrar um novo caminho ou descobrir algo que facilite sua sobrevivência aqui.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|No entanto, nada impede que você supere os desafios desta região do jeito que está neste momento.
+Your friend is very large, how did you fit them in here?|Seu amigo é bem grande, como ele entrou aqui?
+How did you bring that in here... I think it is as surprised as I am!|Como você trouxe isso para cá? ... Acho que ele está tão surpreso quanto eu!
+Oh, that is not a friend...|Ah, isso não é um amigo...
+Oh...|Ah...
+I do enjoy the company of you and your friend though, <PlayerName>.|Mas eu gosto da sua companhia e da do seu amigo, <PlayerName>.
+Is this your friend, <PlayerName>?|É seu amigo, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Boa sorte para você e sua companhia. Não há mais nada que eu possa fazer.
+Please do not bring more wildlife into my chamber.|Por favor, não traga mais vida selvagem para minha câmara.
+How did you fit them inside here anyhow?|Como é que ele entrou aqui mesmo?
+Take your friend with you. Please. I beg you.|Leve seu amigo com você. Por favor. Eu imploro.

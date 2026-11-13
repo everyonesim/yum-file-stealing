@@ -1,0 +1,5 @@
+
+wrfa_a05:1:False:False,wrfa_a07:1:False:False,wrfa_a08:1:False:False,wrfa_a12:1.5:False:False,wrfa_sk02:1:False:False
+wrfa_c04,wrfa_f02,wrfa_f05
+wrfa_a21:0:0:wpga_b08,wrfa_b09:1:1:NULL,wrfa_d08:0:0:wrra_b01,wrfa_f01:0:0:warf_b11
+wrfa_a06:1,wrfa_c03:3,wrfa_c04:1,wrfa_d06:2,wrfa_e01:3,wrfa_e02:3,wrfa_e04:5,wrfa_f05:8,wrfa_f06:3,wrfa_i01:2

@@ -1,0 +1,5 @@
+wara_p09:1:NULL
+wara_p22:999:False:False
+wara_e08
+
+wara_p03:2,wara_p04:2,wara_p06:1,wara_p07:5,wara_p09:6,wara_p10:1,wara_p16:5,wara_p17:1,wara_p18:1,wara_p19:2,wara_p22:3,wara_p23:2,wara_p24:1,wara_p26:1

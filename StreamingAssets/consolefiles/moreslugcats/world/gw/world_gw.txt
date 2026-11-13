@@ -1,0 +1,521 @@
+CONDITIONAL LINKS
+Slugpup : EXCLUSIVEROOM : GW_ARTYSCENES
+Slugpup : EXCLUSIVEROOM : GW_ARTYNIGHTMARE
+Artificer : EXCLUSIVEROOM : GW_TOWER01
+Spear : EXCLUSIVEROOM : GW_TOWER01
+Artificer : EXCLUSIVEROOM : GW_TOWER02
+Spear : EXCLUSIVEROOM : GW_TOWER02
+Artificer : EXCLUSIVEROOM : GW_TOWER03
+Spear : EXCLUSIVEROOM : GW_TOWER03
+Artificer : EXCLUSIVEROOM : GW_TOWER04
+Spear : EXCLUSIVEROOM : GW_TOWER04
+Artificer : EXCLUSIVEROOM : GW_TOWER05
+Spear : EXCLUSIVEROOM : GW_TOWER05
+Artificer : EXCLUSIVEROOM : GW_TOWER06
+Spear : EXCLUSIVEROOM : GW_TOWER06
+Artificer : EXCLUSIVEROOM : GW_TOWER07
+Spear : EXCLUSIVEROOM : GW_TOWER07
+Artificer : EXCLUSIVEROOM : GW_TOWER08
+Spear : EXCLUSIVEROOM : GW_TOWER08
+Artificer : EXCLUSIVEROOM : GW_TOWER09
+Spear : EXCLUSIVEROOM : GW_TOWER09
+Artificer : EXCLUSIVEROOM : GW_TOWER10
+Spear : EXCLUSIVEROOM : GW_TOWER10
+Artificer : EXCLUSIVEROOM : GW_TOWER11
+Spear : EXCLUSIVEROOM : GW_TOWER11
+Artificer : EXCLUSIVEROOM : GW_TOWER12
+Spear : EXCLUSIVEROOM : GW_TOWER12
+Artificer : EXCLUSIVEROOM : GW_TOWER13
+Spear : EXCLUSIVEROOM : GW_TOWER13
+Artificer : EXCLUSIVEROOM : GW_TOWER14
+Spear : EXCLUSIVEROOM : GW_TOWER14
+Artificer : EXCLUSIVEROOM : GW_TOWER15
+Spear : EXCLUSIVEROOM : GW_TOWER15
+Artificer : EXCLUSIVEROOM : GW_PIPE01
+Spear : EXCLUSIVEROOM : GW_PIPE01
+Artificer : EXCLUSIVEROOM : GW_PIPE02
+Spear : EXCLUSIVEROOM : GW_PIPE02
+Artificer : EXCLUSIVEROOM : GW_PIPE03
+Spear : EXCLUSIVEROOM : GW_PIPE03
+Artificer : EXCLUSIVEROOM : GW_PIPE04
+Spear : EXCLUSIVEROOM : GW_PIPE04
+Artificer : EXCLUSIVEROOM : GW_PIPE05
+Spear : EXCLUSIVEROOM : GW_PIPE05
+Artificer : EXCLUSIVEROOM : GW_PIPE06
+Spear : EXCLUSIVEROOM : GW_PIPE06
+Artificer : EXCLUSIVEROOM : GW_PIPE07
+Spear : EXCLUSIVEROOM : GW_PIPE07
+Artificer : EXCLUSIVEROOM : GW_PIPE08
+Spear : EXCLUSIVEROOM : GW_PIPE08
+Artificer : EXCLUSIVEROOM : GW_PIPE09
+Spear : EXCLUSIVEROOM : GW_PIPE09
+Artificer : EXCLUSIVEROOM : GW_PIPE10
+Spear : EXCLUSIVEROOM : GW_PIPE10
+Artificer : EXCLUSIVEROOM : GW_PIPE11
+Spear : EXCLUSIVEROOM : GW_PIPE11
+Artificer : EXCLUSIVEROOM : GW_PIPE12
+Spear : EXCLUSIVEROOM : GW_PIPE12
+Artificer : EXCLUSIVEROOM : GW_PIPE13
+Spear : EXCLUSIVEROOM : GW_PIPE13
+Artificer : EXCLUSIVEROOM : GW_B01_PAST
+Spear : EXCLUSIVEROOM : GW_B01_PAST
+Artificer : EXCLUSIVEROOM : GW_A10_PAST
+Spear : EXCLUSIVEROOM : GW_A10_PAST
+Artificer : EXCLUSIVEROOM : GW_C10_PAST
+Spear : EXCLUSIVEROOM : GW_C10_PAST
+Artificer : EXCLUSIVEROOM : GW_C04_PAST
+Spear : EXCLUSIVEROOM : GW_C04_PAST
+Artificer : EXCLUSIVEROOM : GW_B06_PAST
+Spear : EXCLUSIVEROOM : GW_B06_PAST
+Artificer : EXCLUSIVEROOM : GW_C01_PAST
+Spear : EXCLUSIVEROOM : GW_C01_PAST
+Artificer : EXCLUSIVEROOM : GW_A11_PAST
+Spear : EXCLUSIVEROOM : GW_A11_PAST
+Artificer : EXCLUSIVEROOM : GW_A13_PAST
+Spear : EXCLUSIVEROOM : GW_A13_PAST
+Artificer : EXCLUSIVEROOM : GW_C02_PAST
+Spear : EXCLUSIVEROOM : GW_C02_PAST
+Artificer : EXCLUSIVEROOM : GW_D01_PAST
+Spear : EXCLUSIVEROOM : GW_D01_PAST
+Artificer : EXCLUSIVEROOM : GW_C06_PAST
+Spear : EXCLUSIVEROOM : GW_C06_PAST
+Artificer : EXCLUSIVEROOM : GW_E02_PAST
+Spear : EXCLUSIVEROOM : GW_E02_PAST
+Artificer : EXCLUSIVEROOM : GW_B09_PAST
+Spear : EXCLUSIVEROOM : GW_B09_PAST
+Artificer : HIDEROOM : GW_B01
+Spear : HIDEROOM : GW_B01
+Artificer : HIDEROOM : GW_A01
+Spear : HIDEROOM : GW_A01
+Artificer : HIDEROOM : GW_A05
+Spear : HIDEROOM : GW_A05
+Artificer : HIDEROOM : GW_A08
+Spear : HIDEROOM : GW_A08
+Artificer : HIDEROOM : GW_A06
+Spear : HIDEROOM : GW_A06
+Artificer : HIDEROOM : GW_D02
+Spear : HIDEROOM : GW_D02
+Artificer : HIDEROOM : GW_C07
+Spear : HIDEROOM : GW_C07
+Artificer : HIDEROOM : GW_C10
+Spear : HIDEROOM : GW_C10
+Artificer : HIDEROOM : GW_A10
+Spear : HIDEROOM : GW_A10
+Artificer : HIDEROOM : GW_A07
+Spear : HIDEROOM : GW_A07
+Artificer : HIDEROOM : GW_B06
+Spear : HIDEROOM : GW_B06
+Artificer : HIDEROOM : GW_B07
+Spear : HIDEROOM : GW_B07
+Artificer : HIDEROOM : GW_C04
+Spear : HIDEROOM : GW_C04
+Artificer : HIDEROOM : GW_A14
+Spear : HIDEROOM : GW_A14
+Artificer : HIDEROOM : GW_C01
+Spear : HIDEROOM : GW_C01
+Artificer : HIDEROOM : GW_B04
+Spear : HIDEROOM : GW_B04
+Artificer : HIDEROOM : GW_A12
+Spear : HIDEROOM : GW_A12
+Artificer : HIDEROOM : GW_A11
+Spear : HIDEROOM : GW_A11
+Artificer : HIDEROOM : GW_A13
+Spear : HIDEROOM : GW_A13
+Artificer : HIDEROOM : GW_C02
+Spear : HIDEROOM : GW_C02
+Artificer : HIDEROOM : GW_B03
+Spear : HIDEROOM : GW_B03
+Artificer : HIDEROOM : GW_D01
+Spear : HIDEROOM : GW_D01
+Artificer : HIDEROOM : GW_C06
+Spear : HIDEROOM : GW_C06
+Artificer : HIDEROOM : GW_E02
+Spear : HIDEROOM : GW_E02
+Artificer : HIDEROOM : GW_B09
+Spear : HIDEROOM : GW_B09
+Artificer : GW_B01 : GW_A01 : DISCONNECTED
+Spear : GW_B01 : GW_A01 : DISCONNECTED
+Artificer : GW_B01 : GATE_HI_GW : DISCONNECTED
+Spear : GW_B01 : GATE_HI_GW : DISCONNECTED
+Artificer : GW_A01 : GW_B01 : DISCONNECTED
+Spear : GW_A01 : GW_B01 : DISCONNECTED
+Artificer : GATE_HI_GW : GW_B01 : GW_B01_PAST
+Spear : GATE_HI_GW : GW_B01 : GW_B01_PAST
+Artificer : GW_B01_PAST : 1 : GATE_HI_GW
+Spear : GW_B01_PAST : 1 : GATE_HI_GW
+Artificer : GW_B06 : GW_A22 : DISCONNECTED
+Spear : GW_B06 : GW_A22 : DISCONNECTED
+Artificer : GW_B06 : GW_C08 : DISCONNECTED
+Spear : GW_B06 : GW_C08 : DISCONNECTED
+Artificer : GW_A22 : GW_B06 : GW_B06_PAST
+Spear : GW_A22 : GW_B06 : GW_B06_PAST
+Artificer : GW_C08 : GW_B06 : GW_B06_PAST
+Spear : GW_C08 : GW_B06 : GW_B06_PAST
+Artificer : GW_B06_PAST : 1 : GW_A22
+Spear : GW_B06_PAST : 1 : GW_A22
+Artificer : GW_B06_PAST : 2 : GW_C08
+Spear : GW_B06_PAST : 2 : GW_C08
+Artificer : GW_C10 : GW_E01 : DISCONNECTED
+Spear : GW_C10 : GW_E01 : DISCONNECTED
+Artificer : GW_E01 : GW_C10 : GW_C10_PAST
+Spear : GW_E01 : GW_C10 : GW_C10_PAST
+Artificer : GW_C10_PAST : 1 : GW_E01
+Spear : GW_C10_PAST : 1 : GW_E01
+Artificer : GW_C06 : GW_S02 : DISCONNECTED
+Spear : GW_C06 : GW_S02 : DISCONNECTED
+Artificer : GW_C06_PAST : 1 : GW_S02
+Spear : GW_C06_PAST : 1 : GW_S02
+Artificer : GW_S02 : GW_C06 : GW_C06_PAST
+Spear : GW_S02 : GW_C06 : GW_C06_PAST
+Artificer : GW_B02 : GW_E02 : GW_E02_PAST
+Spear : GW_B02 : GW_E02 : GW_E02_PAST
+Artificer : GW_E02_PAST : 1 : GW_B02
+Spear : GW_E02_PAST : 1 : GW_B02
+Artificer : GW_E02 : GW_B02 : DISCONNECTED
+Spear : GW_E02 : GW_B02 : DISCONNECTED
+Artificer : GW_A06 : GW_S01 : DISCONNECTED
+Spear : GW_A06 : GW_S01 : DISCONNECTED
+Artificer : GW_PIPE04 : 1 : GW_S01
+Spear : GW_PIPE04 : 1 : GW_S01
+Artificer : GW_S01 : GW_A06 : GW_PIPE04
+Spear : GW_S01 : GW_A06 : GW_PIPE04
+Artificer : GW_C04 : GW_B08 : DISCONNECTED
+Spear : GW_C04 : GW_B08 : DISCONNECTED
+Artificer : GW_C04_PAST : 1 : GW_B08
+Spear : GW_C04_PAST : 1 : GW_B08
+Artificer : GW_B08 : GW_C04 : GW_C04_PAST
+Spear : GW_B08 : GW_C04 : GW_C04_PAST
+Artificer : GW_C04 : GW_C11 : DISCONNECTED
+Spear : GW_C04 : GW_C11 : DISCONNECTED
+Artificer : GW_C11 : GW_C04 : GW_TOWER04
+Spear : GW_C11 : GW_C04 : GW_TOWER04
+Artificer : GW_TOWER04 : 1 : GW_C11
+Spear : GW_TOWER04 : 1 : GW_C11
+Artificer : GW_B07 : GW_A04 : DISCONNECTED
+Spear : GW_B07 : GW_A04 : DISCONNECTED
+Artificer : GW_A04 : GW_B07 : GW_PIPE12
+Spear : GW_A04 : GW_B07 : GW_PIPE12
+Artificer : GW_PIPE12 : 1 : GW_A04
+Spear : GW_PIPE12 : 1 : GW_A04
+Artificer : GW_A11 : GW_S08 : DISCONNECTED
+Spear : GW_A11 : GW_S08 : DISCONNECTED
+Artificer : GW_S08 : GW_A11 : GW_A11_PAST
+Spear : GW_S08 : GW_A11 : GW_A11_PAST
+Artificer : GW_A11_PAST : 2 : GW_S08
+Spear : GW_A11_PAST : 2 : GW_S08
+Artificer : GW_A11 : GW_A19 : DISCONNECTED
+Spear : GW_A11 : GW_A19 : DISCONNECTED
+Artificer : GW_A19 : GW_A11 : GW_A11_PAST
+Spear : GW_A19 : GW_A11 : GW_A11_PAST
+Artificer : GW_A11_PAST : 1 : GW_A19
+Spear : GW_A11_PAST : 1 : GW_A19
+Artificer : GW_B09 : GATE_DS_GW : DISCONNECTED
+Spear : GW_B09 : GATE_DS_GW : DISCONNECTED
+Artificer : GW_B09_PAST : 1 : GATE_DS_GW
+Spear : GW_B09_PAST : 1 : GATE_DS_GW
+Artificer : GATE_DS_GW : GW_B09 : GW_B09_PAST
+Spear : GATE_DS_GW : GW_B09 : GW_B09_PAST
+END CONDITIONAL LINKS
+ROOMS
+GATE_GW_SL : GW_B08, GW_S04, DISCONNECTED : GATE
+GATE_HI_GW : GW_S03, DISCONNECTED, GW_B01 : GATE
+GATE_DS_GW : GW_S05, DISCONNECTED, GW_B09 : GATE
+GW_S05 : GATE_DS_GW : SHELTER
+GW_S04 : GATE_GW_SL : SHELTER
+GW_S03 : GATE_HI_GW : SHELTER
+GW_C06 : GW_E02, GW_S02, GW_A10
+GW_S02 : GW_C06 : SHELTER
+GW_E02 : GW_C06, GW_B02 : SWARMROOM
+GW_B02 : GW_C03, GW_E02, GW_B05, GW_A19
+GW_C03 : GW_B02, GW_C05, GW_A20
+GW_C05 : GW_A24, GW_C03 : SCAVOUTPOST
+GW_A24 : GW_C05, GW_A25 : PERFHEAVY
+GW_B05 : GW_A20, GW_B02, GW_S07, GW_C09
+GW_A20 : GW_C03, GW_B05, GW_A21
+GW_A21 : GW_A20
+GW_S07 : GW_B05 : SHELTER
+GW_A19 : GW_A11, GW_B02
+GW_B01 : GW_A01, GATE_HI_GW
+GW_A01 : GW_C01, GW_B01, GW_A05
+GW_C01 : GW_A01, GW_B04
+GW_B04 : GW_A12, GW_C01, GW_D01
+GW_A12 : GW_B04, GW_C07 : SCAVTRADER
+GW_A05 : GW_A01, GW_A08
+GW_A08 : GW_A05, GW_A06
+GW_A06 : GW_S01, GW_A07, GW_A08
+GW_S01 : GW_A06 : SHELTER
+GW_A07 : GW_A06, GW_A10
+GW_A10 : GW_D01, GW_A07, GW_C06
+GW_D01 : GW_B03, GW_B04, GW_A10 : SWARMROOM
+GW_B03 : GW_D01, GW_C02, GW_B07, GW_A14
+GW_A14 : GW_B03, DISCONNECTED
+GW_B07 : GW_A04, GW_B03
+GW_A04 : GW_B07, GW_S06, GW_C08
+GW_S06 : GW_A04 : SHELTER
+GW_C08 : GW_A04, GW_B06, GW_C09
+GW_C02 : GW_B03, GW_A13
+GW_A13 : GW_A11, GW_C02, GW_B06
+GW_A11 : GW_A19, GW_A13, GW_S08
+GW_S08 : GW_A11 : SHELTER
+GW_B06 : GW_A13, GW_A22, GW_C08
+GW_A22 : GW_B06, GW_A23
+GW_A23 : GW_A22, GW_C11
+GW_C11 : GW_C04, GW_A23 : SCAVOUTPOST
+GW_C04 : GW_B08, GW_C11
+GW_B08 : GW_C04, GATE_GW_SL
+GW_B09 : GW_D02, GATE_DS_GW
+GW_D02 : GW_C07, GW_B09, GW_C10
+GW_C07 : GW_A12, GW_D02
+GW_C10 : GW_D02, GW_E01
+GW_E01 : GW_C09, GW_C10 : SWARMROOM
+GW_C09 : GW_C08, GW_B05, GW_E01
+GATE_GW_SH : DISCONNECTED, GW_EDGE01 : GATE
+GW_A25 : DISCONNECTED, GW_A24, GW_EDGE04 : PERFHEAVY
+GW_S09 : GW_EDGE02 : SHELTER
+GW_EDGE01 : GATE_GW_SH, GW_EDGE03
+GW_EDGE02 : GW_EDGE03, GW_EDGE04, GW_S09
+GW_EDGE03 : GW_EDGE01, GW_EDGE05, GW_EDGE02
+GW_EDGE04 : GW_EDGE02, GW_EDGE05, GW_A25
+GW_EDGE05 : GW_EDGE03, GW_EDGE04
+GW_B01_PAST : GW_TOWER01, DISCONNECTED
+GW_TOWER01 : GW_TOWER02, GW_C01_PAST, GW_B01_PAST
+GW_TOWER02 : GW_TOWER01, GW_TOWER03
+GW_TOWER03 : GW_TOWER02, GW_PIPE01
+GW_PIPE01 : GW_TOWER03, GW_PIPE04
+GW_PIPE02 : GW_PIPE09, GW_B09_PAST
+GW_B09_PAST : GW_PIPE02, DISCONNECTED
+GW_C10_PAST : GW_PIPE05, DISCONNECTED
+GW_A10_PAST : GW_D01_PAST, GW_PIPE03, GW_C06_PAST
+GW_PIPE03 : GW_A10_PAST, GW_PIPE07
+GW_PIPE04 : DISCONNECTED, GW_PIPE01, GW_PIPE07
+GW_B06_PAST : DISCONNECTED, DISCONNECTED
+GW_C04_PAST : DISCONNECTED, GW_TOWER09
+GW_TOWER04 : GW_TOWER05, DISCONNECTED
+GW_PIPE05 : GW_PIPE06, GW_C10_PAST
+GW_PIPE06 : GW_PIPE10, GW_PIPE08, GW_PIPE05
+GW_PIPE07 : GW_PIPE03, GW_PIPE04, GW_PIPE08, GW_PIPE09
+GW_PIPE08 : GW_TOWER07, GW_PIPE06, GW_PIPE07
+GW_TOWER05 : GW_TOWER06, GW_TOWER04
+GW_TOWER06 : GW_TOWER08, GW_TOWER05 : SWARMROOM
+GW_PIPE09 : GW_PIPE07, GW_PIPE02
+GW_PIPE10 : GW_PIPE06, GW_PIPE11
+GW_PIPE11 : GW_TOWER13, GW_PIPE10
+GW_C01_PAST : GW_TOWER01, GW_TOWER07
+GW_TOWER07 : GW_C01_PAST, GW_D01_PAST, GW_PIPE08
+GW_TOWER08 : GW_TOWER06, GW_TOWER09, GW_TOWER15
+GW_TOWER09 : GW_TOWER08, GW_TOWER15, GW_C04_PAST
+GW_A11_PAST : GW_TOWER14, DISCONNECTED, GW_A13_PAST, DISCONNECTED
+GW_A13_PAST : GW_A11_PAST, GW_C02_PAST, GW_PIPE13
+GW_PIPE12 : GW_PIPE13, DISCONNECTED
+GW_PIPE13 : GW_A13_PAST, GW_PIPE12
+GW_C02_PAST : GW_TOWER10, GW_A13_PAST
+GW_D01_PAST : GW_TOWER13, GW_TOWER07, GW_A10_PAST : SWARMROOM
+GW_TOWER10 : GW_TOWER12, GW_C02_PAST
+GW_TOWER11 : GW_TOWER12, GW_TOWER13
+GW_TOWER12 : GW_TOWER10, GW_TOWER11 : SCAVTRADER
+GW_TOWER13 : GW_TOWER11, GW_D01_PAST, GW_PIPE11
+GW_TOWER14 : GW_A11_PAST, GW_TOWER15
+GW_TOWER15 : GW_TOWER08, GW_TOWER09, GW_TOWER14
+GW_C06_PAST : GW_E02_PAST, DISCONNECTED, GW_A10_PAST
+GW_E02_PAST : GW_C06_PAST, DISCONNECTED
+GW_ARTYSCENES : DISCONNECTED
+GW_ARTYNIGHTMARE : DISCONNECTED
+END ROOMS
+CREATURES
+LINEAGE : GW_C06 : 4 : Small Centipede-0.5, Centipede-{0.3}-0.5, Centipede-{0.6}-0.5, Centipede-{0.9}-0.5, Red Centipede-0
+(White)LINEAGE : GW_B02 : 4 : White-0.3, BigSpider-0.3, SpitterSpider-0
+(White)OFFSCREEN : 0-Vulture-3, 0-Scavenger-26
+(Yellow)OFFSCREEN : 0-Vulture-3, 0-Scavenger-20
+(White)GW_C02 : 2-CicadaB-2, 3-CicadaB, 13-Garbage Worm-4, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Yellow)GW_C02 : 2-CicadaB-2, 3-CicadaB, 13-Garbage Worm-3, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Yellow)LINEAGE : GW_B02 : 4 : Pink-0.5, White-0
+(Red)OFFSCREEN : 0-Vulture-3, 0-KingVulture, 0-Scavenger-26
+(Red)GW_A10 : 3-Leech-7, 3-TentaclePlant
+(Red)GW_A11 : 4-Centipede-2, 5-Mimic-{12}
+(Red)GW_C06 : 3-Mimic, 4-Dropbug, 4-Salamander-{PreCycle}
+(Red)GW_B03 : 6-Leech-10, 4-Leech-4, 5-Leech-14, 6-Bro-{PreCycle}
+(Red)GW_C03 : 4-DropBug-2
+(Red)GW_A12 : 2-DropBug
+(Red)GW_D01 : 7-Leech-8, 19-Garbage Worm-5, 6-Cyan-2, 8-Leech-7, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}
+(Red)GW_C02 : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Red)GW_A04 : 3-Small Centipede-3, 3-Centipede
+(Red)GW_B08 : 2-CicadaB, 3-CicadaA-2, 4-DropBug, 8-Leech-3, 9-Leech-5, 10-Leech-5, 12-Sea Leech-10, 13-Sea Leech-10
+(Red)GW_B02 : 4-RedCentipede
+(Red)GW_A07 : 2-Leech-3
+(Red)GW_C09 : 3-Bro, 4-Daddy
+(Red)LINEAGE : GW_A11 : 3 : Centipede-0.5, Centipede-{0.7}-0.5, RedCentipede-0
+(Red)LINEAGE : GW_C04 : 2 : EggBug-1, Cyan-0
+(X-White,Yellow,Red,Rivulet,Gourmand,Saint,Spear,Artificer,Inv)OFFSCREEN : 0-Vulture-3, 0-Scavenger-26
+(X-Saint)GW_B01 : 5-Leech-10, 3-Leech-5, 9-Garbage Worm-2
+(X-Yellow,Rivulet,Saint)GW_C01 : 10-Garbage Worm-4, 3-Leech-7, 5-Leech-7, 4-TentaclePlant-{PreCycle}, 3-Salamander-{PreCycle}
+(X-Rivulet,Saint)GW_B04 : 3-Leech-7, 4-Leech-7
+(X-Yellow,Rivulet,Red,Saint,Inv)GW_D01 : 7-Leech-8, 19-Garbage Worm-5, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}
+(X-Yellow,Rivulet,Saint)GW_E02 : 7-Pink, 5-Green, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB, 19-Garbage Worm-3
+(X-Saint)GW_B09 : 2-Leech-10, 3-Snail-2, 4-Garbage Worm-2
+(X-Saint,Rivulet)GW_D02 : 6-Leech-10, 3-Snail, 4-Snail, 5-Snail
+(X-Rivulet,Saint)GW_E01 : 7-Leech-10, 2-CicadaB, 3-CicadaB, 5-Bro, 6-Bro
+(X-Saint)GW_C10 : 2-Leech-7, 3-Snail-3
+(X-Saint,Yellow,Rivulet)GW_C08 : 3-Leech-10, 5-Snail-4, 3-Daddy-{PreCycle}
+(X-Yellow,Rivulet,Saint)GW_C04 : 13-Garbage Worm-2, 6-Leech-3, 7-Leech-3, 4-Salamander-{PreCycle}-2
+(X-Red,Artificer,Spear,Saint,Inv)GW_B08 : 2-CicadaB, 3-CicadaA-2, 8-Leech-3, 9-Leech-5, 10-Leech-5, 12-Sea Leech-10, 13-Sea Leech-10
+(X-Rivulet,Saint)GW_A08 : 2-Snail-2, 3-Snail-3
+(X-Red,Artificer,Spear,Inv)GW_A04 : 3-Small Centipede-3
+(X-Red,Inv,Saint)GW_C06 : 3-Mimic, 4-Small Centipede-2, 4-Salamander-{PreCycle}
+(X-Rivulet,Red,Inv,Saint)GW_A10 : 3-Leech-4
+(X-Rivulet,Red,Inv,Saint)GW_B03 : 6-Leech-5, 6-Bro-{PreCycle}
+(X-Rivulet,Spear,Red,Artificer,Saint,Inv)GW_C09 : 3-Bro, 4-Bro
+(X-Yellow,Rivulet,Saint,Red,Artificer,Spear)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint)GW_EDGE03 : 17-Leech-5, 18-Leech-8, 7-CicadaB-2, 8-CicadaA-3, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(X-Yellow,Rivulet,Artificer,Spear,Saint)LINEAGE : GW_C03 : 5 : Caramel-0.2, Yellow-0.5, Red-0
+(X-Saint)LINEAGE : GW_E02 : 6 : NONE-0.05, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+(X-Saint)LINEAGE : GW_C09 : 5 : NONE-0.07, Bro-0.5, NONE-0.07, Bro-0
+(X-Saint)LINEAGE : GW_C09 : 6 : NONE-0.01, Bro-0.5, NONE-0.01, Bro-0
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-Scavenger-26
+(Rivulet)OFFSCREEN : 0-Vulture-3, 0-Scavenger-19
+(Artificer)OFFSCREEN : 0-Vulture-4, 0-KingVulture, 0-Scavenger-32
+(Spear)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-30, 0-Elite
+(Saint)OFFSCREEN : 0-MirosVulture-{Ignorecycle}-4, 0-Scavenger-12, 0-Vulture-3
+(Inv)OFFSCREEN : 0-MirosVulture-{Ignorecycle}-3, 0-Scavenger-32
+(Red)LINEAGE : OFFSCREEN : 0 : NONE-0.5, Scavenger-0.1, NONE-0.1, Elite-0
+(Yellow)GW_C01 : 10-Garbage Worm-2, 3-Leech-7, 5-Leech-7, 4-TentaclePlant-{PreCycle}, 3-Salamander-{PreCycle}
+(Rivulet)GW_C01 : 10-Garbage Worm-2, 3-Leech-7, 5-Leech-7, 4-Eel, 4-TentaclePlant-{PreCycle}, 3-Salamander-{PreCycle}
+(Rivulet)GW_B04 : 3-Leech-7, 4-Leech-11
+(Saint)GW_B04 : 4-Sea Leech-8
+(Yellow)GW_D01 : 7-Leech-8, 19-Garbage Worm-2, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}
+(Rivulet)GW_D01 : 7-Leech-8, 19-Garbage Worm-2, 4-White, 3-Blue, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}
+(Saint)GW_D01 : 3-Centiwing-2, 6-Yellow-3, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}
+(Inv)GW_D01 : 6-Red-2, 8-Leech-7, 5-TentaclePlant-{PreCycle}, 9-Salamander-{PreCycle}
+(Gourmand)GW_C02 : 2-CicadaB-2, 3-CicadaB, 13-Garbage Worm-4, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Rivulet)GW_C02 : 2-White, 13-Garbage Worm-3, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Saint)GW_C02 : 2-Strawberry, 2-Centiwing, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Inv)GW_C02 : 2-CicadaB-3, 3-Red, 5-Scavenger-{PreCycle,Seed:2837}, 5-TentaclePlant-{PreCycle}
+(Yellow)GW_E02 : 7-Pink, 5-Caramel, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB, 19-Garbage Worm-3
+(Rivulet)GW_E02 : 7-Yellow-3, 5-Caramel, 8-Mimic-{14}, 3-CicadaB-2, 4-CicadaB, 19-Garbage Worm-3
+(Saint)GW_E02 : 6-Centiwing, 5-Yellow-4, 8-Caramel
+(Saint)GW_B09 : 3-Jungle Leech-{Ignorecycle}-9, 2-Drop Bug-{Ignorecycle}, 4-Garbage Worm-{Ignorecycle}-2
+(Rivulet)GW_D02 : 6-Leech-10, 3-Snail, 4-Snail, 5-Snail, 5-Big Spider-2
+(Saint)GW_D02 : 4-Big Spider-{Winter}-3, 6-Jungle Leech-{Ignorecycle}-5, 3-Drop Bug-{Ignorecycle}
+(Rivulet)GW_E01 : 2-Centipede, 3-Centipede, 4-Red Centipede
+(Saint)GW_E01 : 2-Centipede, 3-Centipede, 4-Red Centipede, 6-SpitterSpider-{Winter}
+(Saint)GW_C10 : 4-Garbage Worm-3, 2-Jungle Leech-3, 3-Jungle Leech-3
+(Yellow)GW_C08 : 3-Leech-10, 5-Snail-4, 3-Bro-{PreCycle}
+(Rivulet)GW_C08 : 3-Leech-10, 5-Snail-4, 3-Bro-{PreCycle}
+(Yellow)GW_C04 : 13-Garbage Worm, 6-Leech-3, 7-Leech-3, 4-Salamander-{PreCycle}-2
+(Rivulet)GW_C04 : 13-Garbage Worm, 6-Leech-3, 7-Leech-3, 4-Salamander-{PreCycle}-2
+(Saint)GW_C04 : 4-Caramel, 4-Salamander-{PreCycle}-2
+(Inv)GW_B08 : 2-CicadaB, 3-CicadaA-2, 4-DropBug, 8-Leech-3, 9-Leech-5, 10-Leech-5, 12-Sea Leech-10, 13-Sea Leech-10
+(Saint)GW_B08 : 12-Sea Leech-{Ignorecycle}-6, 10-Sea Leech-{Ignorecycle}-3, 8-Sea Leech-{Ignorecycle}-3, 2-Big Spider-{Winter}-2
+(Rivulet)GW_A08 : 2-Leech-12, 3-Eel
+(Saint)GW_A08 : 3-Sea Leech-4
+(Artificer)GW_A04 : 3-Small Centipede-3, 3-Centipede
+(Spear)GW_A04 : 3-Small Centipede-3, 3-Centipede
+(Inv)GW_A04 : 3-Small Centipede-3, 3-RedCentipede
+(Inv)GW_C06 : 3-Mimic, 4-Dropbug, 4-Salamander-{PreCycle}
+(Saint)GW_C06 : 3-Centipede-2, 4-Centipede, 4-Centipede-2, 4-Salamander-{PreCycle}
+(Rivulet)GW_A10 : 3-Leech-4, 3-TentaclePlant
+(Inv)GW_A10 : 3-Leech-7, 3-TentaclePlant
+(Saint)GW_A10 : 3-Sea Leech-7
+(Rivulet)GW_B03 : 4-Aquapede, 6-Leech-5, 6-Bro-{PreCycle}
+(Inv)GW_B03 : 6-Leech-10, 4-Leech-4, 5-Leech-14, 6-Bro-{PreCycle}
+(Saint)GW_B03 : 4-Sea Leech-3, 6-Bro-{PreCycle}
+(Rivulet)GW_C09 : 4-Bro, 6-Leech-29
+(Spear)GW_C09 : 4-Terror
+(Artificer)GW_C09 : 3-Bro, 4-Daddy
+(Saint)GW_C09 : 4-Sea Leech-9
+(Inv)GW_C09 : 3-Daddy-{AlternateForm}, 4-Daddy-{AlternateForm}
+(Saint)GW_A11 : 3-Centiwing-2
+(Inv)GW_A11 : 5-Mimic-{12}, 4-RedCentipede-2
+(Rivulet)GW_C03 : 4-Caramel
+(Saint)GW_C03 : 4-Caramel, 3-Centiwing-2
+(Inv)GW_C03 : 4-DropBug-2
+(Rivulet)GW_A12 : 2-Big Spider-2
+(Saint)GW_A12 : 2-DropBug-{Ignorecycle}
+(Inv)GW_A12 : 2-DropBug
+(Gourmand)GW_B02 : 4-RedCentipede
+(Inv)GW_B02 : 4-RedCentipede
+(Artificer)GW_B02 : 4-RedCentipede, 4-Daddy-{PreCycle}
+(Spear)GW_B02 : 4-Daddy-{PreCycle}
+(Inv)GW_A07 : 2-Leech-3
+(Saint)GW_A25 : 3-Lantern Mouse-3
+(Yellow)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Rivulet)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Red)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Artificer)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Spear)GW_EDGE02 : 5-Leech-12, 8-Leech-6
+(Yellow)GW_EDGE03 : 17-Leech-5, 18-Leech-8, 7-CicadaB-3, 8-CicadaA-4, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(Rivulet)GW_EDGE03 : 17-Leech-5, 18-Leech-8, 7-CicadaB-3, 8-CicadaA-4, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(Red)GW_EDGE03 : 17-Leech-9, 18-Leech-12, 7-CicadaB, 8-CicadaA-2, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(Artificer)GW_EDGE03 : 17-Leech-9, 18-Leech-12, 7-CicadaB, 8-CicadaA-2, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(Spear)GW_EDGE03 : 17-Leech-9, 18-Leech-12, 5-DropBug-2, 7-CicadaB, 8-CicadaA-2, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(Saint)GW_EDGE03 : 7-Lantern Mouse-5, 13-Big Spider-{Winter}-3, 17-Salamander-{PreCycle}, 18-Salamander-{PreCycle}
+(Rivulet)GW_EDGE04 : 3-Big Spider-3
+(Rivulet)GW_EDGE05 : 2-White
+(Saint)GW_EDGE05 : 2-DropBug-{Ignorecycle}-2
+(Artificer)GW_TOWER01 : 4-Blue
+(Spear)GW_TOWER01 : 4-Blue
+(Artificer)GW_TOWER07 : 3-DropBug
+(Spear)GW_TOWER07 : 3-DropBug
+(Artificer)GW_TOWER03 : 7-Garbage Worm-2, 2-Leech-10, 3-Leech-8
+(Spear)GW_TOWER03 : 7-Garbage Worm-2, 2-Leech-10, 3-Leech-8
+(Artificer)GW_B08 : 2-CicadaB, 3-CicadaA-2
+(Spear)GW_B08 : 2-CicadaB, 3-CicadaA-2
+(Artificer)GW_PIPE02 : 3-Leech-6, 4-Snail-2
+(Spear)GW_PIPE02 : 3-Leech-6, 4-Snail-2
+(Artificer)GW_A11_PAST : 5-Mimic-{12}, 4-Centipede-2
+(Spear)GW_A11_PAST : 5-Mimic-{12}, 4-Centipede-2
+(Artificer)GW_C04_PAST : 15-Garbage Worm-2, 7-Leech-3, 9-Leech-3, 11-Salamander-{PreCycle}-2
+(Spear)GW_C04_PAST : 15-Garbage Worm-2, 7-Leech-3, 9-Leech-3, 11-Salamander-{PreCycle}-2
+(Artificer)GW_D01_PAST : 7-Leech-8, 16-Garbage Worm-5, 5-Cyan-2, 8-Leech-7
+(Spear)GW_D01_PAST : 7-Leech-8, 16-Garbage Worm-5, 5-Cyan-2, 8-Leech-7
+(Artificer)GW_C02_PAST : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 9-Leech-7, 6-TentaclePlant-{PreCycle}, 6-Scavenger-{PreCycle,Seed:2837}
+(Spear)GW_C02_PAST : 13-Garbage Worm-4, 2-CicadaB-3, 3-Cyan, 9-Leech-7, 6-TentaclePlant-{PreCycle}, 6-Scavenger-{PreCycle,Seed:2837}
+(Artificer)GW_TOWER15 : 3-CicadaA-2, 4-CicadaB-3
+(Spear)GW_TOWER15 : 3-CicadaA-2, 4-CicadaB-3
+(Artificer)GW_TOWER08 : 3-Cyan-2
+(Spear)GW_TOWER08 : 3-Cyan-2
+(Artificer)GW_TOWER11 : 3-SpitterSpider-2
+(Spear)GW_TOWER11 : 3-SpitterSpider-2
+(Artificer)GW_TOWER10 : 3-Blue
+(Spear)GW_TOWER10 : 3-Blue
+(Artificer)GW_B09_PAST : 2-Leech-10, 4-Snail-2, 7-Garbage Worm-2
+(Spear)GW_B09_PAST : 2-Leech-10, 4-Snail-2, 7-Garbage Worm-2
+(Artificer)GW_PIPE03 : 2-Blue
+(Spear)GW_PIPE03 : 2-Blue
+(Artificer)GW_PIPE13 : 2-CicadaA-3, 3-CicadaB-6, 5-Leech-5, 4-Leech-8
+(Spear)GW_PIPE13 : 2-CicadaA-3, 3-CicadaB-6, 5-Leech-5, 4-Leech-8
+(Artificer)GW_PIPE12 : 5-Leech-12
+(Spear)GW_PIPE12 : 5-Leech-12
+(Artificer)GW_PIPE09 : 2-Centipede, 2-Small Centipede-3
+(Spear)GW_PIPE09 : 2-Centipede, 2-Small Centipede-3
+(Artificer)GW_PIPE07 : 4-Big Spider-2, 4-SpitterSpider
+(Spear)GW_PIPE07 : 4-Big Spider-2, 4-SpitterSpider
+(Artificer)GW_PIPE05 : 5-Centipede, 6-Small Centipede-3
+(Spear)GW_PIPE05 : 5-Centipede, 6-Small Centipede-3
+(Artificer)GW_C06_PAST : 3-Cyan-2, 8-Dropbug
+(Spear)GW_C06_PAST : 3-Cyan-2, 8-Dropbug
+(Artificer)GW_E02_PAST : 7-Cyan, 8-Red, 5-Mimic-{14}, 3-CicadaB-3, 4-CicadaA-2, 18-Garbage Worm-3
+(Spear)GW_E02_PAST : 7-Cyan, 8-Red, 5-Mimic-{14}, 3-CicadaB-3, 4-CicadaA-2, 18-Garbage Worm-3
+(Artificer)GW_C01_PAST : 5-Leech-7, 7-Leech-7, 2-CicadaB-2, 3-CicadaA-3
+(Spear)GW_C01_PAST : 5-Leech-7, 7-Leech-7, 2-CicadaB-2, 3-CicadaA-3
+(Artificer)GW_B01_PAST : 7-Leech-10, 10-Garbage Worm-2, 4-CicadaA-2, 4-CicadaB
+(Spear)GW_B01_PAST : 7-Leech-10, 10-Garbage Worm-2, 4-CicadaA-2, 4-CicadaB
+(Artificer)LINEAGE : GW_E02_PAST : 6 : NONE-0.05, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+(Spear)LINEAGE : GW_E02_PAST : 6 : NONE-0.05, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+(Artificer)LINEAGE : GW_A11_PAST : 4 : Centipede-0.5, Centipede-{0.7}-0.5, RedCentipede-0
+(Spear)LINEAGE : GW_A11_PAST : 4 : Centipede-0.5, Centipede-{0.7}-0.5, RedCentipede-0
+(Artificer)LINEAGE : GW_C04_PAST : 2 : EggBug-1, Cyan-0
+(Spear)LINEAGE : GW_C04_PAST : 2 : EggBug-1, Cyan-0
+(Yellow)LINEAGE : GW_C03 : 5 : Caramel-0.2, Strawberry-0.5, Red-0
+(Rivulet)LINEAGE : GW_C03 : 5 : Caramel-0.2, Strawberry-0.5, Red-0
+(Artificer)LINEAGE : GW_C03 : 5 : Green-0.2, Yellow-0.5, Red-0
+(Spear)LINEAGE : GW_C03 : 5 : Green-0.2, Yellow-0.5, Red-0
+(Saint)LINEAGE : GW_C03 : 5 : Caramel-0.2, Green-0.5, Red-0
+(Gourmand)LINEAGE : GW_B02 : 4 : White-0.3, BigSpider-0.3, SpitterSpider-0
+(Inv)LINEAGE : GW_B02 : 4 : White-0.3, BigSpider-0.3, SpitterSpider-0
+(Rivulet)LINEAGE : GW_B02 : 4 : Cyan-0.5, Strawberry-0.6, White-0
+(Saint)LINEAGE : GW_B02 : 4 : Big Spider-0.5, White-0
+(Inv)LINEAGE : GW_A11 : 3 : RedCentipede-0
+(Inv)LINEAGE : GW_C04 : 2 : Red-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

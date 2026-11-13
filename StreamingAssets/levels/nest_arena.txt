@@ -1,0 +1,50 @@
+DenGroup - DENS - 7,8,9,10
+DenGroup - CEILING - 4,5,6,7,8,9,10
+
+Creature - Green - dens:7,8 - chance:0.06
+Creature - Pink - dens:DENS - chance:0.05
+Creature - Pink - dens:DENS - chance:0.06
+Creature - Blue - dens:CEILING - chance:0.06
+Creature - Blue - dens:CEILING - chance:0.06
+Creature - Black - dens:DENS - chance:0.05
+Creature - Black - dens:DENS - chance:0.06
+Creature - White - dens:CEILING - chance:0.05
+Creature - White - dens:CEILING - chance:0.06
+
+Creature - Bro - dens:11 - symbol:C1 - chance:0.4
+Creature - Bro - dens:11 - symbol:C2 - chance:0.4
+Creature - Daddy - dens:11 - symbol:C3 - chance:0.15
+
+CreatureGroup - FEWSCAVS - chance:0.6
+Creature - Scavenger - dens:-1 - chance:1.0 - group:FEWSCAVS - amount:2
+
+CreatureGroup - SCAVS - symbol:A1 - chance:0.5
+Creature - Scavenger - dens:-1 - chance:0.8 - group:SCAVS - amount:6
+
+CreatureGroup - BLUES - symbol:A2 - chance:0.5
+Creature - Blue - dens:DENS - chance:0.9 - group:BLUES - amount:3-4
+
+CreatureGroup - YELLOWS - symbol:A3 - chance:0.25
+Creature - Yellow - dens:DENS - chance:0.8 - group:YELLOWS - amount:3-4
+
+CreatureGroup - MICE - invSymbol:B1 - chance:0.3
+Creature - Mouse - dens:DENS - chance:1.0 - group:MICE - amount:3-4
+
+CreatureGroup - CENTIS - invSymbol:B2 - chance:0.4
+Creature - Centipede - dens:CEILING - chance:1.0 - group:CENTIS - amount:3-4
+
+CreatureGroup - SPIDERS - invSymbol:B3
+Creature - Spitter Spider - dens:CEILING - chance:1.0 - group:SPIDERS - amount:3
+Creature - Big Spider - dens:CEILING - chance:1.0 - group:SPIDERS - amount:2-3
+
+Creature - Big Spider - dens:CEILING - chance:0.2
+Creature - Spitter Spider - dens:CEILING - chance:0.2
+
+Creature - Vulture - dens:-1 - chance:0.2 - RARE
+Creature - KingVulture - dens:-1 - chance:0.025 - RARE
+
+Creature - DropBug - dens:DENS - chance:0.11
+Creature - DropBug - dens:DENS - chance:0.05
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:DENS - chance:0.3 - amount:2-3 - group:CYANS

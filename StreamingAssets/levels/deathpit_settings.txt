@@ -1,0 +1,13 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.5652174
+Clouds: 0.5652174
+RandomItemDensity: 0.8369565
+RandomItemSpearChance: 0.9391304
+Palette: 4
+EffectColorA: 2
+EffectColorB: 2
+PlacedObjects: MultiplayerItem><150.8202><92.17195><Spear~17.32051~-10~1, MultiplayerItem><556.1548><91.94331><Spear~17.32051~-10~1, MultiplayerItem><747.7761><49.58201><Spear~17.32051~-10~1, MultiplayerItem><353.7234><46.32115><Spear~17.32051~-10~1, MultiplayerItem><245.4326><97.67825><Spear~17.32051~-10~1, MultiplayerItem><530.483><103.9347><Bomb~10.32037~129.5862~0.05800131, MultiplayerItem><709.4319><53.14852><ExplosiveSpear~134.1065~99.87794~0.1207037, MultiplayerItem><310.666><51.60246><ExplosiveSpear~-93.27475~173.7462~0.08490123, MultiplayerItem><640.1561><91.6788><ExplosiveSpear~17.32051~-10~0, MultiplayerItem><731.5552><54.01022><ExplosiveSpear~17.32051~-10~0.09782609, MultiplayerItem><335.2125><50.9439><ExplosiveSpear~17.32051~-10~0.09782609, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><824.87><630.59><0.4891304><0.9804348, OMNI><AM_ENV-LightWind.ogg><651.476><627.6985><0.4021739><1, 
+FadePalette: 9, 0.2934783
+RoomSpecificScriptActive: ON

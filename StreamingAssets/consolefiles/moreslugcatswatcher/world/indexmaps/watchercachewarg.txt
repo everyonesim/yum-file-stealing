@@ -1,0 +1,5 @@
+
+warg_g05:2:False:False,warg_g21:2:False:False,warg_g28:2:False:False,warg_g30:2:False:False,warg_o06_future:2.5:False:False,warg_w02:2:False:False
+warg_a05_future,warg_g21,warg_w04
+warg_a06_future:0:0:wtdb_a04,warg_b31:0:0:wtda_a13,warg_d06_future:0:0:ward_e01,warg_h20:1:1:NULL,warg_w11:0:0:wskd_b12
+warg_a01_future:1,warg_a02_future:2,warg_a05_future:1,warg_b29_future:2,warg_b36:3,warg_g07:1,warg_g08:2,warg_g12:1,warg_g16:1,warg_g17:1,warg_g21:8,warg_i10_future:1,warg_o02_future:2,warg_o03_future:2,warg_o06_future:5,warg_o13_future:1,warg_o14_future:1,warg_w01:5,warg_w06:1,warg_w07:3,warg_w08:2,warg_w12:1,warg_w13:2

@@ -1,0 +1,84 @@
+Palette: 23
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.0
+overseersMin: 0
+overseersMax: 4
+playerGuideOverseerSpawnChance: 0.0
+pupSpawnChance: 0.0
+earlyCycleChance: 0.0
+earlyCycleFloodChance: 0.0
+Room_Attr: GATE_UW_SS: Inspector-Forbidden,
+Room_Attr: GATE_SS_UW: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_D08: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_S04: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_E08: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_D07: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_L01: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_AI: Overseer-Like,Inspector-Forbidden,
+Room_Attr: SS_E07: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_E06: Overseer-Forbidden,Inspector-Forbidden,
+Room_Attr: SS_C08: Inspector-Forbidden,
+Room_Attr: SS_A14: Inspector-Like,
+Room_Attr: SS_LAB13: Inspector-Like,
+Room_Attr: SS_D02: Overseer-Forbidden,Inspector-Like,
+Room_Attr: SS_LAB8: Overseer-Forbidden,Inspector-Like,
+Room_Attr: SS_LAB1: Inspector-Like,
+Room_Attr: SS_LAB6: Inspector-Avoid,
+Room_Attr: SS_A17: Inspector-Forbidden,
+Room_Attr: SS_E03: Inspector-Like,
+Room_Attr: SS_LAB3: Inspector-Avoid,
+Room_Attr: SS_LAB12: Inspector-Forbidden,
+Room_Attr: SS_LAB11: Inspector-Avoid,
+Room_Attr: SS_LAB10: Inspector-Avoid,
+Room_Attr: SS_LAB5: Inspector-Forbidden,
+Room_Attr: SS_LAB4: Inspector-Forbidden,
+Room_Attr: SS_E05: Inspector-Forbidden,
+Room_Attr: SS_I03: Overseer-Forbidden,Inspector-Like,
+Room_Attr: SS_C07: Overseer-Forbidden,Inspector-Avoid,
+Room_Attr: SS_C03: Inspector-Like,
+Room_Attr: SS_B02: Inspector-Forbidden,
+Room_Attr: SS_S05: Inspector-Forbidden,
+Room_Attr: SS_A16: Inspector-Forbidden,
+Room_Attr: SS_A03: Inspector-Forbidden,
+Room_Attr: SS_A15: Inspector-Forbidden,
+Room_Attr: SS_E02: Inspector-Avoid,
+Room_Attr: SS_A04: Inspector-Forbidden,
+Room_Attr: SS_B06: Inspector-Forbidden,
+Room_Attr: SS_A11: Inspector-Avoid,
+Room_Attr: SS_D03: Inspector-Like,
+Room_Attr: SS_D04: Inspector-Forbidden,
+Room_Attr: SS_C04: Inspector-Avoid,
+Room_Attr: SS_C06: Inspector-Forbidden,
+Room_Attr: SS_H01: Inspector-Like,
+Room_Attr: SS_F02: Inspector-Avoid,
+Room_Attr: SS_S02: Inspector-Forbidden,
+Room_Attr: SS_B03: Inspector-Forbidden,
+Room_Attr: SS_E01: Inspector-Forbidden,
+Room_Attr: SS_F01: Inspector-Forbidden,
+Room_Attr: SS_C02: Inspector-Like,
+Room_Attr: SS_I02: Inspector-Like,
+Room_Attr: SS_A10: Inspector-Forbidden,
+Room_Attr: SS_A09: Inspector-Forbidden,
+Room_Attr: SS_B01: Inspector-Forbidden,
+Room_Attr: SS_A08: Inspector-Forbidden,
+Room_Attr: SS_A19: Inspector-Forbidden,
+Room_Attr: SS_S01: Inspector-Forbidden,
+Room_Attr: SS_B05: Inspector-Forbidden,
+Room_Attr: SS_D06: Inspector-Like,
+Room_Attr: SS_A18: Inspector-Forbidden,
+Room_Attr: SS_F03: Inspector-Like,
+Room_Attr: SS_B04: Inspector-Forbidden,
+Room_Attr: SS_S03: Inspector-Forbidden,
+Room_Attr: SS_A13: Inspector-Forbidden,
+Room_Attr: SS_E04: Inspector-Forbidden,
+Room_Attr: SS_D05: Inspector-Forbidden,
+Room_Attr: OffScreenDen_SS: Inspector-Forbidden,
+Room Setting Templates: Mech, Corrupt
+Subregion: Five Pebbles
+Subregion: Five Pebbles (Memory Conflux)
+Subregion: Five Pebbles (Recursive Transform Array)
+Subregion: Five Pebbles (Unfortunate Development)
+Subregion: Five Pebbles (General Systems Bus)

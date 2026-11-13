@@ -1,0 +1,5 @@
+wpta_f03:14:wara_p08
+wpta_b06:4.5:False:False,wpta_d03:4:False:False,wpta_f01:4.5:False:False,wpta_g01:4:False:False
+wpta_a02
+wpta_c05:1:1:NULL,wpta_c07:0:0:wvwa_h01
+wpta_b04:2,wpta_b09:2,wpta_c01:3,wpta_c02:2,wpta_c03:5,wpta_d01:5,wpta_d02:2,wpta_d04:3,wpta_e01:5,wpta_f01:5

@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.7282609
+Grime: 0.1086956
+RandomItemSpearChance: 0.123913
+Palette: 12
+Effects: BkgOnlyLightning-0.5760869-20-20, 
+PlacedObjects: LanternOnStick><1122.381><214.454><5~-157, LanternOnStick><1306.49><128.0818><16~-98, LanternOnStick><981.5403><165.7235><8~-81, LanternOnStick><482.9282><209.5728><-35~-148, LanternOnStick><748.2819><199.3179><-22~-101, InsectGroup><552.2549><680.9277><234~-57~-156.989~-106.0012~FireFly~0.07701805, InsectGroup><1271.892><713.3686><233~-35~-109~-9.868225~FireFly~0.07636692, MultiplayerItem><1271.368><645.9911><Spear~-108.6794~-387.8162~0.834882, MultiplayerItem><1119.797><592.929><Spear~42.3205~-508.9346~0.834882, MultiplayerItem><995.4314><633.7261><Spear~-109.6795~-372~0.834882, MultiplayerItem><705.2228><610.2829><Spear~-395.6795~-342~0.834882, MultiplayerItem><410.5414><659.4521><Spear~-147.6795~-311~0.834882, MultiplayerItem><287.795><696.3076><Spear~-31.67949~-274~0.2934797, MultiplayerItem><956.9859><629.4495><Spear~-580.6795~-543.0031~0.7934796, MultiplayerItem><936.0659><641.7706><ExplosiveSpear~-42.6795~-558.174~0.162928, MultiplayerItem><860.1287><595.3419><Spear~-219.6795~-514.1603~0.7499993, PlayerPushback><1560.009><803.4337><-45~-27, PlayerPushback><203.1139><801.2916><47~-21, NoSpearStickZone><1552.211><698.8176><0~100, NoSpearStickZone><210.0135><714.472><0~100, MultiplayerItem><1419.408><698.1276><Spear~-119.6795~-128~0.2826087, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><819.3923><629.6406><0.4891304><1, OMNI><AM_RAIN-QuietThunder.ogg><635.6234><627.5952><0.5><1, 
+FadePalette: 10, 0.5652174

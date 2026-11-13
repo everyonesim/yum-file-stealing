@@ -1,0 +1,231 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|Halte UNTEN und die Spezialtaste gleichzeitig gedrückt, um einen Weg zum gewählten Ziel zu erstellen
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|AUFWÄRTS und SPEZIAL ohne eine Karmablume zu halten, ist gefährlich.
+creaturetype-MothGrub|Mottenlarve
+Unfortunate Evolution|Beklagenswerte Evolution
+creaturetype-Barnacle|Seepocke
+creaturetype-SandGrub|Sandmade
+creaturetype-SkyWhale|Himmelswal
+creaturetype-RotLoach|Moderkoloss
+creaturetype-RippleSpider|Wellenspinne
+Press VIEW to cancel warp|Drücke auf die ANSICHT-Taste, um den Sprung abzubrechen
+creaturetype-IndigoLizard|Indigoblaue Echse
+creaturetype-GrappleSnake|Greifschlange
+creaturetype-PeachLizard|Pfirsichfarbene Echse
+The Crown upon the thorn|Die Krone auf dem Dorn
+creaturetype-BigSandGrub|Sandwurm
+objecttype-Pomegranate|Granatapfel
+creaturetype-DrillCrab|Bohrkrebs
+creaturetype-SmallMoth|Kleine Motte
+creaturetype-Millipede|Tausendfüßler
+objecttype-GraffitiBomb|Graffiti-Bombe
+The Lantern in the dusk|Die Laterne in der Dämmerung
+creaturetype-FireSprite|Feuerkobold
+creaturetype-Tardigrade|Wasserbär
+Press PAUSE BUTTON to cancel warp|Drücke auf PAUSE, um den Sprung abzubrechen
+The paths overflow beyond measure|Die Pfade erstrecken sich ins Unermessliche.
+Oh such enthusiasm! I am honored!|Oh, diese Begeisterung! Ich fühle mich geehrt!
+Press + Button to cancel warp|Drücke auf den Plus-Knopf, um den Sprung abzubrechen
+Press - Button to cancel warp|Drücke auf den Minus-Knopf, um den Sprung abzubrechen
+watcher-character-description|Ein Außenseiter, allein und unnahbar. Ein Beobachter, der sich nicht einmischt.<LINE>Diese Distanz eröffnet neue Perspektiven und neue Verbindungen. Eine Reise wie keine andere.
+creaturetype-ScavengerTemplar|Aasfresser-Templer
+Press OPTIONS BUTTON to cancel warp|Drücke auf die OPTIONS-Taste, um den Sprung abzubrechen
+A presence already binds this place|Dieser Ort ist bereits von einer Präsenz erfüllt.
+This fringe is already too unstable|Dieser Rand ist schon zu instabil.
+Nothing to waste, every bit counts!|Man soll nichts verschwenden, jedes Bisschen zählt!
+SPECIAL button - Hold to warp to selected region|Spezialtaste – Halten, um in die ausgewählte Region zu springen
+Free them. They will show you the way.|Befreie sie. Sie werden dir den Weg zeigen.
+The Child forsaken to time|Das der Zeit überlassene Kind
+objecttype-FireSpriteLarva|Feuerkoboldlarve
+THE WATCHER|DER HÜTER
+The Watcher|Der Hüter
+Coral Caves|Korallengrotten
+The Surface|Die Oberfläche
+Hydroponics|Hydrokultur
+Watcher|Hüter
+Outer Rim|Randzone
+Deep Reef|Tiefes Riff
+Rusted Wrecks|Rostige Wracks
+Torrid Desert|Sengende Wüste
+Thermal Relay|Thermorelais
+Station Annex|Stationsanlage
+Signal Spires|Signaltürme
+Ancient Urban|Altes Stadtviertel
+Stormy Coast|Stürmische Küste
+Cold Storage|Frostlager
+Tundra Fault|Tundra-Verwerfung
+Aether Ridge|Ätherkamm
+Pillar Grove|Säulenhain
+Turbulent Pump|Turbulente Pumpe
+Desolate Tract|Trostlose Ebene
+Aerial Tramway|Seilbahn
+Fallen Tramway|Gefallene Seilbahn
+Sunbaked Alley|Sonnengasse
+Migration Path|Migrationspfad
+Blast Deck|Druckdeck
+Ridgeworks|Großer Grat
+Salination|Salzebene
+Heat Ducts|Wärmekanal
+Fetid Glen|Stinkende Schlucht
+The Throne|Der Thron
+Marvelous!|Wunderbar!
+Shattered Terrace|Zertrümmerte Terrasse
+Verdant Waterways|Grüne Wasserwege
+Crumbling Fringes|Bröckelnde Ränder
+creaturetype-Frog|Frosch
+LeaveSpinningTop1|HOA! Schau! Es ist zu dumm, um überhaupt achtzugeben! HOAHOAHOAHOA!
+LeaveSpinningTop2|HOA!! Wie unverschämt!! Ich wollte ihm ein Geschenk machen.
+DieAtSpinningTop1|HOAHOAHOA!! JA!! Geh zurück in den Boden!! Was für ein Idiot!! HOAHOAHOAHOAHOA!
+DieAtSpinningTop2|HOA! Schau!! Sie haben dich schon gekriegt! HOAHOAHOAHOAHOA!
+DieAtSpinningTop3|HOAHOAHOAHOAHOA!! Und hier anscheinend auch?? Zu dumm zum Leben, zu einfältig zum Sterben.<LINE>Wie langweilig! Bäh! Ich gehe jetzt.
+So vital! Hah ha!|So lebendig! Hah ha!
+Badlands|Ödland
+Decaying Tunnels|Zerfallene Tunnel
+creaturetype-Rat|Ratte
+Ah! So spirited!|Ah! So temperamentvoll!
+Infested Wastes|Verseuchte Wüste
+Shrouded Stacks|Vernebelte Stapel
+Corrupted Factories|Marode Fabriken
+Torrential Railways|Reißende Eisenbahn
+creaturetype-Angler|Seeteufel
+Daemon|Dämon
+Fractured Gateways|Zerbrochene Tore
+creaturetype-Loach|Schmerle
+Oh, show me again!|Oh, zeig es mir noch mal!
+creaturetype-BigMoth|Große Motte
+creaturetype-BoxWorm|Kistenwurm
+creaturetype-Rattler|Knochenrüttler
+objecttype-Boomerang|Bumerang
+creaturetype-ScavengerDisciple|Aasfresser-Jünger
+Oh, you have brought sundries?|Oh, du hast etwas mitgebracht?
+Never again will you be alone.|Du wirst nie mehr allein sein.
+Oh, my friend, you have grown!|Oh, mein Freund, du bist gewachsen!
+creaturetype-BlizzardLizard|Schneesturmechse
+creaturetype-BasiliskLizard|Basiliskenechse
+Hold the SPECIAL button to camouflage from predators|Halte die SPEZIALTASTE, um dich vor Raubtieren zu tarnen.
+Hold UP and SPECIAL together to form new random paths|Halte AUFWÄRTS und SPEZIAL, um neue zufällige Pfade zu formen.
+Delight! For you will be exalted in this new kingdom!|Welch eine Freude! In diesem neuen Königreich wirst du erhöht!
+This will consume the effect of a karma flower in the process|Dies verbraucht den Effekt einer Karmablume.
+However, this can also form new random paths in a pinch|Allerdings kannst du so im Notfall auch neue zufällige Pfade formen.
+You can leave them here if you wish, as a contribution.|Du kannst es hier lassen, wenn du möchtest, als Spende.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Vorstöße in neue Gebiete fordern ihren Tribut, aber Schlaf kann dir helfen, dich zu erholen.
+Traveling too deep without resting will have consequences|Wenn du zu lange ohne Pause unterwegs bist, hat das Konsequenzen.
+This remains a place of rest|Dies bleibt ein Ort der Ruhe.
+It is a joy to see you play!|Es ist eine Freude, dich spielen zu sehen!
+My processes will dissolve them to their base components and those components will be added to the mass.|Meine Prozesse werden sie in ihre Bestandteile zerlegen und der Masse hinzufügen.
+Ahh yes! The paths! How wonderous!|Ahh, ja! Die Pfade! Wie wunderlich!
+How auspicious it was, our meeting...|Was für ein Glück verheißendes Treffen ...
+Forgive me if I cannot respond in kind. This body is so limited...|Verzeih mir, dass ich nicht mitmachen kann. Dieser Körper ist so einschränkend ...
+How I have wished for this day. My dear friend, welcome.|Wie sehr habe ich mich nach diesem Tag gesehnt. Mein lieber Freund, willkommen.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Um stark und schnell zu bleiben, ist eine stetige Zufuhr von Fleisch erforderlich.<LINE>Doch der Hunger wird nicht dein einziges Problem sein ... Dieser Pfad ist extrem<LINE>gefährlich, denn jeder Zyklus zehrt an einem ominösen Countdown.
+Custom colors|Benutzerdefinierte Farben
+tips-distract|Wenn ein Raubtier dir den Weg versperrt, kannst du verschiedene Taktiken einsetzen.<LINE>Lenke es ab, locke es mit Geräuschen weg, nutze einen Köder,<LINE>den es statt dir fressen kann, usw.
+tips-hoarding|Wenn deine Nahrung voll ist, kannst du in deinem Unterschlupf<LINE>zusätzliche Vorräte verstauen, um es bei nachfolgenden Zyklen einfacher zu haben.
+tips-prepared|Reise nicht mit leeren Händen. Gegenstände sofort zur Verfügung zu haben, kann<LINE>über Leben und Tod entscheiden ... Du weißt nie, wann du sie brauchen wirst.
+tips-backflip|Ändere schnell deine Bewegungsrichtung und drücke gleichzeitig die Sprungtaste,<LINE>um einen Rückwärtssalto zu vollführen, mit dem du ein wenig höher springen kannst<LINE>als mit einem normalen Sprung. Bei der Landung aus einem<LINE>Rückwärtssalto kannst du auch eine Rolle ausführen.
+tips-vertpole|Wirf am höchsten Punkt eines Rückwärtssaltos einen Speer nach unten,<LINE>um eine vertikale Stange im Boden zu verankern. So kannst du neue Orte erreichen.
+tips-wanderer|Der Wanderer hat die ganze Welt gesehen und alles, was sie zu bieten hat.<LINE>Für ihn ist jede Reise wie ein kleiner Schritt.
+Body|Körper
+Eyes|Augen
+HIGH|HOCH
+Restore Default|Standard wiederherstellen
+Back to options|Zurück zu den Optionen
+tips-spearstick|Du kannst Speere in Oberflächen stecken, um Kletterstangen zu erzeugen.<LINE>So kannst du neue Wege öffnen und zuvor unerreichbare Orte erreichen.
+tips-batharvest|Du kannst Flederfliegen mit Geschossen aus der Luft schlagen, um sie leichter zu fangen,<LINE>oder mit einem Speer mehrere auf einmal aufspießen.
+tips-reputation|Deine Handlungen entscheiden über dein Ansehen bei den Bewohnern des Ökosystems.<LINE>Sei selbst zu deinen Feinden großzügig – vielleicht wird der Gefallen erwidert.<LINE>Andernfalls könntest du irgendwann von allen gejagt werden.
+tips-throwboost|Wenn du während eines Sprungs einen Gegenstand wirfst, wirst du leicht in Wurfrichtung beschleunigt.<LINE>So kannst du die Reichweite deiner Sprünge erhöhen.
+tips-tunnelturn|Halte die Sprungtaste und deine entgegengesetzte Blickrichtung,<LINE>während du durch einen engen Gang kriechst,<LINE>um dich umzudrehen. Wenn du in Blickrichtung kriechst, bist du schneller.
+tips-powerthrow|Wenn du während des Rutschens einen Speer vorwärts wirfst, hat der Speer<LINE>mehr Tempo und Aufschlagkraft. So kannst du Kreaturen länger<LINE>betäuben und bestimmte Verteidigungen durchbrechen.
+tips-superslide|Wirf während des Rutschens einen Gegenstand nach hinten,<LINE>um wesentlich weiter zu rutschen.
+tips-wallpounce|Springe auf eine Wand zu und drücke in dem Moment, in dem du sie erreichst,<LINE>die Sprungtaste, während du in Richtung der Wand gedrückt hältst,<LINE>um bei Wandsprüngen wesentlich stärker abzuprallen.
+HUE|FARBTON
+SAT|SÄTTIGUNG
+LIT|HELLIGKEIT
+LOW|NIEDRIG
+CHOOSE|AUSWÄHLEN
+MEDIUM|MITTEL
+Oh no.|Oh nein.
+Analog Sensitivity|Analoge Empfindlichkeit
+tips-deathrecovery|Die Nahrungskette ist komplex. Wenn du von einer Kreatur gepackt wirst,<LINE>könntest du Glück haben – vielleicht lässt sie dich wieder los, wenn sie<LINE>in einen Kampf gerät oder selbst gefressen wird.
+tips-utilitycreats|Nicht alle Wesen sind Raubtiere, vor denen du dich in Acht nehmen musst.<LINE>Es gibt auch viele Wesen, die dir bei deinem Abenteuer behilflich sein können.
+FPS Limit|FPS-Limit
+Unlimited|Unbegrenzt
+tips-drop|Drücke gleichzeitig Unten und die Aufnehmentaste,<LINE>um den Gegenstand in deiner Hand auf den Boden zu legen, ohne ihn zu werfen.
+tips-roll|Wenn du aus großer Höhe fällst, dann halte diagonal nach unten, um bei der Landung<LINE>eine Rolle auszuführen. Das mildert den Aufprall<LINE>und verleiht dir zusätzliche Beweglichkeit.
+tips-swim|Schwimme unter Wasser in einer kontrollierten Schlangenbewegung, um schneller zu schwimmen.<LINE>Wackele dafür mit dem Körper rhythmisch nach oben und unten oder nach links und rechts.
+tips-monk|Der Mönch geht den Weg eines Beutetiers. Er sucht in der Wildnis nach Nahrung,<LINE>um zu überleben, aber in einer Welt voller Raubtiere ist er ständig in Gefahr.
+Quality|Qualität
+Backgrounds|Hintergründe
+tips-crouch|Du brauchst nicht Unten zu halten, um geduckt zu bleiben. Drücke einmal kurz Unten,<LINE>um in die Kriechhaltung zu gehen, und drücke dann kurz Oben, um wieder aufzustehen.
+tips-escape|Es ist oft besser, Konfrontationen und Kämpfen aus dem Weg zu gehen, wenn die Möglichkeit besteht.<LINE>Viele Raubtiere sind stark und gefährlich, also sei lieber vorsichtig.
+tips-cheese|Du kannst Rohre einsetzen, um deinen Standort mit einem Raubtier zu tauschen, das dich verfolgt.<LINE>So kannst du es leicht von deiner Fährte abbringen.
+tips-cannon|Drücke beim Austritt aus einem Rohr die Sprungtaste,<LINE>um dich schnell aus dem Rohr zu katapultieren.
+tips-martyr|Der Märtyrer schert sich nicht um sein eigenes Überleben und verkümmert,<LINE>bis sein Körper zu Staub zerfällt.
+tips-hunter|Der Jäger geht den Weg des Raubtiers, aber in dieser grausamen<LINE>und gefühllosen Welt garantiert seine Jagdbeute nicht immer sein Überleben.
+tips-outlaw|Der Gesetzlose lebt für den Kampf. Er tötet jeden, der sich ihm nähert, egal ob Freund oder Feind.
+tips-friend|Der Freund liebt alle anderen und das Unbekannte. Die Welt ist grausam und unerbittlich,<LINE>aber gemeinsam kann man in ihr Trost und Schutz finden.
+Old tongue controls?|Alte Zungensteuerung?
+Enable wallpouncing?|Wandsprünge aktivieren?
+Enable speedrun timer?|Speedrun-Timer aktivieren?
+CONFIGURE TITLE SCREEN|TITELBILDSCHIRM KONFIGURIEREN
+Keep your friend safe!|Bewahre deinen Freund vor Schaden!
+I must resume my work.|Ich muss weiterarbeiten.
+Enable shelter item transport?|Gegenstandstransport zum Unterschlupf aktivieren?
+<CapPlayerName>, are you okay?|<CapPlayerName>, geht es dir gut?
+Enable slug senses?|Schneckensinne aktivieren?
+CONFIGURE SUB MENUS|UNTERMENÜS KONFIGURIEREN
+Show tips between cycles?|Tipps zwischen Zyklen anzeigen?
+Enable Developer Commentary?|Entwicklerkommentare aktivieren?
+Change graphics quality|Grafikqualität ändern
+Take your pet with you.|Nimm dein Haustier mit.
+Change menu background images|Menü-Hintergrundbilder ändern
+Display a speedrun timer at the top of the screen during gameplay?|Während des Spiels einen Speedrun-Timer am oberen Bildschirmrand anzeigen?
+Activate tongue abilities with the throw button instead of the jump button?|Die Zungensteuerung durch die Wurftaste statt durch die Sprungtaste aktivieren?
+Allow passages to transport key items in your shelter to your new destination?|Passagen erlauben, um wichtige Gegenstände in deinem Unterschlupf zu deinem neuen Ziel zu transportieren?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Kreaturen und wichtige Gegenstände in der Nähe als Symbole auf der Gedächtniskarte der Schneckenkatze anzeigen?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Die Fähigkeit der Wandsprünge der Schneckenkatze in den alten Versionen von Rain World aktivieren?
+Spawn developer commentary collectables in the single player campaigns?|Entwicklerkommentare in Einzelspielerkampagnen als Sammelobjekte aktivieren?
+Periodically show survival hints and explain gameplay mechanics for new players?|Zwischendurch Überlebenstipps anzeigen und Spielmechaniken für neue Spieler erklären?
+Configure the background image used on the title screen|Konfiguriere das Hintergrundbild für den Titelbildschirm.
+Configure the background image used in the sub menus|Konfiguriere das Hintergrundbild für die Untermenüs.
+Wiggling around quickly might startle this creature.|Dieses Wesen kann leicht erschrecken, wenn du schnell herumwackelst.
+I am afraid to ask how you brought your friend here.|Ich traue mich kaum zu fragen, wie du deinen Freund hier hereinbekommen hast.
+tips-clock|Drücke die Kartentaste, um weitere Informationen zu sehen, zum Beispiel deine Nahrungsleiste.<LINE>Der gepunktete Kreis links unten zeigt die Zeit bis zum Regen an.<LINE>Lass ihn nicht aus den Augen!
+tips-rocks|Steine sind zwar keine tödliche Waffe, aber sie können vielfältig eingesetzt werden.<LINE>Du kannst mit ihnen ablenken, abwehren, entwaffnen, betäuben,<LINE>Schwachstellen aufdecken, Kreaturen von Stangen und Vorsprüngen stoßen usw.
+tips-audio|Drohende Gefahren werden oftmals zuerst durch Geräusche angezeigt,<LINE>noch bevor sie sichtbar sind. Hör gut zu.
+tips-slide|Drücke diagonal nach unten und gleichzeitig die Sprungtaste, während du dich bewegst,<LINE>um zu rutschen. So kannst du über den Boden rutschen<LINE>und für kurze Zeit schneller vorankommen.
+tips-noise|Andere Wesen können deine Anwesenheit nicht nur sehen, sondern auch hören.<LINE>Versuche, leise zu sein, sonst könntest du unerwünschte Aufmerksamkeit erregen.
+tips-saint|Der Heilige wählt den Weg des Friedens.<LINE>Jemanden anders zu verletzen bedeutet, sich selbst zu verletzen.
+tips-nomad|Der Nomade lebt in einer sich ständig verändernden Welt. Er lebt ein Leben<LINE>endloser Schritte auf einer ewigen Reise zu einem unbekannten Ziel.
+Calm down!|Beruhige dich!
+tips-pipeflash|Rohröffnungen blinken, wenn auf der anderen Seite Gefahr droht.<LINE>Die Farbe des Blinkens ist ein Hinweis auf die Art der Gefahr.
+tips-foodtypes|Flederfliegen und hängendes Obst sind bei Weitem nicht die einzigen Nahrungsquellen.<LINE>Einige Pflanzen und Kreaturen sind essbar, aber nur unter bestimmten Bedingungen.<LINE>Probiere verschiedene Dinge aus.
+tips-handorder|Der Gegenstand in deiner rechten Hand ist dein Hauptgegenstand und wird<LINE>zuerst verwendet oder geworfen. Drücke die Aufnehmentaste, um die<LINE>Gegenstände in deinen Händen auszutauschen.
+tips-slideleap|Drücke während des Rutschens oder während einer Rolle die Sprungtaste,<LINE>um die Bewegung zu einem weiten Sprung zu verketten. So erhöhst du deine<LINE>Beweglichkeit und kannst schnell große Entfernungen überwinden.
+tips-turnboost|Ändere schnell deine Bewegungsrichtung, um für kurze Zeit einen kleinen Temposchub in<LINE>die neue Richtung zu erhalten. Hüpfe danach<LINE>mehrmals, um den Temposchub zu verlängern.
+tips-chieftain|Der Häuptling hat sich der Stärke und Gemeinschaft im Angesicht des Unbekannten verschrieben.<LINE>Er ist Teil dieser Welt geworden, und mithilfe seiner Verbundenheit wird er überleben.
+tips-swallow|Du kannst kleine, nicht essbare Gegenstände in deinem Magen verstauen, indem du<LINE>einige Sekunden lang die Aufnehmentaste drückst. Halte sie erneut,<LINE>um den Gegenstand wieder herauszuwürgen.
+tips-breathe|Achte auf deine Atmung, bevor du ins Wasser springst und tauchst. Wenn du schwer atmest,<LINE>dann bleibe kurz stehen, um wieder zu Atem zu kommen.
+tips-polehop|Drücke genau vor der Landung auf einer horizontalen Stange die Sprungtaste,<LINE>um von der Stange abzufedern. Diese Bewegung kannst du verketten,<LINE>um schnell von Stange zu Stange zu springen.
+tips-scholar|Der Lehrling versucht, die Welt zu verstehen, wie sie einst war.<LINE>Er blickt in eine kristallisierte Vergangenheit und findet darin neuen Lebenszweck.
+tips-deathpenalty|Bevor du für dein Abenteuer bereit bist, ist es nicht wichtig, ob du stirbst. Nimm dir Zeit,<LINE>ohne Rücksicht auf Verluste zu experimentieren, zu erkunden, die örtlichen Gegebenheiten<LINE>zu erforschen, Nahrungsquellen zu entdecken usw.
+tips-shelterstore|In Unterschlüpfen verstaute Gegenstände bleiben von einem Zyklus zum nächsten erhalten<LINE>und verschwinden auch nicht, wenn du die Region verlässt. Unterschlüpfe sind<LINE>die einzige Möglichkeit, wertvolle Gegenstände vor dem Regen zu bewahren!
+tips-dragonslayer|Der Drachentöter liebt die Jagd. Er hat sich die Monster dieser Welt untertan gemacht.
+What did you do!?|Was hast du getan?!
+Stop it! Go away!|Hör auf! Verschwinde!
+tips-tunnelboost|Drücke kurz die Sprungtaste, während du durch einen engen Gang kriechst,<LINE>um deine Geschwindigkeit leicht zu erhöhen.
+tips-slidecancel|Drücke während des Rutschens schnell die Sprungtaste und gleichzeitig<LINE>deine entgegengesetzte Bewegungsrichtung. So brichst du das Rutschen<LINE>ab und kehrst zum Ausgangspunkt zurück.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|Manche Gegenstände bieten Einsatzmöglichkeiten, die nicht sofort offensichtlich sind. Experimentiere mit allem, was du findest.
+There are many paths to explore in this world.|In dieser Welt gibt es viele Pfade zu erforschen.
+If you are struggling, try returning to a previous region.|Wenn du nicht weiterkommst, dann versuche es in einer Region, die du bereits kennst.
+You may find a new path forward, or discover something that makes your survival here easier.|Vielleicht findest du einen neuen Weg nach vorn oder findest etwas, das dein Überleben erleichtert.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|Aber es gibt nichts, was dich daran hindert, die Herausforderungen dieser Region in deinem jetzigen Zustand zu überwinden.
+Your friend is very large, how did you fit them in here?|Dein Freund ist sehr groß. Wie hast du es geschafft, das er hier hereinpasst?
+How did you bring that in here... I think it is as surprised as I am!|Wie hast du das hier hereinbekommen? Ich glaube, es ist genauso überrascht wie ich!
+Oh, that is not a friend...|Oh, das ist nicht mein Freund ...
+Oh...|Oh ...
+I do enjoy the company of you and your friend though, <PlayerName>.|Aber ich mag die Gesellschaft von dir und deinem Freund, <PlayerName>.
+Is this your friend, <PlayerName>?|Ist das dein Freund, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Alles Gute dir und deinem Gefährten. Ich kann sonst nichts mehr tun.
+Please do not bring more wildlife into my chamber.|Bitte bring nicht noch mehr wilde Tiere in meine Kammer.
+How did you fit them inside here anyhow?|Wie hast du den überhaupt hier hereinbekommen?
+Take your friend with you. Please. I beg you.|Nimm deinen Freund und geh. Bitte. Ich flehe dich an.

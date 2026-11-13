@@ -1,0 +1,231 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|同時按住「下方向鍵」與「特殊按鍵」以建立前往所選目的地的路徑
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|在沒有業力之花的時候，同時按住「上鍵」和「特殊」鍵非常不穩定，也十分危險
+creaturetype-MothGrub|幼蛾
+Unfortunate Evolution|不幸演化
+creaturetype-Barnacle|藤壺
+creaturetype-SandGrub|沙螬
+creaturetype-SkyWhale|天空鯨
+creaturetype-RotLoach|腐化巨獸
+creaturetype-RippleSpider|漣漪蜘蛛
+Press VIEW to cancel warp|按「查看」取消傳送
+creaturetype-IndigoLizard|靛藍蜥蜴
+creaturetype-GrappleSnake|扭蛇
+creaturetype-PeachLizard|桃蜥蜴
+The Crown upon the thorn|荊棘上的王冠
+creaturetype-BigSandGrub|沙蟲
+objecttype-Pomegranate|石榴
+creaturetype-DrillCrab|鑽蟹
+creaturetype-SmallMoth|小蛾
+creaturetype-Millipede|馬陸
+objecttype-GraffitiBomb|塗鴉炸彈
+The Lantern in the dusk|薄暮中的燈籠
+creaturetype-FireSprite|火精靈
+creaturetype-Tardigrade|水熊蟲
+Press PAUSE BUTTON to cancel warp|按「暫停」鍵取消傳送
+The paths overflow beyond measure|路徑超出限度
+Oh such enthusiasm! I am honored!|噢，你真是熱情！我好榮幸！
+Press + Button to cancel warp|按「+」鍵取消傳送
+Press - Button to cancel warp|按「-」鍵取消傳送
+watcher-character-description|孤獨又疏離的局外人，持續觀察卻不入局。<LINE>這樣的距離帶來了新的視角和關係，造就一段獨一無二的旅程。
+creaturetype-ScavengerTemplar|拾荒者聖騎士
+Press OPTIONS BUTTON to cancel warp|按「OPTIONS 按鈕」鍵取消傳送
+A presence already binds this place|某種存在早已將這裡束縛住
+This fringe is already too unstable|邊緣已經很不穩定了
+Nothing to waste, every bit counts!|沒有半點浪費，每一丁點都用上！
+SPECIAL button - Hold to warp to selected region|特殊按鍵 - 按住以傳送至所選區域
+Free them. They will show you the way.|解放它們。它們會為你指路。
+The Child forsaken to time|被時間遺棄的孩子
+objecttype-FireSpriteLarva|火精靈幼體
+THE WATCHER|觀望者
+The Watcher|觀望者
+Coral Caves|珊瑚洞穴
+The Surface|表面
+Hydroponics|水耕法
+Watcher|觀望者
+Outer Rim|外緣
+Deep Reef|深礁
+Rusted Wrecks|銹蝕殘骸
+Torrid Desert|炎熱沙漠
+Thermal Relay|過載繼電器
+Station Annex|車站別館
+Signal Spires|訊號尖塔
+Ancient Urban|上古舊城
+Stormy Coast|風暴海岸
+Cold Storage|冷庫
+Tundra Fault|苔原斷層
+Aether Ridge|乙太山脊
+Pillar Grove|柱林
+Turbulent Pump|渦流幫浦
+Desolate Tract|淒涼地帶
+Aerial Tramway|高架電車道
+Fallen Tramway|陷落電車道
+Sunbaked Alley|烈日巷
+Migration Path|遷徙之路
+Blast Deck|爆裂甲板
+Ridgeworks|山脊工程
+Salination|鹽化區
+Heat Ducts|供熱管道
+Fetid Glen|腐臭幽谷
+The Throne|王座
+Marvelous!|真神奇！
+Shattered Terrace|破碎露臺
+Verdant Waterways|翠綠水道
+Crumbling Fringes|崩落邊緣
+creaturetype-Frog|青蛙
+LeaveSpinningTop1|嘻！看啊！這也太蠢了，根本不值得注意！嘻嘻嘻嘻！！
+LeaveSpinningTop2|嘻！太無禮了！！我本來還打算送它一個禮物呢。
+DieAtSpinningTop1|嘻嘻嘻！！是的！！！回你的地底去吧！真是個蠢貨！！嘻嘻嘻嘻嘻
+DieAtSpinningTop2|嘻嘻！看吧！！它們已經抓到你了！嘻嘻嘻嘻嘻
+DieAtSpinningTop3|嘻嘻嘻嘻嘻嘻！！看起來這裡也一樣？？蠢得活不下去，卑劣到死不了。<LINE>真無聊！呸！我要走了。
+So vital! Hah ha!|真有元氣！哈哈！
+Badlands|不毛之地
+Decaying Tunnels|破敗隧道
+creaturetype-Rat|老鼠
+Ah! So spirited!|啊！真有活力！
+Infested Wastes|受染廢土
+Shrouded Stacks|隱蔽堆層
+Corrupted Factories|腐化工廠
+Torrential Railways|滂沱鐵道
+creaturetype-Angler|鮟鱇魚
+Daemon|惡魔
+Fractured Gateways|斷裂通道
+creaturetype-Loach|泥鰍
+Oh, show me again!|噢，再給我看看！
+creaturetype-BigMoth|大蛾
+creaturetype-BoxWorm|箱蟲
+creaturetype-Rattler|震骨者
+objecttype-Boomerang|迴旋鏢
+creaturetype-ScavengerDisciple|拾荒者門徒
+Oh, you have brought sundries?|哦，你帶了些雜物來？
+Never again will you be alone.|你再也不會孤單了。
+Oh, my friend, you have grown!|哦，我的朋友，你成長了！
+creaturetype-BlizzardLizard|暴雪蜥蜴
+creaturetype-BasiliskLizard|蛇怪蜥蜴
+Hold the SPECIAL button to camouflage from predators|按住「特殊」鍵進行偽裝，躲避掠食者
+Hold UP and SPECIAL together to form new random paths|同時按住「上鍵」和「特殊」鍵來生成全新的隨機路徑
+Delight! For you will be exalted in this new kingdom!|欣喜吧！因為在這個新王國中，你將受到尊崇！
+This will consume the effect of a karma flower in the process|此過程將會消耗一朵業力之花的效果
+However, this can also form new random paths in a pinch|但在緊要關頭，依然能讓你生成新的隨機路徑
+You can leave them here if you wish, as a contribution.|如果你願意，可以留在這裡當做貢獻。
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|穿到新邊境會對身體造成負擔，不過睡覺能幫助你恢復
+Traveling too deep without resting will have consequences|前往深處太久沒有休息會產生某些後果
+This remains a place of rest|這裡還是一處休憩之地
+It is a joy to see you play!|看你出手真有趣！
+My processes will dissolve them to their base components and those components will be added to the mass.|我會把它們分解成基本成分，然後這些成分會加進整體裡。
+Ahh yes! The paths! How wonderous!|啊對！路徑！真奇妙啊！
+How auspicious it was, our meeting...|我們的相遇是多麼幸運……
+Forgive me if I cannot respond in kind. This body is so limited...|請原諒我無法回以同樣的姿態。這具軀體實在受限……
+How I have wished for this day. My dear friend, welcome.|我一直盼望著這天。親愛的朋友，歡迎你。
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|強壯而敏捷，需要穩定的肉類供給。但果腹不會是唯一的難題<LINE>……這條路危機四伏，每次雨迴圈都會讓那不祥的倒數計時不斷縮短。
+Custom colors|自訂顏色
+tips-distract|如果有掠食者堵住路，可以用很多方式突破，<LINE>例如製造干擾、用響聲將其引開，<LINE>或是犧牲其他小生物引牠們去吃等等。
+tips-hoarding|就算已經吃飽，也可以把額外的食物囤在庇護所裡，<LINE>這樣之後的雨迴圈就會比較輕鬆。
+tips-prepared|不要空手踏上旅途。手中有沒有可用的物品可能會決定你的生死……<LINE>你永遠不知道什麼時候可能需要用到。
+tips-backflip|快速變向的同時按下「跳躍」鍵，<LINE>能進行後空翻，高度略高於普通跳躍。<LINE>後空翻也可銜接翻滾。
+tips-vertpole|在後空翻的最高點時向下投擲長矛，可以在地面上插出垂直的<LINE>長杆。使用此方法可擴大可達範圍。
+tips-wanderer|漫遊者已看遍世界每個角落，以及世間所能提供的一切。<LINE>對他們來說，遠方的旅程只不過是邁出的另一步。
+Body|身體
+Eyes|眼睛
+HIGH|高
+Restore Default|還原預設
+Back to options|返回選項
+tips-spearstick|長矛能插在牆面上，變成簡易攀爬桿。善用此方法<LINE>來開闢新路線，到達以往無法觸及的位置。
+tips-batharvest|用投射物把蝠蠅從空中打下來會比較好抓。<LINE>用長矛刺穿，也可以一次抓好幾隻。
+tips-reputation|你的行動會影響你在生態系中的名聲。<LINE>就算是敵人也試著給予善意，也許你的善舉會得到回報。<LINE>否則你可能會被所有生物追殺。
+tips-throwboost|在半空中投擲物品會讓你往那個方向稍微推進。<LINE>你可以使用此動作增加跳躍的水平距離。
+tips-tunnelturn|在狹窄通道爬行時，<LINE>按住「跳躍」鍵和與「相反方向」鍵即可轉身。<LINE>面向自己爬行的方向時，移動速度更快。
+tips-powerthrow|滑行時向前投擲長矛能給長矛額外的速度<LINE>和衝擊力。對生物造成更長的昏迷時間，並且可以<LINE>穿透某些防禦。
+tips-superslide|滑行時向後拋出物品會大幅增加<LINE>滑行的距離。
+tips-wallpounce|躍向牆壁，然後在接觸瞬間輕觸「跳躍」鍵並面向牆壁時，<LINE>蹬牆跳的反彈力會大幅提升。
+HUE|色調
+SAT|飽和度
+LIT|亮度
+LOW|低
+CHOOSE|選擇
+MEDIUM|中
+Oh no.|噢不。
+Analog Sensitivity|控制器靈敏度
+tips-deathrecovery|食物鏈很複雜。如果夠幸運，就算你被抓住，<LINE>如果對方捲入衝突或自己被吃掉，也可能鬆手讓你逃走！
+tips-utilitycreats|並不是所有生物都是需要躲避的掠食者。在你的旅程中，<LINE>有些生物或許能夠幫助你。
+FPS Limit|幀數限制
+Unlimited|無限制
+tips-drop|同時按下「下鍵」和「拾取」鍵可以把手中的物品放到地上，<LINE>而不是丟出去。
+tips-roll|從高處墜落時，按住「斜下」鍵可以在<LINE>與地面接觸時翻滾，減少墜落的衝擊並<LINE>提高機動性。
+tips-swim|在水下以蛇形游動可以提高游泳速度。<LINE>你需要有節奏地上下或左右擺動身體。
+tips-monk|僧侶踏上的是一條獵物之路。他們在這個世界的荒野中覓食求生，<LINE>但這條路並不能保證他們免受掠食者的威脅。
+Quality|品質
+Backgrounds|背景
+tips-crouch|不需要一直按住「下鍵」才能保持蹲伏。輕觸一次「下鍵」即可進入爬行<LINE>姿態，然後輕觸「上鍵」即可返回站立姿態。
+tips-escape|盡量避免正面對抗，逃離戰鬥才是上策。<LINE>許多掠食者都很強大又危險，所以不要太衝動。
+tips-cheese|利用管道與追捕你的掠食者交換位置。這是<LINE>種甩掉牠們的簡單方法。
+tips-cannon|從管道出來的瞬間輕觸「跳躍」鍵，可以將自己快速<LINE>向外推出。
+tips-martyr|殉道者會捨棄生存欲，慢慢凋零直至化作塵土。
+tips-hunter|獵手踏上的是一條掠食者之路，但在這個殘酷無情的世界，<LINE>狩獵的成果未必能保證生存。
+tips-outlaw|暴徒生活在戰場上。無論是敵是友，靠近者皆倒下。
+tips-friend|朋友會擁抱彼此和未知之物。這個世界殘酷無情，<LINE>但只要一起同行，便能找到安慰與庇護。
+Old tongue controls?|確定使用舊版舌頭控制方式嗎？
+Enable wallpouncing?|確定啟用蹬牆跳嗎？
+Enable speedrun timer?|確定啟用速通計時器嗎？
+CONFIGURE TITLE SCREEN|設定標題畫面
+Keep your friend safe!|保護好你的朋友！
+I must resume my work.|我得繼續工作了。
+Enable shelter item transport?|確定啟用庇護所物品傳送嗎？
+<CapPlayerName>, are you okay?|<CapPlayerName>，你還好嗎？
+Enable slug senses?|確定啟用蛞蝓感知嗎？
+CONFIGURE SUB MENUS|設定子選單
+Show tips between cycles?|確定在雨迴圈之間顯示提示嗎？
+Enable Developer Commentary?|確定啟用開發者評論嗎？
+Change graphics quality|變更畫質
+Take your pet with you.|把你的寵物帶走。
+Change menu background images|變更選單背景圖
+Display a speedrun timer at the top of the screen during gameplay?|確定要在遊玩期間於螢幕上方顯示速通計時器嗎？
+Activate tongue abilities with the throw button instead of the jump button?|確定要以「投擲鍵」而非「跳躍」鍵來啟動舌頭控制嗎？
+Allow passages to transport key items in your shelter to your new destination?|確定要允許通道將你庇護所中的關鍵物品傳送至新目的地嗎？
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|確定要允許附近生物和關鍵物品在蛞蝓貓的記憶地圖上顯示為圖示嗎？
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|確定要啟用舊版《Rain World》蛞蝓貓的蹬牆跳能力嗎？
+Spawn developer commentary collectables in the single player campaigns?|確定要在單人劇情中生成開發者評論收藏品嗎？
+Periodically show survival hints and explain gameplay mechanics for new players?|確定要定期向新玩家顯示生存提示並解釋遊戲機制嗎？
+Configure the background image used on the title screen|設定標題畫面使用的背景圖
+Configure the background image used in the sub menus|設定子選單使用的背景圖
+Wiggling around quickly might startle this creature.|快速擺動可能會嚇到這個生物。
+I am afraid to ask how you brought your friend here.|我甚至不敢問你是怎麼把你朋友帶過來的。
+tips-clock|按下「地圖」鍵還會顯示其他資訊，例如你的飽食度。<LINE>左下角的圓點表示距離降雨的所剩時間。<LINE>請多加留意！
+tips-rocks|石頭雖然殺傷力不強，但用途很廣：<LINE>能干擾、格擋、繳械、擊暈、暴露弱點、將生物<LINE>從柱子和邊緣擊落等等！
+tips-audio|特殊的聲音通常是危險來臨的第一個線索，<LINE>那甚至會在你看見危險之前就出現。仔細張大耳朵吧。
+tips-slide|移動中按下「斜下」鍵並按下「跳躍」鍵即可開始滑行。<LINE>滑行可以讓你在短時間內<LINE>快速滑過地面。
+tips-noise|生物不僅能靠視覺發現你的存在，還可以透過聲音。<LINE>請注意不要太大聲，否則可能會引起不必要的注意。
+tips-saint|聖徒踏上的是一條和平之路。傷害其他生物就是傷害自己。
+tips-nomad|流浪者經歷不斷變化的世界。從此生到來生，<LINE>宛如在目標未知的無盡旅程中邁進。
+Calm down!|冷靜點！
+tips-pipeflash|管道入口在另一端有危險時會閃爍，閃光顏色<LINE>能提示你危險種類。
+tips-foodtypes|蝠蠅和懸掛的水果絕不是唯一的食物來源。有些植物<LINE>和生物在特定條件下也能吃。請多多嘗試吧。
+tips-handorder|右手的物品會優先使用或丟出。<LINE>連按兩下「拾取」鍵能交換左右手的物品。
+tips-slideleap|滑行或翻滾時輕觸「跳躍」能接上長距離跳躍，使<LINE>機動性最大化並迅速跨越一大段距離。
+tips-turnboost|快速變換移動方向會獲得<LINE>短暫的小幅加速。之後持續跳躍<LINE>能延長加速維持時間。
+tips-chieftain|酋長會擁抱未知的力量與群體。他們已成為<LINE>世界的一部分，有了新的羈絆，他們就會活下來。
+tips-swallow|按住「拾取」鍵幾秒，即可將不可食用的小物品<LINE>存放在胃中保管。同樣地，<LINE>也能按住將物品重新吐出來。
+tips-breathe|跳下水之前注意你的呼吸。如果你呼吸急促，<LINE>先站一下喘口氣再下水。
+tips-polehop|在落到橫杆前的瞬間，輕觸「跳躍」鍵可以從杆子上彈起。<LINE>此方法可銜接其他操作來快速跳過多根橫杆。
+tips-scholar|學者探尋世界曾經的模樣。<LINE>他們凝視歷史的結晶，在其中尋找新的意義。
+tips-deathpenalty|在你準備好繼續前進之前，死亡無關緊要。你可以<LINE>大膽一點，多探索、多嘗試、多熟悉地形和<LINE>食物位置等等。
+tips-shelterstore|庇護所裡的物品會跨過雨迴圈儲存，<LINE>就算離開區域也不會消失。這是能讓<LINE>貴重物品免受雨淋的唯一安全場所！
+tips-dragonslayer|屠龍者熱衷於狩獵。他們已經征服了這個世界的野獸。
+What did you do!?|你做了什麼？！
+Stop it! Go away!|住手！走開！
+tips-tunnelboost|在狹窄通道爬行時，輕觸「跳躍」鍵，<LINE>可以讓自己的速度略微提升。
+tips-slidecancel|滑行時快速輕觸「跳躍」鍵和與「相反方向」鍵<LINE>能取消滑行，並退回開始滑行的位置。
+The use of some objects may not be obvious at first glance, experiment with everything you find!|有些物品用途可能並不明顯，請嘗試與你發現的所有物品互動吧！
+There are many paths to explore in this world.|在這個世界上有許多可以探索的路徑。
+If you are struggling, try returning to a previous region.|如果你遇到困難，請嘗試回到之前的區域。
+You may find a new path forward, or discover something that makes your survival here easier.|你可能會找到一條新的前路，或者發現能讓生存更輕鬆的東西。
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|然而，你也可以靠現在的能力直面該區域的挑戰。
+Your friend is very large, how did you fit them in here?|你的朋友好大，你是怎麼把它塞進來的？
+How did you bring that in here... I think it is as surprised as I am!|你怎麼把它帶進來的……我想它和我一樣驚訝！
+Oh, that is not a friend...|哦，那可不是朋友……
+Oh...|喔……
+I do enjoy the company of you and your friend though, <PlayerName>.|不過我還是很喜歡你和你的朋友來陪我，<PlayerName>。
+Is this your friend, <PlayerName>?|<PlayerName>，這是你的朋友嗎？
+Best of luck to you, and your companion. There is nothing else I can do.|祝你和你的同伴好運，我已經幫不上忙了。
+Please do not bring more wildlife into my chamber.|請不要再把野生動物帶進我的房間。
+How did you fit them inside here anyhow?|你是怎麼把牠弄進來的？
+Take your friend with you. Please. I beg you.|把你的朋友帶走吧。拜託，算我求你。

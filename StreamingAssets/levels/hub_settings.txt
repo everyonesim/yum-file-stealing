@@ -1,0 +1,6 @@
+Template: NONE
+Clouds: 0.05434782
+RandomItemDensity: 0.6413044
+RandomItemSpearChance: 0.4391304
+PlacedObjects: MultiplayerItem><542.9202><374.2013><Spear~17.32051~-10~0.7690542, MultiplayerItem><177.0867><93.1508><Spear~17.32051~-10~0.2705934, MultiplayerItem><854.8666><133.8883><Spear~17.32051~-10~0.2705934, MultiplayerItem><335.6594><659.8672><Spear~17.32051~-10~0.2705934, MultiplayerItem><459.5957><378.0649><Spear~17.32051~-10~0.6521699, MultiplayerItem><488.929><363.8691><ExplosiveSpear~17.32051~-10~0.1455748, MultiplayerItem><512.8003><371.6343><Spear~17.32051~-10~0.8260869, 
+FadePalette: 2, 0.4673913

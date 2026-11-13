@@ -1,0 +1,5 @@
+wrfb_a22:8:ware_i01x
+wrfb_b05:2.5:False:False,wrfb_b08:2.5:False:False,wrfb_b11:2.5:False:False,wrfb_d02:2.5:False:False
+wrfb_d09,wrfb_d10
+wrfb_b12:0:0:wvwa_e01,wrfb_c07:1:1:NULL
+wrfb_a16:3,wrfb_a23:3,wrfb_b05:1,wrfb_b11:1,wrfb_b13:4,wrfb_c08:5,wrfb_d03:3,wrfb_d10:3,wrfb_f03:5,wrfb_f04:3

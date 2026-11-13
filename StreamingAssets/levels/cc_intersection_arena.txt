@@ -1,0 +1,23 @@
+DenGroup - DENS - 4,5,6,7,8
+
+CreatureGroup - SCAVS - chance:0.25
+Creature - Scavenger - group:SCAVS - amount:3-7 - chance:1.0
+
+Creature - Blue - dens:DENS - chance:0.6 - amount:4
+Creature - White - dens:DENS - chance:0.5 - amount:3
+Creature - Pink - dens:DENS - chance:0.2 - amount:2
+
+Creature - Needle Worm - dens:DENS - chance:0.2 - amount:2 - RARE
+
+CreatureGroup - CENTIS - chance:0.16
+Creature - Centipede - dens:DENS - group:CENTIS - chance:0.6 - amount:6
+
+Creature - Vulture - chance:0.7 - RARE
+Creature - Vulture - chance:0.3 - RARE
+Creature - Vulture - chance:0.05 - RARE
+Creature - KingVulture - chance:0.15 - RARE
+
+Creature - DropBug - dens:DENS - chance:0.05
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:DENS - chance:0.5 - amount:2-3 - group:CYANS

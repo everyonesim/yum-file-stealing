@@ -1,0 +1,5 @@
+wtdb_a26:0:wrfb_d09
+wtdb_a06:3:False:False,wtdb_a10:3:False:False,wtdb_a13:3:False:False,wtdb_a15:3:False:False,wtdb_a17:3:False:False
+wtdb_a11,wtdb_a20
+wtdb_a03:1:1:NULL,wtdb_a04:0:0:warg_a06_future,wtdb_a19:0:0:wrra_a26
+wtdb_a09:4,wtdb_a16:3,wtdb_a27:3,wtdb_a30:4,wtdb_a32:4,wtdb_a33:4,wtdb_a37:3

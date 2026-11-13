@@ -1,0 +1,3 @@
+DangerType: Flood
+FadePalette: 20, 0.2934783
+PlacedObjects: BrokenShelterWaterLevel><288.4385><328.5668><, 

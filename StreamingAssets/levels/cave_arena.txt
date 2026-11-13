@@ -1,0 +1,23 @@
+DenGroup - DENS - 4,5,6
+
+Creature - Big Eel - chance:100.0
+Creature - Big Eel - chance:0.75 - RARE
+Creature - Vulture - chance:0.1 - RARE
+Creature - KingVulture - chance:0.1 - RARE
+
+Creature - White - dens:DENS - chance:0.3
+Creature - Blue - dens:DENS - chance:0.3
+
+CreatureGroup - CENTIS - symbol:A1 - chance:0.3
+Creature - Centipede - dens:DENS - chance:0.7 - amount:4 - group:CENTIS
+
+CreatureGroup - SPIDS - symbol:A2 - chance:0.5
+Creature - Big Spider - dens:DENS - chance:0.7 - amount:3 - group:SPIDS
+Creature - Spitter Spider - dens:DENS - chance:0.7 - amount:2-3 - group:SPIDS
+
+CreatureGroup - LIZ - symbol:A3
+Creature - White - dens:DENS - chance:0.5 - amount:2 - group:LIZ
+Creature - Blue - dens:DENS - chance:0.5 - amount:2 - group:LIZ
+
+CreatureGroup - CYANS - chance:0.4
+Creature - Cyan - dens:DENS - chance:0.5 - amount:2-4 - group:CYANS

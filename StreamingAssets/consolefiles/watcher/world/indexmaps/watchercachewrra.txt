@@ -1,0 +1,5 @@
+
+wrra_b06:2:False:False,wrra_d03:2:False:False,wrra_d04:2:False:False,wrra_d05:2:False:False
+wrra_c01,wrra_d03
+wrra_a07:0:0:wskb_c07,wrra_a26:0:0:wtdb_a19,wrra_b01:0:0:wrfa_d08,wrra_l01:1:1:NULL
+wrra_a03:3,wrra_a05:3,wrra_a23:2,wrra_a25:2,wrra_a28:2,wrra_a30:2,wrra_b02:4,wrra_b10:4,wrra_c02:4,wrra_d01:5,wrra_l01:8

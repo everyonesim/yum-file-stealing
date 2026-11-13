@@ -1,0 +1,14 @@
+Template: SI_SettingsTemplate_Inside
+DangerType: Rain
+Clouds: 0.5
+Palette: 3
+EffectColorA: 10
+Effects: SkyAndLightBloom-0.1847826-20-20, 
+PlacedObjects: KarmaFlower><500.2><334.5001><0~0~5~7, DandelionPeach><410.8541><308.8868><0~0~2~3, DandelionPeach><316.8503><305.8826><0~0~2~3, DandelionPeach><298.9597><320.5541><0~0~2~3, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><755.5623><457.0689><0.3369565><1><440.5623><389.0689><-187.3553><-30.35535><0><0.6652175, 
+FadePalette: 2, 0.1521739
+WaveSpeed: 0.4597914
+WaveLength: 0.7621457
+WaveAmplitude: 0.04999958
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0

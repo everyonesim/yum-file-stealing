@@ -1,0 +1,5 @@
+
+wskd_b05:2.5:False:False,wskd_b18:2.5:False:False,wskd_b31:2.5:False:False,wskd_b35:2.5:False:False
+wskd_b10,wskd_b36
+wskd_b01:0:0:wpga_e01,wskd_b12:0:0:warg_w11,wskd_b34:1:1:NULL,wskd_b38:0:0:warf_d06,wskd_b42:0:0:ward_b41
+wskd_b02:2,wskd_b06:1,wskd_b09:2,wskd_b13:3,wskd_b14:4,wskd_b28:3,wskd_b30:1,wskd_b31:6,wskd_b33:3,wskd_b40:5

@@ -1,0 +1,5 @@
+
+wska_d01:1:False:False,wska_d06:1:False:False,wska_d10:1:False:False,wska_d18:1:False:False,wska_d27:1:False:False
+wska_d19,wska_n01
+wska_d07:1:1:NULL,wska_d13:0:0:warf_a06,wska_n04:0:0:wpga_b10
+wska_d02:3,wska_d08:2,wska_d15:7,wska_d17:2,wska_d20:3,wska_d22:2,wska_n02:3

@@ -1,0 +1,11 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.1086956
+Grime: 0.1195652
+RandomItemDensity: 0.6630435
+RandomItemSpearChance: 0.123913
+WaterReflectionAlpha: 0.423913
+Palette: 14
+PlacedObjects: LightSource><666.74><970.6998><1~Environment~34~-540~103~-270.3975~1~0, MultiplayerItem><174.1976><673.6329><Rock~17.32051~-10~0.8586956, MultiplayerItem><177.1877><568.588><Rock~17.32051~-10~0.8586956, MultiplayerItem><1330.199><530.4854><Rock~17.32051~-10~0.8586956, MultiplayerItem><1096.879><827.3407><Rock~17.32051~-10~0.8586956, MultiplayerItem><677.9115><668.8206><Spear~-282.6795~-472~0.7934783, MultiplayerItem><749.1771><669.0928><Spear~-79.6795~-467~0.7934783, MultiplayerItem><1060.054><925.9457><Spear~17.32051~-10~0.1413043, MultiplayerItem><1289.315><530.8186><Spear~-33.6795~-99~0.3152174, MultiplayerItem><207.1406><679.1674><Spear~5.320511~50.99997~0.2717391, MultiplayerItem><213.2827><573.8027><Spear~3.320511~-81~0.2282609, 
+AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><814.3072><610.8032><0.3152174><1, OMNI><SO_WAT-MoreDrips.ogg><635.8505><607.1171><0.3152174><1, OMNI><AM_WAT-Lakeside.ogg><451.1959><612.7901><0.5><0.823913, OMNI><AM_ENV-LightWind.ogg><805.2327><539.9492><0.5108696><0.823913, 
+FadePalette: 34, 0.6847826

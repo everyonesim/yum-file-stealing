@@ -1,0 +1,26 @@
+DenGroup - FLOORDENS - 4,5,6,7
+
+Creature - Pink - dens:FLOORDENS - chance:0.3 - amount:2
+Creature - Green - dens:FLOORDENS - chance:0.2
+Creature - Blue - dens:FLOORDENS - chance:0.8 - amount:2-4
+Creature - White - dens:FLOORDENS - chance:0.5 - amount:1-3
+Creature - Cyan - dens:FLOORDENS - chance:0.15
+
+CreatureGroup - SCAVS - chance:0.6
+Creature - Scavenger - group:SCAVS - chance:0.6 - amount:4-6
+
+CreatureGroup - SPIDERS - chance:0.3
+Creature - Big Spider - dens:FLOORDENS - group:SPIDERS - chance:0.8 - amount:2-6
+Creature - Spitter Spider - dens:FLOORDENS - group:SPIDERS - chance:0.8 - amount:1-4
+
+CreatureGroup - CENTIS - chance:0.2
+Creature - Centipede - dens:FLOORDENS - group:CENTIS - chance:0.8 - amount:5-9
+
+Creature - Vulture - dens:-1 - chance:0.04 - RARE
+Creature - KingVulture - dens:-1 - chance:0.02 - RARE
+Creature - Bro - dens:FLOORDENS - chance:0.04 - RARE
+
+Creature - DropBug - dens:FLOORDENS - chance:0.15
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:FLOORDENS - chance:0.5 - amount:2-3 - group:CYANS

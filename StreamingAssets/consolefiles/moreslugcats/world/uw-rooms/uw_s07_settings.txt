@@ -1,0 +1,3 @@
+PlacedObjects: SuperStructureFuses><469.3578><78.63783><185~67, 
+FadePalette: 17, 0.4565217
+Clouds: 0.1304348

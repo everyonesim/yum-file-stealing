@@ -1,0 +1,5 @@
+
+wskb_c03:1:False:False,wskb_c15:1:False:False,wskb_n12:1:False:False,wskb_n16:1:False:False
+wskb_c05,wskb_n03
+wskb_c07:0:0:wrra_a07,wskb_c18:0:0:warf_b14,wskb_n01:1:1:NULL
+wskb_c05:3,wskb_n02:3,wskb_n07:1,wskb_n08:5,wskb_n10:3,wskb_n15:4,wskb_n16:2

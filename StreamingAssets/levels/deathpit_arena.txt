@@ -1,0 +1,33 @@
+Creature - Pink - dens:4,5,6,7 - chance:1.0
+Creature - Pink - dens:4,5,6,7 - chance:1.0
+Creature - Pink - dens:4,5,6,7 - chance:0.9
+Creature - Pink - dens:4,5,6,7 - chance:0.8
+
+Creature - Red - dens:4,5,6,7 - chance:1000
+
+CreatureGroup - BLUES - symbol:A1
+Creature - Blue - dens:4,5,6,7 - chance:1.0 - group:BLUES
+Creature - Blue - dens:4,5,6,7 - chance:1.0 - group:BLUES
+Creature - Blue - dens:4,5,6,7 - chance:0.6 - group:BLUES
+Creature - Blue - dens:4,5,6,7 - chance:0.6 - group:BLUES
+
+CreatureGroup - GREENS - symbol:A2
+Creature - Green - dens:4,5,6,7 - chance:1.0 - group:GREENS
+Creature - Green - dens:4,5,6,7 - chance:1.0 - group:GREENS
+Creature - Green - dens:4,5,6,7 - chance:0.6 - group:GREENS
+Creature - Green - dens:4,5,6,7 - chance:0.6 - group:GREENS
+
+CreatureGroup - WHITES - symbol:A3
+Creature - White - dens:4,5,6,7 - chance:1.0 - group:WHITES
+Creature - White - dens:4,5,6,7 - chance:1.0 - group:WHITES
+Creature - White - dens:4,5,6,7 - chance:0.6 - group:WHITES
+Creature - White - dens:4,5,6,7 - chance:0.6 - group:WHITES
+
+CreatureGroup - YELLOWS - symbol:A4
+Creature - Yellow - dens:4,5,6,7 - chance:1.0 - group:YELLOWS
+Creature - Yellow - dens:4,5,6,7 - chance:1.0 - group:YELLOWS
+Creature - Yellow - dens:4,5,6,7 - chance:0.6 - group:YELLOWS
+Creature - Yellow - dens:4,5,6,7 - chance:0.6 - group:YELLOWS
+
+CreatureGroup - WORMS - chance:0.25
+Creature - Tube Worm - dens:4,5,6,7 - chance:1.0 - group:WORMS

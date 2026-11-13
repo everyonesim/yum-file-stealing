@@ -1,0 +1,25 @@
+PlayersGlow
+
+Creature - Miros - dens:-1 - chance:100 - amount:4-6
+
+DenGroup - DENS - 4,5,6
+
+CreatureGroup - SCAVS - chance:0.4 - invSymbol:A1
+Creature - Scavenger - group:SCAVS - amount:4-5 - chance:0.8
+
+Creature - Blue - dens:DENS - chance:0.45 - amount:2
+Creature - Pink - dens:DENS - chance:0.45 - amount:2
+Creature - White - dens:DENS - chance:0.45 - amount:2
+
+CreatureGroup - CENTIS - chance:0.4 - invSymbol:A2
+Creature - Centipede - dens:DENS - chance:0.8 - group:CENTIS - amount:6
+
+Creature - Small Centipede - dens:DENS - chance:0.15 - amount:4
+
+CreatureGroup - SPIDS - invSymbol:A3
+Creature - Big Spider - dens:DENS - chance:0.7 - group:SPIDS - amount:3
+Creature - Spitter Spider - dens:DENS - chance:0.7 - group:SPIDS - amount:3
+
+Creature - Vulture - chance:0.05 - RARE
+
+Creature - DropBug - dens:DENS - chance:0.05

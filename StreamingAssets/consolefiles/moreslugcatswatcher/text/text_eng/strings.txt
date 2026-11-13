@@ -1,0 +1,712 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|Hold DOWN and SPECIAL together to create a path to a chosen destination
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|Holding UP and SPECIAL without a karma flower is unstable and dangerous
+creaturetype-MothGrub|Moth Grub
+Unfortunate Evolution|Unfortunate Evolution
+creaturetype-Barnacle|Barnacle
+creaturetype-SandGrub|Sand Grub
+creaturetype-SkyWhale|Sky Whale
+creaturetype-RotLoach|Rot Behemoth
+creaturetype-RippleSpider|Ripple Spider
+Press VIEW to cancel warp|Press VIEW to cancel warp
+creaturetype-IndigoLizard|Indigo Lizard
+creaturetype-GrappleSnake|Grapple Snake
+creaturetype-PeachLizard|Peach Lizard
+The Crown upon the thorn|The Crown upon the thorn
+creaturetype-BigSandGrub|Sand Worm
+objecttype-Pomegranate|Pomegranate
+creaturetype-DrillCrab|Drill Crab
+creaturetype-SmallMoth|Small Moth
+creaturetype-Millipede|Millipede
+objecttype-GraffitiBomb|Graffiti Bomb
+The Lantern in the dusk|The Lantern in the dusk
+creaturetype-FireSprite|Fire Sprite
+creaturetype-Tardigrade|Tardigrade
+Press PAUSE BUTTON to cancel warp|Press PAUSE BUTTON to cancel warp
+The paths overflow beyond measure|The paths overflow beyond measure
+Oh such enthusiasm! I am honored!|Oh such enthusiasm! I am honored!
+Press + Button to cancel warp|Press + Button to cancel warp
+Press - Button to cancel warp|Press - Button to cancel warp
+watcher-character-description|An outsider, alone and aloof. Observing but not engaging.<LINE>From this distance comes new perspectives, and new connections. A journey like no other.
+creaturetype-ScavengerTemplar|Scavenger Templar
+Press OPTIONS BUTTON to cancel warp|Press OPTIONS BUTTON to cancel warp
+A presence already binds this place|A presence already binds this place
+This fringe is already too unstable|This fringe is already too unstable
+Nothing to waste, every bit counts!|Nothing to waste, every bit counts!
+SPECIAL button - Hold to warp to selected region|SPECIAL button - Hold to warp to selected region
+Free them. They will show you the way.|Free them. They will show you the way.
+The Child forsaken to time|The Child forsaken to time
+objecttype-FireSpriteLarva|Fire Sprite Larva
+THE WATCHER|THE WATCHER
+The Watcher|The Watcher
+Coral Caves|Coral Caves
+The Surface|The Surface
+Hydroponics|Hydroponics
+Watcher|Watcher
+Outer Rim|Outer Rim
+Deep Reef|Deep Reef
+Rusted Wrecks|Rusted Wrecks
+Torrid Desert|Torrid Desert
+Thermal Relay|Thermal Relay
+Station Annex|Station Annex
+Signal Spires|Signal Spires
+Ancient Urban|Ancient Urban
+Stormy Coast|Stormy Coast
+Cold Storage|Cold Storage
+Tundra Fault|Tundra Fault
+Aether Ridge|Aether Ridge
+Pillar Grove|Pillar Grove
+Turbulent Pump|Turbulent Pump
+Desolate Tract|Desolate Tract
+Aerial Tramway|Aerial Tramway
+Fallen Tramway|Fallen Tramway
+Sunbaked Alley|Sunbaked Alley
+Migration Path|Migration Path
+Blast Deck|Blast Deck
+Ridgeworks|Ridgeworks
+Salination|Salination
+Heat Ducts|Heat Ducts
+Fetid Glen|Fetid Glen
+The Throne|The Throne
+Marvelous!|Marvelous!
+Shattered Terrace|Shattered Terrace
+Verdant Waterways|Verdant Waterways
+Crumbling Fringes|Crumbling Fringes
+creaturetype-Frog|Frog
+LeaveSpinningTop1|OA! Look! It's too stupid to even pay attention! OAOAOAOA!!
+LeaveSpinningTop2|OA!! How rude!! I was going to give it a gift.
+DieAtSpinningTop1|OAOAOA!! Yes!!! Back into the ground you go!! What an idiot!! OAOAOAOAOAO
+DieAtSpinningTop2|OA!! See!! They get you already! OAOAOAOAOAO
+DieAtSpinningTop3|OAOAOAOAOA!! And here too it seems?? Too dumb to live, too base to die.<LINE>How boring! Bleh! I will depart.
+So vital! Hah ha!|So vital! Hah ha!
+Badlands|Badlands
+Decaying Tunnels|Decaying Tunnels
+creaturetype-Rat|Rat
+Ah! So spirited!|Ah! So spirited!
+Infested Wastes|Infested Wastes
+Shrouded Stacks|Shrouded Stacks
+Corrupted Factories|Corrupted Factories
+Torrential Railways|Torrential Railways
+creaturetype-Angler|Angler
+Daemon|Daemon
+Fractured Gateways|Fractured Gateways
+creaturetype-Loach|Loach
+Oh, show me again!|Oh, show me again!
+creaturetype-BigMoth|Big Moth
+creaturetype-BoxWorm|Box Worm
+creaturetype-Rattler|Bone Shaker
+objecttype-Boomerang|Boomerang
+creaturetype-ScavengerDisciple|Scavenger Disciple
+Oh, you have brought sundries?|Oh, you have brought sundries?
+Never again will you be alone.|Never again will you be alone.
+Oh, my friend, you have grown!|Oh, my friend, you have grown!
+creaturetype-BlizzardLizard|Blizzard Lizard
+creaturetype-BasiliskLizard|Basilisk Lizard
+Hold the SPECIAL button to camouflage from predators|Hold the SPECIAL button to camouflage from predators
+Hold UP and SPECIAL together to form new random paths|Hold UP and SPECIAL together to form new random paths
+Delight! For you will be exalted in this new kingdom!|Delight! For you will be exalted in this new kingdom!
+This will consume the effect of a karma flower in the process|This will consume the effect of a karma flower in the process
+However, this can also form new random paths in a pinch|However, this can also form new random paths in a pinch
+You can leave them here if you wish, as a contribution.|You can leave them here if you wish, as a contribution.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Crossing to new frontiers takes a toll on the body, but sleep can help you recover
+Traveling too deep without resting will have consequences|Traveling too deep without resting will have consequences
+This remains a place of rest|This remains a place of rest
+It is a joy to see you play!|It is a joy to see you play!
+My processes will dissolve them to their base components and those components will be added to the mass.|My processes will dissolve them to their base components and those components will be added to the mass.
+Ahh yes! The paths! How wonderous!|Ahh yes! The paths! How wonderous!
+How auspicious it was, our meeting...|How auspicious it was, our meeting...
+Forgive me if I cannot respond in kind. This body is so limited...|Forgive me if I cannot respond in kind. This body is so limited...
+How I have wished for this day. My dear friend, welcome.|How I have wished for this day. My dear friend, welcome.
+Bite|Bite
+Hiss|Hiss
+Call|Call
+SRS:|SRS:
+NSH:|NSH:
+EOC:|EOC:
+BSM:|BSM:
+NGI:|NGI:
+Scar|Scar
+Luna|Luna
+Hang|Hang
+Bash|Bash
+Flee|Flee
+Grab|Grab
+Spit|Spit
+Noot|Noot
+Howl|Howl
+Snip|Snip
+Jump|Jump
+Moo!|Moo!
+None|None
+Lunge|Lunge
+Saint|Saint
+Gills|Gills
+Vents|Vents
+Click|Click
+Sleep|Sleep
+Birth|Birth
+Chomp|Chomp
+Throw|Throw
+Shock|Shock
+Point|Point
+Laser|Laser
+Arena|Arena
+Class|Class
+Items|Items
+STOP.|STOP.
+Launch|Launch
+Tongue|Tongue
+Spears|Spears
+Struts|Struts
+Burrow|Burrow
+Attach|Attach
+Squeak|Squeak
+Pounce|Pounce
+Skewer|Skewer
+Detach|Detach
+Snatch|Snatch
+Sprint|Sprint
+Signal|Signal
+Ascend|Ascend
+DON'T.|DON'T.
+LEAVE.|LEAVE.
+Consume|Consume
+Rivulet|Rivulet
+The Rot|The Rot
+Rubicon|Rubicon
+Pick Up|Pick Up
+Release|Release
+Discard|Discard
+Stealth|Stealth
+Ensnare|Ensnare
+Harpoon|Harpoon
+Pick up|Pick up
+Descend|Descend
+...WHY?|...WHY?
+Are my words reaching you?|Are my words reaching you?
+Go... away! You ate... me!|Go... away! You ate... me!
+creaturetype-ScavengerKing|Scavenger Chieftain
+objecttype-SingularityBomb|Singularity Bomb
+Undiscovered Transcription|Undiscovered Transcription
+Destroy all armored plates|Destroy all armored plates
+Please, don't touch those!|Please, don't touch those!
+Ah, you must be in a rush.|Ah, you must be in a rush.
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.
+Very well, you are on your own, creature. Please leave.|Very well, you are on your own, creature. Please leave.
+We've read this, little creature. As previously stated:|We've read this, little creature. As previously stated:
+Hold Eat while grabbing an unconscious creature to maul|Hold Eat while grabbing an unconscious creature to maul
+Hold throw while flying to charge your ascension burst.|Hold throw while flying to charge your ascension burst.
+Hold the pick-up button to pull needles from your body.|Hold the pick-up button to pull needles from your body.
+You're not leaving? I suppose I should continue then...|You're not going? I suppose I will pick up where I left off then...
+However, you really shouldn't stay. It's too dangerous.|But, you really should not stay. It's too dangerous.
+Don't. My systems have already been damaged enough as it is. Go away.|Don't. My systems have already been damaged enough as it is. Go away.
+Best of luck to you, and your family. There is nothing else I can do.|Best of luck to you, and your family. There is nothing else I can do.
+Go... away... bad... thing...|Go... away... bad... thing...
+Five Pebbles (Primary Cortex)|Five Pebbles (Primary Cortex)
+Abstract Convergence Manifold|Abstract Convergence Manifold
+Take your offspring with you.|Take your offspring with you.
+Too... broken...|Too... broken...
+The Rot (Depths)|The Rot (Depths)
+Silent Construct|Silent Construct
+Windswept Spires|Windswept Spires
+Hold to view map|Hold to view map
+Parry ## attacks|Parry ## attacks
+Met Five Pebbles|Met Five Pebbles
+...help... me...|...help... me...
+LET GO! p please|LET GO! p please
+Shall we finish?|Shall we finish?
+No! You... killed... me!|No! You... killed... me!
+The Rot (Cystic Conduit)|The Rot (Cystic Conduit)
+creaturetype-StowawayBug|Stowaway
+creaturetype-JungleLeech|Jungle Leech
+Submerged Superstructure|Submerged Superstructure
+Please do not do that...|Please do not do that...
+...Not forgotten pain...|...Not forgotten pain...
+No! <CapPlayerName> ate... me!|No! <CapPlayerName> ate... me!
+##<LINE>without anything dying|##<LINE>without anything dying
+Welcome back little messenger.|Welcome back little messenger.
+...Little green friend. Hello.|...Little visitor. Hello.
+Spanish translation by Garrakx|Spanish translation by Garrakx
+No! Am... broken... because you...|No! Am... broken... because you...
+Five Pebbles (Linear Systems Rail)|Five Pebbles (Linear Systems Rail)
+Looks to the Moon (Memory Conflux)|Looks to the Moon (Memory Conflux)
+Have you brought your family here?|Do you have a little one with you?
+Hello again. Shall I keep reading?|Hello again. Shall I keep reading?
+No!|No!
+WO:|WO:
+PI:|PI:
+GS:|GS:
+SI:|SI:
+HR:|HR:
+CW:|CW:
+EP:|EP:
+FP:|FP:
+HF:|HF:
+UU:|UU:
+Sit|Sit
+Bow|Bow
+Eat|Eat
+Fly|Fly
+Run|Run
+Leave... me alone. Terrible... creature...|Leave... me alone. Terrible... creature...
+I have read this. As I have stated before:|I have read this. As I have stated before:
+Explosive jump while holding down to parry|Explosive jump while holding down to parry
+Looks to the Moon's Transcription (Future)|Looks to the Moon's Transcription (Future)
+You'd better hurry along, little creature!|You'd better hurry along, brave messenger.
+I have nothing to say to you, <PlayerName>.|I have nothing to say to you, <PlayerName>.
+Press jump in the air to extend your tongue|Press jump in the air to extend your tongue
+Use directional inputs to aim the ascension|Use directional inputs to aim the ascension
+Did you not register what I've said to you?|Did you not register what I've said to you?
+Please, leave quickly, while you still can.|Please, leave quickly, while you still can.
+Go away, <PlayerName>.|Go away, <PlayerName>.
+creaturetype-EelLizard|Eel Lizard
+creaturetype-AquaCenti|Aquapede
+creaturetype-Inspector|Inspector
+Atop the Tallest Tower|Atop the Tallest Tower
+Primordial Underground|Primordial Underground
+Survive for ## seconds|Survive for ## seconds
+Safari region unlocked|Safari region unlocked
+Hold grab to activate.|Hold grab to activate.
+The Pilgrim-linebreaks|The Pilgrim
+Wait, that's not food!|Wait, that's not food!
+not... edible, please.|not... edible, please.
+...don't... trust you.|...don't... trust you.
+Keep your family safe!|Keep your family safe!
+...Go find... shelter.|...Go find... home.
+Assets and content by:|Assets and content by:
+Leave me alone...|Leave me alone...
+creaturetype-Yeek|Yeek
+Forgotten Conduit|Forgotten Conduit
+Frosted Cathedral|Frosted Cathedral
+Glacial Wasteland|Glacial Wasteland
+Ancient Labyrinth|Ancient Labyrinth
+Put a ## in a den|Put a ## in a den
+...Nice to see...|...Nice to see...
+...Cold coming...|...Frost coming...
+Stop! Stop giving me your junk!|Stop! Stop giving me your junk!
+saint_old_ascension_tutorial_ps|Use directional inputs to aim the ascension.
+Facility Roots (Western Intake)|Facility Roots (Western Intake)
+Clear the game as ## to unlock.|Clear the game as ## to unlock.
+...why did you... save... me...|...why did you... save... me...
+Where do you find all of these?|Where do you find all of these?
+Let us see what you have found.|Let us see what you have found.
+...Why... take all I... have...|...Why... take all I... have...
+...Thank you... for... company.|...Thank you... for... company.
+...Find heat... Cold is danger.|...Seek heat... Cold is danger.
+Korean translation by topicular|Korean translation by topicular
+Leave me alone! You terrible creature!|Leave me alone! You terrible creature!
+Pups can now be found in Sandbox Mode.|Pups can now be found in Sandbox Mode.
+Cold... You better go. I will be fine.|Cold... You better leave. I will be fine.
+The storm is coming. You should leave.|The downpour is about to start. You should get out of here.
+We have read this one, little creature.|We have read this one, little creature.
+Clear the game as <X> or <Y> to unlock.|Clear the game as <X> or <Y> to unlock.
+Is that something new? Allow me to see.|Is that something new? Allow me to see.
+Special button interactions:|Special button interactions:
+Auxiliary Transmission Array|Auxiliary Transmission Array
+Auxillery Transmission Array|Auxillery Transmission Array
+Hold to select and use doors|Hold to select and use doors
+...It is... warmer... today.|...It is... warmer... today.
+Tap Pick up and Jump together to explosive jump|Tap Pick up and Jump together to explosive jump
+Hold Throw while flying to perform an ascension|Hold Throw while flying to perform an ascension
+Rubicon content is now available in Arena Mode.|Rubicon content is now available in Arena Mode.
+I am surprised you have found so many of these.|I am surprised you have found so many of these.
+Ah, don't worry about me. You should get going!|Ah, don't worry about me. You should get going!
+Oh. It's you, why have you come back...? Again.|Oh. It's you, why have you come back...? Again.
+Hold Pick Up with an empty hand to generate a spear|Hold Pick Up with an empty hand to generate a spear
+This is not a request. I have important work to do.|This is not a request. I have important work to do.
+Press throw with empty hands to extend your tongue|Press throw with empty hands to extend your tongue
+Hold Pick Up to move a spear to and from your back|Hold Pick Up to move a spear to and from your back
+Undelete the challenge you just deleted to unlock.|Undelete the challenge you just deleted to unlock.
+Hello again. I hope you have a reason to visit me.|Hello again. I hope you have a reason to visit me.
+Tap Pick up and Jump together to take flight|Tap Pick up and Jump together to take flight
+You better go, <PlayerName>! I will be fine.|You need to find shelter, <PlayerName>! Don't worry about me.
+...So little... left. Why hurt... me more...|...So little... left. Why hurt... me more...
+saint_old_ascension_tutorial_switch|Use directional inputs to aim the ascension.
+Looks to the Moon (Neural Terminus)|Looks to the Moon (Neural Terminus)
+Have you come back to see me again?|Have you come back to see me again?
+Get... get away... round.... thing.|Get... get away... round.... thing.
+Wait, please don't leave with that!|Wait, you cannot leave with that!
+...Friend... please find... safety.|...Friend... please get to... safety.
+saint_old_ascension_tutorial_xbox|Use directional inputs to aim the ascension.
+Looks to the Moon's Transcription|Looks to the Moon's Transcription
+Ah. Have you found something new?|Ah. Have you found something new?
+Oh... Good luck, little creature.|Good luck, my unfortunate little friend.
+Hold Pick Up while holding up to combine two differing items|Hold Pick Up while holding up to combine two differing items
+Try using your weight in creative ways to gain an advantage.|Try using your weight in creative ways to gain an advantage.
+Oh? What have you found this time? Let's see what it says...|Oh? What have you found this time? Let's read what it says...
+Hold Pick Up to regurgitate a random item|Hold Pick Up to regurgitate a random item
+Clear a total of ## challenges to unlock.|Clear a total of ## challenges to unlock.
+There's not a lot of time. You should go!|There's not a lot of time. You must move along!
+Take your offspring with you when you go.|Take your offspring with you when you go.
+Have you brought something new this time?|Have you brought something new this time?
+[ Collection Empty ]|[ Collection Empty ]
+Unique pearls read :|Unique pearls read :
+creaturetype-FireBug|Firebug
+creaturetype-SlugNPC|Slugpup
+objecttype-JokeRifle|Joke Rifle
+objecttype-GooieDuck|Gooieduck
+objecttype-LillyPuck|Lilypuck
+objecttype-MoonCloak|Cloak
+Ascend all creatures|Ascend all creatures
+Escort a ## to a den|Escort a ## to a den
+Food quest completed|Food quest completed
+The Nomad-linebreaks|The Nomad
+Oh, leaving already?|Leaving already?
+Where are you going?|Where are you going?
+Looks to the Moon (Abstract Convergence Manifold)|Looks to the Moon (Abstract Convergence Manifold)
+Change the slugcat class/abilities for Player <X>|Change the slugcat class/abilities for Player <X>
+Refer to the Pause Menu for Safari Mode controls.|Refer to the Pause Menu for Safari Mode controls.
+Looks to the Moon (Vents)|Looks to the Moon (Vents)
+creaturetype-MirosVulture|Miros Vulture
+creaturetype-MotherSpider|Mother Spider
+objecttype-DandelionPeach|Dandelion Peach
+Unknown Pearl Contents...|Unknown Pearl Contents...
+## without anything dying|## without anything dying
+Arena character unlocked:|Arena character unlocked:
+What are you doing? Stop!|What are you doing? Stop!
+...storm... coming... Go!|...storm... coming... Go!
+...Please find... Warmth.|...Please find... Warmth.
+...Why did... you stay...|...Why did... you stay...
+Submerged Superstructure (The Heart)|Submerged Superstructure (The Heart)
+Ah, welcome back. As I was saying...|Welcome back. As I was saying...
+##<LINE>without letting a @@ die|##<LINE>without letting a @@ die
+Submerged Superstructure (Vents)|Submerged Superstructure (Vents)
+Oh... Good bye, little creature.|Oh... Good bye, little creature.
+While in the air, tap jump and pick-up together to take flight.|While in the air, tap jump and pick-up together to take flight.
+Developer Commentary mode is now available in the Options menu.|Developer Commentary mode is now available in the Options menu.
+Stop, that's dangerous! You are going to break something again!|Stop, that's dangerous! You are going to break something again!
+Hold throw and directional inputs while flying to perform an ascension.|Hold throw and directional inputs while flying to perform an ascension.
+Friends sheltered :|Friends sheltered :
+objecttype-GlowWeed|Glow Weed
+Waterfront Facility|Waterfront Facility
+Linear Systems Rail|Linear Systems Rail
+Befriend a creature|Befriend a creature
+Unique pearls read:|Unique pearls read:
+stop, don... don't!|stop, don... don't!
+Let us take a look.|Let us take a look.
+It is getting cold.|It's getting frigid.
+What are you doing?|What are you doing?
+...All I... have...|...All I... have...
+...Bring it back...|...Bring it back...
+creaturetype-SpitLizard|Caramel Lizard
+creaturetype-ZoopLizard|Strawberry Lizard
+Warp to random creature|Warp to random creature
+Are you not interested?|Are you not interested?
+What a dumb creature...|What a dumb creature...
+creaturetype-TerrorLongLegs|Mother Long Legs
+creaturetype-ScavengerElite|Elite Scavenger
+Five Pebble's Transcription|Five Pebble's Transcription
+## without letting a @@ die|## without letting a @@ die
+...Little... green thing...|...Little... green thing...
+...You should... find heat.|...You should... keep warm.
+...Too cold... Alone again.|...Freezing... Alone again.
+creaturetype-BigJelly|Giant Jellyfish
+objecttype-EnergyCell|Rarefaction Cell
+Met Looks to the Moon|Met Looks to the Moon
+The Martyr-linebreaks|The Martyr
+The Mother-linebreaks|The Mother
+No! Don't... hurt me!|No! Don't... hurt me!
+... stop... please...|... stop... please...
+Please do not return.|Please do not return.
+That can't be good...|That can't be good...
+...No, don't... take!|...No, don't... take!
+...Give it... back...|...Give it... back...
+...Leave me... alone.|...Leave me... alone.
+objecttype-FireEgg|Fire Egg
+[ No Data Loaded ]|[ No Data Loaded ]
+Kill all creatures|Kill all creatures
+Friends sheltered:|Friends sheltered:
+Leave me... alone.|Leave me... alone.
+Let me continue...|Let me continue...
+...Give... back...|...Give... back...
+objecttype-Seed|Popcorn
+THE SPEARMASTER|THE SPEARMASTER
+The Spearmaster|The Spearmaster
+Solitary Towers|Solitary Towers
+Neural Terminus|Neural Terminus
+Desolate Fields|Desolate Fields
+Suburban Drifts|Suburban Drifts
+Barren Conduits|Barren Conduits
+Emotional State|Emotional State
+Ascend every ##|Ascend every ##
+Pop every plant|Pop every plant
+Parry ## attack|Parry ## attack
+Oh... Good bye.|Oh... Good bye.
+GET OUT!|GET OUT!
+Gourmand|Gourmand
+Pipeyard|Pipeyard
+The Husk|The Husk
+Ascended|Ascended
+Parries:|Parries:
+GET OUT.|GET OUT.
+Suns...?|Suns...?
+...No...|...No...
+Five Pebbles:|Five Pebbles:
+THE ARTIFICER|THE ARTIFICER
+The Artificer|The Artificer
+Outer Expanse|Outer Expanse
+The Precipice|The Precipice
+Journey's End|Journey's End
+Change target|Change target
+Win Condition|Win Condition
+Kill every ##|Kill every ##
+Befriend a ##|Befriend a ##
+Gain ## point|Gain ## point
+What is this?|What is this?
+Please leave.|Please leave.
+...Go away...|...Go away...
+THE RIVULET|THE RIVULET
+The Rivulet|The Rivulet
+Spearmaster|Spearmaster
+Undergrowth|Undergrowth
+Sunken Pier|Sunken Pier
+Frozen Mast|Frozen Mast
+Sump Tunnel|Sump Tunnel
+Hang on Mom|Hang on Mom
+Telekinesis|Telekinesis
+<X> and <Y>|<X> and <Y>
+The Pilgrim|The Pilgrim
+...storm...|...storm...
+...Hello...|...Hello...
+THE GOURMAND|THE GOURMAND
+The Gourmand|The Gourmand
+Random start|Random start
+Icy Monument|Icy Monument
+Bitter Aerie|Bitter Aerie
+Frigid Coast|Frigid Coast
+Disable Rain|Disable Rain
+Pick up Food|Pick up Food
+Hello there.|Hello there.
+Well then...|Well then...
+...Why back?|...Why back?
+THE SAINT|THE SAINT
+The Saint|The Saint
+Artificer|Artificer
+The Floor|The Floor
+The Shell|The Shell
+The Heart|The Heart
+Water Jet|Water Jet
+Spray Ink|Spray Ink
+Creatures|Creatures
+The Nomad|The Nomad
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|Clear the game as Gourmand, Artificer, or Hunter to unlock.
+Hold the EAT button while a stunned creature is being held.|Hold the EAT button while a stunned creature is being held.
+The Rarefaction Cell item is now available in Sandbox Mode.|The Rarefaction Cell item is now available in Sandbox Mode.
+Little messenger, we do not have much time. You must hurry!|Little messenger, we do not have much time. You must hurry!
+Clear the game as Rivulet and Spearmaster to unlock.|Clear the game as Rivulet and Spearmaster to unlock.
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...|An abnormality who feeds using needles pulled from its body. A traveler from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.
+COLLECTION|COLLECTION
+Metropolis|Metropolis
+The Gutter|The Gutter
+Cannonball|Cannonball
+Swap Heads|Swap Heads
+Camouflage|Camouflage
+Time Limit|Time Limit
+## Seconds|## Seconds
+Acceptance|Acceptance
+The Martyr|The Martyr
+The Mother|The Mother
+Looks to the Moon's Transcription (Pre-Collapse)|Looks to the Moon's Transcription (Pre-Collapse)
+The Rifle item is now available in Sandbox Mode.|The Rifle item is now available in Sandbox Mode.
+How cute, you brought your family, <PlayerName>?|How cute, you brought your child, <PlayerName>?
+12th Council Pillar, the House of Braids|12th Council Pillar, the House of Braids
+Pups can now be found in some campaigns.|Pups can now be found in some campaigns.
+Ah, you have found me something to read?|Ah, you have found me something to read?
+Oh... Please be careful on your journey.|Please be careful on your journey.
+Please, a moment of your time to finish?|Please, a moment of your time to finish?
+Primary Cortex|Primary Cortex
+Cystic Conduit|Cystic Conduit
+Desolate Canal|Desolate Canal
+Play as target|Play as target
+Revoke Control|Revoke Control
+Challenge #<X>|Challenge #<X>
+Gain ## points|Gain ## points
+it... hurts...|it... hurts...
+Let me finish.|Let me finish.
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|Revisit regions that were explored in the story campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the story campaigns.
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|While in the air, tap jump and pick-up together to activate karmic enlightenment.
+While in the air, press jump and pick-up together, to propel yourself explosively.|While in the air, press jump and pick-up together, to propel yourself explosively.
+Tap the throw button to extend your tongue. Press jump while attached to let go.|Tap the throw button to extend your tongue. Press jump while attached to let go.
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|Tap jump in the air to extend your tongue. Press jump again while attached to let go.
+While you are attached to something, use up and down to extend or retract your tongue.|While you are attached to something, use up and down to extend or retract your tongue.
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|If you are going to make your visits a habit, the least you can do is bring me something new to read.
+Stab creatures with your white needles to leech energy from their bodies.|Stab creatures with your white needles to leech energy from their bodies.
+I wonder, just how much time has passed since some of these were written.|I wonder, just how much time has passed since some of these were written.
+Another? Let us see... to be honest, I'm as curious to see it as you are.|Another? Let us see... to be honest, I'm as curious to examine it as you are.
+Hold up and grab with differing objects in each hand, in order to procure something new.|Hold up and grab with differing objects in each hand, in order to procure something new.
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|It is nice to see you again, but the clock is ticking. Make haste!
+Holding up and grab with two differing food items, will eat them together as a meal.|Holding up and grab with two differing food items, will eat them together as a meal.
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|You can also spit up random objects at the cost of food, if nothing is stored inside of you.
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?
+Hold pick-up with compatible ammunition in hand to load the rifle.|Hold pick-up with compatible ammunition in hand to load the rifle.
+Ah, you remind me of an old creature who used to visit here often.|Ah, you remind me of an old creature who used to visit here often.
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|Hold pick-up to transform rocks or spears into explosives, at the cost of food.
+Those are the only memories I have left. I will cease functioning without them.|Those are the only memories I have left. I will cease functioning without them.
+The passage of time has since taken them away, of course. That was a while ago.|The passage of time has since taken them away, of course. That was a while ago.
+Combat and other fast movements will quickly exhaust you.|Combat and other fast movements will quickly exhaust you.
+Artificer can maul creatures while they are still alive.|Artificer can maul creatures while they are still alive.
+Please, don't scare me like that. I don't appreciate it.|Please, don't scare me like that. I don't appreciate it.
+Now, I hope you have reason to visit me. I am very busy.|Now, I hope you have reason to visit me. I am very busy.
+Another ordeal to add to my running tally of bad luck...|Another ordeal to add to my running tally of bad luck...
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|The Outer Expanse gate remains unlocked beyond this point in the timeline.
+Pups can now be found in Sandbox Mode, and some campaigns.|Pups can now be found in Sandbox Mode, and some campaigns.
+Let us see if there is anything important written on this.|Let us see if there is anything important written on this.
+Little creature, please leave. I would prefer to be alone.|Little ruffian, please leave. I would prefer to be alone.
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|What are you doing?! Just because you helped me doesn't mean you can treat me this way.
+In your current state. I can only assume that you have found what you were looking for.|In your current state. I can only assume that you have found what you were looking for.
+Why would you do that to me?! I don't understand you, <PlayerName>.|Why would you do that to me?! I don't understand you, <PlayerName>.
+Please stop! I beg you. I don't... understand your motivation...|Please stop! I beg you. I don't... understand your motivation...
+I can only think that you somehow find me pleasant to listen to.|I can only think that you somehow find me pleasant to listen to.
+Do you have something new, or have you come to just stare at me?|Do you have something new, or have you come to just stare at me?
+Your company is welcome little creature, but please do not stay.|Your company is welcome for now, but you cannot stay.
+Why?! Why would you?? Please, I have so much more I need to do, still...|Why?! Why would you?? Please, I have so much more I need to do, still...
+Thank you for visiting me, but I'm afraid there is nothing here for you.|Thank you for visiting me, but I'm afraid there is nothing here for you.
+Despite some power to my facility being restored, those are still crucial to my survival!|Despite some power to my facility being restored, those are still crucial to my survival!
+Your intention was to help me, was it not? Then please don't play with those!|Your intention was to help me, was it not? Then please don't play with those!
+This is no time for games little messenger. Hurry now, before it is too late!|This is no time for games. Run along now, before it is too late!
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|Those aren't toys, <PlayerName>. I cannot trust anyone with them.
+Stay as long as you'd like. But not too long.|Stay as long as you'd like. But not too long.
+Have you found something else for me to read?|Have you found something else for me to read?
+It is nice to see you again little messenger!|It is nice to see you again little messenger!
+This chamber is not very well insulated from the cold.|This chamber is not very well insulated from the cold.
+I do enjoy the company though. You and your family are always welcome here.|I do enjoy the company though. You and your family are always welcome here.
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.
+You've returned! I thought you were leaving. Allow me to continue...|You've returned! I thought you were walking away.  Allow me to continue...
+Ah, nevermind, let me finish our conversation.|Nevermind, let me finish our conversation.
+Now, please leave. I would prefer to be alone.|Now, please leave. I would prefer to be alone.
+Please do not take advantage of this. I do not have the patience for your continued presence here.|Please do not take advantage of this. I do not have the patience for your continued presence here.
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.
+Oh, it's you again? I had told you to leave and never return.|Oh, it's you again? I had told you to leave and never return.
+Leave immediately and don't come back. And take THEM with you!|Leave immediately and don't come back. And take THEM with you!
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|Ah, you've returned. You know that I care very little for the creatures that wander through my facility.
+For your own sake, I hope it was worth your struggle.|For your own sake, I hope it was worth your struggle.
+For what reason do you visit so often? There is nothing more I can do for you.|For what reason do you visit so often? There is nothing more I can do for you.
+I have nothing for you here little messenger. Please, I have little time left.|I have nothing for you here, poor thing. Please, I don't have long.
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...
+How did it even manage to do that?...|How did it even manage to do that?...
+...Nothing here... Nothing... left...|...Nothing here... Nothing... left...
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to interact.
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.
+Custom colors|Custom colors
+tips-distract|A predator blocking the way can be overcome with many tactics. Create a<LINE>distraction, lure them away with noise, deploy a sacrifice that they can eat<LINE>instead of eating you, etc.
+tips-hoarding|Even if you are already full up on food, you can hoard extra supplies<LINE>inside of your shelter to make future cycles easier on yourself.
+tips-prepared|Don't travel empty handed. Having items immediately available can be the<LINE>difference between life and death... you never know when you may need them.
+tips-backflip|Quickly swap your direction of motion, and at the same time press the jump<LINE>button. This will initiate a back-flip, which has slightly more height than a<LINE>normal jump. Backflips can also be used to initiate a roll.
+tips-vertpole|At the peak of a back-flip, throw downwards with a spear to create a vertical<LINE>pole in the ground. Use this to expand the places you can reach even further.
+tips-wanderer|The Wanderer has seen every corner of this world, and all it has to offer.<LINE>The journey beyond is only another step to them.
+Body|Body
+Eyes|Eyes
+HIGH|HIGH
+Restore Default|Restore Default
+Back to options|Back to options
+tips-spearstick|Spears can be lodged into surfaces to create makeshift climbing poles. Use this<LINE>to open up new routes and get to previously inaccessible locations.
+tips-batharvest|Knock batflies out of the air with projectiles to make them easier to capture.<LINE>Skewer them with spears to capture multiple at once.
+tips-reputation|Your actions develop your reputation amongst the ecosystem's populace.<LINE>Be generous even to your enemies, and perhaps the favor will be returned.<LINE>Otherwise you may become hunted by all.
+tips-throwboost|Throwing an item mid-air gives you a slight boost in the direction thrown.<LINE>Use this to extend the horizontal range of your jumps.
+tips-tunnelturn|While crawling through a tight corridor, hold the jump button and the opposite<LINE>direction of where you're facing to turn around. You move faster while facing<LINE>the direction you're crawling.
+tips-powerthrow|Throwing a spear forward during a slide will give the spear extra speed<LINE>and impact. This can stun creatures for a longer period of time, and can<LINE>pierce certain defenses.
+tips-superslide|Throw an object backward during a slide to dramatically increase the<LINE>distance covered by the slide.
+tips-wallpounce|Pouncing toward a wall, then tapping the jump button directly on impact while<LINE>holding toward the wall will greatly increase the rebound force of your wall jumps.
+HUE|HUE
+SAT|SAT
+LIT|LIT
+LOW|LOW
+CHOOSE|CHOOSE
+MEDIUM|MEDIUM
+Oh no.|Oh no.
+Analog Sensitivity|Analog Sensitivity
+tips-deathrecovery|The food chain is complex. If you're lucky, even after being grabbed by a creature,<LINE>they may later lose grasp of you if they wind up in a skirmish or get eaten themselves!
+tips-utilitycreats|Not every creature is a predator to be avoided. There are many creatures<LINE>that may be able to benefit you on your journey as well.
+FPS Limit|FPS Limit
+Unlimited|Unlimited
+tips-drop|Pressing down and the pick-up button together will place the item in your hand<LINE>on the ground without throwing it.
+tips-roll|While falling a far distance, hold diagonally downwards to initiate a roll on<LINE>contact with the ground. This will reduce the impact of the fall and give<LINE>you some extra mobility.
+tips-swim|Move in a controlled snaking motion underwater to improve your swimming<LINE>speed. Wiggle your body rhythmically up and down, or left and right.
+tips-monk|The Monk is the path of prey. Foraging through the wilds of this world to survive,<LINE>but this path does not guarantee safety in a world of predators.
+Quality|Quality
+Backgrounds|Backgrounds
+tips-crouch|You don't have to hold down to stay crouched. Tap down once to enter the crawling<LINE>state, and tap up to return back to standing.
+tips-escape|When possible, it's often better to avoid confrontation and escape from fights.<LINE>Many predators are powerful and dangerous, so don't get overzealous.
+tips-cheese|Utilize pipes to swap places with a predator that is pursuing you. This can be<LINE>an easy way to shake them off your tail.
+tips-cannon|Tap the jump button right when coming out of a pipe to propel yourself<LINE>quickly outward.
+tips-martyr|The Martyr discards their own survival, withering away until their body becomes dust.
+tips-hunter|The Hunter is the path of a predator, but in this cruel and uncaring world the<LINE>spoils of their hunt do not always guarantee survival.
+tips-outlaw|The Outlaw lives their life in battle. All that come near are slain, friend and foe alike.
+tips-friend|The Friend embraces the other and the unknown. The world is cruel and unforgiving,<LINE>but together, comfort and protection can be found.
+Old tongue controls?|Old tongue controls?
+Enable wallpouncing?|Enable wallpouncing?
+Enable speedrun timer?|Enable speedrun timer?
+CONFIGURE TITLE SCREEN|CONFIGURE TITLE SCREEN
+Keep your friend safe!|Keep your friend safe!
+I must resume my work.|I must resume my work.
+Enable shelter item transport?|Enable shelter item transport?
+<CapPlayerName>, are you okay?|<CapPlayerName>, are you okay?
+Enable slug senses?|Enable slug senses?
+CONFIGURE SUB MENUS|CONFIGURE SUB MENUS
+Show tips between cycles?|Show tips between cycles?
+Enable Developer Commentary?|Enable Developer Commentary?
+Change graphics quality|Change graphics quality
+Take your pet with you.|Take your pet with you.
+Change menu background images|Change menu background images
+Display a speedrun timer at the top of the screen during gameplay?|Display a speedrun timer at the top of the screen during gameplay?
+Activate tongue abilities with the throw button instead of the jump button?|Activate tongue abilities with the throw button instead of the jump button?
+Allow passages to transport key items in your shelter to your new destination?|Allow passages to transport key items in your shelter to your new destination?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Allow nearby creatures and key items to be visible as icons on slugcat's memory map?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Enable slugcat's wall pouncing ability from legacy Rain World versions?
+Spawn developer commentary collectables in the single player campaigns?|Spawn developer commentary collectables in the single player campaigns?
+Periodically show survival hints and explain gameplay mechanics for new players?|Periodically show survival hints and explain gameplay mechanics for new players?
+Configure the background image used on the title screen|Configure the background image used on the title screen
+Configure the background image used in the sub menus|Configure the background image used in the sub menus
+Wiggling around quickly might startle this creature.|Wiggling around quickly might startle this creature.
+I am afraid to ask how you brought your friend here.|I am afraid to ask how you brought your friend here.
+tips-clock|Pressing the map button also reveals other information such as your food bar.<LINE>The circle of dots in the bottom-left represents the time until the rain comes.<LINE>Pay close attention to it!
+tips-rocks|Rocks may not be a lethal weapon, but they have many practical uses. They<LINE>can distract, deflect, disarm, stun, reveal weak points, knock creatures off<LINE>of poles and ledges, etc!
+tips-audio|Audible clues are often your first indicator of impending danger, even before<LINE>the danger is visible. Listen carefully.
+tips-slide|Press diagonally downwards plus the jump button while in motion to initiate<LINE>a slide. You will slide across the ground covering distance quickly for a short<LINE>period of time.
+tips-noise|Creatures can detect your presence not just by sight, but also by noise. Be<LINE>mindful about being too loud, otherwise you may attract unwanted attention.
+tips-saint|The Saint is a path of pacifism. To bring harm to another is to bring harm to one's self.
+tips-nomad|The Nomad experiences an ever-changing world. Living one life to the next as<LINE>just steps in an endless journey toward an unknown goal.
+Calm down!|Calm down!
+tips-pipeflash|Pipe entrances flash when there is danger on the other side. The color of the<LINE>flash can clue you in on the type of danger.
+tips-foodtypes|Batflies and hanging fruits are far from the only sources of food. Some plants<LINE>and creatures are edible, but only once certain conditions are met. Experiment.
+tips-handorder|The item in your right hand is the primary item that will be used or thrown first.<LINE>Double-tapping the pick-up button will swap items between your two hands.
+tips-slideleap|Tap jump during a slide or a roll to chain it into a long jump. Use this to<LINE>maximize your mobility and cover a lot of distance quickly.
+tips-turnboost|Quickly swapping direction of motion will give you a slight speed boost for a<LINE>short time in the new direction. Keep hopping afterwards to maintain this<LINE>speed boost for longer.
+tips-chieftain|The Chieftain embraces strength and community in the unknown. They have become<LINE>part of this world, and with their new bonds, they will survive it.
+tips-swallow|Small, non-edible items can be stored in your stomach for safe keeping by<LINE>holding down the pick-up button for a few seconds. Likewise, hold it to<LINE>regurgitate the item back up.
+tips-breathe|Pay attention to your breathing before jumping underwater. If you are breathing<LINE>heavy, stand still and give yourself a second to catch your breath first.
+tips-polehop|Tapping the jump button just before intersecting a horizontal pole allows<LINE>you to bounce off the pole. This can be chained to quickly hop across poles.
+tips-scholar|The Scholar seeks to understand the world as it once was. Gazing into a<LINE>crystallized past, and finding new meaning within it.
+tips-deathpenalty|Death matters little until you are ready to move on. Take some time to throw<LINE>caution to the wind and experiment, explore, learn the layout of land, learn<LINE>food locations, etc.
+tips-shelterstore|Items stored in shelters will stay there between cycles, and will persist<LINE>even if you leave the region. They are the only safe places to keep your<LINE>valuables from the rain!
+tips-dragonslayer|The Dragon Slayer embraces the hunt. They have brought the beasts of this world to heel.
+What did you do!?|What did you do!?
+Stop it! Go away!|Stop it! Go away!
+tips-tunnelboost|Tap the jump button while crawling in a tight corridor to give yourself a<LINE>slight boost in speed.
+tips-slidecancel|During a slide, quickly tap the jump button plus the opposite direction of<LINE>motion. This will cancel the slide and return you to where you started.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|The use of some objects may not be obvious at first glance, experiment with everything you find!
+There are many paths to explore in this world.|There are many paths to explore in this world.
+If you are struggling, try returning to a previous region.|If you are struggling, try returning to a previous region.
+You may find a new path forward, or discover something that makes your survival here easier.|You may find a new path forward, or discover something that makes your survival here easier.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|However, there is nothing that stops you from overcoming this region's challenges as you are right now.
+Your friend is very large, how did you fit them in here?|Your friend is very large, how did you fit them in here?
+How did you bring that in here... I think it is as surprised as I am!|How did you bring that in here... I think it is as surprised as I am!
+Oh, that is not a friend...|Oh, that is not a friend...
+Oh...|Oh...
+I do enjoy the company of you and your friend though, <PlayerName>.|I do enjoy the company of you and your friend though, <PlayerName>.
+Is this your friend, <PlayerName>?|Is this your friend, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Best of luck to you, and your companion. There is nothing else I can do.
+Please do not bring more wildlife into my chamber.|Please do not bring more wildlife into my chamber.
+How did you fit them inside here anyhow?|How did you fit them inside here anyhow?
+Take your friend with you. Please. I beg you.|Take your friend with you. Please. I beg you.

@@ -1,0 +1,5 @@
+wbla_d03:9:wvwb_b05
+wbla_c02:2:False:False,wbla_c05:2:False:False,wbla_d02:2:False:False,wbla_f04:2:False:False
+wbla_c03
+wbla_b08:0:0:wmpa_d09,wbla_j01:1:1:NULL
+wbla_a02:3,wbla_a08:3,wbla_a09:6,wbla_b03:4,wbla_c02:3,wbla_c05:3,wbla_d01:4,wbla_d02:5,wbla_j01:2

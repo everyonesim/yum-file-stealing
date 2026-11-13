@@ -1,0 +1,594 @@
+0Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|แข็งแกร่งและว่องไว ต้องการเนื้อสัตว์เป็นอาหารอย่างต่อเนื่อง แต่ความหิวไม่ใช่เพียงสิ่งเดียวที่คุณต้องกังวล...<LINE>เส้นทางนี้อันตรายสุดขีดเพราะทุกวัฏจักรที่จบลงคือการนับถอยหลังไปสู่ลางร้าย
+Custom colors|สีกำหนดเอง
+tips-distract|มีสารพัดกลวิธีในการรับมือนักล่าที่ขวางทางอยู่<LINE>เช่น เบี่ยงเบนความสนใจ ล่อลวงด้วยเสียง หาตัวตายตัวแทนให้พวกมันกินแทนคุณ<LINE>และอื่นๆ อีกมากมาย
+tips-hoarding|แม้ว่าคุณจะอิ่มท้องแล้ว แต่คุณก็ยังสามารถสะสมเสบียงเสริมไว้ภายในที่กำบังได้<LINE>เพื่อช่วยให้วัฏจักรต่อๆ ไปง่ายขึ้น
+tips-prepared|อย่าเดินทางมือเปล่า การมีไอเทมพร้อมใช้งานอาจเป็นจุดตัดสินระหว่างความเป็นและความตาย...<LINE>คุณไม่รู้หรอกว่าต้องใช้ขึ้นมาเมื่อไหร่
+tips-backflip|สลับทิศทางการเคลื่อนที่อย่างรวดเร็วพร้อมกับกดปุ่มกระโดดในเวลาเดียวกัน<LINE>เพื่อกระโดดตีลังกากลับหลัง<LINE>ซึ่งจะกระโดดได้สูงกว่าการกระโดดปกติเล็กน้อย นอกจากนี้ยังใช้เริ่มกลิ้งตัวได้อีกด้วย
+tips-vertpole|ในจังหวะที่กระโดดตีลังกากลับหลังถึงจุดสูงสุด ให้ปาหอกลงด้านล่างเพื่อปักเป็นเสาปีนบนพื้น<LINE>ใช้เทคนิคนี้เพื่อให้เข้าถึงพื้นที่ที่สูงขึ้นได้
+tips-wanderer|นักเดินทางได้ยลและสัมผัสทุกซอกทุกมุมของโลกมาแล้วจนหมดสิ้น<LINE>การเดินทางสู่เบื้องหน้าอันแสนไกลเป็นเพียงอีกก้าวหนึ่งเท่านั้น
+Body|ลำตัว
+Eyes|ดวงตา
+HIGH|สูง
+Restore Default|กู้คืนค่าเริ่มต้น
+Back to options|กลับไปยังตัวเลือก
+tips-spearstick|สามารถปักหอกลงบนพื้นผิวเพื่อทำเป็นเสาปีนเฉพาะกิจได้<LINE>ใช้เทคนิคนี้เพื่อเปิดเส้นทางใหม่และเข้าถึงพื้นที่ที่เคยไปไม่ถึง
+tips-batharvest|ปาวัตถุใส่แมลงค้างคาวกลางอากาศเพื่อให้จับได้ง่ายขึ้น<LINE>หรือใช้หอกเสียบเพื่อจับหลายตัวภายในคราวเดียว
+tips-reputation|การกระทำของคุณส่งผลต่อชื่อเสียงในหมู่ประชากรของระบบนิเวศ<LINE>แสดงความเมตตาแม้กระทั่งกับศัตรู แล้วบางทีคุณอาจได้รับสิ่งตอบแทน<LINE>มิเช่นนั้นคุณอาจจะถูกตามล่าจากทุกสรรพสิ่ง
+tips-throwboost|การปาวัตถุกลางอากาศจะช่วยให้มีแรงส่งที่ทำให้พุ่งไปในทิศทางที่ปาไปเล็กน้อย<LINE>ใช้เทคนิคนี้เพื่อให้กระโดดได้ไกลขึ้น
+tips-tunnelturn|ระหว่างที่คลานอยู่ในช่องทางแคบๆ<LINE>ให้กดปุ่มกระโดดและทิศทางตรงข้ามกับที่หันหน้าอยู่ค้างไว้เพื่อกลับตัว<LINE>คุณจะเคลื่อนที่ได้เร็วขึ้นเมื่อหันหน้าไปในทิศทางเดียวกับที่กำลังคลานอยู่
+tips-powerthrow|การปาหอกไปข้างหน้าในระหว่างที่ไถลตัวจะช่วยเพิ่มความเร็วและแรงปะทะให้กับหอก<LINE>ซึ่งสามารถทำให้ศัตรูมึนงงนานขึ้น<LINE>และยังช่วยให้ทะลวงการป้องกันบางอย่างได้
+tips-superslide|ปาวัตถุไปด้านหลังขณะไถลตัว<LINE>เพื่อเพิ่มระยะทางในการไถลให้ไกลขึ้นกว่าเดิมอย่างมาก
+tips-wallpounce|กระโจนเข้าหากำแพงแล้วแตะปุ่มกระโดดทันทีที่ปะทะพร้อมกับกดทิศทางเข้าหากำแพง<LINE>จะเพิ่มแรงถีบตัวจากการกระโดดออกจากกำแพงเป็นอย่างมาก
+HUE|ค่าสี
+SAT|ความสด
+LIT|ความสว่าง
+LOW|ต่ำ
+CHOOSE|เลือก
+MEDIUM|กลาง
+Oh no.|แย่แล้ว
+Analog Sensitivity|ความไวของจอยสติ๊ก
+tips-deathrecovery|ห่วงโซ่อาหารมีความซับซ้อนมาก ถ้าคุณโชคดีก็อาจจะหลุดรอดจากเงื้อมมือของสิ่งมีชีวิตได้<LINE>หากเกิดการปะทะกันหรือสิ่งมีชีวิตนั้นๆ ถูกจับกินเสียเอง!
+tips-utilitycreats|สิ่งมีชีวิตทุกตัวไม่ได้เป็นนักล่าที่ต้องหลีกเลี่ยงไปเสียหมด<LINE>มีสิ่งมีชีวิตอีกมากมายที่อาจมีประโยชน์กับการเดินทางของคุณเช่นกัน
+FPS Limit|จำกัดเฟรมเรต
+Unlimited|ไม่จำกัด
+tips-drop|การกดปุ่มลงและหยิบพร้อมกันจะทำให้<LINE>วางไอเทมในมือลงบนพื้นโดยไม่ปาออกไป
+tips-roll|กดเฉียงลงค้างไว้ขณะที่กำลังตกจากที่สูงเพื่อม้วนตัวเมื่อถึงพื้น<LINE>ซึ่งจะช่วยลดแรงกระแทกจากการตก<LINE>และทำให้คล่องตัวขึ้น
+tips-swim|ใช้การเลื้อยตัวไปมาใต้น้ำเพื่อช่วยให้ว่ายน้ำเร็วขึ้น<LINE>โดยสะบัดตัวขึ้นลงหรือซ้ายขวาอย่างเป็นจังหวะ
+tips-monk|นักบวชก้าวเดินบนเส้นทางแห่งเหยื่อ ประทังชีวิตด้วยการเสาะหาอาหารในพงไพร<LINE>ทว่าวิถีนี้ไม่อาจคุ้มครองให้พ้นภัยในโลกที่เต็มไปด้วยผู้ล่าได้
+Quality|คุณภาพ
+Backgrounds|พื้นหลัง
+tips-crouch|ไม่ต้องกดปุ่มลงค้างเพื่อย่อตัวค้างไว้<LINE>แตะลงหนึ่งครั้งเพื่อเข้าสู่ท่าคลานและแตะขึ้นเพื่อกลับมายืน
+tips-escape|การเลี่ยงการเผชิญหน้าแล้วหนีออกจากการต่อสู้เมื่อสามารถทำได้มักเป็นทางเลือกที่ดีกว่า<LINE>นักล่าหลายชนิดทรงพลังและอันตรายมาก ดังนั้นอย่ามุทะลุจนเกินไป
+tips-cheese|ใช้ท่อเพื่อสลับตำแหน่งกับผู้ล่าที่กำลังไล่ตามคุณอยู่<LINE>นี่อาจเป็นวิธีง่ายๆ ที่สามารถใช้สลัดพวกมันให้หลุดได้
+tips-cannon|แตะปุ่มกระโดดในจังหวะที่ออกจากท่อพอดี<LINE>เพื่อดีดตัวออกไปข้างหน้าอย่างรวดเร็ว
+tips-martyr|ผู้สละชีพไร้ซึ่งความปรารถนาที่จะเอาชีวิตรอด ปล่อยร่างโรยราจนกลายเป็นธุลี
+tips-hunter|นักล่าก้าวเดินบนเส้นทางแห่งผู้ล่า แต่ในโลกที่แสนโหดร้ายและไร้ความปรานีใบนี้<LINE>สิ่งที่ได้จากการล่าอาจไม่รับประกันการอยู่รอดเสมอไป
+tips-outlaw|ผู้ไร้กฎเกณฑ์ใช้ชีวิตท่ามกลางสมรภูมิ ทุกสิ่งที่เข้าใกล้ล้วนถูกสังหาร ไม่เว้นแม้แต่มิตรหรือศัตรู
+tips-friend|สหายพร้อมอ้าแขนรับมิตรใหม่และโชคชะตาที่ไม่อาจหยั่งรู้ โลกใบนี้โหดร้ายและไร้ซึ่งความปรานี<LINE>แต่ขอเพียงมีกันและกันอยู่ ย่อมได้พบกับไออุ่นใจและที่พึ่งพิง
+Old tongue controls?|ใช้การควบคุมลิ้นแบบเก่าหรือไม่?
+Enable wallpouncing?|เปิดใช้งานการกระโจนจากกำแพงหรือไม่?
+Enable speedrun timer?|เปิดใช้งานตัวจับเวลาสำหรับการเล่นทำสถิติหรือไม่?
+CONFIGURE TITLE SCREEN|กำหนดค่าหน้าเริ่มเกม
+Keep your friend safe!|ดูแลเพื่อนของเธอให้ปลอดภัยล่ะ!
+I must resume my work.|เราต้องกลับไปทำงานต่อแล้ว
+Enable shelter item transport?|เปิดใช้งานการย้ายไอเทมในที่กำบังหรือไม่?
+<CapPlayerName>, are you okay?|<CapPlayerName> เป็นอะไรไหม?
+Enable slug senses?|เปิดใช้งานสัมผัสทากหรือไม่?
+CONFIGURE SUB MENUS|กำหนดค่าเมนูย่อย
+Show tips between cycles?|แสดงคำแนะนำระหว่างวัฏจักรหรือไม่?
+Enable Developer Commentary?|แสดงความเห็นจากผู้พัฒนาหรือไม่?
+Change graphics quality|เปลี่ยนคุณภาพของกราฟิก
+Take your pet with you.|เอาสัตว์เลี้ยงของเธอไปด้วย
+Change menu background images|เปลี่ยนรูปพื้นหลังเมนู
+Display a speedrun timer at the top of the screen during gameplay?|แสดงตัวจับเวลาสำหรับการเล่นทำสถิติที่ด้านบนของหน้าจอระหว่างการเล่นหรือไม่?
+Activate tongue abilities with the throw button instead of the jump button?|ใช้งานความสามารถของลิ้นด้วยปุ่มปาแทนปุ่มกระโดดหรือไม่?
+Allow passages to transport key items in your shelter to your new destination?|อนุญาตให้การวาร์ปเมื่อบรรลุวิถีต่างๆ ย้ายไอเทมสำคัญในที่กำบังไปยังจุดหมายใหม่หรือไม่?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|อนุญาตให้แสดงไอคอนไอเทมสำคัญและสิ่งมีชีวิตใกล้เคียงบนแผนที่ความทรงจำของเหมียวทากหรือไม่?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|เปิดใช้งานความสามารถกระโจนจากกำแพงของเหมียวทากจาก Rain World เวอร์ชันดั้งเดิมหรือไม่?
+Spawn developer commentary collectables in the single player campaigns?|แสดงไอเทมความเห็นจากผู้พัฒนาที่สะสมได้ในแคมเปญผู้เล่นเดี่ยวหรือไม่?
+Periodically show survival hints and explain gameplay mechanics for new players?|แสดงคำแนะนำในการเอาตัวรอดและอธิบายกลไกการเล่นสำหรับผู้เล่นใหม่เป็นระยะหรือไม่?
+Configure the background image used on the title screen|กำหนดค่ารูปพื้นหลังที่ใช้บนหน้าเริ่มเกม
+Configure the background image used in the sub menus|กำหนดค่ารูปพื้นหลังที่ใช้บนเมนูย่อย
+Wiggling around quickly might startle this creature.|การขยับไปมาอย่างรวดเร็วอาจทำให้สิ่งมีชีวิตตัวนี้ตกใจได้
+I am afraid to ask how you brought your friend here.|ไม่กล้าถามเลยว่าเจ้าพาเพื่อนมาที่นี่ได้ยังไง
+tips-clock|การกดปุ่มแผนที่จะแสดงข้อมูลอื่นๆ เช่น แถบอาหารด้วย<LINE>วงจุดที่มุมซ้ายล่างจะบอกเวลาที่เหลือก่อนฝนจะตก<LINE>จับตาดูไว้ให้ดีล่ะ!
+tips-rocks|หินอาจจะไม่ใช่อาวุธที่รุนแรง แต่ก็สามารถใช้ได้หลายวิธี<LINE>โดยมีทั้งเบี่ยงเบนความสนใจ ปัดป้อง ปลดอาวุธ ทำให้มึนงง เผยจุดอ่อน ทำให้สิ่งมีชีวิตหลุดออกจากเสาหรือขอบ<LINE>และอื่นๆ อีกมากมาย!
+tips-audio|เสียงเตือนมักจะเป็นสิ่งแรกที่บอกถึงอันตรายที่กำลังใกล้เข้ามา<LINE>แม้จะยังไม่เห็นก็ตาม ตั้งใจฟังให้ดีล่ะ
+tips-slide|กดเฉียงลงพร้อมกับปุ่มกระโดดระหว่างเคลื่อนที่เพื่อไถลตัว<LINE>คุณจะพุ่งไปตามพื้นอย่างรวดเร็ว<LINE>ในช่วงเวลาสั้นๆ
+tips-noise|สิ่งมีชีวิตต่างๆ ไม่ได้ใช้เพียงสายตาอย่างเดียวในการรับรู้ตัวตนของคุณแต่ยังใช้การได้ยินด้วย<LINE>ระวังอย่าส่งเสียงดังเกินไป มิเช่นนั้นคุณอาจดึงดูดความสนใจที่ไม่พึงประสงค์ได้
+tips-saint|นักบุญก้าวเดินบนเส้นทางแห่งสันติ การประทุษร้ายต่อผู้อื่นย่อมเป็นการประทุษร้ายต่อตนเอง
+tips-nomad|ผู้พเนจรเผชิญกับโลกที่เปลี่ยนแปลงตลอดเวลา<LINE>ชีวิตที่ผ่านพ้นไปเป็นเพียงก้าวหนึ่งของการเดินทางอันยาวไกลสู่จุดหมายที่ไม่มีใครล่วงรู้
+Calm down!|ใจเย็นก่อน!
+tips-pipeflash|ทางเข้าท่อจะกะพริบเมื่อมีอันตรายอยู่อีกฝั่ง<LINE>โดยสีที่กะพริบจะบอกใบ้ให้รู้ถึงประเภทของอันตรายที่จะเจอ
+tips-foodtypes|แมลงค้างคาวและผลไม้ที่ห้อยอยู่ไม่ได้เป็นเพียงแหล่งอาหารเดียวเท่านั้น<LINE>พืชและสิ่งมีชีวิตบางชนิดก็สามารถกินได้เช่นกัน แต่คุณจะต้องบรรลุเงื่อนไขบางอย่างก่อน ลองผิดลองถูกดูสิ
+tips-handorder|ไอเทมที่มือขวาของคุณเป็นไอเทมหลักที่จะถูกใช้งานหรือปาก่อน<LINE>แตะปุ่มหยิบสองครั้งเพื่อสลับไอเทมระหว่างสองมือ
+tips-slideleap|กดกระโดดในระหว่างที่กำลังไถลหรือม้วนตัวเพื่อกระโดดไกลต่อ<LINE>ใช้เทคนิคนี้เพื่อเพิ่มความคล่องตัวให้ถึงขีดสุดและทำระยะอย่างรวดเร็ว
+tips-turnboost|การสลับทิศทางเคลื่อนที่อย่างรวดเร็ว<LINE>จะทำให้ความเร็วในทิศทางใหม่เพิ่มขึ้นเล็กน้อยชั่วขณะ<LINE>กระโดดต่อเนื่องไปเรื่อยๆ เพื่อช่วยประคองความเร็วที่เพิ่มขึ้นนี้ให้อยู่นานขึ้น
+tips-chieftain|หัวหน้าเผ่าโอบรับความแข็งแกร่งและพวกพ้องท่ามกลางความลี้ลับจนกลายเป็นส่วนหนึ่งของโลกใบนี้<LINE>และด้วยสายสัมพันธ์ที่ร้อยเรียงขึ้นใหม่ ย่อมสามารถรักษาชีวิตไว้ได้จนถึงที่สุด
+tips-swallow|สามารถเก็บรักษาไอเทมกินไม่ได้ขนาดเล็กไว้ในกระเพาะของคุณได้<LINE>ด้วยการกดปุ่มหยิบค้างไว้ชั่วครู่<LINE>และกดค้างแบบเดิมอีกครั้งเพื่อคายออกมา
+tips-breathe|สังเกตลมหายใจของตัวเองก่อนที่จะกระโดดลงน้ำ<LINE>หากคุณกำลังหอบให้ยืนนิ่งๆ และพักหายใจก่อน
+tips-polehop|แตะปุ่มกระโดดก่อนที่จะถึงเสาแนวตั้งเพื่อให้เด้งตัวออก<LINE>โดยสามารถทำแบบนี้ต่อกันเพื่อกระโดดข้ามกลุ่มเสาได้อย่างรวดเร็ว
+tips-scholar|นักปราชญ์เสาะหาความเข้าใจโลกเฉกเช่นวันวาน<LINE>เพ่งพิศอดีตที่ตกผลึกเพื่อพบพานความหมายใหม่ภายใน
+tips-deathpenalty|ความตายไม่ใช่เรื่องใหญ่จนกว่าคุณจะพร้อมก้าวต่อไป<LINE>เลิกพะวงแล้วออกไปสำรวจ ทดลอง เรียนรู้ภูมิประเทศ<LINE>รวมถึงตำแหน่งของอาหาร และอื่นๆ ดูสิ
+tips-shelterstore|ไอเทมที่เก็บอยู่ในที่กำบังจะยังคงอยู่ที่เดิมระหว่างวัฏจักร<LINE>และจะยังอยู่แม้ว่าคุณจะออกจากเขตนั้นๆ ไปแล้วก็ตาม<LINE>ที่กำบังคือที่ปลอดภัยเพียงหนึ่งเดียวที่จะช่วยปกป้องของมีค่าของคุณจากสายฝนได้!
+tips-dragonslayer|ผู้พิชิตมังกรโอบรับจิตวิญญาณแห่งการล่า กำราบสัตว์ร้ายทั้งมวลในโลกใบนี้ให้สยบแทบเท้า
+What did you do!?|ทำอะไรของเธอเนี่ย!?
+Stop it! Go away!|หยุดนะ! ไปให้พ้น!
+tips-tunnelboost|แตะปุ่มกระโดดระหว่างที่คลานอยู่ในช่องทางแคบๆ<LINE>เพื่อให้เคลื่อนที่เร็วขึ้นเล็กน้อย
+tips-slidecancel|แตะปุ่มกระโดดพร้อมกับกดทิศทางตรงข้ามอย่างรวดเร็วระหว่างไถลตัว<LINE>เพื่อยกเลิกการไถลและกลับไปยังจุดเริ่มต้น
+The use of some objects may not be obvious at first glance, experiment with everything you find!|วิธีใช้วัตถุบางอย่างอาจไม่ชัดเจนเมื่อแรกเห็น ลองผิดลองถูกกับทุกอย่างที่หาได้เลย!
+There are many paths to explore in this world.|มีเส้นทางมากมายให้สำรวจในโลกใบนี้
+If you are struggling, try returning to a previous region.|หากคุณกำลังลำบาก ลองกลับไปยังเขตก่อนหน้านี้ดูสิ
+You may find a new path forward, or discover something that makes your survival here easier.|บางทีอาจเจอเส้นทางใหม่ หรือสิ่งที่ช่วยให้เอาตัวรอดที่นี่ได้ง่ายกว่าเดิม
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|แต่ก็ไม่มีอะไรห้ามไม่ให้คุณเอาชนะความท้าทายของเขตนี้ไปทั้งอย่างนี้หรอกนะ
+Your friend is very large, how did you fit them in here?|เพื่อนของเธอตัวใหญ่มาก ยัดเข้ามาในนี้ได้ยังไงเนี่ย?
+How did you bring that in here... I think it is as surprised as I am!|เอาเจ้านั่นเข้ามาในนี้ได้ยังไง... ฉันว่ามันประหลาดใจพอๆ กับฉันเลยนะ!
+Oh, that is not a friend...|อ๊ะ นั่นไม่ใช่เพื่อนแล้วล่ะ...
+Oh...|อ้อ...
+I do enjoy the company of you and your friend though, <PlayerName>.|แต่ฉันก็ชอบที่มีเธอกับเพื่อนมาอยู่ด้วยนะ <PlayerName>
+Is this your friend, <PlayerName>?|นี่ใช่เพื่อนของเธอหรือเปล่า <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|ขอให้เจ้ากับสหายร่วมเดินทางโชคดี ความสามารถของเราจำกัดอยู่เพียงเท่านี้
+Please do not bring more wildlife into my chamber.|ได้โปรดอย่าพาสัตว์ป่าเข้ามาในห้องของฉันอีก
+How did you fit them inside here anyhow?|เจ้าไปสรรหาวิธียัดพวกมันเข้าในนี้ได้ยังไง?
+Take your friend with you. Please. I beg you.|พาเพื่อนของเจ้าไปด้วย ได้โปรด ถือว่าเราขอร้อง
+Bite|กัด
+Hiss|ส่งเสียงขู่
+Call|เรียก
+SRS:|ส.ต.ช.:
+NSH:|ก.ร.ก.:
+EOC:|ม.ศ.:
+BSM:|พ.ญ.จ.:
+NGI:|น.ก.อ.:
+Scar|แผลเป็น
+Luna|ดวงเดือน
+Hang|แขวน
+Bash|กระแทก
+Flee|หนี
+Grab|จับ
+Spit|พ่น
+Noot|ส่งเสียงนู๊ต
+Howl|หอน
+Snip|ตัด
+Jump|กระโดด
+Moo!|มอ!
+None|ไม่มี
+Lunge|กระโจน
+Saint|นักบุญ
+Gills|เหงือก
+Vents|ช่องระบายอากาศ
+Click|ดีดเสียงกริ๊ก
+Sleep|นอน
+Birth|ให้กำเนิด
+Chomp|งับ
+Throw|ปา
+Shock|ช็อต
+Point|ชี้
+Laser|ยิงเลเซอร์
+Arena|สนามประลอง
+Class|คลาส
+Items|ไอเทม
+STOP.|หยุด
+Launch|พุ่งตัว
+Tongue|ลิ้น
+Spears|หอก
+Struts|โครงค้ำ
+Burrow|ขุดโพรง
+Attach|เกาะ
+Squeak|ร้องเสียงแหลม
+Pounce|กระโจน
+Skewer|เสียบ
+Detach|เลิกเกาะ
+Snatch|แย่ง
+Sprint|วิ่งเต็มที่
+Signal|ส่งสัญญาณ
+Ascend|ขึ้น
+DON'T.|อย่า
+LEAVE.|ไปซะ
+Consume|เขมือบ
+Rivulet|สายธาร
+The Rot|ส่วนเน่าเฟะ
+Rubicon|รูบิคอน
+Pick Up|หยิบ
+Release|ปล่อย
+Discard|ทิ้ง
+Stealth|ลอบเร้น
+Ensnare|จับ
+Harpoon|ยิง
+Pick up|หยิบ
+Descend|ลง
+...WHY?|...ทำไม?
+Are my words reaching you?|เข้าใจที่ฉันพูดหรือเปล่า?
+Go... away! You ate... me!|ไป... ให้พ้น! เธอกิน... ฉัน!
+creaturetype-ScavengerKing|หัวหน้าเผ่าตัวคุ้ยซาก
+objecttype-SingularityBomb|ระเบิดเอกฐาน
+Undiscovered Transcription|คำถอดความที่ยังไม่ค้นพบ
+Destroy all armored plates|ทำลายแผ่นเกราะทั้งหมด
+Please, don't touch those!|ขอร้องล่ะ อย่าแตะต้องเจ้าพวกนั้น!
+Ah, you must be in a rush.|อ๊ะ สงสัยรีบอยู่
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|หยุดเดี๋ยวนี้ ถ้าเจ้าจงใจที่จะทำให้ระบบของเราเสียหายไปมากกว่านี้ก็ไม่มีเหตุผลให้ต้องเสวนากันต่อแล้ว
+Very well, you are on your own, creature. Please leave.|ได้ จากนี้ก็พึ่งตนเองไปแล้วกันนะ เจ้าสิ่งมีชีวิต ออกไปได้แล้ว
+We've read this, little creature. As previously stated:|พวกเราเคยอ่านเม็ดนี้ไปแล้ว ตามที่เคยบอกไปก่อนหน้านี้:
+Hold Eat while grabbing an unconscious creature to maul|กดกินค้างระหว่างจับสิ่งมีชีวิตที่หมดสติเพื่อขย้ำ
+Hold throw while flying to charge your ascension burst.|กดปาค้างระหว่างอยู่กลางอากาศเพื่อชาร์จระเบิดปลดปล่อย
+Hold the pick-up button to pull needles from your body.|กดปุ่มหยิบค้างเพื่อดึงเข็มออกมาจากร่างกายของคุณ
+You're not leaving? I suppose I should continue then...|ไม่ไปแล้วเหรอ? ถ้าอย่างนั้นฉันจะพูดต่อจากที่ค้างไว้แล้วกัน...
+However, you really shouldn't stay. It's too dangerous.|แต่เจ้าก็ไม่ควรอยู่ที่นี่ต่อจริงๆ มันอันตรายเกินไป
+Don't. My systems have already been damaged enough as it is. Go away.|อย่า ระบบของเราเสียหายมามากพอแล้ว ไปซะ
+Best of luck to you, and your family. There is nothing else I can do.|ขอให้เจ้ากับครอบครัวโชคดี ความสามารถของเราจำกัดอยู่เพียงเท่านี้
+Go... away... bad... thing...|ไป... ซะ... เจ้า... ตัวร้าย...
+Five Pebbles (Primary Cortex)|ห้าก้อนกรวด (แกนประมวลผลหลัก)
+Abstract Convergence Manifold|พหุบรรจบไร้รูป
+Take your offspring with you.|พาพวกเด็กๆ ไปด้วยนะ
+Too... broken...|เสียหาย... เกินไป...
+The Rot (Depths)|ส่วนเน่าเฟะ (ห้วงลึก)
+Silent Construct|ซากปรักเงียบงัน
+Windswept Spires|ยอดแหลมลมโกรก
+Hold to view map|กดค้างเพื่อดูแผนที่
+Parry ## attacks|ปัดป้องการโจมตี ## ครั้ง
+Met Five Pebbles|ได้พบห้าก้อนกรวด
+...help... me...|...ช่วย... ฉัน...
+LET GO! p please|ปล่อยนะ! ด... ได้โปรด
+Shall we finish?|มาต่อให้จบกันไหม?
+No! You... killed... me!|ไม่! เธอ... ฆ่า... ฉัน!
+The Rot (Cystic Conduit)|ส่วนเน่าเฟะ (ท่อส่งติดซีสต์)
+creaturetype-StowawayBug|ตัวลอบเร้น
+creaturetype-JungleLeech|ปลิงป่า
+Submerged Superstructure|โครงสร้างมหึมาจมน้ำ
+Please do not do that...|อย่าทำแบบนั้น...
+...Not forgotten pain...|...ความเจ็บปวดที่ยังไม่ลืม...
+No! <CapPlayerName> ate... me!|ไม่! <CapPlayerName>กิน... ฉัน!
+##<LINE>without anything dying|##<LINE>โดยที่ไม่มีอะไรตายเลย
+Welcome back little messenger.|ยินดีต้อนรับกลับมานะผู้ส่งสารตัวน้อย
+...Little green friend. Hello.|...ผู้มาเยือนตัวน้อย สวัสดี
+Spanish translation by Garrakx|แปลภาษาสเปนโดย Garrakx
+No! Am... broken... because you...|ไม่! ฉัน... เสียหาย... เพราะเธอ...
+Five Pebbles (Linear Systems Rail)|ห้าก้อนกรวด (รางระบบเชิงเส้น)
+Looks to the Moon (Memory Conflux)|เหม่อมองจันทร์ (ศูนย์รวมความจำ)
+Have you brought your family here?|พาเจ้าตัวน้อยมาด้วยหรือเปล่า?
+Hello again. Shall I keep reading?|สวัสดีอีกครั้งนะ ให้อ่านต่อเลยไหม?
+No!|ไม่!
+WO:|ล.ร.:
+PI:|ภ.ว.:
+GS:|พ.ด.:
+SI:|ส.ส.:
+HR:|ฮ.ร.:
+CW:|ล.ส.:
+EP:|ช.ป.:
+FP:|ห.ก.:
+HF:|ค.อ.:
+UU:|อ.อ.:
+Sit|นั่ง
+Bow|ก้ม
+Eat|กิน
+Fly|บิน
+Run|วิ่ง
+Leave... me alone. Terrible... creature...|ไป... ให้พ้น สิ่งมีชีวิต... น่ารังเกียจ...
+I have read this. As I have stated before:|เราเคยอ่านเม็ดนี้แล้ว อย่างที่เคยบอกว่า:
+Explosive jump while holding down to parry|ใช้กระโดดแรงระเบิดระหว่างกดลงค้างไว้เพื่อปัดป้อง
+Looks to the Moon's Transcription (Future)|คำถอดความของเหม่อมองจันทร์ (อนาคต)
+You'd better hurry along, little creature!|รีบไปเถอะ ผู้ส่งสารผู้กล้าหาญ
+I have nothing to say to you, <PlayerName>.|ฉันไม่มีอะไรจะคุยด้วย <PlayerName>
+Press jump in the air to extend your tongue|กดกระโดดในอากาศเพื่อยืดลิ้น
+Use directional inputs to aim the ascension|ใช้ปุ่มทิศทางเพื่อเล็งท่าปลดปล่อย
+Did you not register what I've said to you?|ที่เราพูดไปไม่เข้าหัวเจ้าเลยหรือไง?
+Please, leave quickly, while you still can.|ขอทีเถอะ รีบออกไปจากที่นี่ตอนที่ยังทำได้
+Go away, <PlayerName>.|ไปให้พ้น <PlayerName>
+creaturetype-EelLizard|กิ้งก่าปลาไหล
+creaturetype-AquaCenti|ตะขาบน้ำ
+creaturetype-Inspector|ผู้ตรวจตรา
+Atop the Tallest Tower|ยอดหอสูงสุด
+Primordial Underground|ปฐมกาลใต้พิภพ
+Survive for ## seconds|รอดชีวิต ## วินาที
+Safari region unlocked|ปลดล็อกเขตสังเกตการณ์แล้ว
+Hold grab to activate.|กดจับค้างเพื่อเปิดใช้งาน
+The Pilgrim-linebreaks|นักแสวงบุญ
+Wait, that's not food!|เดี๋ยวก่อน นั่นไม่ใช่อาหารนะ!
+not... edible, please.|กิน... ไม่ได้นะ ขอร้องล่ะ
+...don't... trust you.|...อย่า... เชื่อใจเธอ
+Keep your family safe!|ดูแลครอบครัวของเธอให้ปลอดภัยล่ะ!
+...Go find... shelter.|...ไปตามหา... บ้าน
+Assets and content by:|สร้างสรรค์องค์ประกอบและเนื้อหาโดย:
+Leave me alone...|ไปให้พ้น...
+creaturetype-Yeek|ยี้ก
+Forgotten Conduit|ท่อส่งที่ถูกลืม
+Frosted Cathedral|มหาวิหารเยือกแข็ง
+Glacial Wasteland|แดนน้ำแข็งร้าง
+Ancient Labyrinth|วงกตโบราณ
+Put a ## in a den|ใส่##เข้าไปในรัง
+...Nice to see...|...ยินดีที่ได้เจอ...
+...Cold coming...|...ความหนาวเหน็บกำลังมา....
+Stop! Stop giving me your junk!|พอที! หยุดเอาขยะมาให้ฉันได้แล้ว!
+saint_old_ascension_tutorial_ps|ใช้ปุ่มทิศทางเพื่อเล็งท่าปลดปล่อย
+Facility Roots (Western Intake)|ฐานโครงข่าย (ทางรับน้ำทิศตะวันตก)
+Clear the game as ## to unlock.|เคลียร์เกมด้วยสาย##เพื่อปลดล็อก
+...why did you... save... me...|...เธอช่วยฉัน... ไว้... ทำไม...
+Where do you find all of these?|เจ้าไปเจอทั้งหมดนี่มาจากที่ไหนกัน?
+Let us see what you have found.|ไหนดูซิว่าเจ้าไปเจออะไรมา
+...Why... take all I... have...|...ทำไม... เอาทั้งหมดที่... เหลืออยู่...
+...Thank you... for... company.|...ขอบคุณ... ที่... อยู่เป็นเพื่อน
+...Find heat... Cold is danger.|...หาแหล่งความร้อน... ความหนาวเป็นอันตราย
+Korean translation by topicular|แปลภาษาเกาหลีโดย topicular
+Leave me alone! You terrible creature!|อย่ามายุ่งกับฉัน! เจ้าสิ่งมีชีวิตที่น่ารังเกียจ!
+Pups can now be found in Sandbox Mode.|สามารถเจอลูกทากในโหมดแซนด์บ็อกซ์ได้แล้ว
+Cold... You better go. I will be fine.|หนาว... เธอไปเถอะ ฉันไม่เป็นไรหรอก
+The storm is coming. You should leave.|ฝนกระหน่ำกำลังจะเริ่มแล้ว เธอควรจะออกไปจากที่นี่
+We have read this one, little creature.|พวกเราเคยอ่านไข่มุกเม็ดนี้แล้ว สิ่งมีชีวิตตัวน้อย
+Clear the game as <X> or <Y> to unlock.|เคลียร์เกมด้วยสาย<X>หรือ<Y>เพื่อปลดล็อก
+Is that something new? Allow me to see.|นั่นของใหม่เหรอ? ขอเราดูหน่อย
+Special button interactions:|การโต้ตอบด้วยปุ่มพิเศษ:
+Auxiliary Transmission Array|ชุดแผงส่งสัญญาณสำรอง
+Auxillery Transmission Array|ชุดแผงส่งสัญญาณสำรอง
+Hold to select and use doors|กดค้างเพื่อเลือกและใช้ประตู
+...It is... warmer... today.|...วันนี้... อุ่นขึ้น... หน่อย
+Tap Pick up and Jump together to explosive jump|แตะหยิบและกระโดดพร้อมกันเพื่อใช้กระโดดแรงระเบิด
+Hold Throw while flying to perform an ascension|กดปาค้างระหว่างอยู่กลางอากาศเพื่อปลดปล่อย
+Rubicon content is now available in Arena Mode.|สามารถเล่นเนื้อหารูบิคอนในโหมดสนามประลองได้แล้ว
+I am surprised you have found so many of these.|น่าประหลาดใจจริงๆ ที่เจ้าไปหาของพวกนี้มาได้เยอะขนาดนี้
+Ah, don't worry about me. You should get going!|อ้อ ไม่ต้องห่วงฉันหรอก เธอควรไปได้แล้ว!
+Oh. It's you, why have you come back...? Again.|อ้อ เจ้านี่เอง กลับมาทำไม... อีก?
+Hold Pick Up with an empty hand to generate a spear|กดหยิบค้างด้วยมือเปล่าเพื่อสร้างหอก
+This is not a request. I have important work to do.|นี่ไม่ใช่คำขอ เรามีงานสำคัญที่ต้องทำ
+Press throw with empty hands to extend your tongue|กดปาด้วยมือเปล่าเพื่อยืดลิ้น
+Hold Pick Up to move a spear to and from your back|กดหยิบค้างเพื่อสะพายหอกและชักหอกจากหลัง
+Undelete the challenge you just deleted to unlock.|ยกเลิกการลบความท้าทายที่คุณเพิ่งลบไปเพื่อปลดล็อก
+Hello again. I hope you have a reason to visit me.|สวัสดีอีกครั้ง หวังว่าเจ้าจะมีเหตุผลในการมาหาเรานะ
+Tap Pick up and Jump together to take flight|แตะหยิบและกระโดดพร้อมกันเพื่อดีดตัวขึ้นกลางอากาศ
+You better go, <PlayerName>! I will be fine.|เธอต้องหาที่กำบังนะ <PlayerName>! ไม่ต้องเป็นห่วงฉัน
+...So little... left. Why hurt... me more...|...เหลือเพียง... น้อยนิด ทำไมต้อง... ทำร้ายเราอีก...
+saint_old_ascension_tutorial_switch|ใช้ปุ่มทิศทางเพื่อเล็งท่าปลดปล่อย
+Looks to the Moon (Neural Terminus)|เหม่อมองจันทร์ (ศูนย์รวมกระแสประสาท)
+Have you come back to see me again?|นี่เธอกลับมาหาฉันอีกครั้งเหรอ?
+Get... get away... round.... thing.|ออก... ออกไปให้ห่าง... เจ้าตัว... กลม...
+Wait, please don't leave with that!|เดี๋ยว เจ้าจะถือของนั่นออกไปไม่ได้นะ!
+...Friend... please find... safety.|...เพื่อน... ได้โปรดไปยัง... ที่ปลอดภัย
+saint_old_ascension_tutorial_xbox|ใช้ปุ่มทิศทางเพื่อเล็งท่าปลดปล่อย
+Looks to the Moon's Transcription|คำถอดความของเหม่อมองจันทร์
+Ah. Have you found something new?|โอ้ เจอของใหม่มางั้นเหรอ?
+Oh... Good luck, little creature.|โชคดีนะ เพื่อนตัวน้อยที่แสนอาภัพของฉัน
+Hold Pick Up while holding up to combine two differing items|กดหยิบค้างระหว่างกดขึ้นค้างเพื่อรวมไอเทมสองชนิดที่แตกต่างกัน
+Try using your weight in creative ways to gain an advantage.|ลองใช้น้ำหนักอย่างสร้างสรรค์เพื่อชิงความได้เปรียบ
+Oh? What have you found this time? Let's see what it says...|หืม? คราวนี้ไปเจออะไรมาล่ะ? มาลองอ่านสิ่งที่อยู่ข้างในกัน...
+Hold Pick Up to regurgitate a random item|กดหยิบค้างเพื่อคายไอเทมแบบสุ่มออกมา
+Clear a total of ## challenges to unlock.|บรรลุความท้าทายรวม ## อย่างเพื่อปลดล็อก
+There's not a lot of time. You should go!|เวลาเหลือไม่มาก เธอต้องรีบไปแล้ว!
+Take your offspring with you when you go.|ตอนไปก็พาลูกหลานของเจ้าไปด้วย
+Have you brought something new this time?|รอบนี้เอาอะไรใหม่มาหรือเปล่า?
+[ Collection Empty ]|[ คอลเลกชันว่างเปล่า ]
+Unique pearls read :|อ่านไข่มุกไม่ซ้ำกัน :
+creaturetype-FireBug|แมลงไฟ
+creaturetype-SlugNPC|ลูกทาก
+objecttype-JokeRifle|ไรเฟิลพิเรนทร์
+objecttype-GooieDuck|ลูกเหนียวหนืด
+objecttype-LillyPuck|บัวกลีบแข็ง
+objecttype-MoonCloak|ผ้าคลุม
+Ascend all creatures|ปลดปล่อยสิ่งมีชีวิตทั้งหมด
+Escort a ## to a den|พา##ไปที่รัง
+Food quest completed|บรรลุเควสต์อาหาร
+The Nomad-linebreaks|ผู้พเนจร
+Oh, leaving already?|จะไปแล้วเหรอ?
+Where are you going?|จะไปไหนน่ะ?
+Looks to the Moon (Abstract Convergence Manifold)|เหม่อมองจันทร์ (พหุบรรจบไร้รูป)
+Change the slugcat class/abilities for Player <X>|เปลี่ยนความสามารถ/คลาสของเหมียวทากของผู้เล่น <X>
+Refer to the Pause Menu for Safari Mode controls.|ตรวจสอบวิธีควบคุมในโหมดสังเกตการณ์ในเมนูหยุดชั่วคราว
+Looks to the Moon (Vents)|เหม่อมองจันทร์ (ช่องระบายอากาศ)
+creaturetype-MirosVulture|แร้งปากกรรไกร
+creaturetype-MotherSpider|แม่แมงมุม
+objecttype-DandelionPeach|พีชปุย
+Unknown Pearl Contents...|เนื้อหาภายในไข่มุกที่ยังไม่รู้จัก...
+## without anything dying|##โดยที่ไม่มีอะไรตายเลย
+Arena character unlocked:|ปลดล็อกตัวละครสนามประลองแล้ว:
+What are you doing? Stop!|ทำอะไรน่ะ? หยุดนะ!
+...storm... coming... Go!|...พายุ... กำลังมา... ไปซะ!
+...Please find... Warmth.|...ได้โปรดตามหา... ที่อบอุ่น
+...Why did... you stay...|...ทำไม... เจ้ายังอยู่...
+Submerged Superstructure (The Heart)|โครงสร้างมหึมาจมน้ำ (ใจกลาง)
+Ah, welcome back. As I was saying...|ยินดีต้อนรับกลับมานะ อย่างที่ฉันพูดค้างไว้...
+##<LINE>without letting a @@ die|##<LINE>โดยที่ไม่ปล่อยให้@@ตาย
+Submerged Superstructure (Vents)|โครงสร้างมหึมาจมน้ำ (ช่องระบายอากาศ)
+Oh... Good bye, little creature.|อ๊ะ... ลาก่อน สิ่งมีชีวิตตัวน้อย
+While in the air, tap jump and pick-up together to take flight.|ระหว่างอยู่ในอากาศ แตะกระโดดและหยิบพร้อมกันเพื่อดีดตัวขึ้นกลางอากาศ
+Developer Commentary mode is now available in the Options menu.|สามารถใช้โหมดความเห็นจากผู้พัฒนาได้ในเมนูตัวเลือกแล้ว
+Stop, that's dangerous! You are going to break something again!|หยุดนะ มันอันตราย! เดี๋ยวก็ทำอะไรพังอีกหรอก!
+Hold throw and directional inputs while flying to perform an ascension.|กดปาและปุ่มทิศทางค้างระหว่างอยู่กลางอากาศเพื่อปลดปล่อย
+Friends sheltered :|เพื่อนที่เคยให้พักพิง :
+objecttype-GlowWeed|วัชพืชเรืองแสง
+Waterfront Facility|สถานประกอบการริมฝั่ง
+Linear Systems Rail|รางระบบเชิงเส้น
+Befriend a creature|ผูกมิตรกับสิ่งมีชีวิต
+Unique pearls read:|อ่านไข่มุกไม่ซ้ำกัน:
+stop, don... don't!|หยุดนะ อย่า... อย่า!
+Let us take a look.|ไหนให้เราดูหน่อย
+It is getting cold.|อากาศเริ่มเย็นยะเยือกขึ้นทุกที
+What are you doing?|ทำอะไรน่ะ?
+...All I... have...|...ทั้งหมดที่... เหลืออยู่...
+...Bring it back...|...เอากลับมา...
+creaturetype-SpitLizard|กิ้งก่าคาราเมล
+creaturetype-ZoopLizard|กิ้งก่าสตรอว์เบอร์รี
+Warp to random creature|วาร์ปไปยังสิ่งมีชีวิตสุ่ม
+Are you not interested?|ไม่สนใจงั้นเหรอ?
+What a dumb creature...|เป็นสิ่งมีชีวิตที่โง่เขลาจริงๆ...
+creaturetype-TerrorLongLegs|คุณแม่ขายาว
+creaturetype-ScavengerElite|ตัวคุ้ยซากมือฉมัง
+Five Pebble's Transcription|คำถอดความของห้าก้อนกรวด
+## without letting a @@ die|##โดยที่ไม่ปล่อยให้@@ตาย
+...Little... green thing...|...เจ้าตัวน้อย... สีเขียว...
+...You should... find heat.|...เจ้าควรจะ... อุ่นเข้าไว้
+...Too cold... Alone again.|...หนาวเหน็บ... ตามลำพังอีกครั้ง
+creaturetype-BigJelly|แมงกะพรุนยักษ์
+objecttype-EnergyCell|เซลล์ลดมวล
+Met Looks to the Moon|ได้พบเหม่อมองจันทร์
+The Martyr-linebreaks|ผู้สละชีพ
+The Mother-linebreaks|มารดา
+No! Don't... hurt me!|ไม่! อย่า... ทำร้ายฉัน!
+... stop... please...|... ได้โปรด... หยุด...
+Please do not return.|ไม่ต้องกลับมาอีกนะ
+That can't be good...|แบบนั้นไม่ดีแน่...
+...No, don't... take!|...ไม่ อย่า... เอาไป!
+...Give it... back...|...ส่ง... คืนมา...
+...Leave me... alone.|...ไปให้... พ้น
+objecttype-FireEgg|ไข่แมลงไฟ
+[ No Data Loaded ]|[ ไม่มีข้อมูล ]
+Kill all creatures|สังหารสิ่งมีชีวิตทั้งหมด
+Friends sheltered:|เพื่อนที่เคยให้พักพิง:
+Leave me... alone.|ไปให้... พ้น
+Let me continue...|ขอพูดต่อแล้วกัน...
+...Give... back...|...เอา... คืนมา...
+objecttype-Seed|ป๊อปคอร์น
+THE SPEARMASTER|เจ้าแห่งหอก
+The Spearmaster|เจ้าแห่งหอก
+Solitary Towers|หอคอยเดียวดาย
+Neural Terminus|ศูนย์รวมกระแสประสาท
+Desolate Fields|ทุ่งรกร้าง
+Suburban Drifts|ชานเมืองหิมะถม
+Barren Conduits|ท่อส่งร้างเปล่า
+Emotional State|สภาวะทางอารมณ์
+Ascend every ##|ปลดปล่อย##ทั้งหมด
+Pop every plant|ทำพืชทุกชนิดให้แตก
+Parry ## attack|ปัดป้องการโจมตี ## ครั้ง
+Oh... Good bye.|อ้อ... ลาก่อน
+GET OUT!|ไปให้พ้น!
+Gourmand|นักกิน
+Pipeyard|ชุมทางท่อ
+The Husk|โครงซาก
+Ascended|หลุดพ้นแล้ว
+Parries:|ปัดป้อง:
+GET OUT.|ออกไป
+Suns...?|ตะวัน...?
+...No...|...ไม่...
+Five Pebbles:|ห้าก้อนกรวด:
+THE ARTIFICER|นักประดิษฐ์
+The Artificer|นักประดิษฐ์
+Outer Expanse|พรมแดนภายนอก
+The Precipice|หน้าผา
+Journey's End|สุดทาง
+Change target|เปลี่ยนเป้าหมาย
+Win Condition|เงื่อนไขเอาชนะ
+Kill every ##|สังหาร##ทั้งหมด
+Befriend a ##|ผูกมิตรกับ##
+Gain ## point|ได้รับ ## คะแนน
+What is this?|นี่คืออะไร?
+Please leave.|เชิญออกไปได้แล้ว
+...Go away...|...ไปให้พ้น...
+THE RIVULET|สายธาร
+The Rivulet|สายธาร
+Spearmaster|เจ้าแห่งหอก
+Undergrowth|แมกไม้เบื้องล่าง
+Sunken Pier|ท่าเรือใต้น้ำ
+Frozen Mast|เสาสัญญาณเยือกแข็ง
+Sump Tunnel|อุโมงค์รับน้ำ
+Hang on Mom|เกาะแม่
+Telekinesis|โทรจิต
+<X> and <Y>|<X> และ<Y>
+The Pilgrim|นักแสวงบุญ
+...storm...|...พายุ...
+...Hello...|...สวัสดี...
+THE GOURMAND|นักกิน
+The Gourmand|นักกิน
+Random start|เริ่มแบบสุ่ม
+Icy Monument|อนุสรณ์น้ำแข็ง
+Bitter Aerie|ยอดเย็นเยือก
+Frigid Coast|ชายฝั่งยะเยือก
+Disable Rain|ปิดฝน
+Pick up Food|หยิบอาหาร
+Hello there.|สวัสดี
+Well then...|ถ้าอย่างนั้น...
+...Why back?|...กลับมาทำไม?
+THE SAINT|นักบุญ
+The Saint|นักบุญ
+Artificer|นักประดิษฐ์
+The Floor|พื้นล่าง
+The Shell|เปลือก
+The Heart|ใจกลาง
+Water Jet|พ่นน้ำ
+Spray Ink|พ่นหมึก
+Creatures|สิ่งมีชีวิต
+The Nomad|ผู้พเนจร
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|เคลียร์เกมด้วยสายนักกิน นักประดิษฐ์ หรือนักล่าเพื่อปลดล็อก
+Hold the EAT button while a stunned creature is being held.|กดปุ่มกินค้างระหว่างที่ถือสิ่งมีชีวิตที่มึนงงอยู่
+The Rarefaction Cell item is now available in Sandbox Mode.|สามารถใช้ไอเทมเซลล์ลดมวลในโหมดแซนด์บ็อกซ์ได้แล้ว
+Little messenger, we do not have much time. You must hurry!|ผู้ส่งสารตัวน้อย เราเหลือเวลาไม่มาก เธอต้องรีบไปแล้ว!
+Clear the game as Rivulet and Spearmaster to unlock.|เคลียร์เกมด้วยสายสายธารและเจ้าแห่งหอกเพื่อปลดล็อก
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|สามารถหายใจใต้น้ำและเคลื่อนที่ไปมาในโลกได้อย่างคล่องแคล่ว การปรับตัวเหล่านี้ถือเป็นสิ่งจำเป็น<LINE>เพราะคุณจะต้องรับมือกับโลกที่น้ำท่วมบ่อยขึ้นเรื่อยๆ และทุกวินาทีมีความหมาย
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|นักสู้ผู้ดุดัน เชี่ยวชาญด้านอาวุธไฟและวัตถุระเบิด ทะเยอทะยานที่จะไต่ขึ้นสู่จุดสูงสุดของห่วงโซ่อาหาร<LINE>การเดินทางของคุณจะต้องเปี่ยมไปด้วยการนองเลือดและสงครามตลอดเวลาอย่างแน่นอน
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|ร่างกายอ่อนแอ มีลิ้นยาวเป็นอาวุธ การเดินทางของคุณคือเส้นทางสู่การรู้แจ้งอย่างแท้จริงสายหนึ่ง<LINE>แต่ต้องอาศัยความอดทน ความระมัดระวัง และการสอดประสานเข้ากับโลกอย่างสมบูรณ์เพื่อก้าวเดินบนเส้นทางสายนี้
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...|ตัวผ่าเหล่าที่กินอาหารผ่านเข็มที่ดึงออกมาจากร่างกาย นักเดินทางจากดินแดนอันแสนไกล<LINE>ความรู้สึกส่วนลึกบางอย่างผลักดันให้คุณออกเดินทางอีกครั้ง ผู้ส่งสาร...
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|ผู้ดื่มด่ำกับความสุขเรียบง่ายในชีวิต การแบกโลกทั้งใบไว้ในกระเพาะช่วยให้ได้เปรียบทางกลยุทธ์ในหลายๆ ด้าน<LINE>แต่ก็ต้องแลกกับความหิวโหยที่มากกว่าเดิม
+COLLECTION|คอลเลกชัน
+Metropolis|มหานคร
+The Gutter|ท่อระบายน้ำ
+Cannonball|ลูกปืนใหญ่
+Swap Heads|สลับหัว
+Camouflage|พรางตัว
+Time Limit|จำกัดเวลา
+## Seconds|## วินาที
+Acceptance|ยอมรับความจริง
+The Martyr|ผู้สละชีพ
+The Mother|มารดา
+Looks to the Moon's Transcription (Pre-Collapse)|คำถอดความของเหม่อมองจันทร์ (ก่อนล่มสลาย)
+The Rifle item is now available in Sandbox Mode.|สามารถใช้ไอเทมปืนไรเฟิลในโหมดแซนด์บ็อกซ์ได้แล้ว
+How cute, you brought your family, <PlayerName>?|น่ารักจริง พาลูกมาด้วยเหรอเนี่ย <PlayerName>?
+12th Council Pillar, the House of Braids|ตระกูลถักทอ เสาหลักสภาต้นที่ 12
+Pups can now be found in some campaigns.|สามารถเจอลูกทากในบางแคมเปญได้แล้ว
+Ah, you have found me something to read?|โอ้ หาอะไรมาให้เราอ่านให้ฟังเหรอ?
+Oh... Please be careful on your journey.|เดินทางระวังด้วยล่ะ
+Please, a moment of your time to finish?|ขอทีเถอะ แบ่งเวลามาฟังให้จบได้ไหม?
+Primary Cortex|แกนประมวลผลหลัก
+Cystic Conduit|ท่อส่งติดซีสต์
+Desolate Canal|คลองรกร้าง
+Play as target|เล่นเป็นเป้าหมาย
+Revoke Control|ถอนการควบคุม
+Challenge #<X>|ความท้าทาย #<X>
+Gain ## points|ได้รับ ## คะแนน
+it... hurts...|เจ็บ... นะ...
+Let me finish.|ให้เราพูดให้จบ
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|กลับไปเยือนเขตที่เคยสำรวจในแคมเปญเนื้อเรื่อง<LINE>แต่ครั้งนี้ในฐานะผู้สังเกตการณ์จากภายนอกที่เฝ้ามองระบบนิเวศดำเนินไป<LINE>โดยปราศจากการรบกวนจากผู้เล่น
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|ลองพิชิตเงื่อนไขเอาชนะในชุดสถานการณ์สนามประลองที่กำหนดไว้ล่วงหน้า<LINE>สามารถปลดล็อกความท้าทายเพิ่มเติมได้<LINE>เมื่อมีความคืบหน้าผ่านการเคลียร์แคมเปญเนื้อเรื่อง
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|ระหว่างอยู่ในอากาศ แตะกระโดดและหยิบพร้อมกันเพื่อเปิดใช้งานการรู้แจ้งกรรม
+While in the air, press jump and pick-up together, to propel yourself explosively.|ระหว่างอยู่ในอากาศ แตะกระโดดและหยิบพร้อมกันเพื่อดีดตัวด้วยแรงระเบิด
+Tap the throw button to extend your tongue. Press jump while attached to let go.|แตะปุ่มปาเพื่อยืดลิ้น กดกระโดดระหว่างเกาะเพื่อปล่อย
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|แตะกระโดดในอากาศเพื่อยืดลิ้น กดกระโดดอีกครั้งระหว่างเกาะเพื่อปล่อย
+While you are attached to something, use up and down to extend or retract your tongue.|ระหว่างที่เกาะกับบางอย่างอยู่ ใช้ปุ่มขึ้นและลงเพื่อยืดหรือหดลิ้น
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|คุณหนาวและหิว รีบหาที่กำบังจากพายุ ไม่เช่นนั้นคุณจะหมดสติเพราะความหนาว
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|มีเพียงวัตถุอุ่นๆ เท่านั้นที่สามารถฟื้นคืนไออุ่นให้กับร่างกายของคุณได้ในความหนาวสุดขั้วนี้ แต่พวกมันไม่คงอยู่ตลอดไปหรอกนะ!
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|ถ้าเจ้าคิดจะมาเยือนเป็นกิจวัตรล่ะก็ อย่างน้อยก็หาอะไรใหม่ๆ มาให้เราอ่านบ้าง
+Stab creatures with your white needles to leech energy from their bodies.|แทงสิ่งมีชีวิตด้วยเข็มสีขาวของคุณเพื่อดูดพลังงานจากร่างกายของเหยื่อ
+I wonder, just how much time has passed since some of these were written.|ตั้งแต่ที่ข้อมูลเหล่านี้ถูกบันทึกไว้ ผ่านมานานแค่ไหนแล้วนะ
+Another? Let us see... to be honest, I'm as curious to see it as you are.|อีกเม็ดเหรอ? ไหนดูซิ... บอกตามตรง ฉันเองก็อยากตรวจสอบมันพอๆ กับเธอนั่นแหละ
+Hold up and grab with differing objects in each hand, in order to procure something new.|กดขึ้นและจับค้างเมื่อมือแต่ละข้างถือวัตถุต่างกันเพื่อแปรสภาพเป็นสิ่งใหม่
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|ดีใจที่ได้เจอเธออีกครั้งนะ แต่เวลากำลังนับถอยหลัง รีบหน่อยเถอะ!
+Holding up and grab with two differing food items, will eat them together as a meal.|การกดขึ้นและจับค้างเมื่อถือไอเทมอาหารสองอย่างที่ต่างกันจะทำให้กินร่วมกันเป็นมื้อเดียว
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|นอกจากนี้คุณยังสามารถขย้อนวัตถุแบบสุ่มออกมาได้โดยแลกกับอาหาร หากไม่ได้เก็บอะไรไว้ภายในตัว
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|ทำอะไรของเธอ? ขอร้องล่ะ!! ฉันเพิ่งได้อิสรภาพกลับคืนมาเองนะ ทำไมถึงใจร้ายได้ขนาดนี้?
+Hold pick-up with compatible ammunition in hand to load the rifle.|กดหยิบค้างเมื่อถือกระสุนที่ใช้ได้ในมือเพื่อบรรจุกระสุนให้กับปืนไรเฟิล
+Ah, you remind me of an old creature who used to visit here often.|อ้อ เธอทำให้ฉันนึกถึงสิ่งมีชีวิตตัวหนึ่งที่เคยแวะเวียนมาที่นี่บ่อยๆ
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|กดหยิบค้างเพื่อแปลงหินหรือหอกเป็นระเบิด โดยแลกกับอาหาร
+Those are the only memories I have left. I will cease functioning without them.|เจ้าพวกนั้นคือความจำที่เหลืออยู่ของฉัน ฉันจะหยุดทำงานถ้าปราศจากพวกมัน
+The passage of time has since taken them away, of course. That was a while ago.|แน่นอนว่าพวกเขาล้วนจากไปกับกระแสแห่งเวลา เป็นเรื่องที่ผ่านมาพักใหญ่แล้วน่ะ
+Combat and other fast movements will quickly exhaust you.|การต่อสู้และการเคลื่อนไหวที่รวดเร็วอื่นๆ จะทำให้คุณอ่อนล้าในพริบตา
+Artificer can maul creatures while they are still alive.|นักประดิษฐ์สามารถขย้ำสิ่งมีชีวิตที่ยังมีชีวิตอยู่ได้
+Please, don't scare me like that. I don't appreciate it.|ได้โปรด อย่าทำให้ฉันตกใจแบบนั้นสิ ฉันไม่สนุกด้วยนะ
+Now, I hope you have reason to visit me. I am very busy.|เอาล่ะ หวังว่าเจ้าจะมีเหตุผลดีๆ ในการมาเยือนนะ เรายุ่งมาก
+Another ordeal to add to my running tally of bad luck...|มีวิบากกรรมมาเพิ่มในบัญชีความซวยอีกเรื่องแล้วสินะ...
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|ประตูพรมแดนภายนอกจะปลดล็อกถาวรตั้งแต่จุดนี้เป็นต้นไปในเส้นเวลา
+Pups can now be found in Sandbox Mode, and some campaigns.|สามารถเจอลูกทากในโหมดแซนด์บ็อกซ์และบางแคมเปญได้แล้ว
+Let us see if there is anything important written on this.|ไหนดูซิว่ามีอะไรสำคัญในนี้หรือเปล่า
+Little creature, please leave. I would prefer to be alone.|เจ้าอันธพาลตัวจ้อย เชิญออกไปได้แล้ว เราอยากอยู่คนเดียว
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|ทำอะไรน่ะ?! แค่เพราะเคยช่วยฉันไว้ไม่ได้แปลว่าจะทำแบบนี้กับฉันได้นะ
+In your current state. I can only assume that you have found what you were looking for.|ดูจากสภาพปัจจุบันของเจ้าแล้ว คงจะเจอสิ่งที่ตามหาแล้วสินะ
+Why would you do that to me?! I don't understand you, <PlayerName>.|ทำแบบนั้นกับฉันทำไม?! ฉันไม่เข้าใจเธอเลย <PlayerName>
+Please stop! I beg you. I don't... understand your motivation...|ได้โปรดหยุดเถอะ! ขอร้องล่ะ ไม่เข้าใจ... เจตนาของเธอเลย...
+I can only think that you somehow find me pleasant to listen to.|คงคิดได้แค่ว่าเจ้าชอบฟังเราพูดด้วยสาเหตุบางอย่าง
+Do you have something new, or have you come to just stare at me?|มีอะไรใหม่มาไหมหรือแค่มาจ้องเราเฉยๆ?
+Your company is welcome little creature, but please do not stay.|ตอนนี้เจ้าอยู่ที่นี่ได้ แต่จะอยู่ตลอดไปไม่ได้
+Why?! Why would you?? Please, I have so much more I need to do, still...|ทำไม?! ทำไมถึงทำแบบนั้น?? ได้โปรด ฉันยังมีสิ่งที่ต้องทำอีกมาก...
+Thank you for visiting me, but I'm afraid there is nothing here for you.|ขอบคุณที่มาหากันนะ แต่เกรงว่าที่นี่ไม่มีอะไรจะมอบให้เธอได้อีกแล้ว
+Despite some power to my facility being restored, those are still crucial to my survival!|ถึงแม้ว่าที่นี่จะเริ่มฟื้นคืนพลังงานกลับมาบ้างแล้ว แต่เจ้าพวกนั้นก็ยังสำคัญต่อการอยู่รอดของฉันนะ!
+Your intention was to help me, was it not? Then please don't play with those!|เธอตั้งใจมาช่วยฉันไม่ใช่เหรอ? ถ้าอย่างนั้นก็อย่าเล่นกับเจ้าพวกนั้น!
+This is no time for games little messenger. Hurry now, before it is too late!|นี่ไม่ใช่เวลาเล่นสนุกนะ รีบไปเถอะ ก่อนที่จะสายเกินไป!
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|เจ้าพวกนั้นไม่ใช่ของเล่นนะ <PlayerName> ฉันให้ใครยุ่งกับมันไม่ได้หรอก
+Stay as long as you'd like. But not too long.|อยู่ที่นี่ได้นานเท่าที่ต้องการเลย แต่อย่านานเกินไปล่ะ
+Have you found something else for me to read?|หาอะไรมาให้เราอ่านให้ฟังอีกแล้วล่ะสิ?
+It is nice to see you again little messenger!|ดีใจที่ได้เจอเธออีกครั้ง ผู้ส่งสารตัวน้อย!
+This chamber is not very well insulated from the cold.|ห้องนี้กันความหนาวได้ไม่ค่อยดีเท่าไหร่
+I do enjoy the company though. You and your family are always welcome here.|ฉันชอบที่มีเพื่อนอยู่ด้วยนะ ที่นี่ต้อนรับเธอและครอบครัวเสมอ
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|นี่มันเศษเหล็กเส้นลับคมนี่... เธออยากรู้อะไรล่ะ?<LINE>ไม่ได้จะดูถูกนะแต่ฉันว่าเธอน่าจะไม่แข็งแรงพอที่จะใช้มันได้เต็มประสิทธิภาพ
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|น่าเสียดายที่ระบบของเราถูกลงรหัส<LINE>ห้ามไม่ให้ใช้ความรุนแรงกับพลเมืองของตนเอง
+You've returned! I thought you were leaving. Allow me to continue...|กลับมาหรอกเหรอ! นึกว่าจะเดินออกไปซะอีก ขอพูดต่อเลยนะ...
+Ah, nevermind, let me finish our conversation.|ช่างเถอะ ขอต่อเรื่องที่คุยไว้ให้จบแล้วกัน
+Now, please leave. I would prefer to be alone.|ทีนี้ก็ไปได้แล้ว เราอยากอยู่คนเดียว
+Please do not take advantage of this. I do not have the patience for your continued presence here.|อย่าได้ใช้ประโยชน์จากเรื่องนี้เชียว เราไม่มีความอดทนมากพอสำหรับการมาเยือนอย่างต่อเนื่องของเจ้าหรอกนะ
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|เราจะกลับไปทำงานแล้ว นอกจากว่าเจ้าจะมีอะไรที่มีสาระกว่านี้มาเสนอ<LINE>เราก็ไม่มีอะไรจะพูดกับเจ้าแล้ว
+Oh, it's you again? I had told you to leave and never return.|อ้อ เจ้าอีกแล้วเหรอ? เราบอกแล้วนี่ว่าให้ออกไปแล้วไม่ต้องกลับมาอีก
+Leave immediately and don't come back. And take THEM with you!|ออกไปเดี๋ยวนี้และอย่ากลับมาอีก เอาเจ้าพวกนั้นไปด้วย!
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|อ้อ เจ้ากลับมาอีกแล้ว เจ้าก็รู้ว่าเราไม่ใส่ใจพวกสิ่งมีชีวิตที่เพ่นพ่านผ่านอยู่ในเขตของเราเท่าไหร่
+For your own sake, I hope it was worth your struggle.|เพื่อตัวเจ้าเองแล้ว หวังว่ามันจะคุ้มกับที่เจ้าอุตส่าห์ดิ้นรนนะ
+For what reason do you visit so often? There is nothing more I can do for you.|จะมาที่นี่ทำไมนักหนา? เราทำอะไรให้เจ้าไม่ได้แล้ว
+I have nothing for you here little messenger. Please, I have little time left.|ฉันไม่เหลืออะไรให้เธอแล้ว เจ้าตัวน้อยที่น่าสงสาร ได้โปรดเถอะ ฉันเหลือเวลาอีกไม่นาน
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|ส่งผู้ส่งสารนั่นมาทำไมอีก? ออกไป ข้าจะเสียสมาธิไม่ได้แล้ว<LINE>ตอนนี้มีแต่ข้าเท่านั้นที่สามารถแก้ไขเรื่องนี้ได้ หวังว่าเจ้าจะเข้าใจนะ...
+How did it even manage to do that?...|เจ้านี่ทำเรื่องแบบนั้นได้ยังไงกัน?...
+...Nothing here... Nothing... left...|...ไม่มีอะไรที่นี่... ไม่มีอะไร... เหลือ...
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|จะดีมากถ้าเจ้าไม่กินเจ้าพวกนั่น ถึงสายสะดือจะยังประคองสติของเราไว้<LINE>แต่ทุกครั้งที่เสียนิวรอนเราจะเสียตัวตนไปส่วนหนึ่งเช่นกัน...
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|กลับมาทำไมอีก? โหยหาความตายนักหรือไง?<LINE>เราไม่มีอะไรจะให้เจ้าแล้ว... ออกไปเถอะ เพื่อตัวของเจ้าเอง
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|เจ้าไม่ควรมาอยู่ที่นี่ สถานที่แห่งนี้ผุพังลงทุกขณะ<LINE>ทุกสิ่งในนี้ไม่เอื้อกับนิยามของคำว่าชีวิตตามปกติโดยสิ้นเชิง
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|เราเคยเดือดดาลเมื่อคิดว่ามีสิ่งมีชีวิตต่างๆ คลานยั้วเยี้ยในโครงสร้างมหึมาของตัวเอง<LINE>แต่ตอนนี้เรากลับรู้สึกยินดีกับโอกาสอันหายากที่จะได้มีปฏิสัมพันธ์นี้
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|อีสเตอร์เอ้กนี้ได้รับแรงบันดาลใจมาจากม็อด Moar Slugcats Dating Sim ต้นฉบับ แต่ไม่มีความเกี่ยวข้องใดๆ กับกลุ่มผู้สร้างดั้งเดิมทั้งสิ้น

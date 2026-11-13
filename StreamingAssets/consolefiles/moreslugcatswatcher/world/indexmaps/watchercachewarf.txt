@@ -1,0 +1,5 @@
+warf_b33:6:wtda_b12
+warf_a01:1:False:False,warf_b07:1:False:False,warf_b23:1:False:False,warf_d29:1.5:False:False
+warf_a04,warf_b06,warf_d08
+warf_a06:0:0:wska_d13,warf_b11:0:0:wrfa_f01,warf_b14:0:0:wskb_c18,warf_d06:0:0:wskd_b38,warf_d15:1:1:NULL,warf_d30:0:0:wmpa_a09
+warf_b09:2,warf_b10:1,warf_b16:4,warf_c03:1,warf_c06:2,warf_c07:2,warf_d02:4,warf_d04:5,warf_d05:3,warf_d08:2,warf_d09:2,warf_d18:3,warf_d29:2,warf_d34:1,warf_d35:2,warf_g03:7

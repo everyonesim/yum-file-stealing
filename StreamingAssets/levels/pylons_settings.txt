@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.3152174
+RandomItemDensity: 0.6086956
+Palette: 14
+EffectColorA: 9
+EffectColorB: 5
+PlacedObjects: MultiplayerItem><690.9581><118.5636><Spear~17.32051~-10~0.5, MultiplayerItem><1211.129><117.2879><Spear~17.32051~-10~0.5760869, MultiplayerItem><92.32296><127.5339><Spear~17.32051~-10~0.5978261, MultiplayerItem><760.1868><102.1003><Spear~17.32051~-10~0.5266833, MultiplayerItem><911.0718><92.50292><Spear~17.32051~-10~0.7606692, MultiplayerItem><349.1839><111.8993><Spear~17.32051~-10~0.5651146, 
+AmbientSounds: OMNI><AM_WIN-NiceWnd.ogg><713.6031><520.6143><0.2065217><1, OMNI><SO_IND-Fridge.ogg><530.8316><524.1826><0.09782609><1, OMNI><AM_ENV-CricketsWnd.ogg><536.9348><445.5767><0.326087><1, 
+FadePalette: 3, 0.5217391

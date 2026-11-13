@@ -1,0 +1,5 @@
+wtda_z14:12:wbla_c01
+wtda_b01:2.5:False:False,wtda_z04:2.5:False:False,wtda_z08:2.5:False:False
+wtda_b04,wtda_z09
+wtda_a13:0:0:warg_b31,wtda_b16:0:0:ware_h16,wtda_z07:1:1:NULL
+wtda_b05:2,wtda_b06:2,wtda_b10:9,wtda_z04:3,wtda_z08:4,wtda_z09:2,wtda_z10:2,wtda_z15:2,wtda_z16:7

@@ -1,0 +1,209 @@
+CONDITIONAL LINKS
+END CONDITIONAL LINKS
+ROOMS
+GATE_SI_CC : SI_D03, DISCONNECTED, DISCONNECTED : GATE
+GATE_SI_LF : SI_B13, DISCONNECTED, SI_S03 : GATE
+SI_S03 : GATE_SI_LF : SHELTER
+SI_A07 : SI_A06, DISCONNECTED
+SI_A06 : SI_A07, SI_B04
+SI_B04 : SI_A06, SI_B02
+SI_B02 : SI_B04, SI_D01
+SI_C07 : SI_C02 : SWARMROOM
+SI_C02 : SI_C07, SI_A17, SI_A18, SI_SAINTINTRO, SI_C01
+SI_C01 : SI_C02, SI_C04 : SWARMROOM
+SI_C04 : SI_A08x, SI_D01, SI_C01, SI_B10
+SI_D01 : SI_B02, SI_C03, SI_A27, SI_C04, SI_B10 : SWARMROOM
+SI_C03 : SI_D01, SI_B01
+SI_B01 : SI_A20, SI_C03, SI_D03, SI_A03x
+SI_A20 : SI_A21, SI_B01
+SI_A21 : SI_A20 : SCAVTRADER
+SI_D03 : GATE_SI_CC, SI_B01
+SI_A17 : DISCONNECTED, SI_C02, SI_C05
+SI_S04 : SI_A18 : SHELTER
+SI_A18 : SI_C02, SI_C05, SI_S04
+SI_C05 : SI_A17, SI_A18, SI_A28
+SI_A28 : SI_C05, SI_D06
+SI_A27 : SI_D01, SI_S05, SI_C06
+SI_S05 : SI_A27 : SHELTER
+SI_C06 : SI_A27, SI_B09
+SI_B10 : SI_D01, SI_C04, SI_B09
+SI_B09 : SI_C06, SI_A02, SI_B10, SI_A30
+SI_A02 : SI_B09, SI_A23
+SI_A23 : SI_C08, SI_A02 : SWARMROOM
+SI_C08 : DISCONNECTED, SI_D05, SI_A23, SI_D06
+SI_D05 : SI_B11, SI_D06, SI_C08
+SI_B11 : SI_D05, SI_D06
+SI_D06 : SI_B11, SI_D05, SI_C08, SI_B03, SI_A28
+SI_B12 : SI_B03
+SI_B03 : SI_B12, SI_D06, SI_C09 : SWARMROOM
+SI_C09 : SI_B03, SI_D07
+SI_D07 : SI_C09, SI_B13 : SWARMROOM
+SI_B13 : SI_D07, GATE_SI_LF
+GATE_SI_VS : SI_F01 : GATE
+SI_A30 : SI_B09, SI_B15
+SI_B15 : SI_A30, SI_B16
+SI_B16 : SI_S06, SI_D09, SI_B15, SI_A31
+SI_D09 : SI_C06x, SI_B16
+SI_A31 : SI_B16, SI_D08
+SI_S06 : SI_B16 : SHELTER
+SI_SAINTINTRO : SI_C02
+SI_A03x : SI_B01, SI_C01x : SWARMROOM
+SI_C01x : DISCONNECTED, SI_C06x, SI_A03x
+SI_C06x : SI_B07x, SI_C01x, SI_B02x, SI_D09
+SI_B07x : SI_C06x : SWARMROOM
+SI_B02x : SI_A08x, SI_C06x
+SI_A08x : SI_B02x, SI_A09x, SI_C04
+SI_A09x : SI_A08x
+SI_F01 : SI_D08, DISCONNECTED, GATE_SI_VS
+SI_D08 : SI_F01, SI_A31
+END ROOMS
+CREATURES
+SI_B04 : 2-White
+LINEAGE : SI_C02 : 5 : NONE-0.05, Mimic-{20}-0.5, Mimic-{14}-0.5, TentaclePlant-0
+(White)OFFSCREEN : 0-Vulture-4, 0-Scavenger-6
+(Yellow)SI_C06 : 2-CicadaB, 3-CicadaA, 3-Small Centipede-{AlternateForm}-4
+(Yellow)OFFSCREEN : 0-Vulture-3, 0-Scavenger-6
+(Yellow)SI_D01 : 5-Eggbug, 7-CicadaA-2, 8-CicadaB-2, 9-CicadaB, 10-CicadaB, 6-Blue
+(Yellow)SI_A02 : 2-CicadaA, 2-Cyan-{PreCycle}
+(Yellow)SI_A17 : 3-Blue
+(Yellow)SI_C07 : 1-Centiwing, 2-Blue, 3-White, 3-Snail-{PreCycle}-4
+(Yellow)SI_C01 : 3-Yellow, 4-Yellow-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Red)OFFSCREEN : 0-Vulture-3, 0-KingVulture-2, 0-Scavenger-8
+(Red)SI_A17 : 4-DropBug, 3-White
+(Red)SI_D01 : 7-CicadaA-2, 8-CicadaB-2, 9-CicadaB, 10-CicadaB, 5-White, 5-Cyan, 6-EggBug
+(Red)SI_C01 : 4-Yellow-2, 3-Cyan-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Red)SI_C07 : 1-Centiwing, 2-Cyan, 3-Cyan, 3-Snail-{PreCycle}-4
+(Red)SI_B09 : 5-Cyan-2, 6-Centiwing
+(Red)SI_B01 : 5-BigNeedleWorm, 5-SmallNeedleWorm, 4-Snail-{PreCycle}-2, 5-Snail-{PreCycle}-3
+(Red)SI_A27 : 3-CicadaB, 4-CicadaA
+(Red)SI_C06 : 2-DropBug, 3-Small Centipede-{AlternateForm}-4
+(Red)SI_D06 : 5-Yellow, 6-Yellow-2, 7-Yellow, 8-DropBug
+(Red)SI_B03 : 3-Centiwing
+(Red)SI_C09 : 3-Centiwing, 2-Snail-{PreCycle}-2, 3-Snail-{PreCycle}
+(Red)LINEAGE : SI_A23 : 2 : NONE-0.2, Blue-0.5, Cyan-0
+(Red)LINEAGE : SI_C06 : 3 : Centiwing-0.1, RedCentipede-0
+(X-White,Yellow,Red,Gourmand,Rivulet,Artificer,Spear,Saint,Inv)OFFSCREEN : 0-Vulture-4, 0-Scavenger-6
+(X-Saint)SI_A18 : 3-Eggbug
+(X-Rivulet,Saint)SI_C02 : 6-Eggbug, 5-BigNeedleWorm, 5-SmallNeedleWorm-3, 8-Mimic-{24}, 9-Mimic-{18}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SI_D05 : 4-Eggbug, 3-Small Centipede-{AlternateForm}-2, 5-CicadaA, 6-CicadaA
+(X-Saint)SI_C08 : 6-Centiwing, 4-Centiwing
+(X-Saint)SI_B11 : 2-CicadaA, 2-CicadaB
+(X-Saint)SI_C05 : 3-Mimic-{10}, 4-Mimic-{13}, 5-Mimic-{14}, 6-Mimic-{17}
+(X-Rivulet,Saint)SI_B12 : 2-BigNeedleWorm, 2-SmallNeedleWorm-3, 1-Small Centipede-{AlternateForm}-3, 1-TentaclePlant-{PreCycle}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SI_C07 : 1-Centiwing, 2-Blue, 3-Blue, 3-Snail-{PreCycle}-4
+(X-Gourmand,Yellow,Rivulet,Saint,Red,Artificer,Spear,Inv)SI_C01 : 3-Blue, 3-Yellow, 4-Yellow-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(X-Yellow,Rivulet,Red,Artificer,Spear,Saint,Inv)SI_D01 : 5-White, 7-CicadaA-2, 8-CicadaB-2, 9-CicadaB, 10-CicadaB, 6-Blue
+(X-Yellow,Red,Artificer,Spear,Inv,Rivulet)SI_C06 : 2-CicadaB, 3-CicadaA
+(X-Red,Artificer,Spear,Saint,Inv)SI_D06 : 5-Yellow, 6-Yellow, 7-Yellow
+(X-Rivulet,Red,Artificer,Spear,Saint,Inv)SI_B09 : 7-CicadaA
+(X-Yellow,Rivulet,Gourmand,Saint,Inv)SI_A02 : 2-Blue, 2-Cyan-{PreCycle}
+(X-Yellow,Rivulet,Red,Artificer,Saint,Inv)SI_A17 : 3-White
+(X-Red,Artificer,Spear,Inv)SI_B01 : 4-Snail-{PreCycle}-2, 5-Snail-{PreCycle}-3
+(X-Saint)SI_A30 : 3-TentaclePlant-{PreCycle}
+(X-Yellow,Saint)SI_B16 : 4-Mimic-{21}, 5-Mimic-{17}, 7-White, 8-Cyan-{PreCycle}
+(X-Yellow,Rivulet,Red,Artificer,Spear,Inv,Saint)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Centiwing, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(X-Saint)SI_D08 : 7-Centiwing-2
+(X-Rivulet)SI_A03x : 3-Yellow-3
+(X-Rivulet,Saint)LINEAGE : SI_B01 : 4 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+(X-Saint)LINEAGE : SI_B01 : 6 : NONE-0.07, Mimic-{17}-0.5, Mimic-{21}-0.5, TentaclePlant-0
+(X-Saint)LINEAGE : SI_B09 : 4 : NONE-0.05, Mimic-{18}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(X-Red,Artificer,Spear)LINEAGE : SI_B09 : 5 : Centiwing-0.05, Centiwing-0.05, Centipede-{0.8}-0.2, RedCentipede-0
+(X-Saint)LINEAGE : SI_C02 : 7 : NONE-0.05, Mimic-{20}-0.5, Mimic-{14}-0.5, TentaclePlant-0
+(X-Saint)LINEAGE : SI_C01 : 2 : NONE-0.05, Mimic-{12}-0.5, Mimic-{16}-0.5, TentaclePlant-0
+(X-Saint)LINEAGE : SI_C01 : 5 : NONE-0.07, TentaclePlant-0
+(Gourmand)OFFSCREEN : 0-Vulture-3, 0-KingVulture, 0-Scavenger-6
+(Rivulet)OFFSCREEN : 0-Vulture-4, 0-Scavenger-4
+(Artificer)OFFSCREEN : 0-Vulture-4, 0-KingVulture-2, 0-Scavenger-14
+(Spear)OFFSCREEN : 0-Vulture-2, 0-KingVulture-4, 0-Scavenger-10
+(Saint)OFFSCREEN : 0-Vulture-5, 0-Scavenger-3
+(Inv)OFFSCREEN : 0-MirosVulture-5, 0-Scavenger-12
+SI_C01x : 3-Snail-{PreCycle}-2
+(Rivulet)SI_C02 : 6-Eggbug, 5-CicadaB-2, 5-CicadaA-3, 8-Mimic-{24}, 9-Mimic-{18}
+(Yellow)SI_D05 : 4-Eggbug, 3-Small Centipede-{AlternateForm}-4, 5-CicadaA, 6-CicadaA
+(Rivulet)SI_D05 : 4-Eggbug, 3-Small Centipede-{AlternateForm}-4, 3-Yellow-2, 6-Centiwing, 6-Small Centipede-{AlternateForm}-3
+(Red)SI_D05 : 4-Eggbug, 3-Small Centipede-{AlternateForm}-3, 5-CicadaA, 6-CicadaA
+(Artificer)SI_D05 : 4-Eggbug, 3-Small Centipede-{AlternateForm}-3, 5-CicadaA, 6-CicadaA
+(Spear)SI_D05 : 4-Eggbug, 3-Small Centipede-{AlternateForm}-3, 5-CicadaA, 6-CicadaA
+(Saint)SI_D05 : 3-Yellow-2, 6-Centiwing, 6-Small Centipede-{AlternateForm}-3
+(Inv)SI_D05 : 3-Yellow-2, 6-Centiwing, 6-Small Centipede-{AlternateForm}-3
+(Saint)SI_C08 : 4-Centiwing
+(Rivulet)SI_B12 : 2-Centiwing, 1-Small Centipede-{AlternateForm}-3, 1-TentaclePlant-{PreCycle}
+(Saint)SI_B12 : 2-Centiwing, 1-Small Centipede-{AlternateForm}-3, 1-TentaclePlant-{PreCycle}
+(Rivulet)SI_C07 : 1-Centiwing, 2-Yellow-2, 2-White, 3-Snail-{PreCycle}-4
+(Artificer)SI_C07 : 1-Centiwing, 2-Cyan, 3-Cyan, 3-Snail-{PreCycle}-4
+(Spear)SI_C07 : 1-Centiwing, 2-Cyan, 3-Cyan, 3-Snail-{PreCycle}-4
+(Saint)SI_C07 : 2-Yellow-2, 3-Snail-{PreCycle}-4
+(Inv)SI_C07 : 2-Red, 3-Red, 3-Snail-{PreCycle}-4
+(Gourmand)SI_C01 : 3-Cyan, 3-Yellow, 4-Yellow-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Rivulet)SI_C01 : 3-Yellow, 4-Yellow-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Saint)SI_C01 : 3-Yellow, 4-Yellow-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Artificer)SI_C01 : 4-Yellow-2, 3-Cyan-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Spear)SI_C01 : 4-Yellow-2, 3-Cyan-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Inv)SI_C01 : 4-Red-2, 3-Red-2, 2-Snail-{PreCycle}-3, 5-Snail-{PreCycle}-2
+(Rivulet)SI_D01 : 5-Eggbug, 6-Cyan
+(Artificer)SI_D01 : 7-CicadaA-2, 8-CicadaB-2, 9-CicadaB, 10-CicadaB, 5-White, 5-Cyan, 6-EggBug
+(Spear)SI_D01 : 7-CicadaA-2, 8-CicadaB-2, 9-CicadaB, 10-CicadaB, 5-White, 5-Cyan, 6-EggBug
+(Saint)SI_D01 : 5-Centiwing, 6-Centiwing
+(Inv)SI_D01 : 7-CicadaA-2, 8-CicadaB-2, 9-CicadaB, 10-CicadaB, 5-Red, 5-RedCentipede, 6-EggBug
+(Artificer)SI_C06 : 2-DropBug, 3-Small Centipede-{AlternateForm}-4
+(Spear)SI_C06 : 2-DropBug, 3-Small Centipede-{AlternateForm}-4
+(Inv)SI_C06 : 2-DropBug, 3-Small Centipede-{AlternateForm}-4
+(Artificer)SI_D06 : 5-Yellow, 6-Yellow-2, 7-Yellow, 8-DropBug
+(Spear)SI_D06 : 5-Yellow, 6-Yellow-2, 7-Yellow, 8-DropBug
+(Saint)SI_D06 : 5-Yellow, 6-Yellow, 7-Yellow-2
+(Inv)SI_D06 : 5-Red, 6-SpitterSpider-2, 7-Red, 8-DropBug
+(Artificer)SI_B09 : 5-Cyan-2, 6-Centiwing
+(Spear)SI_B09 : 5-Cyan-2, 6-Centiwing
+(Inv)SI_B09 : 6-Red-2, 7-RedCentipede
+(Gourmand)SI_A02 : 2-Cyan, 2-Cyan-{PreCycle}
+(Rivulet)SI_A02 : 2-CicadaA, 2-Cyan-{PreCycle}
+(Inv)SI_A02 : 2-Red, 2-Cyan-{PreCycle}
+(Rivulet)SI_A17 : 3-Yellow-2
+(Artificer)SI_A17 : 4-DropBug, 3-White
+(Inv)SI_A17 : 4-DropBug, 3-Red
+(Artificer)SI_B01 : 5-BigNeedleWorm, 5-SmallNeedleWorm, 4-Snail-{PreCycle}-2, 5-Snail-{PreCycle}-3
+(Spear)SI_B01 : 5-BigNeedleWorm, 5-SmallNeedleWorm, 4-Snail-{PreCycle}-2, 5-Snail-{PreCycle}-3
+(Inv)SI_B01 : 5-BigNeedleWorm, 5-SmallNeedleWorm, 4-Snail-{PreCycle}-2, 5-Snail-{PreCycle}-3
+(Artificer)SI_A27 : 3-CicadaB, 4-CicadaA
+(Spear)SI_A27 : 3-CicadaB, 4-CicadaA
+(Inv)SI_A27 : 3-CicadaB, 4-CicadaA
+(Saint)SI_A27 : 4-Yellow-2
+(Artificer)SI_B03 : 3-Centiwing
+(Spear)SI_B03 : 3-Centiwing
+(Inv)SI_B03 : 3-Centiwing
+(Artificer)SI_C09 : 3-Centiwing, 2-Snail-{PreCycle}-2, 3-Snail-{PreCycle}
+(Spear)SI_C09 : 3-Centiwing, 2-Snail-{PreCycle}-2, 3-Snail-{PreCycle}
+(Inv)SI_C09 : 3-Centiwing, 2-Snail-{PreCycle}-2, 3-Snail-{PreCycle}
+(Saint)SI_C09 : 2-Centiwing-2, 2-Snail-{PreCycle}-2, 3-Snail-{PreCycle}
+(Saint)SI_A30 : 3-Yellow-2, 3-TentaclePlant-{PreCycle}
+(Yellow)SI_B16 : 4-Mimic-{21}, 5-Mimic-{17}, 7-Blue, 8-Cyan-{PreCycle}
+(Saint)SI_B16 : 7-White, 8-Cyan-{PreCycle}
+(Yellow)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Small Centipede-{AlternateForm}-2, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Rivulet)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Small Centipede-{AlternateForm}-2, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Red)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Cyan, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Artificer)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Cyan, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Spear)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Cyan, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Inv)SI_F01 : 3-CicadaA-3, 4-CicadaB-2, 11-Cyan, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Saint)SI_F01 : 11-Centiwing-2, 3-Snail-{PreCycle}-4, 7-Snail-{PreCycle}-2, 11-Snail-{PreCycle}-2
+(Rivulet)SI_A03x : 3-Cyan-3
+(Rivulet)SI_B02x : 3-Yellow-4
+(Saint)SI_B02x : 3-Yellow-4
+(Inv)SI_B02x : 3-Yellow-4
+(Rivulet)LINEAGE : SI_B01 : 4 : Yellow-0.5, Cyan-0.5, White-0.3, Red-0
+(White)LINEAGE : SI_B09 : 6 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+(Yellow)LINEAGE : SI_B09 : 6 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+(Gourmand)LINEAGE : SI_B09 : 6 : Pink-0.5, Blue-0.5, White-0.3, Red-0
+(Rivulet)LINEAGE : SI_B09 : 6 : Yellow-0.5, Cyan-0.5, White-0.3, Red-0
+(Red)LINEAGE : SI_B09 : 6 : White-0.5, Cyan-0.5, Red-0
+(Artificer)LINEAGE : SI_B09 : 6 : White-0.5, Cyan-0.5, Red-0
+(Spear)LINEAGE : SI_B09 : 6 : White-0.5, Cyan-0.5, Red-0
+(Inv)LINEAGE : SI_B09 : 6 : Red-0
+(Artificer)LINEAGE : SI_C06 : 3 : Centiwing-0.1, RedCentipede-0
+(Spear)LINEAGE : SI_C06 : 3 : Centiwing-0.1, RedCentipede-0
+(Inv)LINEAGE : SI_C06 : 3 : RedCentipede-0
+(Artificer)LINEAGE : SI_A23 : 2 : NONE-0.2, Blue-0.5, Cyan-0
+(Spear)LINEAGE : SI_A23 : 2 : NONE-0.2, Blue-0.5, Cyan-0
+(Inv)LINEAGE : SI_A23 : 2 : Red-0
+END CREATURES
+BAT MIGRATION BLOCKAGES
+END BAT MIGRATION BLOCKAGES

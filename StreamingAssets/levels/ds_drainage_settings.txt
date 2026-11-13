@@ -1,0 +1,9 @@
+Template: NONE
+DangerType: Flood
+Clouds: 0.326087
+Palette: 4
+EffectColorA: 2
+EffectColorB: 0
+PlacedObjects: MultiplayerItem><937.1531><69.37866><Spear~17.32051~-10~0.05434782, MultiplayerItem><517.4402><65.68835><Spear~17.32051~-10~0.5326087, MultiplayerItem><585.4316><84.83371><Spear~17.32051~-10~0.5326087, MultiplayerItem><717.4276><115.658><Spear~17.32051~-10~0.5326087, MultiplayerItem><858.406><96.87515><Spear~17.32051~-10~0.5326087, MultiplayerItem><959.1953><114.5576><Spear~17.32051~-10~0.5326087, MultiplayerItem><343.0647><114.8252><Spear~17.32051~-10~1, MultiplayerItem><801.691><85.4411><Spear~17.32051~-10~1, MultiplayerItem><430.3856><98.414><Spear~17.32051~-10~0.5, MultiplayerItem><792.5695><98.43753><Spear~17.32051~-10~0.5, MultiplayerItem><851.5405><77.44586><Spear~17.32051~-10~0.5, MultiplayerItem><486.5879><82.07034><Spear~17.32051~-10~0.5, MultiplayerItem><696.4601><115.446><Spear~17.32051~-10~0.5, MultiplayerItem><266.912><290.1173><Rock~17.32051~-10~0.2173913, MultiplayerItem><1144.849><297.8815><Rock~17.32051~-10~0.2173913, MultiplayerItem><160.8589><290.6082><Rock~17.32051~-10~0.2173913, MultiplayerItem><1179.903><292.5748><Rock~17.32051~-10~0.2173913, MultiplayerItem><1167.802><429.7758><Rock~17.32051~-10~0.2173913, MultiplayerItem><180.8152><462.6733><Rock~17.32051~-10~0.2173913, 
+AmbientSounds: OMNI><SO_WAT-LightFlow.ogg><836.1427><624.3599><0.4456522><1, OMNI><SO_WAT-RunningWater.ogg><821.2215><537.5521><0.2717391><1, OMNI><SO_WAT-LilDrips.ogg><643.6298><627.5901><0.4130435><1, 
+FadePalette: 6, 0

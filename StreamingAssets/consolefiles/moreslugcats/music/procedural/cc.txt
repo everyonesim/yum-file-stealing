@@ -1,0 +1,15 @@
+TH_CC - KICK : NEUTRAL <PA>
+TH_CC - ARPS : NEUTRAL
+TH_CC - BASS : DANGER <PA>
+TH_CC_-_GUTTERBASS : DANGER <PA>
+TH_CC - PERC1 : NEUTRAL
+TH_CC - SNARE : NEUTRAL
+TH_CC - PERC2 : NEUTRAL <PA>
+TH_CC - NOISE : DANGER <PA>
+TH_CC - VOX : HIGHKARMA
+TH_CC_-_GUTTERVOX : HIGHKARMA
+Layer : TH_CC - KICK, TH_CC - PERC1, TH_CC - NOISE
+Layer : TH_CC - KICK, TH_CC - PERC2, TH_CC - PERC1, TH_CC - NOISE
+Layer : TH_CC - KICK, TH_CC - PERC2, TH_CC - PERC1, TH_CC - NOISE, TH_CC - SNARE, {Chimney Canopy|Solitary Towers}TH_CC - BASS, {The Gutter|Forgotten Conduit}TH_CC_-_GUTTERBASS, {Chimney Canopy|Solitary Towers}TH_CC - VOX, {The Gutter|Forgotten Conduit}TH_CC_-_GUTTERVOX
+Layer : TH_CC - KICK, {Chimney Canopy|Solitary Towers}TH_CC - ARPS, TH_CC - PERC1, TH_CC - NOISE, TH_CC - SNARE, {Chimney Canopy|Solitary Towers}TH_CC - BASS, {The Gutter|Forgotten Conduit}TH_CC_-_GUTTERBASS, TH_CC - PERC2, {Chimney Canopy|Solitary Towers}TH_CC - VOX, {The Gutter|Forgotten Conduit}TH_CC_-_GUTTERVOX
+Layer : {Chimney Canopy|Solitary Towers}TH_CC - BASS, {The Gutter|Forgotten Conduit}TH_CC_-_GUTTERBASS, {Chimney Canopy|Solitary Towers}TH_CC - VOX, {The Gutter|Forgotten Conduit}TH_CC_-_GUTTERVOX

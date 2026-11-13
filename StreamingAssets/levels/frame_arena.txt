@@ -1,0 +1,26 @@
+GoalAmount - 7
+
+Creature - Blue - dens:4,5 - chance:0.5
+Creature - White - dens:4,5 - chance:0.5
+
+Creature - Pink - dens:6,7,8,9 - chance:0.6 - amount:2
+Creature - Green - dens:6,7,8,9 - chance:0.6 - amount:2
+
+CreatureGroup - SCAVS - chance:0.8
+Creature - Scavenger - dens:-1 - chance:0.8 - group:SCAVS - amount:5
+
+CreatureGroup - SPIDERS - chance:0.4
+Creature - Big Spider - dens:4,5,6,7,8,9 - chance:0.9 - group:SPIDERS - amount:2-3
+Creature - Spitter Spider - dens:4,5,6,7,8,9 - chance:0.9 - group:SPIDERS - amount:2
+
+Creature - Vulture - dens:-1 - chance:0.2 - RARE
+Creature - KingVulture - dens:-1 - chance:0.1 - RARE
+
+Creature - Needle Worm - dens:4,5 - chance:0.09
+
+Creature - DropBug - dens:6,7,8,9 - chance:0.15 - RARE
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:4,5,6,7,8,9 - chance:0.5 - amount:2-3 - group:CYANS
+
+Creature - Cicada - dens:4,5,6,7,8,9 - chance:0.01 - amount:3

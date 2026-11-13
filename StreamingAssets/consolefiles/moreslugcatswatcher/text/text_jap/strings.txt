@@ -1,0 +1,712 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|下とスペシャルボタンを長押しすると、選択した目的地へのルートを作成できます
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|カルマフラワーなしで上とスペシャルを長押しすることは、不安定で危険です
+creaturetype-MothGrub|モスウジ
+Unfortunate Evolution|不幸な進化
+creaturetype-Barnacle|フジツボ
+creaturetype-SandGrub|サンドウジ
+creaturetype-SkyWhale|空飛ぶクジラ
+creaturetype-RotLoach|腐敗したベヒーモス
+creaturetype-RippleSpider|リップルグモ
+Press VIEW to cancel warp|VIEWを押してワープをキャンセル
+creaturetype-IndigoLizard|インディゴトカゲ
+creaturetype-GrappleSnake|絡みつきヘビ
+creaturetype-PeachLizard|モモトカゲ
+The Crown upon the thorn|茨の上の王冠
+creaturetype-BigSandGrub|サンドワーム
+objecttype-Pomegranate|ザクロ
+creaturetype-DrillCrab|ドリルガニ
+creaturetype-SmallMoth|小さな蛾
+creaturetype-Millipede|ヤスデ
+objecttype-GraffitiBomb|グラフィティボム
+The Lantern in the dusk|夕暮れのランタン
+creaturetype-FireSprite|炎の妖精
+creaturetype-Tardigrade|クマムシ
+Press PAUSE BUTTON to cancel warp|一時停止ボタンを押してワープをキャンセル
+The paths overflow beyond measure|道は測りきれないほど溢れています
+Oh such enthusiasm! I am honored!|ああ、なんという情熱！光栄だ！
+Press + Button to cancel warp|+ ボタンを押してワープをキャンセル
+Press - Button to cancel warp|- ボタンを押してワープをキャンセル
+watcher-character-description|孤独で冷淡なアウトサイダー。眺めるだけで関わることはない。<LINE>その距離が新たな視点とつながりをもたらす。類を見ない旅なのだ。
+creaturetype-ScavengerTemplar|スカベンジャー騎士団
+Press OPTIONS BUTTON to cancel warp|OPTIONSボタンを押してワープをキャンセル
+A presence already binds this place|何かの存在がすでにこの場所と結びついています
+This fringe is already too unstable|この辺境はすでに非常に不安定です
+Nothing to waste, every bit counts!|無駄はひとつもない。すべてが重要なんだ！
+SPECIAL button - Hold to warp to selected region|スペシャルボタン - 長押しで選択した地域へワープ
+Free them. They will show you the way.|彼らを解放しよう。君に道を示してくれる。
+The Child forsaken to time|時に見捨てられた子
+objecttype-FireSpriteLarva|炎の妖精の幼虫
+THE WATCHER|ウォッチャー
+The Watcher|ウォッチャー
+Coral Caves|珊瑚の洞窟
+The Surface|地表
+Hydroponics|水耕栽培
+Watcher|ウォッチャー
+Outer Rim|外縁域
+Deep Reef|深礁
+Rusted Wrecks|錆びた残骸
+Torrid Desert|灼熱の砂漠
+Thermal Relay|熱動継電器
+Station Annex|ステーションアネックス
+Signal Spires|信号塔
+Ancient Urban|古代都市
+Stormy Coast|嵐の海岸
+Cold Storage|冷蔵所
+Tundra Fault|ツンドラフォールト
+Aether Ridge|エーテルリッジ
+Pillar Grove|柱の木立
+Turbulent Pump|荒ぶるポンプ
+Desolate Tract|荒れ果てた区域
+Aerial Tramway|空中トラム
+Fallen Tramway|崩壊したトラム
+Sunbaked Alley|灼けた路地
+Migration Path|渡り道
+Blast Deck|ブラストデッキ
+Ridgeworks|リッジワークス
+Salination|塩分化
+Heat Ducts|ヒートダクト
+Fetid Glen|悪臭の峡谷
+The Throne|玉座
+Marvelous!|お見事！
+Shattered Terrace|砕けたテラス
+Verdant Waterways|緑豊かな水路
+Crumbling Fringes|崩れゆく辺境
+creaturetype-Frog|カエル
+LeaveSpinningTop1|おあ！見て！バカすぎて何も気づいてない！おあおあ！
+LeaveSpinningTop2|おあ！失礼な！プレゼントをあげようとしてたのに。
+DieAtSpinningTop1|おあおあ！よし！土の中に帰れ！バーカ！おあおあおあ！
+DieAtSpinningTop2|おあ！見て！もう捕まってる！おあおあおあおあ
+DieAtSpinningTop3|おあおあおあ！ここもか？生きるにはバカすぎるし、死ぬ価値もない。<LINE>つまんない！べーっ！もう行くよ。
+So vital! Hah ha!|生命力にあふれているね！ははっ！
+Badlands|悪地
+Decaying Tunnels|朽ち果てたトンネル
+creaturetype-Rat|ラット
+Ah! So spirited!|ああ！なんと勇ましい！
+Infested Wastes|有害な廃棄場
+Shrouded Stacks|覆われた積み場
+Corrupted Factories|腐敗した工場
+Torrential Railways|土砂降り鉄道
+creaturetype-Angler|アンコウ
+Daemon|ダイモン
+Fractured Gateways|ひび割れた門
+creaturetype-Loach|ドジョウ
+Oh, show me again!|頼む、もう一度見せてくれ！
+creaturetype-BigMoth|大きな蛾
+creaturetype-BoxWorm|ボックスワーム
+creaturetype-Rattler|ボーンシェイカー
+objecttype-Boomerang|ブーメラン
+creaturetype-ScavengerDisciple|スカベンジャーの弟子
+Oh, you have brought sundries?|おお、お土産を持ってきてくれたんだな？
+Never again will you be alone.|もう一人ぼっちになることはないよ。
+Oh, my friend, you have grown!|ああ、友よ！君は成長したね！
+creaturetype-BlizzardLizard|吹雪トカゲ
+creaturetype-BasiliskLizard|バジリスクトカゲ
+Hold the SPECIAL button to camouflage from predators|スペシャルボタンを長押しすると、捕食者からの自身をカモフラージュします
+Hold UP and SPECIAL together to form new random paths|上とスペシャルを同時に長押しすると、新しいランダムな道を作ります
+Delight! For you will be exalted in this new kingdom!|嬉しいよ！君はこの新たな王国で高く称えられることだろう！
+This will consume the effect of a karma flower in the process|この過程でカルマフラワーの効果が消費されます
+However, this can also form new random paths in a pinch|しかし、これによりピンチの状況下で新しいランダムな道を作ることもできます
+You can leave them here if you wish, as a contribution.|もしよければ、寄付としてここに置いてくれたまえ。
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|新たなフロンティアに踏み込むことは体に負担をかけますが、眠ることで回復を促すことができます
+Traveling too deep without resting will have consequences|休まずに深く進みすぎると、後々問題が生じます
+This remains a place of rest|ここは休息の場所です
+It is a joy to see you play!|君が戦う姿を見れて嬉しいよ！
+My processes will dissolve them to their base components and those components will be added to the mass.|私のプロセスがそれを基本的な成分に変え、そして全体に加わることになる。
+Ahh yes! The paths! How wonderous!|ああ、そうだ！あの道！なんて素晴らしいのだろう！
+How auspicious it was, our meeting...|私たちの出会いは、幸先の良いものだった...
+Forgive me if I cannot respond in kind. This body is so limited...|私が同じように返せなくても、許してくれ。この体には限界があるんだ...
+How I have wished for this day. My dear friend, welcome.|この日をどれほど待ち望んでいたことか。親愛なる友よ、ようこそ。
+Bite|噛みつく
+Hiss|シューと音を立てる
+Call|呼ぶ
+SRS:|太陽：
+NSH:|悩み種：
+EOC:|雲の時代：
+BSM:|月：
+NGI:|藍嫌い：
+Scar|傷跡
+Luna|ルナ
+Hang|吊るす
+Bash|殴る
+Flee|逃げる
+Grab|つかむ
+Spit|吐き出す
+Noot|ヌート
+Howl|吠える
+Snip|切る
+Jump|ジャンプ
+Moo!|モー！
+None|なし
+Lunge|突進する
+Saint|聖人
+Gills|エラ
+Vents|通気口
+Click|クリック
+Sleep|眠る
+Birth|産む
+Chomp|むしゃむしゃ食べる
+Throw|投げる
+Shock|衝撃
+Point|ポイント
+Laser|レーザー
+Arena|アリーナ
+Class|クラス
+Items|アイテム
+STOP.|やめろ。
+Launch|打ち上げる
+Tongue|舌
+Spears|槍
+Struts|支柱
+Burrow|潜る
+Attach|取り付ける
+Squeak|鳴く
+Pounce|飛びつく
+Skewer|攻撃する
+Detach|取り外す
+Snatch|ひったくる
+Sprint|ダッシュする
+Signal|信号
+Ascend|昇天
+DON'T.|やめるんだ。
+LEAVE.|消えてくれ。
+Consume|消費する
+Rivulet|ストリーム
+The Rot|腐敗
+Rubicon|ルビコン
+Pick Up|拾う
+Release|解放する
+Discard|破棄する
+Stealth|ステルス
+Ensnare|捕らえる
+Harpoon|銛
+Pick up|拾う
+Descend|降りる
+...WHY?|...どうして？
+Are my words reaching you?|私の言葉は君に届いているかい？
+Go... away! You ate... me!|あ...あっち行け！私を...食べたんだ！
+creaturetype-ScavengerKing|スカベンジャー族長
+objecttype-SingularityBomb|単独爆弾
+Undiscovered Transcription|未発見の転写
+Destroy all armored plates|すべての装甲板を破壊
+Please, don't touch those!|お願い、それらに触れないで！
+Ah, you must be in a rush.|ああ、急いでるのね。
+Stop. If your intent is to damage my systems further, then I have no reason to continue this conversation.|やめるんだ。もし君の目的が私のシステムにさらにダメージを与えることなら、この会話を続ける理由なんてないだろう。
+Very well, you are on your own, creature. Please leave.|よろしい、君は一人でやるがいい。どうか帰ってくれ。
+We've read this, little creature. As previously stated:|これを読んだんだ。前にも言った通り：
+Hold Eat while grabbing an unconscious creature to maul|意識を失った生物を掴んでいる間、「食べる」を長押しして攻撃する
+Hold throw while flying to charge your ascension burst.|飛んでいる間に投げるを長押しすると、昇天バーストがチャージされます。
+Hold the pick-up button to pull needles from your body.|拾うボタンを長押しして、体から針を引き抜きます。
+You're not leaving? I suppose I should continue then...|行かないの？中断したところから再開しようかしら...
+However, you really shouldn't stay. It's too dangerous.|だが、本当にここにいるべきではない。危険すぎる。
+Don't. My systems have already been damaged enough as it is. Go away.|やめろ。私のシステムはすでに十分ダメージを受けている。さっさと消えてくれ。
+Best of luck to you, and your family. There is nothing else I can do.|君と、君の家族の幸運を祈るよ。俺ができることはそれくらいだ。
+Go... away... bad... thing...|わ...悪いこと...き...消えろ...
+Five Pebbles (Primary Cortex)|小石男（一次皮層）
+Abstract Convergence Manifold|抽象的な収束多様体
+Take your offspring with you.|子供を連れて行ってね。
+Too... broken...|壊れ...すぎている...
+The Rot (Depths)|腐敗（深層部）
+Silent Construct|静かな建築物
+Windswept Spires|吹きさらしの尖塔
+Hold to view map|長押ししてマップを表示
+Parry ## attacks|##攻撃を回避
+Met Five Pebbles|小石男に会った
+...help... me...|...私を...助けて...
+LET GO! p please|離して！お、お願い
+Shall we finish?|終わりにしようか？
+No! You... killed... me!|ダメだ！君は...私を...殺したんだ！
+The Rot (Cystic Conduit)|腐敗（嚢胞性導管）
+creaturetype-StowawayBug|フジツボ
+creaturetype-JungleLeech|ジャングルのヒル
+Submerged Superstructure|水中上部構造
+Please do not do that...|それはやめてくれ...
+...Not forgotten pain...|...この痛みは忘れない...
+No! <CapPlayerName> ate... me!|ダメだ！<CapPlayerName>は...私を...食べたんだ！
+##<LINE>without anything dying|死亡せずに<LINE>##
+Welcome back little messenger.|おかえりなさい、小さな使者さん。
+...Little green friend. Hello.|...やあ。小さな訪問者よ。
+Spanish translation by Garrakx|Spanish translation by Garrakx
+No! Am... broken... because you...|ダメだ！私は...壊れてるんだ...君のせいで...
+Five Pebbles (Linear Systems Rail)|小石男（線形システムレール）
+Looks to the Moon (Memory Conflux)|月（記憶の衝突）
+Have you brought your family here?|小さなお子さんもいるの？
+Hello again. Shall I keep reading?|また会えましたね。読み続けましょうか？
+No!|ダメだ！
+WO:|彷徨う前兆：
+PI:|懇願する知性：
+GS:|見つめる星：
+SI:|隠された本能：
+HR:|HR：
+CW:|追い風：
+EP:|不整脈：
+FP:|小石男：
+HF:|森の片割れ：
+UU:|慌てん坊：
+Sit|座る
+Bow|おじぎする
+Eat|食べる
+Fly|飛ぶ
+Run|走る
+Leave... me alone. Terrible... creature...|いいから...ほっといてくれ。最低な...生物め...
+I have read this. As I have stated before:|これを読んだんだ。前にも言った通り：
+Explosive jump while holding down to parry|下方向に長押ししながら爆発的なジャンプをして回避する
+Looks to the Moon's Transcription (Future)|月の転写（未来）
+You'd better hurry along, little creature!|急いだほうがいいわ、勇敢な使者さん。
+I have nothing to say to you, <PlayerName>.|<PlayerName>、お前に言うことは何もない。
+Press jump in the air to extend your tongue|空中で「ジャンプ」を押して、舌を伸ばす
+Use directional inputs to aim the ascension|「方向キー」を使って昇天の照準を合わせる
+Did you not register what I've said to you?|俺が言ったことを覚えてないのか？
+Please, leave quickly, while you still can.|まだ行けるうちに、頼むから出て行ってくれ。
+Go away, <PlayerName>.|あっち行け、<PlayerName>。
+creaturetype-EelLizard|ウナギトカゲ
+creaturetype-AquaCenti|アクアピード
+creaturetype-Inspector|検査官
+Atop the Tallest Tower|一番高い塔のてっぺん
+Primordial Underground|原始的な地下
+Survive for ## seconds|##秒間生存する
+Safari region unlocked|サファリ地域をアンロック
+Hold grab to activate.|つかむを長押しすると、起動できます。
+The Pilgrim-linebreaks|巡礼者
+Wait, that's not food!|待って、それは食料じゃないわ！
+not... edible, please.|食用...じゃないわ、お願い。
+...don't... trust you.|...あなたのことは...信じないわ。
+Keep your family safe!|家族の安全を守るのよ！
+...Go find... shelter.|...家を...見つけるんだ。
+Assets and content by:|Assets and content by:
+Leave me alone...|ほっといてくれ...
+creaturetype-Yeek|イーク
+Forgotten Conduit|忘れられた水路
+Frosted Cathedral|すりガラスの大聖堂
+Glacial Wasteland|氷河の荒野
+Ancient Labyrinth|古代迷宮
+Put a ## in a den|隠れ家に##を置く
+...Nice to see...|...初めまして...
+...Cold coming...|...冬がやってくる...
+Stop! Stop giving me your junk!|やめろ！ジャンクを私に渡すのはやめてくれ！
+saint_old_ascension_tutorial_ps|「方向キー」を使って昇天の照準を合わせる。
+Facility Roots (Western Intake)|施設のルーツ（西側取水口）
+Clear the game as ## to unlock.|##としてゲームをクリアするとアンロックできます。
+...why did you... save... me...|...どうして...私を...助けたの...
+Where do you find all of these?|どこでこういうのを見つけるんだ？
+Let us see what you have found.|見つけたものを見せてくれ。
+...Why... take all I... have...|...どうして...俺のものを...なんでも取るんだ...
+...Thank you... for... company.|...付き合ってくれて...ありがとな。
+...Find heat... Cold is danger.|...熱を探すんだ...寒さは危険だ。
+Korean translation by topicular|Korean translation by topicular
+Leave me alone! You terrible creature!|ほっといてくれ！この最低な生物め！
+Pups can now be found in Sandbox Mode.|子ナメクジが、サンドボックスモードで見つかるようになりました。
+Cold... You better go. I will be fine.|寒いわね...行ったほうがいいわ。私は大丈夫だから。
+The storm is coming. You should leave.|土砂降りになりそうだわ。ここを出ていったほうがいいわよ。
+We have read this one, little creature.|これを読んだんだよ、小さな生物さん。
+Clear the game as <X> or <Y> to unlock.|<X>または<Y>としてゲームをクリアするとアンロックできます。
+Is that something new? Allow me to see.|それは何か新しいものか？見せてくれ。
+Special button interactions:|特別なボタンの操作：
+Auxiliary Transmission Array|補助送信アレイ
+Auxillery Transmission Array|補助送信アレイ
+Hold to select and use doors|長押ししてドアを選択して使用
+...It is... warmer... today.|...今日は...暖かいな...。
+Tap Pick up and Jump together to explosive jump|「拾う」と「ジャンプ」を一緒にタップすると、爆発的なジャンプができる
+Hold Throw while flying to perform an ascension|飛行中に「投げる」を長押しすると、昇天を実行する
+Rubicon content is now available in Arena Mode.|ルビコンコンテンツは、アリーナモードで利用可能です。
+I am surprised you have found so many of these.|こんなにたくさん見つけたなんて驚いたよ。
+Ah, don't worry about me. You should get going!|ああ、私のことは心配しないで。行ったほうがいいわ！
+Oh. It's you, why have you come back...? Again.|ああ、君か。なんでまた戻ってきたんだ...？
+Hold Pick Up with an empty hand to generate a spear|空いた手で「拾う」を長押しすると、槍を作成できる
+This is not a request. I have important work to do.|これはリクエストじゃない。大事な仕事があるんだ。
+Press throw with empty hands to extend your tongue|空いた手で「投げる」を押して、舌を伸ばす
+Hold Pick Up to move a spear to and from your back|「拾う」を長押しすると、背中にある槍を出し入れできる
+Undelete the challenge you just deleted to unlock.|削除したチャレンジを元に戻すとアンロックできます。
+Hello again. I hope you have a reason to visit me.|また来たのか。君に俺を訪ねる理由があることを願ってるよ。
+Tap Pick up and Jump together to take flight|「拾う」と「ジャンプ」を一緒にタップすると、飛行することができる
+You better go, <PlayerName>! I will be fine.|<PlayerName>、避難できる場所を探すのよ！私のことは心配しないで。
+...So little... left. Why hurt... me more...|...もうわずかしか...残っていない。どうして...もっと傷つけてくるんだ...
+saint_old_ascension_tutorial_switch|「方向ボタン」を使って昇天の照準を合わせる。
+Looks to the Moon (Neural Terminus)|月（末端神経）
+Have you come back to see me again?|また私に会いに来たの？
+Get... get away... round.... thing.|あ...あっち行け...丸い...物体よ。
+Wait, please don't leave with that!|待て、それじゃ出発できないだろ！
+...Friend... please find... safety.|...友よ...安全な場所に...避難するんだ。
+saint_old_ascension_tutorial_xbox|「方向パッド」を使って昇天の照準を合わせる。
+Looks to the Moon's Transcription|月の転写
+Ah. Have you found something new?|ああ。何か新しいものを見つけたか？
+Oh... Good luck, little creature.|頑張って、私の不運で小さな友達。
+Hold Pick Up while holding up to combine two differing items|持ち上げた状態で「拾う」を長押しすると、2つの異なるアイテムを組み合わせることができる
+Try using your weight in creative ways to gain an advantage.|有利になるように、体重を工夫して使ってみましょう。
+Oh? What have you found this time? Let's see what it says...|あら？今度は何を見つけたの？何て書いてあるか読んでみましょう...
+Hold Pick Up to regurgitate a random item|「拾う」を長押しすると、ランダムなアイテムを吐き出す
+Clear a total of ## challenges to unlock.|合計##チャレンジをクリアするとアンロックできます。
+There's not a lot of time. You should go!|時間はあまりないわ。早く行かないと！
+Take your offspring with you when you go.|行くときは、子供を連れて行くんだぞ。
+Have you brought something new this time?|今回は何か新しいものを持ってきたか？
+[ Collection Empty ]|[ コレクションは空です ]
+Unique pearls read :|ユニークな真珠の読み取り：
+creaturetype-FireBug|火虫
+creaturetype-SlugNPC|子ナメクジ
+objecttype-JokeRifle|ジョークライフル
+objecttype-GooieDuck|グーイダック
+objecttype-LillyPuck|リリーパック
+objecttype-MoonCloak|マント
+Ascend all creatures|すべての生物を昇天させる
+Escort a ## to a den|隠れ家に##を連れていく
+Food quest completed|食料クエスト完了
+The Nomad-linebreaks|遊牧民
+Oh, leaving already?|もう行ってしまうの？
+Where are you going?|どこに行くんだ？
+Looks to the Moon (Abstract Convergence Manifold)|月（抽象的な収束多様体）
+Change the slugcat class/abilities for Player <X>|プレイヤー<X>のナメクジネコのクラス/能力を変更する
+Refer to the Pause Menu for Safari Mode controls.|サファリモードのコントロールについては、一時停止メニューを参照してください。
+Looks to the Moon (Vents)|月（通気口）
+creaturetype-MirosVulture|ミロハゲタカ
+creaturetype-MotherSpider|母グモ
+objecttype-DandelionPeach|タンポポピーチ
+Unknown Pearl Contents...|不明な真珠のコンテンツ...
+## without anything dying|死亡せずに##
+Arena character unlocked:|アリーナキャラクターをアンロックしました：
+What are you doing? Stop!|何をしてるの？やめて！
+...storm... coming... Go!|...嵐が...やってくる...行くわよ！
+...Please find... Warmth.|...暖を...見つけてくれ。
+...Why did... you stay...|...どうして...留まったんだ...
+Submerged Superstructure (The Heart)|水中上部構造（中心）
+Ah, welcome back. As I was saying...|おかえりなさい。言った通り...
+##<LINE>without letting a @@ die|@@を死亡させずに<LINE>##
+Submerged Superstructure (Vents)|水中上部構造（通気口）
+Oh... Good bye, little creature.|あら...さよなら、小さな生物さん。
+While in the air, tap jump and pick-up together to take flight.|空中で「ジャンプ」と「拾う」を一緒にタップすると、飛行することができます。
+Developer Commentary mode is now available in the Options menu.|開発者解説モードは、オプションメニューで利用可能です。
+Stop, that's dangerous! You are going to break something again!|やめて、危ないわ！また何か壊すに違いないわ！
+Hold throw and directional inputs while flying to perform an ascension.|飛行中に「投げる」と「方向キー」を長押しすると、昇天を実行します。
+Friends sheltered :|友達を保護：
+objecttype-GlowWeed|光る草
+Waterfront Facility|臨海施設
+Linear Systems Rail|線形システムレール
+Befriend a creature|生物と仲良くなる
+Unique pearls read:|ユニークな真珠の読み取り：
+stop, don... don't!|やめて、や...やめてってば！
+Let us take a look.|見せてみろ。
+It is getting cold.|寒さが厳しくなってきたわね。
+What are you doing?|何してるんだ？
+...All I... have...|...俺が持っているもの...すべて...
+...Bring it back...|...返してくれ...
+creaturetype-SpitLizard|キャラメル色のトカゲ
+creaturetype-ZoopLizard|イチゴ色のトカゲ
+Warp to random creature|ランダムな生物にワープ
+Are you not interested?|興味ないのか？
+What a dumb creature...|なんて馬鹿な生物なんだ...
+creaturetype-TerrorLongLegs|母の長い脚
+creaturetype-ScavengerElite|エリートスカベンジャー
+Five Pebble's Transcription|小石男の転写
+## without letting a @@ die|@@を死亡させずに##
+...Little... green thing...|...小さな...緑のやつめ...
+...You should... find heat.|...暖かく...しないとな。
+...Too cold... Alone again.|...寒い...また一人だ。
+creaturetype-BigJelly|巨大クラゲ
+objecttype-EnergyCell|希薄細胞
+Met Looks to the Moon|月に会った
+The Martyr-linebreaks|殉教者
+The Mother-linebreaks|女子<LINE>修道院長
+No! Don't... hurt me!|やめて！もう...傷つけないで！
+... stop... please...|...やめて...お願い...
+Please do not return.|戻ってこないでくれ。
+That can't be good...|それで良いわけがない...
+...No, don't... take!|...やめろ...取るな！
+...Give it... back...|...返せ...
+...Leave me... alone.|...いいから...ほっといてくれ。
+objecttype-FireEgg|火の卵
+[ No Data Loaded ]|[ データがロードされていません ]
+Kill all creatures|すべての生物をキル
+Friends sheltered:|友達を保護：
+Leave me... alone.|いいから...ほっといて。
+Let me continue...|続けさせてくれ...
+...Give... back...|...返すんだ...
+objecttype-Seed|ポップコーン
+THE SPEARMASTER|槍マスター
+The Spearmaster|槍マスター
+Solitary Towers|孤独な塔
+Neural Terminus|末端神経
+Desolate Fields|荒れ果てた地
+Suburban Drifts|郊外のドリフト
+Barren Conduits|不毛の水路
+Emotional State|感情的な状態
+Ascend every ##|すべての##を昇天させる
+Pop every plant|すべての植物を開花させる
+Parry ## attack|##攻撃を回避
+Oh... Good bye.|ああ...さよなら。
+GET OUT!|出ていけ！
+Gourmand|食いしん坊
+Pipeyard|パイプヤード
+The Husk|残物
+Ascended|昇天済み
+Parries:|回避：
+GET OUT.|出ていけ。
+Suns...?|太陽...？
+...No...|...やめろ...
+Five Pebbles:|小石男：
+THE ARTIFICER|発明家
+The Artificer|発明家
+Outer Expanse|外部拡張
+The Precipice|断崖
+Journey's End|旅の終わり
+Change target|ターゲットを変更
+Win Condition|勝利条件
+Kill every ##|すべての##をキル
+Befriend a ##|##と仲良くなる
+Gain ## point|##ポイントを獲得
+What is this?|これは何だ？
+Please leave.|どうか出て行ってくれ。
+...Go away...|...失せろ...
+THE RIVULET|ストリーム
+The Rivulet|ストリーム
+Spearmaster|槍マスター
+Undergrowth|やぶ
+Sunken Pier|沈没した桟橋
+Frozen Mast|冷凍マスト
+Sump Tunnel|排水トンネル
+Hang on Mom|がんばれママ
+Telekinesis|念力
+<X> and <Y>|<X>と<Y>
+The Pilgrim|巡礼者
+...storm...|...嵐...
+...Hello...|...やあ...
+THE GOURMAND|食いしん坊
+The Gourmand|食いしん坊
+Random start|ランダムなスタート
+Icy Monument|氷のモニュメント
+Bitter Aerie|冷酷な要塞
+Frigid Coast|極寒の海岸
+Disable Rain|雨を無効にする
+Pick up Food|食料を拾う
+Hello there.|よく来たな。
+Well then...|それじゃあ...
+...Why back?|...なぜ戻ったんだ？
+THE SAINT|聖人
+The Saint|聖人
+Artificer|発明家
+The Floor|床
+The Shell|殻
+The Heart|中心
+Water Jet|ウォータージェット
+Spray Ink|スプレーインク
+Creatures|生物
+The Nomad|遊牧民
+Clear the game as Gourmand, Artificer, or Hunter to unlock.|食いしん坊、発明家、またはハンターとしてゲームをクリアするとアンロックできます。
+Hold the EAT button while a stunned creature is being held.|スタンした生物が捕まっている状態で、食べるボタンを長押しします。
+The Rarefaction Cell item is now available in Sandbox Mode.|希薄細胞アイテムは、サンドボックスモードで利用可能です。
+Little messenger, we do not have much time. You must hurry!|小さな使者よ、時間があまりないわ。急いで！
+Clear the game as Rivulet and Spearmaster to unlock.|ストリームと槍マスターとしてゲームをクリアするとアンロックできます。
+Breathes underwater, and moves through the world with ease. These adaptations are essential,<LINE>as you'll be pitted against a world of increasingly frequent floods, where time is of the essence.|水中で呼吸し、世界を軽々と移動する。今後、洪水が頻発し、<LINE>一刻を争う世界と戦うためには、これらの適応能力が不可欠となる。
+A fierce combatant, master of pyrotechnics and explosives. Keen to move up in<LINE>the foodchain, your journey will surely be one lined with constant bloodshed and warfare.|凶暴な戦闘員で、火工品と爆薬の達人。食物連鎖の中で上を目指す<LINE>あなたの旅は、流血と戦いの連続となるだろう。
+Frail and armed with a long tongue. Your journey will be one of perfect enlightenment,<LINE>but walking this path requires patience, caution, and complete attunement with the world.|脆弱で、長い舌を武器とする。あなたの旅は完璧な悟りの道だが、この道を歩くには、<LINE>忍耐、注意、そして世界との完全な同調が必要だ。
+An abnormality who feeds using needles pulled from its body. A traveller from a<LINE>far away land; A feeling in your depths sets you out once again, messenger...|体から抜いた針でエサを食べる異常者。遠い国から来た旅人。<LINE>心の奥にある予感が、再びあなたを使者として旅立たせる...
+An indulger of the simpler pleasures in life. Carrying the world in your stomach gives<LINE>many tactical advantages, but comes at an increased cost of sustainability.|人生における素朴な楽しみを満喫するタイプ。世界をお腹の中で持ち歩くことは、<LINE>戦術的に多くの利点をもたらすが、持続可能性のコスト増加につながる。
+COLLECTION|コレクション
+Metropolis|首都
+The Gutter|排水溝
+Cannonball|砲弾
+Swap Heads|頭を入れ替える
+Camouflage|カモフラージュ
+Time Limit|時間制限
+## Seconds|## 秒
+Acceptance|承認
+The Martyr|殉教者
+The Mother|女子修道院長
+Looks to the Moon's Transcription (Pre-Collapse)|月の転写（崩壊前）
+The Rifle item is now available in Sandbox Mode.|ライフルアイテムは、サンドボックスモードで利用可能です。
+How cute, you brought your family, <PlayerName>?|あらかわいい。<PlayerName>、お子さんを連れてきたの？
+12th Council Pillar, the House of Braids|第12評議会の柱、三つ編みの家
+Pups can now be found in some campaigns.|子ナメクジが、一部のキャンペーンで見つかるようになりました。
+Ah, you have found me something to read?|ああ、何か読むものを見つけてくれたか？
+Oh... Please be careful on your journey.|道中、お気をつけて。
+Please, a moment of your time to finish?|頼む、最後まで話を聞いてくれないか？
+Primary Cortex|一次皮層
+Cystic Conduit|嚢胞性導管
+Desolate Canal|荒れ果てた運河
+Play as target|ターゲットとしてプレイ
+Revoke Control|コントロールの取り消し
+Challenge #<X>|チャレンジ #<X>
+Gain ## points|##ポイントを獲得
+it... hurts...|ああ...痛いわ...
+Let me finish.|最後まで言わせてくれ。
+Revisit regions that were explored in the single player campaigns,<LINE>this time as an outside observer that watches the ecosystem<LINE>unfold, uninterrupted by the antics of the player.|ストーリーキャンペーンで探索された地域を再び訪れ、<LINE>今回は外部の観察者として、プレイヤーの動きに邪魔されることなく<LINE>生態系が展開する様子を観察します。
+Try to meet the win requirements on a series of pre-constructed arena<LINE>scenarios. More challenges will be unlocked as progression is made by<LINE>clearing the single player campaigns.|事前に用意されたアリーナのシナリオで勝利条件を満たすことを<LINE>目指します。ストーリーキャンペーンをクリアすることで、<LINE>より多くのチャレンジがアンロックされます。
+While in the air, tap jump and pick-up together to activate karmic enlightenment.|空中でジャンプと拾うを一緒にタップすると、カルマの悟りを起動することができます。
+While in the air, press jump and pick-up together, to propel yourself explosively.|空中でジャンプと拾うを一緒に押すと、爆発的な推進力を獲得できます。
+Tap the throw button to extend your tongue. Press jump while attached to let go.|投げるボタンをタップして、舌を伸ばします。伸ばした状態でジャンプを押すと、離すことができます。
+Tap jump in the air to extend your tongue. Press jump again while attached to let go.|空中でジャンプをタップして、舌を伸ばします。伸ばした状態でもう一度ジャンプを押すと、離すことができます。
+While you are attached to something, use up and down to extend or retract your tongue.|何かにくっついた状態で、上下に使って舌を伸ばしたり引っ込めたりします。
+You are cold and hungry. Find shelter from the storm soon, or you will pass out from the cold.|寒くてお腹がすいています。嵐からの雨宿り場を見つけないと、寒さで気絶します。
+Only warm objects can rejuvenate your body heat in this extreme cold, but they will not last forever!|極寒の地で身体の熱を取り戻せるのは、温かいものだけですが、それも永遠には続きません！
+If you are going to make your visits a habit, the least you can do is bring me something new to read.|訪問を習慣化するなら、せめて新しい読み物でも持ってくるんだな。
+Stab creatures with your white needles to leech energy from their bodies.|白い針で生物を刺して、体からエネルギーを吸い取ります。
+I wonder, just how much time has passed since some of these were written.|これらが書かれてから、どれほど時間が経ったのだろう。
+Another? Let us see... to be honest, I'm as curious to see it as you are.|もう一つあるの？見てみましょう...正直、あなたと同じでこれを調べるのに興味津々だわ。
+Hold up and grab with differing objects in each hand, in order to procure something new.|新しいものを手に入れるため、両手に異なるものを持ち、長押ししてつかみます。
+It is nice to see you again, but we do not have much time left. Please hurry, messenger!|また会えて嬉しいけど、時間が刻々と過ぎているわ。急いで！
+Holding up and grab with two differing food items, will eat them together as a meal.|2種類の異なる食料を手に取りつかむと、食事として一緒に食べます。
+You can also spit up random objects at the cost of food, if nothing is stored inside of you.|また、体内に何も蓄えていない場合、食料を代償にランダムな物を吐き出すことができます。
+What are you doing? Please!! I only just got my freedom back, how cruel can you possibly be?|何してるの？お願い！！たった今自由を取り戻したばかりなのに、どうしてそんな残酷なことができるの？
+Hold pick-up with compatible ammunition in hand to load the rifle.|拾うを長押しして、対応している弾薬を手に取り、ライフルを装填します。
+Ah, you remind me of an old creature who used to visit here often.|ああ、昔ここによく来ていた老いた生物を思い出すわ。
+Hold pick-up to transform rocks or spears into explosives, at the cost of food.|拾うを長押しすると、食料を犠牲にして、岩や槍を爆発物に変えることができます。
+Those are the only memories I have left. I will cease functioning without them.|それらは私に残された唯一の記憶よ。それらなしでは、私は停止してしまうの。
+The passage of time has since taken them away, of course. That was a while ago.|もちろん、時の流れと共に消えていったわ。少し前の話だけど。
+Combat and other fast movements will quickly exhaust you.|戦闘などの速い動きは、すぐに体力を消耗してしまいます。
+Artificer can maul creatures while they are still alive.|発明家は、生きている生物を攻撃することができます。
+Please, don't scare me like that. I don't appreciate it.|お願い、そんな風に脅かさないで。やめてほしいわ。
+Now, I hope you have reason to visit me. I am very busy.|俺を訪ねる理由があるんだろうな。すごく忙しいんだ。
+Another ordeal to add to my running tally of bad luck...|また、不運の試練が増えちまったな...
+The Outer Expanse gate remains unlocked beyond this point in the timeline.|外部拡張ゲートは、タイムライン上でこの時点以降もアンロックされたままです。
+Pups can now be found in Sandbox Mode, and some campaigns.|子ナメクジが、サンドボックスモードと一部のキャンペーンで見つかるようになりました。
+Let us see if there is anything important written on this.|これに何か重要なことが書かれているか見てみよう。
+Little creature, please leave. I would prefer to be alone.|小さな悪党よ、出て行ってくれ。一人でいるのが好きなんだ。
+What are you doing?! Just because you helped me doesn't mean you can treat me this way.|何してるの？！私を助けたからって、こんな扱いをしていいわけがないわ。
+In your current state. I can only assume that you have found what you were looking for.|君の現在の状態だと、探していたものが見つかったとしか思えないな。
+Why would you do that to me?! I don't understand you, <PlayerName>.|どうしてこんなことをするの？！<PlayerName>、あなたが理解できないわ。
+Please stop! I beg you. I don't... understand your motivation...|やめて！お願いだから。あなたの...動機がわからないわ...
+I can only think that you somehow find me pleasant to listen to.|俺の話を聞くのが楽しいのだとしか思えないな。
+Do you have something new, or have you come to just stare at me?|何か新しいものを持ってるのか、それともただ単に俺を見物しに来たのか？
+Your company is welcome little creature, but please do not stay.|今のところは歓迎するが、長居はできないぞ。
+Why?! Why would you?? Please, I have so much more I need to do, still...|どうして？！なんでこんなことを？？お願い、まだやるべきことはたくさんあるのよ...
+Thank you for visiting me, but I'm afraid there is nothing here for you.|訪ねてきてくれて嬉しいわ、でも、残念ながらここには何もないのよ。
+Despite some power to my facility being restored, those are still crucial to my survival!|施設の電力が一部復旧したとはいえ、それらは生き残るために不可欠なのよ！
+Your intention was to help me, was it not? Then please don't play with those!|私を助けるつもりだったんでしょう？それなら、そんなもので遊ばないで！
+This is no time for games little messenger. Hurry now, before it is too late!|遊んでる暇はないわ。手遅れになる前に、今すぐ逃げて！
+Those aren't toys, <PlayerName>. I cannot trust anyone with them.|<PlayerName>、それはおもちゃじゃないのよ。誰も信用できないわ。
+Stay as long as you'd like. But not too long.|好きなだけ居てもらっていいわ。でも、長居は禁物よ。
+Have you found something else for me to read?|他に読むものは見つかったか？
+It is nice to see you again little messenger!|小さな使者さん、また会えて嬉しいわ！
+This chamber is not very well insulated from the cold.|この部屋は、寒さ対策があまりされていないわ。
+I do enjoy the company though. You and your family are always welcome here.|仲間と楽しんでいるけどね。あなたとあなたの家族はいつでも歓迎するわ。
+It's a piece of sharpened rebar... What is it you want to know?<LINE>I don't wish to offend, but you seem too frail to use this effectively.|鉄筋を鋭く研いだものだわ...知りたいことは何？<LINE>気を悪くしないでほしいけど、これを効果的に使うには、あなたは弱すぎるみたいだわ。
+Unfortunately, my operations are encoded with a restriction that prevents<LINE>me from carrying out violent actions against my own citizens.|あいにく、俺の作戦には自国民に対して暴力的な<LINE>行為をできないよう制限がかけられているんだ。
+You've returned! I thought you were leaving. Allow me to continue...|帰って来たのね！立ち去ってしまったと思ったわ。続けるわね...
+Ah, nevermind, let me finish our conversation.|気にしないで、話を最後までさせて。
+Now, please leave. I would prefer to be alone.|さあ、出て行ってくれ。一人でいるのが好きなんだ。
+Please do not take advantage of this. I do not have the patience for your continued presence here.|これを利用しないでくれ。君にずっとここに居られると困るんだ。
+I'm returning to my work. Unless you have anything productive<LINE>for me, I have nothing further to say to you.|仕事に戻るよ。君が何か生産的なことを言わない限り、<LINE>君に言うことは何もない。
+Oh, it's you again? I had told you to leave and never return.|ああ、また君か。出て行って、二度と戻ってくるなと言ったじゃないか。
+Leave immediately and don't come back. And take THEM with you!|今すぐ出て行け、そして戻ってくるな。それに、奴らも連れて行ってくれ！
+Ah, you've returned. You know that I care very little for the creatures that wander through my facility.|ああ、戻ったのか。施設を徘徊している生物のことを、私が大して気にしていないのを知ってるだろう。
+For your own sake, I hope it was worth your struggle.|君が自分自身のために、苦労した甲斐があったと願ってるよ。
+For what reason do you visit so often? There is nothing more I can do for you.|なんでそんなに頻繁に訪れるんだ？これ以上俺が君に対してできることは何もないんだ。
+I have nothing for you here little messenger. Please, I have little time left.|残念だけど、ここには何もないわ。ごめんなさい、そんなに時間がないの。
+Why did you send the messenger here again? Please leave, I cannot afford any further<LINE>distractions; I am the only one who can fix this now. I trust that you understand me...|なぜまた使者を派遣したんだ？帰ってくれ。これ以上、気を取られてる余裕はないんだ。<LINE>今これを解決できるのは、俺しかいないんだよ。君は理解してくれると信じてるよ...
+How did it even manage to do that?...|一体、どうやったんだ？...
+...Nothing here... Nothing... left...|...ここには何もない...何も...残ってない...
+I would appreciate if you would not eat those. My umbilical will keep me conscious, but<LINE>every neuron lost is a piece of me lost as well...|それらを食べずにいてくれたらありがたい。臍帯は俺の意識を保つが、<LINE>失われた神経細胞は俺の一部でもあるんだ...
+Why have you returned? Do you have a death wish? I have nothing<LINE>left to give you... please leave, for your own sake.|なんで戻ってきたんだ？死にたいのか？与えられるものは何も残ってないんだ<LINE>...お願いだから、出て行ってくれ。
+You should not be here. This facility is in a constant state of decay.<LINE>Nothing in here is hospitable to the normal definition of life.|ここにいるべきではない。この施設は、常に崩壊状態にあるんだ。<LINE>ここには、普通の生活に適したものは何もない。
+I used to be furious at the idea of creatures crawling through my superstructure.<LINE>However, I am actually grateful for this rare opportunity to not be alone.|以前は、自分の家の上部構造に生物が這いずり回ることに激怒していたんだ。<LINE>だが、この貴重な交流の機会に感謝している。
+This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.|This easter egg was inspired by the original Moar Slugcats Dating Sim mod, but has no affiliation with the original creators.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|強くて素早く、安定した肉の供給が食事として必要だ。しかし、胃袋だけが問題ではない...<LINE>この道は、各サイクルごとに不吉なカウントダウンが刻まれる、危険極まりない道なのだ。
+Custom colors|色をカスタム
+tips-distract|道をふさいでいる捕食動物は、多くの戦術で突破することができます。<LINE>気をそらす、物音でおびき寄せる、自分を食べる代わりに食べられる生贄を配備するなど。<LINE>
+tips-hoarding|すでに食料が満タンの場合でも、雨宿り場に余分な物資をため込んでおけば、<LINE>今後のサイクルが楽になります。
+tips-prepared|手ぶらで旅行するのはやめましょう。<LINE>すぐ使えるアイテムがあるかどうかが、生死を分けることも...いつ必要になるかわかりません。
+tips-backflip|素早く移動方向を切り替え、同時にジャンプボタンを押します。これにより、<LINE>通常のジャンプよりも若干高さのあるバックフリップを開始します。バックフリップを行うと、<LINE>回転を開始することもできます。
+tips-vertpole|バックフリップの頂点で、槍を下に投げると、地面に垂直の柱を作ることができます。<LINE>これを利用して、到達できる場所をさらに広げましょう。
+tips-wanderer|放浪者は、この世界の隅々まで、この世界が提供するものすべてを見てきました。<LINE>その先にある旅は、彼らにとってはもう一つのステップに過ぎません。
+Body|体
+Eyes|目
+HIGH|高
+Restore Default|デフォルトを復元
+Back to options|オプションに戻る
+tips-spearstick|槍を地面に刺すと、その場しのぎのクライミングポールを作成することができます。<LINE>これを使って新しいルートを開拓し、今までアクセスできなかった場所に行くことができます。
+tips-batharvest|発射物を使って空中にいるコウモリバエを打ち落とし、捕獲しやすくします。<LINE>槍で刺すと、一度に複数捕獲できます。
+tips-reputation|あなたの行動は、エコシステムの住民の間であなたの評判を高めます。<LINE>敵に対しても寛大であれば、恩返しがあるかもしれません。そうでなければ、<LINE>あらゆる人から狙われることになるかもしれません。
+tips-throwboost|空中でアイテムを投げると、投げた方向に少しブーストがかかります。<LINE>これを利用して、ジャンプの水平方向の範囲を広げることができます。
+tips-tunnelturn|狭い通路を這っているとき、ジャンプボタンを押しながら、向いている方向と反対側を向くと、<LINE>振り向くことができます。這っている方向を向いている間は、<LINE>移動速度が速くなります。
+tips-powerthrow|スライド中に槍を前方に投げると、槍の速度と衝撃が増加します。<LINE>これにより、生物を長時間スタンさせることができ、特定の防御を<LINE>貫通させることができます。
+tips-superslide|スライド中に後方にオブジェクトを投げると、<LINE>スライドの距離が劇的に伸びます。
+tips-wallpounce|壁に向かってジャンプし、壁に向かってホールドしたままジャンプボタンを直接タップすると、<LINE>壁ジャンプの反発力が大幅に向上します。
+HUE|色合い
+SAT|彩度
+LIT|点灯
+LOW|低
+CHOOSE|選択
+MEDIUM|中
+Oh no.|あらまあ。
+Analog Sensitivity|アナログ感度
+tips-deathrecovery|食物連鎖は複雑です。運が良ければ、生物に捕まった後でも、のちに小競り合いに巻き込まれたり、<LINE>自分が食べられたりして、捕獲されなくなることもあります！
+tips-utilitycreats|すべての生物が避けるべき捕食動物というわけではありません。<LINE>旅の途中で、役立つ生物もたくさんいます。
+FPS Limit|FPS制限
+Unlimited|無制限
+tips-drop|下と拾うボタンを同時に押すと、<LINE>手に持っているアイテムを投げずに地面に置くことができます。
+tips-roll|遠距離から落下しているときに、斜め下方向にホールドすると、地面との接触で回転が開始されます。<LINE>これにより、落下の衝撃が緩和され、<LINE>機動力が高まります。
+tips-swim|水中でコントロールされた蛇行運動をして、泳ぐ速度を上げましょう。<LINE>上下左右にリズミカルに体をくねらせましょう。
+tips-monk|僧侶は、餌食の道です。生き残るためにこの世界の荒野を探し回りますが、<LINE>この道は捕食動物の世界では安全を保証するものではありません。
+Quality|品質
+Backgrounds|背景画像
+tips-crouch|しゃがんだ状態を維持するために、下を押し続ける必要はありません。<LINE>下を1回タップすると這う状態になり、上をタップすると立っている状態に戻ります。
+tips-escape|可能であれば、対立を避け、戦いから逃げたほうが良い場合が多いです。<LINE>捕食動物の多くは強力で危険なので、無理をしないようにしましょう。
+tips-cheese|パイプを利用して、追いかけてくる捕食動物と入れ替わることができます。<LINE>これで簡単に相手を振り切ることができます。
+tips-cannon|パイプから出るときに、ジャンプボタンを右にタップすると、<LINE>外側へ素早く移動できます。
+tips-martyr|殉教者は自らの生命を捨て、その身体が塵となるまで枯れていきます。
+tips-hunter|ハンターは捕食動物の道ですが、この残酷で冷酷な世界では、<LINE>狩りの成果が必ずしも生存を保証するわけではありません。
+tips-outlaw|無法者は、戦いに人生を捧げます。敵も味方も関係なく、寄ってきたものはすべて殺されてしまいます。
+tips-friend|友達は、他者や未知なるものを受け入れます。世界は残酷で容赦ありませんが、<LINE>一緒にいれば、安らぎと保護を得ることができます。
+Old tongue controls?|古いバージョンの舌コントロールを使用しますか？
+Enable wallpouncing?|壁の跳ね返りを有効にしますか？
+Enable speedrun timer?|スピードランタイマーを有効にしますか？
+CONFIGURE TITLE SCREEN|タイトル画面の設定
+Keep your friend safe!|仲間の安全を守るのよ！
+I must resume my work.|仕事に戻らないとな。
+Enable shelter item transport?|雨宿り場アイテムの輸送を有効にしますか？
+<CapPlayerName>, are you okay?|<CapPlayerName>、大丈夫？
+Enable slug senses?|ナメクジ感度を有効にしますか？
+CONFIGURE SUB MENUS|サブメニューの設定
+Show tips between cycles?|サイクル間のヒントを表示しますか？
+Enable Developer Commentary?|開発者解説を有効にしますか？
+Change graphics quality|グラフィック品質を変更
+Take your pet with you.|ペットを連れて行ってね。
+Change menu background images|メニュー背景画像を変更
+Display a speedrun timer at the top of the screen during gameplay?|ゲームプレイ中、画面上部にスピードランタイマーを表示しますか？
+Activate tongue abilities with the throw button instead of the jump button?|ジャンプボタンではなく、投げるボタンを使用して舌の能力を起動しますか？
+Allow passages to transport key items in your shelter to your new destination?|雨宿り場の重要なアイテムを新しい目的地まで輸送するための通路を許可しますか？
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|ナメクジネコのメモリーマップ上に、近くの生物と重要なアイテムをアイコンとして表示することを許可しますか？
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|従来のRain Worldバージョンから、ナメクジネコの壁の跳ね返り能力を有効にしますか？
+Spawn developer commentary collectables in the single player campaigns?|シングルプレイヤーキャンペーンで開発者解説コレクションをスポーンしますか？
+Periodically show survival hints and explain gameplay mechanics for new players?|定期的にサバイバルのヒントを表示し、新しいプレイヤーにゲームプレイの仕組みを説明しますか？
+Configure the background image used on the title screen|タイトル画面で使用する背景画像を設定
+Configure the background image used in the sub menus|サブメニューで使用する背景画像を設定
+Wiggling around quickly might startle this creature.|素早く体を動かすと、この生物を驚かせる可能性があります。
+I am afraid to ask how you brought your friend here.|申し訳ないけど、どうやって仲間をここに連れてきたんだ。
+tips-clock|マップボタンを押すと、食料バーなどの他の情報も表示されます。<LINE>左下の丸い点は、雨が降るまでの時間を表しています。<LINE>よく注意してみましょう！
+tips-rocks|岩は致命的な武器ではないかもしれませんが、多くの実用的な用途があります。<LINE>気をそらしたり、避けたり、解除したり、スタンさせたり、弱点を明らかにしたり、<LINE>生物を柱や岩棚から叩き落としたりすることができます。
+tips-audio|危険が迫っていることを示す最初の手がかりは、危険が目に見える前に、<LINE>音でわかることが多いです。注意して耳を傾けましょう。
+tips-slide|スライドを開始するには、移動中に斜め下方向にジャンプボタンを押します。<LINE>地面をスライドして、短時間で距離を稼ぐことができます。<LINE>
+tips-noise|生物は視覚だけでなく、騒音からもあなたの存在を察知することができます。<LINE>騒音を出し過ぎると、余計な注目を集めてしまうので注意しましょう。
+tips-saint|聖人は、平和主義の道です。他人を傷つけることは、自分自身を傷つけるということなのです。
+tips-nomad|遊牧民は、常に変化し続ける世界を体験します。未知の目標に向かって果てしなく<LINE>続く旅の一歩として、次から次へと人生を生きていきます。
+Calm down!|落ち着いて！
+tips-pipeflash|反対側に危険が迫っているとき、パイプの入り口が点滅します。<LINE>点滅の色で、危険の種類を把握することができます。
+tips-foodtypes|コウモリバエや吊るされた果物だけが唯一の食料ではありません。<LINE>一定の条件を満たせば、食べられる植物や生物もいます。実験してみましょう。
+tips-handorder|右手に持っているアイテムが、最初に使ったり投げたりできる主なアイテムです。<LINE>拾うボタンをダブルタップすると、両手に持っているアイテムを入れ替えることができます。
+tips-slideleap|スライドや回転中にジャンプをタップすると、ロングジャンプに連鎖します。<LINE>機動力を最大限に発揮して、素早く距離を稼ぐことができます。
+tips-turnboost|移動の方向をすばやく切り替えると、新しい方向への速度が短時間だけ少し上がります。<LINE>このスピードブーストをより長く維持するために、<LINE>その後もホッピングを続けましょう。
+tips-chieftain|族長は、未知の世界で強さとコミュニティを受け入れています。<LINE>彼らは、この世界の一部となり、新たな絆で生き抜いていくのです。
+tips-swallow|小さく、食べられないアイテムは、拾うボタンを数秒間押し続けることで、<LINE>胃の中に安全に保管することができます。また、長押しすると、<LINE>そのアイテムを元に戻すことができます。
+tips-breathe|水中に飛び込む前に、呼吸に注意しましょう。<LINE>息が荒い場合は、まず静止して、息を整える時間を作りましょう。
+tips-polehop|水平なポールと交差する直前にジャンプボタンをタップすると、ポールから跳ね返ることができます。<LINE>これを連鎖させることで、ポールを素早く飛び越えることができます。
+tips-scholar|学者は、かつての世界を理解しようとしています。結晶化した過去を見つめ、<LINE>その中に新たな意味を見出します。
+tips-deathpenalty|次に進む準備ができるまで、死はほとんど関係ありません。<LINE>後先を考えず、実験し、探索し、土地の配置を覚え、食料の場所などを覚えるために<LINE>時間をかけましょう。
+tips-shelterstore|シェルターに保管されたアイテムは、サイクルの間中、そこに留まり、地域を離れても残ります。<LINE>貴重品を雨から守る唯一の安全な場所です！<LINE>
+tips-dragonslayer|ドラゴンスレイヤーは、狩りを好みます。彼らはこの世の獣をひざまずかせました。
+What did you do!?|何をしたの！？
+Stop it! Go away!|やめて！あっちいって！
+tips-tunnelboost|狭い通路を這っているときにジャンプボタンをタップすると、<LINE>スピードが少し上がります。
+tips-slidecancel|スライド中に、ジャンプボタンと反対方向の動きを素早くタップします。<LINE>これにより、スライドがキャンセルされ、スタート地点に戻ります。
+The use of some objects may not be obvious at first glance, experiment with everything you find!|中には、パッと見ただけでは使い道がわからないものもあるので、見つけたものはすべて試してみましょう！
+There are many paths to explore in this world.|この世界には、探索すべき道がたくさんあります。
+If you are struggling, try returning to a previous region.|困ったときは、前の地域に戻ってみましょう。
+You may find a new path forward, or discover something that makes your survival here easier.|新しい道を見つけたり、ここでの生き残りを容易にする何かを発見したりできるかもしれません。
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|しかし、現状では、この地域のチャレンジを乗り越えることを阻止するものはありません。
+Your friend is very large, how did you fit them in here?|あなたの仲間はとても大きいけど、どうやってここに入れたの？
+How did you bring that in here... I think it is as surprised as I am!|どうやってここに持ってきたのかしら...自分のことのように驚いてるわ！
+Oh, that is not a friend...|ああ、それは仲間じゃないのね...
+Oh...|あら...
+I do enjoy the company of you and your friend though, <PlayerName>.|あなたと、あなたの仲間と一緒にいるのを楽しんでいるわ、<PlayerName>。
+Is this your friend, <PlayerName>?|<PlayerName>、これはあなたの仲間かしら？
+Best of luck to you, and your companion. There is nothing else I can do.|あなたと、あなたの仲間の幸運を祈るわ。私にできることは他にない。
+Please do not bring more wildlife into my chamber.|これ以上、私の部屋に野生動物を持ち込まないで。
+How did you fit them inside here anyhow?|どうやってここに入れたんだ？
+Take your friend with you. Please. I beg you.|仲間を連れて行ってくれ。お願いだ。頼む。

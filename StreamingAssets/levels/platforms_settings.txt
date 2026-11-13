@@ -1,0 +1,9 @@
+Template: NONE
+Clouds: 0.06521739
+RandomItemDensity: 0.6304348
+RandomItemSpearChance: 0.3086956
+Palette: 0
+EffectColorB: 18
+PlacedObjects: MultiplayerItem><444.8178><173.5825><Spear~17.32051~-10~0.4565217, MultiplayerItem><669.8002><449.5092><Spear~17.32051~-10~0.3804348, MultiplayerItem><235.197><311.4657><Spear~17.32051~-10~0.3695624, MultiplayerItem><762.1711><295.8536><Spear~17.32051~-10~0.4130439, MultiplayerItem><1004.807><191.6985><Spear~17.32051~-10~0.4347826, MultiplayerItem><130.5037><511.2><Spear~17.32051~-10~0.1847826, MultiplayerItem><699.746><289.45><ExplosiveSpear~-24.6795~60~0.04347826, MultiplayerItem><741.9757><126.4485><Bomb~17.32051~-10~0.02173913, MultiplayerItem><211.3913><183.1415><SporePlant~-53.67949~-199~0.02173913, MultiplayerItem><1184.34><140.1201><SporePlant~-329.6794~-140~0.02173913, 
+AmbientSounds: OMNI><AM_IND-Midsex01.ogg><518.0838><199.8613><0.2173913><1, DIR><AM_IND-Warehouse01.ogg><791.1728><412.1007><0.5><0.8434783><38.00231><0, DIR><AM_SUB-CaveTone.ogg><565.8972><398.4216><0.5><1><-148.9691><0, 
+FadePalette: 3, 0.7391304

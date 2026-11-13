@@ -1,0 +1,231 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|Удерживай ВНИЗ и ОСОБУЮ кнопку, чтобы проложить путь к выбранному региону
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|Без цветка кармы удерживать ОСОБУЮ кнопку и кнопку ВВЕРХ опасно.
+creaturetype-MothGrub|Личинка моли
+Unfortunate Evolution|Неудачная эволюция
+creaturetype-Barnacle|Усоног
+creaturetype-SandGrub|Песчаная личинка
+creaturetype-SkyWhale|Небесный кит
+creaturetype-RotLoach|Гнойный левиафан
+creaturetype-RippleSpider|Волнистый паук
+Press VIEW to cancel warp|Нажми «ПРОСМОТРЕТЬ», чтобы отменить переход
+creaturetype-IndigoLizard|Сапфировый ящер
+creaturetype-GrappleSnake|Змеехват
+creaturetype-PeachLizard|Персиковый ящер
+The Crown upon the thorn|Корона на терновнике
+creaturetype-BigSandGrub|Песчаный червь
+objecttype-Pomegranate|Гранат
+creaturetype-DrillCrab|Бурокраб
+creaturetype-SmallMoth|Маленькая моль
+creaturetype-Millipede|Многоножка
+objecttype-GraffitiBomb|Граффити-бомба
+The Lantern in the dusk|Фонарь в сумерках
+creaturetype-FireSprite|Огнедух
+creaturetype-Tardigrade|Тихоходка
+Press PAUSE BUTTON to cancel warp|Нажми «ПАУЗА», чтобы отменить переход
+The paths overflow beyond measure|Пути переполняются сверх меры.
+Oh such enthusiasm! I am honored!|Какой запал! Я польщён!
+Press + Button to cancel warp|Нажми кнопку +, чтобы отменить переход
+Press - Button to cancel warp|Нажми кнопку -, чтобы отменить переход
+watcher-character-description|Одинокий и отстранённый чужак. Наблюдает, но не вмешивается. Это позволяет<LINE>иначе взглянуть на мир и открыть новые возможности. Его путь отличается от других.
+creaturetype-ScavengerTemplar|Паладин мусорщиков
+Press OPTIONS BUTTON to cancel warp|Нажми кнопку OPTIONS, чтобы отменить переход
+A presence already binds this place|Это место уже связано с чем-то иным.
+This fringe is already too unstable|Грань слишком неустойчива.
+Nothing to waste, every bit counts!|Сгодится всё, даже самый пустяк!
+SPECIAL button - Hold to warp to selected region|Удерживай ОСОБУЮ кнопку, чтобы переместиться в выбранный регион
+Free them. They will show you the way.|Освободи их. Они укажут путь.
+The Child forsaken to time|Подаренное времени дитя
+objecttype-FireSpriteLarva|Личинка огнедуха
+THE WATCHER|СОЗЕРЦАТЕЛЬ
+The Watcher|Созерцатель
+Coral Caves|Коралловые пещеры
+The Surface|Поверхность
+Hydroponics|Станция гидропоники
+Watcher|Созерцатель
+Outer Rim|Внешнее кольцо
+Deep Reef|Глубинный риф
+Rusted Wrecks|Ржавые обломки
+Torrid Desert|Знойная пустыня
+Thermal Relay|Тепловое реле
+Station Annex|Вокзальная пристройка
+Signal Spires|Сигнальные шпили
+Ancient Urban|Древний город
+Stormy Coast|Штормовой берег
+Cold Storage|Холодильная камера
+Tundra Fault|Тундровый разлом
+Aether Ridge|Гребень небес
+Pillar Grove|Роща столпов
+Turbulent Pump|Бурливый тоннель
+Desolate Tract|Опустелый путь
+Aerial Tramway|Канатная дорога
+Fallen Tramway|Разрушенная дорога
+Sunbaked Alley|Выжженный переулок
+Migration Path|Миграционный путь
+Blast Deck|Промозглый пик
+Ridgeworks|Дюжий хребет
+Salination|Насоление
+Heat Ducts|Тепловые воздуховоды
+Fetid Glen|Зловонная долина
+The Throne|Престол
+Marvelous!|Очаровательно!
+Shattered Terrace|Разбитая терраса
+Verdant Waterways|Зелёные русла
+Crumbling Fringes|Осыпающиеся хребты
+creaturetype-Frog|Лягушка
+LeaveSpinningTop1|ХОА! Гляди-ка! Мозгов не хватает даже на каплю внимания! ХОАХОАХОА!!
+LeaveSpinningTop2|ХОА!! Как грубо! А мне хотелось вручить ему подарок.
+DieAtSpinningTop1|ХОАХОАХОА!! Да! Возвращайся в землю! Что за идиотизм! ХОАХОАХОАХОАХОА!!
+DieAtSpinningTop2|ХОА!! Гляди-ка! Тебя уже сцапали! ХОАХОАХОАХОА!
+DieAtSpinningTop3|ХОАХОАХОАХОАХОА!! Уже сдулся? Нет ума, чтобы жить. Нет фантазии, чтобы помереть.<LINE>Скукота! Фу! Мне пора.
+So vital! Hah ha!|Как энергично! Ха-ха!
+Badlands|Пустошь
+Decaying Tunnels|Ветхие туннели
+creaturetype-Rat|Крыса
+Ah! So spirited!|Ах! Как смело!
+Infested Wastes|Заражённые отводы
+Shrouded Stacks|Туманные трубы
+Corrupted Factories|Искажённые заводы
+Torrential Railways|Ливневые пути
+creaturetype-Angler|Удильщик
+Daemon|Искус
+Fractured Gateways|Разбитые врата
+creaturetype-Loach|Вьюн
+Oh, show me again!|Покажи снова!
+creaturetype-BigMoth|Большая моль
+creaturetype-BoxWorm|Коробчатый червь
+creaturetype-Rattler|Костотряс
+objecttype-Boomerang|Бумеранг
+creaturetype-ScavengerDisciple|Адепт мусорщиков
+Oh, you have brought sundries?|О, ты принёс всякие мелочи?
+Never again will you be alone.|Тебе больше не грозит одиночество.
+Oh, my friend, you have grown!|Ох, друг, сколько в тебе прибавилось силы!
+creaturetype-BlizzardLizard|Вьюжный ящер
+creaturetype-BasiliskLizard|Василиск
+Hold the SPECIAL button to camouflage from predators|Удерживай ОСОБУЮ кнопку, чтобы скрыться от хищников.
+Hold UP and SPECIAL together to form new random paths|Удерживай ОСОБУЮ кнопку и кнопку ВВЕРХ, чтобы найти новые пути.
+Delight! For you will be exalted in this new kingdom!|Возрадуйся! Ибо тебя будут почитать в новом королевстве!
+This will consume the effect of a karma flower in the process|Это действие расходует эффект цветка кармы.
+However, this can also form new random paths in a pinch|Однако так можно создать новые непредсказуемые пути, если окажешься в беде.
+You can leave them here if you wish, as a contribution.|Оставь их здесь, если пожелаешь. В качестве подношения.
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|Путешествие в новые земли даётся нелегко, но сон помогает восстановиться.
+Traveling too deep without resting will have consequences|Если долго пренебрегать отдыхом, будет худо.
+This remains a place of rest|Здесь можно найти покой.
+It is a joy to see you play!|Отрадно видеть тебя в деле!
+My processes will dissolve them to their base components and those components will be added to the mass.|Мои процессы растворят их до простых составляющих, которые потом окажутся в общей массе.
+Ahh yes! The paths! How wonderous!|А-ах да! Пути! Как чудесно!
+How auspicious it was, our meeting...|Как благодатна была наша встреча...
+Forgive me if I cannot respond in kind. This body is so limited...|Прости, что не могу ответить тем же. Возможности этого тела ограничены...
+How I have wished for this day. My dear friend, welcome.|Как я ждал этого дня! Приветствую, дорогой друг.
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Обладает силой, быстротой и постоянно нуждается в мясе. Однако пустой<LINE>желудок будет не единственной из забот... На пути лежат невиданные<LINE>опасности, а количество циклов стремительно уменьшается.
+Custom colors|Настроить цвета
+tips-distract|Есть много способов справиться с хищником, преграждающим твой путь. Отвлеки его,<LINE>вымани на звук, оставь приманку, которую он съест вместо<LINE>тебя, и так далее.
+tips-hoarding|Даже если ты не хочешь есть, лишние припасы можно<LINE>унести в убежище, чтобы облегчить себе выживание в голодный цикл.
+tips-prepared|Не путешествуй налегке. Нужный предмет под рукой<LINE>может спасти тебе жизнь... и никогда не знаешь, когда он пригодится.
+tips-backflip|Быстро измени направление движения и в этот же момент<LINE>нажми кнопку «ПРЫГНУТЬ», чтобы сделать обратное сальто высотой чуть больше,<LINE>чем обычный прыжок. Сальто можно использовать для входа в перекат.
+tips-vertpole|Брось копьё вниз из верхней точки обратного сальто —<LINE>оно воткнётся в землю подобно шесту. Используй этот шест,<LINE>чтобы забраться в недоступные места.
+tips-wanderer|Страннику знаком каждый уголок этого мира и все его богатства.<LINE>А уход в иной мир — это лишь новое путешествие.
+Body|Тело
+Eyes|Глаза
+HIGH|ВЫСОКОЕ
+Restore Default|Восстановить по умолчанию
+Back to options|Назад к настройкам
+tips-spearstick|Копьё можно воткнуть в поверхность, как шест, на который можно взобраться.<LINE>Это поможет открывать новые пути и проникать в прежде недоступные места.
+tips-batharvest|Чтобы было проще ловить летучих мышей, сбивай их предметами в воздухе<LINE>или проткни сразу нескольких копьём.
+tips-reputation|Твои действия влияют на репутацию у обитателей экосистемы.<LINE>Проявляй великодушие даже к врагам, и это не останется незамеченным.<LINE>Иначе на тебя будут охотиться все подряд.
+tips-throwboost|Если бросить предмет в полёте, это немного подтолкнёт тебя в направлении броска.<LINE>Пользуйся этим, чтобы увеличить горизонтальное расстояние прыжка.
+tips-tunnelturn|Проползая по узкому коридору, нажми кнопку «ПРЫГНУТЬ» и кнопку движения<LINE>в противоположную сторону, чтобы развернуться. Ползти лицом<LINE>по направлению движения получается быстрее.
+tips-powerthrow|Если метнуть копьё вперёд во время скольжения, это увеличит скорость копья<LINE>и его урон. Такой бросок оглушает врага на более долгое время и может<LINE>пробивать некоторые виды защиты.
+tips-superslide|Во время скольжения брось предмет назад, чтобы значительно<LINE>увеличить расстояние скольжения.
+tips-wallpounce|Нажми кнопку «ПРЫГНУТЬ» в момент столкновения со стеной,<LINE>удерживаясь за неё, — это значительно усилит отскок.
+HUE|ЦВЕТ
+SAT|НАСЫЩ.
+LIT|ЯРК.
+LOW|НИЗКОЕ
+CHOOSE|ВЫБРАТЬ
+MEDIUM|СРЕДНЕЕ
+Oh no.|О нет.
+Analog Sensitivity|Аналоговая чувствительность
+tips-deathrecovery|Пищевая цепочка — сложная штука. Если схватившее тебя существо столкнётся<LINE>с новым врагом, то может тебя выпустить. Возможно, твоего обидчика даже съедят!
+tips-utilitycreats|Не каждое существо — хищник, от которого следует убегать. Многие создания<LINE>могут тебе помочь в твоих странствиях.
+FPS Limit|Ограничение кадров/сек.
+Unlimited|Неограниченно
+tips-drop|Нажми кнопки «ВНИЗ» и «ВЗЯТЬ» одновременно, чтобы положить предмет из руки<LINE>на землю, не отпуская его.
+tips-roll|При падении с высоты удерживай диагонально «ВНИЗ» и кнопку «ПРЫГНУТЬ»,<LINE>чтобы упасть с перекатом. Это смягчит падение<LINE>и придаст тебе дополнительную скорость.
+tips-swim|Плыви под водой по-змеиному, ритмично раскачиваясь вверх-вниз<LINE>или влево-вправо. Так ты будешь плыть быстрее.
+tips-monk|Путь Монаха — путь жертвы. Монах ищет себе пропитание в диких далях этого мира,<LINE>на каждом шагу рискуя стать добычей хищников.
+Quality|Качество
+Backgrounds|Фоны
+tips-crouch|Чтобы ползать, не нужно удерживать кнопку «ВНИЗ». Нажми «ВНИЗ» один раз,<LINE>чтобы пригнуться, и «ВВЕРХ», чтобы подняться.
+tips-escape|По возможности избегай битвы и убегай от врагов.<LINE>Многие хищники сильны и опасны, так что не нарывайся.
+tips-cheese|Используй трубы, чтобы поменяться местами с хищником,<LINE>который тебя преследует. Так ты легко от него оторвёшься.
+tips-cannon|Вылезая из трубы, нажми кнопку «ПРЫГНУТЬ»,<LINE>чтобы быстро броситься вперёд.
+tips-martyr|Мученик не заботится о собственном выживании и умерщвляет плоть до состояния пыли.
+tips-hunter|Путь Охотника — путь хищника. Но охотничья добыча не всегда<LINE>гарантирует выживание в этом жестоком и беспощадном мире.
+tips-outlaw|Убийца живёт войной, сражая любого, кто осмелится подойти к нему, — друга или врага.
+tips-friend|Друг принимает как окружающих, так и неизвестность. Мир жесток и не прощает,<LINE>но вместе можно справиться с любыми неудобствами и опасностями.
+Old tongue controls?|Старое управление языком?
+Enable wallpouncing?|Разрешить цепляться за стены?
+Enable speedrun timer?|Включить таймер спидрана?
+CONFIGURE TITLE SCREEN|НАСТРОИТЬ ГЛАВНЫЙ ЭКРАН
+Keep your friend safe!|Позаботься о своем друге!
+I must resume my work.|Я должен вернуться к работе.
+Enable shelter item transport?|Включить перемещение предметов из убежища?
+<CapPlayerName>, are you okay?|<CapPlayerName>, ты в порядке?
+Enable slug senses?|Включить чутьё слизня?
+CONFIGURE SUB MENUS|НАСТРОИТЬ ПОДМЕНЮ
+Show tips between cycles?|Показывать советы между циклами?
+Enable Developer Commentary?|Включить комментарии разработчиков?
+Change graphics quality|Изменить качество графики
+Take your pet with you.|И забери свою зверюшку.
+Change menu background images|Изменить фоновые изображения в меню
+Display a speedrun timer at the top of the screen during gameplay?|Показывать таймер спидрана в верхней части экрана во время игры?
+Activate tongue abilities with the throw button instead of the jump button?|Управлять языком с помощью кнопки «Бросить» вместо кнопки «Прыгнуть»?
+Allow passages to transport key items in your shelter to your new destination?|Разрешить перемещение ключевых предметов из убежища в место назначения при переходе?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Показывать существ и ключевые предметы поблизости на карте в памяти слизнекота в виде значков?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Включить способность слизнекота цепляться за стены из старых версий Rain World?
+Spawn developer commentary collectables in the single player campaigns?|Разрешить появление комментариев разработчиков в одиночных кампаниях?
+Periodically show survival hints and explain gameplay mechanics for new players?|Иногда показывать советы по выживанию и объяснять механики новым игрокам?
+Configure the background image used on the title screen|Настроить фоновое изображение на главном экране
+Configure the background image used in the sub menus|Настроить фоновое изображение в подменю
+Wiggling around quickly might startle this creature.|Если будешь суетиться рядом с этим существом, то можешь его потревожить.
+I am afraid to ask how you brought your friend here.|Боюсь и спрашивать, как тебе удалось притащить сюда своего друга.
+tips-clock|Нажатие кнопки «КАРТА» также показывает прочую информацию — например, запас еды.<LINE>Круг из точек в левом нижнем углу — это отсчёт времени до дождя.<LINE>Следи за ним!
+tips-rocks|Гравий — оружие не смертельное, но его можно использовать по-разному.<LINE>С его помощью ты сможешь отвлекать, разоружать, оглушать врагов,<LINE>сбивать их с пути (а также с шестов и других возвышений),<LINE>выявлять их слабости и много чего ещё!
+tips-audio|Звуковые подсказки часто предупреждают об опасности,<LINE>даже когда её ещё не видно. Прислушивайся!
+tips-slide|Находясь в движении, удерживай диагонально «ВНИЗ» и кнопку «ПРЫГНУТЬ»,<LINE>чтобы начать скольжение. Ты будешь быстро скользить<LINE>по поверхности некоторое время.
+tips-noise|Существа могут тебя не только увидеть, но и услышать.<LINE>Не шуми: этим ты привлекаешь ненужное внимание.
+tips-saint|Путь Святого — путь мира. Он считает, что вредить ближнему — значит вредить себе.
+tips-nomad|Кочевник проживает жизнь за жизнью в постоянно меняющемся мире, и каждая новая жизнь —<LINE>это лишь новый шаг на бесконечном пути к неизвестной цели.
+Calm down!|Успокойся!
+tips-pipeflash|Если на другой стороне трубы опасность, вход в трубу мигает. Цвет мигания<LINE>указывает на тип опасности.
+tips-foodtypes|Летучие мыши и висячие плоды — далеко не единственные источники пищи. Ты можешь есть<LINE>некоторые растения и существ, но лишь в определённых условиях. Поэкспериментируй!
+tips-handorder|Предмет в твоей правой руке используется (или бросается) первым.<LINE>Два раза быстро нажми кнопку «ВЗЯТЬ», чтобы поменять предметы в руках местами.
+tips-slideleap|Нажми «ПРЫГНУТЬ» во время скольжения или переката, чтобы выполнить длинный прыжок.<LINE>Это ускорит тебя и позволит быстро преодолеть большое расстояние.
+tips-turnboost|Быстро измени направление движения, чтобы слегка ускориться на короткое время<LINE>в новом направлении. Продолжай двигаться перескоками,<LINE>чтобы поддерживать ускорение дольше.
+tips-chieftain|При столкновении с неизвестностью Вождь полагается на силу и сообщество.<LINE>Став частью мира, можно использовать новые связи, чтобы пережить любые трудности.
+tips-swallow|Удерживай кнопку «ВЗЯТЬ» несколько секунд, чтобы поместить небольшой несъедобный предмет<LINE>в желудок для хранения. Чтобы отрыгнуть этот предмет,<LINE>также удерживай эту кнопку.
+tips-breathe|Ныряя под воду, следи за дыханием.<LINE>Если ты тяжело дышишь, остановись и передохни немного.
+tips-polehop|Нажми кнопку «ПРЫГНУТЬ» прямо перед горизонтальным шестом,<LINE>чтобы от него оттолкнуться. Это позволяет быстро перепрыгивать с шеста на шест.
+tips-scholar|Учёный пытается заглянуть в окаменелое прошлое этого мира<LINE>и найти в нём ответы на новые вопросы.
+tips-deathpenalty|Смерть не страшна, если ты стремишься двигаться дальше.<LINE>Смело иди навстречу приключениям, экспериментируй, изучай местность,<LINE>ищи еду и так далее.
+tips-shelterstore|Хранящиеся в убежищах предметы остаются там между циклами,<LINE>даже если ты покидаешь регион. Это единственное место,<LINE>где ты можешь уберечь свои ценности от дождя!
+tips-dragonslayer|Драконоборец — прирождённый охотник, победитель чудовищ этого мира.
+What did you do!?|Зачем ты так?
+Stop it! Go away!|Хватит! Уходи!
+tips-tunnelboost|Проползая по узкому коридору, нажми кнопку «ПРЫГНУТЬ»,<LINE>чтобы слегка ускориться.
+tips-slidecancel|Во время скольжения быстро нажми кнопку «ПРЫГНУТЬ» и стрелку,<LINE>обратную направлению движения, — это отменит скольжение и вернёт тебя к исходной точке.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|Некоторые предметы можно использовать неочевидными с первого взгляда способами. Экспериментируй с находками!
+There are many paths to explore in this world.|Этот мир можно исследовать разными путями.
+If you are struggling, try returning to a previous region.|Если что-то не получается, попробуй вернуться в предыдущий регион.
+You may find a new path forward, or discover something that makes your survival here easier.|Возможно, ты найдёшь иной путь или что-то полезное для выживания.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|Впрочем, ничего из этого может и не понадобиться, если ты хорошо постараешься.
+Your friend is very large, how did you fit them in here?|Твой друг очень большой. Как тебе удалось его сюда втиснуть?
+How did you bring that in here... I think it is as surprised as I am!|Как тебе удалось притащить его сюда?.. Кажется, он удивлен не меньше меня!
+Oh, that is not a friend...|У, это не друг...
+Oh...|О...
+I do enjoy the company of you and your friend though, <PlayerName>.|Мне, впрочем, приятна компания — твоя и твоего друга, <PlayerName>.
+Is this your friend, <PlayerName>?|Это твой друг, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Желаю удачи тебе и твоему спутнику. Это всё, что я могу сделать.
+Please do not bring more wildlife into my chamber.|Не надо, пожалуйста, приносить диких зверей сюда.
+How did you fit them inside here anyhow?|Как тебе вообще удалось его сюда втиснуть?
+Take your friend with you. Please. I beg you.|Забери своего друга. Пожалуйста. Очень прошу.

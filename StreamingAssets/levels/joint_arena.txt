@@ -1,0 +1,30 @@
+Creature - Blue - dens:3,5,4 - chance:1.0
+Creature - White - dens:3,5,4 - chance:1.0
+Creature - Pink - dens:4,6 - chance:1.0
+Creature - Pink - dens:4,6 - chance:0.8
+
+Creature - Vulture - dens:-1 - chance:0.2 - RARE
+Creature - KingVulture - chance:0.05 - RARE
+
+CreatureGroup - SCAVS - chance:0.7
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+Creature - Scavenger - dens:-1 - chance:1.0 - group:SCAVS
+
+CreatureGroup - SPIDERS - chance:0.15
+Creature - Big Spider - dens:3,4,5,6 - chance:0.9 - group:SPIDERS - amount:2-3
+Creature - Spitter Spider - dens:3,4,5,6 - chance:0.9 - group:SPIDERS - amount:2
+
+Creature - Needle Worm - dens:3,4,5,6 - chance:0.05
+
+CreatureGroup - WORMS - chance:0.15
+Creature - Tube Worm - dens:3,4,5,6 - chance:0.9 - group:WORMS - amount:players
+
+Creature - DropBug - dens:3,4,5,6 - chance:0.15
+Creature - DropBug - dens:3,4,5,6 - chance:0.07
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:3,5,4 - chance:0.5 - amount:2-3 - group:CYANS
+
+Creature - Cicada - dens:3,5,4 - chance:0.01 - amount:2

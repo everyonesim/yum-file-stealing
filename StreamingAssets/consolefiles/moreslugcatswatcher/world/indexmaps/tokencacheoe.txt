@@ -1,0 +1,1 @@
+GooieDuck~White|Yellow|Gourmand|Watcher,SlugNPC~White|Yellow|Watcher,JungleLeech~White|Gourmand|Watcher,Yeek~White|Yellow|Gourmand|Watcher,SpitLizard~White|Yellow|Gourmand|Watcher&OE~White|Yellow|Red|Rivulet|Artificer|Saint|Spear|Gourmand|Watcher&OE~Gourmand&Gourmand~Gourmand|Watcher&&OE~White|Yellow|Red|Rivulet|Artificer|Saint|Spear|Gourmand|Watcher

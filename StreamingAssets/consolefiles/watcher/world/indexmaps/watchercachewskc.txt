@@ -1,0 +1,5 @@
+wskc_a23:10:WPTA_B10
+wskc_a05:3.5:False:False,wskc_a19:3.5:False:False
+wskc_a06,wskc_a19
+wskc_a10:0:0:ward_e33,wskc_a25:1:1:NULL
+wskc_a06:6,wskc_a07:3,wskc_a12:2,wskc_a14:4,wskc_a15:2,wskc_a17:5,wskc_a18:3,wskc_a27:3

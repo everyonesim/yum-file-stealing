@@ -1,0 +1,231 @@
+0Hold DOWN and SPECIAL together to create a path to a chosen destination|
+Holding UP and SPECIAL without a karma flower is unstable and dangerous|การกดปุ่มขึ้นและพิเศษค้างไว้โดยไม่มีดอกโกงกรรมนั้นไม่เสถียรและอันตรายอย่างยิ่ง
+creaturetype-MothGrub|ตัวอ่อนผีเสื้อกลางคืน
+Unfortunate Evolution|วิวัฒนาการอัปโชค
+creaturetype-Barnacle|เพรียง
+creaturetype-SandGrub|หนอนทรายหางพู่
+creaturetype-SkyWhale|วาฬเวหา
+creaturetype-RotLoach|ตัวหลังโหนกเน่าเฟะ
+creaturetype-RippleSpider|แมงมุมระลอกคลื่น
+Press VIEW to cancel warp|กดปุ่มดูเพื่อยกเลิกการวาร์ป
+creaturetype-IndigoLizard|กิ้งก่าคราม
+creaturetype-GrappleSnake|งูร้อยระยาง
+creaturetype-PeachLizard|กิ้งก่าพีช
+The Crown upon the thorn|มงกุฎเหนือขวากหนาม
+creaturetype-BigSandGrub|หนอนทราย
+objecttype-Pomegranate|ทับทิม
+creaturetype-DrillCrab|ปูสว่าน
+creaturetype-SmallMoth|ผีเสื้อกลางคืนเล็ก
+creaturetype-Millipede|ทากร้อยปล้อง
+objecttype-GraffitiBomb|ระเบิดกราฟฟิตี้
+The Lantern in the dusk|ประทีปกลางสนธยา
+creaturetype-FireSprite|พรายเพลิง
+creaturetype-Tardigrade|หมีน้ำ
+Press PAUSE BUTTON to cancel warp|กดปุ่มหยุดชั่วคราวเพื่อยกเลิกการวาร์ป
+The paths overflow beyond measure|เส้นทางเอ่อล้นเกินจะหยั่งวัด
+Oh such enthusiasm! I am honored!|โอ้ ช่างเปี่ยมด้วยความกระตือรือร้น! เป็นเกียรติของข้าเสียจริง!
+Press + Button to cancel warp|กดปุ่ม + เพื่อยกเลิกการวาร์ป
+Press - Button to cancel warp|กดปุ่ม - เพื่อยกเลิกการวาร์ป
+watcher-character-description|คนนอกผู้โดดเดี่ยวและแปลกแยก เฝ้าสังเกตการณ์แต่ไม่เข้ามาข้องเกี่ยว<LINE>ระยะห่างนี้นำมาซึ่งมุมมองและสายใยใหม่ๆ สู่การเดินทางที่ไม่เคยมีผู้ใดพานพบ
+creaturetype-ScavengerTemplar|อัศวินตัวคุ้ยซาก
+Press OPTIONS BUTTON to cancel warp|กดปุ่มตัวเลือกเพื่อยกเลิกการวาร์ป
+A presence already binds this place|มีตัวตนบางอย่างผูกติดกับสถานที่แห่งนี้ไว้แล้ว
+This fringe is already too unstable|รอยต่อนี้ไม่เสถียรเกินไป
+Nothing to waste, every bit counts!|ไม่มีสิ่งใดสูญเปล่า ทุกเศษเสี้ยวล้วนมีความหมาย!
+SPECIAL button - Hold to warp to selected region|ปุ่มพิเศษ - กดค้างเพื่อวาร์ปไปยังเขตที่เลือก
+Free them. They will show you the way.|ปล่อยพวกมันเป็นอิสระแล้วพวกมันจะนำทางให้
+The Child forsaken to time|เด็กน้อยผู้ถูกทอดทิ้งในกาลเวลา
+objecttype-FireSpriteLarva|ตัวอ่อนพรายเพลิง
+THE WATCHER|ผู้เฝ้ามอง
+The Watcher|ผู้เฝ้ามอง
+Coral Caves|ถ้ำปะการัง
+The Surface|พื้นผิว
+Hydroponics|นิเวศน้ำเลี้ยง
+Watcher|ผู้เฝ้ามอง
+Outer Rim|ชายขอบ
+Deep Reef|แนวปะการังลึก
+Rusted Wrecks|ซากสนิมกร่อน
+Torrid Desert|ทะเลทรายแผดเผา
+Thermal Relay|ชุมเสาถ่ายความร้อน
+Station Annex|ปีกสถานี
+Signal Spires|หอสัญญาณ
+Ancient Urban|นครโบราณ
+Stormy Coast|ชายฝั่งฟ้าคะนอง
+Cold Storage|คลังเยือกแข็ง
+Tundra Fault|รอยเลื่อนเยือกแข็ง
+Aether Ridge|สันสสาร
+Pillar Grove|ดงเสา
+Turbulent Pump|ท่อสูบไหลเชี่ยว
+Desolate Tract|ลานรกร้าง
+Aerial Tramway|รางลอยฟ้า
+Fallen Tramway|รางร่วงหล่น
+Sunbaked Alley|ตรอกแดดส่อง
+Migration Path|เส้นทางอพยพ
+Blast Deck|ดาดฟ้าลมกรรโชก
+Ridgeworks|สันกลไก
+Salination|ระบบน้ำเค็มขัง
+Heat Ducts|ปล่องระบายความร้อน
+Fetid Glen|หุบเน่าเหม็น
+The Throne|ยอดบัลลังก์
+Marvelous!|น่าพิศวงจริงๆ!
+Shattered Terrace|ลานเศษกระจาย
+Verdant Waterways|ทางน้ำขังเขียว
+Crumbling Fringes|ชานเมืองผุพัง
+creaturetype-Frog|กบ
+LeaveSpinningTop1|อุ๋ย! ดูสิ! มันเซ่อซะจนไม่สนใจอะไรเลย! อิ๊อิ๊อิ๊อิ๊!!
+LeaveSpinningTop2|อึ๋ย! หยาบคายที่สุด!! กะว่าจะให้ของขวัญมันสักหน่อยเชียว
+DieAtSpinningTop1|อิ๊อิ๊อิ๊!! แบบนั้นแหละ!!! ลงไปกองกับพื้นเลย!! โง่จริงๆ!! อิ๊อิ๊อิ๊อิ๊อิ๊อิ๊
+DieAtSpinningTop2|ชะอุ๋ย!! เห็นไหม!! โดนเข้าซะแล้ว! อิ๊อิ๊อิ๊อิ๊อิ๊
+DieAtSpinningTop3|อิ๊อิ๊อิ๊อิ๊อิ๊!! ที่นี่ก็ด้วยเหรอ?? โง่เกินกว่าจะอยู่ แถมยังไร้ค่าเกินกว่าจะตายอีก!<LINE>น่าเบื่อชะมัด! แหวะ! ไปดีกว่า
+So vital! Hah ha!|เปี่ยมด้วยพลังชีวิตเหลือเกิน! ฮ่าฮ่า!
+Badlands|แดนทุรกันดาร
+Decaying Tunnels|อุโมงค์ฟอนเฟะ
+creaturetype-Rat|หนู
+Ah! So spirited!|โอ้! ช่างมีชีวิตชีวา!
+Infested Wastes|บ่อขยะติดเชื้อ
+Shrouded Stacks|ชั้นตู้หมอกปก
+Corrupted Factories|โรงงานแปดเปื้อน
+Torrential Railways|รางฝนกระหน่ำ
+creaturetype-Angler|ปลาตกเบ็ด
+Daemon|ห้วงทมิฬ
+Fractured Gateways|ทางพังทลาย
+creaturetype-Loach|ตัวหลังโหนก
+Oh, show me again!|อ๊ะ แสดงให้ข้าดูอีกครั้งสิ!
+creaturetype-BigMoth|ผีเสื้อกลางคืนใหญ่
+creaturetype-BoxWorm|หนอนกล่อง
+creaturetype-Rattler|กระดูกกระดิ่ง
+objecttype-Boomerang|บูมเมอแรง
+creaturetype-ScavengerDisciple|สาวกตัวคุ้ยซาก
+Oh, you have brought sundries?|โอ๊ะ เจ้าพกของจิปาถะมาด้วยเหรอ?
+Never again will you be alone.|เจ้าจะไม่ต้องโดดเดี่ยวอีกต่อไป
+Oh, my friend, you have grown!|โอ้ เพื่อนเอ๋ย เจ้าเติบโตขึ้นมากทีเดียว!
+creaturetype-BlizzardLizard|กิ้งก่าเหมันต์
+creaturetype-BasiliskLizard|กิ้งก่าบาซิลิสก์
+Hold the SPECIAL button to camouflage from predators|กดปุ่มพิเศษค้างเพื่อพรางตัวจากนักล่า
+Hold UP and SPECIAL together to form new random paths|กดปุ่มขึ้นและพิเศษพร้อมกันเพื่อสุ่มสร้างเส้นทางใหม่
+Delight! For you will be exalted in this new kingdom!|ช่างน่ายินดี! เพราะเจ้าจะได้รับการเชิดชูในอาณาจักรใหม่แห่งนี้!
+This will consume the effect of a karma flower in the process|กระบวนการนี้จะใช้เอฟเฟกต์ของดอกโกงกรรม
+However, this can also form new random paths in a pinch|อย่างไรก็ตาม สามารถใช้วิธีนี้สุ่มเส้นทางใหม่ได้ในยามจวนตัว
+You can leave them here if you wish, as a contribution.|จะทิ้งไว้ที่นี่เป็นการสมทบก็ได้นะ
+Crossing to new frontiers takes a toll on the body, but sleep can help you recover|การข้ามเขตแดนใหม่สร้างภาระให้กับร่างกาย แต่การนอนหลับช่วยฟื้นฟูได้
+Traveling too deep without resting will have consequences|การเดินทางลึกเข้าไปโดยไม่หยุดพักจะมีผลเสียตามมา
+This remains a place of rest|ที่แห่งนี้ยังคงเป็นที่พักพิงเสมอ
+It is a joy to see you play!|ได้เห็นเจ้าละเล่นแบบนี้น่ายินดีจริงๆ!
+My processes will dissolve them to their base components and those components will be added to the mass.|กระบวนการของข้าจะย่อยพวกมันให้กลายเป็นองค์ประกอบพื้นฐาน และส่วนประกอบเหล่านั้นจะถูกเพิ่มเข้าไปในมวลรวม
+Ahh yes! The paths! How wonderous!|อา ใช่แล้ว! เส้นทางเหล่านั้น! ช่างมหัศจรรย์จริงๆ!
+How auspicious it was, our meeting...|การที่พวกเราได้พบกันเป็นนิมิตหมายอันดีเหลือเกิน...
+Forgive me if I cannot respond in kind. This body is so limited...|ขออภัยที่การตอบสนองของข้าอาจไม่ทัดเทียม ร่างกายนี้ค่อนข้างจำกัด...
+How I have wished for this day. My dear friend, welcome.|ข้าเฝ้าฝันถึงวันนี้มานานแสนนาน เพื่อนรักของข้า ยินดีต้อนรับ
+Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|แข็งแกร่งและว่องไว ต้องการเนื้อสัตว์เป็นอาหารอย่างต่อเนื่อง แต่ความหิวไม่ใช่เพียงสิ่งเดียวที่คุณต้องกังวล...<LINE>เส้นทางนี้อันตรายสุดขีดเพราะทุกวัฏจักรที่จบลงคือการนับถอยหลังไปสู่ลางร้าย
+Custom colors|สีกำหนดเอง
+tips-distract|มีสารพัดกลวิธีในการรับมือนักล่าที่ขวางทางอยู่<LINE>เช่น เบี่ยงเบนความสนใจ ล่อลวงด้วยเสียง หาตัวตายตัวแทนให้พวกมันกินแทนคุณ<LINE>และอื่นๆ อีกมากมาย
+tips-hoarding|แม้ว่าคุณจะอิ่มท้องแล้ว แต่คุณก็ยังสามารถสะสมเสบียงเสริมไว้ภายในที่กำบังได้<LINE>เพื่อช่วยให้วัฏจักรต่อๆ ไปง่ายขึ้น
+tips-prepared|อย่าเดินทางมือเปล่า การมีไอเทมพร้อมใช้งานอาจเป็นจุดตัดสินระหว่างความเป็นและความตาย...<LINE>คุณไม่รู้หรอกว่าต้องใช้ขึ้นมาเมื่อไหร่
+tips-backflip|สลับทิศทางการเคลื่อนที่อย่างรวดเร็วพร้อมกับกดปุ่มกระโดดในเวลาเดียวกัน<LINE>เพื่อกระโดดตีลังกากลับหลัง<LINE>ซึ่งจะกระโดดได้สูงกว่าการกระโดดปกติเล็กน้อย นอกจากนี้ยังใช้เริ่มกลิ้งตัวได้อีกด้วย
+tips-vertpole|ในจังหวะที่กระโดดตีลังกากลับหลังถึงจุดสูงสุด ให้ปาหอกลงด้านล่างเพื่อปักเป็นเสาปีนบนพื้น<LINE>ใช้เทคนิคนี้เพื่อให้เข้าถึงพื้นที่ที่สูงขึ้นได้
+tips-wanderer|นักเดินทางได้ยลและสัมผัสทุกซอกทุกมุมของโลกมาแล้วจนหมดสิ้น<LINE>การเดินทางสู่เบื้องหน้าอันแสนไกลเป็นเพียงอีกก้าวหนึ่งเท่านั้น
+Body|ลำตัว
+Eyes|ดวงตา
+HIGH|สูง
+Restore Default|กู้คืนค่าเริ่มต้น
+Back to options|กลับไปยังตัวเลือก
+tips-spearstick|สามารถปักหอกลงบนพื้นผิวเพื่อทำเป็นเสาปีนเฉพาะกิจได้<LINE>ใช้เทคนิคนี้เพื่อเปิดเส้นทางใหม่และเข้าถึงพื้นที่ที่เคยไปไม่ถึง
+tips-batharvest|ปาวัตถุใส่แมลงค้างคาวกลางอากาศเพื่อให้จับได้ง่ายขึ้น<LINE>หรือใช้หอกเสียบเพื่อจับหลายตัวภายในคราวเดียว
+tips-reputation|การกระทำของคุณส่งผลต่อชื่อเสียงในหมู่ประชากรของระบบนิเวศ<LINE>แสดงความเมตตาแม้กระทั่งกับศัตรู แล้วบางทีคุณอาจได้รับสิ่งตอบแทน<LINE>มิเช่นนั้นคุณอาจจะถูกตามล่าจากทุกสรรพสิ่ง
+tips-throwboost|การปาวัตถุกลางอากาศจะช่วยให้มีแรงส่งที่ทำให้พุ่งไปในทิศทางที่ปาไปเล็กน้อย<LINE>ใช้เทคนิคนี้เพื่อให้กระโดดได้ไกลขึ้น
+tips-tunnelturn|ระหว่างที่คลานอยู่ในช่องทางแคบๆ<LINE>ให้กดปุ่มกระโดดและทิศทางตรงข้ามกับที่หันหน้าอยู่ค้างไว้เพื่อกลับตัว<LINE>คุณจะเคลื่อนที่ได้เร็วขึ้นเมื่อหันหน้าไปในทิศทางเดียวกับที่กำลังคลานอยู่
+tips-powerthrow|การปาหอกไปข้างหน้าในระหว่างที่ไถลตัวจะช่วยเพิ่มความเร็วและแรงปะทะให้กับหอก<LINE>ซึ่งสามารถทำให้ศัตรูมึนงงนานขึ้น<LINE>และยังช่วยให้ทะลวงการป้องกันบางอย่างได้
+tips-superslide|ปาวัตถุไปด้านหลังขณะไถลตัว<LINE>เพื่อเพิ่มระยะทางในการไถลให้ไกลขึ้นกว่าเดิมอย่างมาก
+tips-wallpounce|กระโจนเข้าหากำแพงแล้วแตะปุ่มกระโดดทันทีที่ปะทะพร้อมกับกดทิศทางเข้าหากำแพง<LINE>จะเพิ่มแรงถีบตัวจากการกระโดดออกจากกำแพงเป็นอย่างมาก
+HUE|ค่าสี
+SAT|ความสด
+LIT|ความสว่าง
+LOW|ต่ำ
+CHOOSE|เลือก
+MEDIUM|กลาง
+Oh no.|แย่แล้ว
+Analog Sensitivity|ความไวของจอยสติ๊ก
+tips-deathrecovery|ห่วงโซ่อาหารมีความซับซ้อนมาก ถ้าคุณโชคดีก็อาจจะหลุดรอดจากเงื้อมมือของสิ่งมีชีวิตได้<LINE>หากเกิดการปะทะกันหรือสิ่งมีชีวิตนั้นๆ ถูกจับกินเสียเอง!
+tips-utilitycreats|สิ่งมีชีวิตทุกตัวไม่ได้เป็นนักล่าที่ต้องหลีกเลี่ยงไปเสียหมด<LINE>มีสิ่งมีชีวิตอีกมากมายที่อาจมีประโยชน์กับการเดินทางของคุณเช่นกัน
+FPS Limit|จำกัดเฟรมเรต
+Unlimited|ไม่จำกัด
+tips-drop|การกดปุ่มลงและหยิบพร้อมกันจะทำให้<LINE>วางไอเทมในมือลงบนพื้นโดยไม่ปาออกไป
+tips-roll|กดเฉียงลงค้างไว้ขณะที่กำลังตกจากที่สูงเพื่อม้วนตัวเมื่อถึงพื้น<LINE>ซึ่งจะช่วยลดแรงกระแทกจากการตก<LINE>และทำให้คล่องตัวขึ้น
+tips-swim|ใช้การเลื้อยตัวไปมาใต้น้ำเพื่อช่วยให้ว่ายน้ำเร็วขึ้น<LINE>โดยสะบัดตัวขึ้นลงหรือซ้ายขวาอย่างเป็นจังหวะ
+tips-monk|นักบวชก้าวเดินบนเส้นทางแห่งเหยื่อ ประทังชีวิตด้วยการเสาะหาอาหารในพงไพร<LINE>ทว่าวิถีนี้ไม่อาจคุ้มครองให้พ้นภัยในโลกที่เต็มไปด้วยผู้ล่าได้
+Quality|คุณภาพ
+Backgrounds|พื้นหลัง
+tips-crouch|ไม่ต้องกดปุ่มลงค้างเพื่อย่อตัวค้างไว้<LINE>แตะลงหนึ่งครั้งเพื่อเข้าสู่ท่าคลานและแตะขึ้นเพื่อกลับมายืน
+tips-escape|การเลี่ยงการเผชิญหน้าแล้วหนีออกจากการต่อสู้เมื่อสามารถทำได้มักเป็นทางเลือกที่ดีกว่า<LINE>นักล่าหลายชนิดทรงพลังและอันตรายมาก ดังนั้นอย่ามุทะลุจนเกินไป
+tips-cheese|ใช้ท่อเพื่อสลับตำแหน่งกับผู้ล่าที่กำลังไล่ตามคุณอยู่<LINE>นี่อาจเป็นวิธีง่ายๆ ที่สามารถใช้สลัดพวกมันให้หลุดได้
+tips-cannon|แตะปุ่มกระโดดในจังหวะที่ออกจากท่อพอดี<LINE>เพื่อดีดตัวออกไปข้างหน้าอย่างรวดเร็ว
+tips-martyr|ผู้สละชีพไร้ซึ่งความปรารถนาที่จะเอาชีวิตรอด ปล่อยร่างโรยราจนกลายเป็นธุลี
+tips-hunter|นักล่าก้าวเดินบนเส้นทางแห่งผู้ล่า แต่ในโลกที่แสนโหดร้ายและไร้ความปรานีใบนี้<LINE>สิ่งที่ได้จากการล่าอาจไม่รับประกันการอยู่รอดเสมอไป
+tips-outlaw|ผู้ไร้กฎเกณฑ์ใช้ชีวิตท่ามกลางสมรภูมิ ทุกสิ่งที่เข้าใกล้ล้วนถูกสังหาร ไม่เว้นแม้แต่มิตรหรือศัตรู
+tips-friend|สหายพร้อมอ้าแขนรับมิตรใหม่และโชคชะตาที่ไม่อาจหยั่งรู้ โลกใบนี้โหดร้ายและไร้ซึ่งความปรานี<LINE>แต่ขอเพียงมีกันและกันอยู่ ย่อมได้พบกับไออุ่นใจและที่พึ่งพิง
+Old tongue controls?|ใช้การควบคุมลิ้นแบบเก่าหรือไม่?
+Enable wallpouncing?|เปิดใช้งานการกระโจนจากกำแพงหรือไม่?
+Enable speedrun timer?|เปิดใช้งานตัวจับเวลาสำหรับการเล่นทำสถิติหรือไม่?
+CONFIGURE TITLE SCREEN|กำหนดค่าหน้าเริ่มเกม
+Keep your friend safe!|ดูแลเพื่อนของเธอให้ปลอดภัยล่ะ!
+I must resume my work.|เราต้องกลับไปทำงานต่อแล้ว
+Enable shelter item transport?|เปิดใช้งานการย้ายไอเทมในที่กำบังหรือไม่?
+<CapPlayerName>, are you okay?|<CapPlayerName> เป็นอะไรไหม?
+Enable slug senses?|เปิดใช้งานสัมผัสทากหรือไม่?
+CONFIGURE SUB MENUS|กำหนดค่าเมนูย่อย
+Show tips between cycles?|แสดงคำแนะนำระหว่างวัฏจักรหรือไม่?
+Enable Developer Commentary?|แสดงความเห็นจากผู้พัฒนาหรือไม่?
+Change graphics quality|เปลี่ยนคุณภาพของกราฟิก
+Take your pet with you.|เอาสัตว์เลี้ยงของเธอไปด้วย
+Change menu background images|เปลี่ยนรูปพื้นหลังเมนู
+Display a speedrun timer at the top of the screen during gameplay?|แสดงตัวจับเวลาสำหรับการเล่นทำสถิติที่ด้านบนของหน้าจอระหว่างการเล่นหรือไม่?
+Activate tongue abilities with the throw button instead of the jump button?|ใช้งานความสามารถของลิ้นด้วยปุ่มปาแทนปุ่มกระโดดหรือไม่?
+Allow passages to transport key items in your shelter to your new destination?|อนุญาตให้การวาร์ปเมื่อบรรลุวิถีต่างๆ ย้ายไอเทมสำคัญในที่กำบังไปยังจุดหมายใหม่หรือไม่?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|อนุญาตให้แสดงไอคอนไอเทมสำคัญและสิ่งมีชีวิตใกล้เคียงบนแผนที่ความทรงจำของเหมียวทากหรือไม่?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|เปิดใช้งานความสามารถกระโจนจากกำแพงของเหมียวทากจาก Rain World เวอร์ชันดั้งเดิมหรือไม่?
+Spawn developer commentary collectables in the single player campaigns?|แสดงไอเทมความเห็นจากผู้พัฒนาที่สะสมได้ในแคมเปญผู้เล่นเดี่ยวหรือไม่?
+Periodically show survival hints and explain gameplay mechanics for new players?|แสดงคำแนะนำในการเอาตัวรอดและอธิบายกลไกการเล่นสำหรับผู้เล่นใหม่เป็นระยะหรือไม่?
+Configure the background image used on the title screen|กำหนดค่ารูปพื้นหลังที่ใช้บนหน้าเริ่มเกม
+Configure the background image used in the sub menus|กำหนดค่ารูปพื้นหลังที่ใช้บนเมนูย่อย
+Wiggling around quickly might startle this creature.|การขยับไปมาอย่างรวดเร็วอาจทำให้สิ่งมีชีวิตตัวนี้ตกใจได้
+I am afraid to ask how you brought your friend here.|ไม่กล้าถามเลยว่าเจ้าพาเพื่อนมาที่นี่ได้ยังไง
+tips-clock|การกดปุ่มแผนที่จะแสดงข้อมูลอื่นๆ เช่น แถบอาหารด้วย<LINE>วงจุดที่มุมซ้ายล่างจะบอกเวลาที่เหลือก่อนฝนจะตก<LINE>จับตาดูไว้ให้ดีล่ะ!
+tips-rocks|หินอาจจะไม่ใช่อาวุธที่รุนแรง แต่ก็สามารถใช้ได้หลายวิธี<LINE>โดยมีทั้งเบี่ยงเบนความสนใจ ปัดป้อง ปลดอาวุธ ทำให้มึนงง เผยจุดอ่อน ทำให้สิ่งมีชีวิตหลุดออกจากเสาหรือขอบ<LINE>และอื่นๆ อีกมากมาย!
+tips-audio|เสียงเตือนมักจะเป็นสิ่งแรกที่บอกถึงอันตรายที่กำลังใกล้เข้ามา<LINE>แม้จะยังไม่เห็นก็ตาม ตั้งใจฟังให้ดีล่ะ
+tips-slide|กดเฉียงลงพร้อมกับปุ่มกระโดดระหว่างเคลื่อนที่เพื่อไถลตัว<LINE>คุณจะพุ่งไปตามพื้นอย่างรวดเร็ว<LINE>ในช่วงเวลาสั้นๆ
+tips-noise|สิ่งมีชีวิตต่างๆ ไม่ได้ใช้เพียงสายตาอย่างเดียวในการรับรู้ตัวตนของคุณแต่ยังใช้การได้ยินด้วย<LINE>ระวังอย่าส่งเสียงดังเกินไป มิเช่นนั้นคุณอาจดึงดูดความสนใจที่ไม่พึงประสงค์ได้
+tips-saint|นักบุญก้าวเดินบนเส้นทางแห่งสันติ การประทุษร้ายต่อผู้อื่นย่อมเป็นการประทุษร้ายต่อตนเอง
+tips-nomad|ผู้พเนจรเผชิญกับโลกที่เปลี่ยนแปลงตลอดเวลา<LINE>ชีวิตที่ผ่านพ้นไปเป็นเพียงก้าวหนึ่งของการเดินทางอันยาวไกลสู่จุดหมายที่ไม่มีใครล่วงรู้
+Calm down!|ใจเย็นก่อน!
+tips-pipeflash|ทางเข้าท่อจะกะพริบเมื่อมีอันตรายอยู่อีกฝั่ง<LINE>โดยสีที่กะพริบจะบอกใบ้ให้รู้ถึงประเภทของอันตรายที่จะเจอ
+tips-foodtypes|แมลงค้างคาวและผลไม้ที่ห้อยอยู่ไม่ได้เป็นเพียงแหล่งอาหารเดียวเท่านั้น<LINE>พืชและสิ่งมีชีวิตบางชนิดก็สามารถกินได้เช่นกัน แต่คุณจะต้องบรรลุเงื่อนไขบางอย่างก่อน ลองผิดลองถูกดูสิ
+tips-handorder|ไอเทมที่มือขวาของคุณเป็นไอเทมหลักที่จะถูกใช้งานหรือปาก่อน<LINE>แตะปุ่มหยิบสองครั้งเพื่อสลับไอเทมระหว่างสองมือ
+tips-slideleap|กดกระโดดในระหว่างที่กำลังไถลหรือม้วนตัวเพื่อกระโดดไกลต่อ<LINE>ใช้เทคนิคนี้เพื่อเพิ่มความคล่องตัวให้ถึงขีดสุดและทำระยะอย่างรวดเร็ว
+tips-turnboost|การสลับทิศทางเคลื่อนที่อย่างรวดเร็ว<LINE>จะทำให้ความเร็วในทิศทางใหม่เพิ่มขึ้นเล็กน้อยชั่วขณะ<LINE>กระโดดต่อเนื่องไปเรื่อยๆ เพื่อช่วยประคองความเร็วที่เพิ่มขึ้นนี้ให้อยู่นานขึ้น
+tips-chieftain|หัวหน้าเผ่าโอบรับความแข็งแกร่งและพวกพ้องท่ามกลางความลี้ลับจนกลายเป็นส่วนหนึ่งของโลกใบนี้<LINE>และด้วยสายสัมพันธ์ที่ร้อยเรียงขึ้นใหม่ ย่อมสามารถรักษาชีวิตไว้ได้จนถึงที่สุด
+tips-swallow|สามารถเก็บรักษาไอเทมกินไม่ได้ขนาดเล็กไว้ในกระเพาะของคุณได้<LINE>ด้วยการกดปุ่มหยิบค้างไว้ชั่วครู่<LINE>และกดค้างแบบเดิมอีกครั้งเพื่อคายออกมา
+tips-breathe|สังเกตลมหายใจของตัวเองก่อนที่จะกระโดดลงน้ำ<LINE>หากคุณกำลังหอบให้ยืนนิ่งๆ และพักหายใจก่อน
+tips-polehop|แตะปุ่มกระโดดก่อนที่จะถึงเสาแนวตั้งเพื่อให้เด้งตัวออก<LINE>โดยสามารถทำแบบนี้ต่อกันเพื่อกระโดดข้ามกลุ่มเสาได้อย่างรวดเร็ว
+tips-scholar|นักปราชญ์เสาะหาความเข้าใจโลกเฉกเช่นวันวาน<LINE>เพ่งพิศอดีตที่ตกผลึกเพื่อพบพานความหมายใหม่ภายใน
+tips-deathpenalty|ความตายไม่ใช่เรื่องใหญ่จนกว่าคุณจะพร้อมก้าวต่อไป<LINE>เลิกพะวงแล้วออกไปสำรวจ ทดลอง เรียนรู้ภูมิประเทศ<LINE>รวมถึงตำแหน่งของอาหาร และอื่นๆ ดูสิ
+tips-shelterstore|ไอเทมที่เก็บอยู่ในที่กำบังจะยังคงอยู่ที่เดิมระหว่างวัฏจักร<LINE>และจะยังอยู่แม้ว่าคุณจะออกจากเขตนั้นๆ ไปแล้วก็ตาม<LINE>ที่กำบังคือที่ปลอดภัยเพียงหนึ่งเดียวที่จะช่วยปกป้องของมีค่าของคุณจากสายฝนได้!
+tips-dragonslayer|ผู้พิชิตมังกรโอบรับจิตวิญญาณแห่งการล่า กำราบสัตว์ร้ายทั้งมวลในโลกใบนี้ให้สยบแทบเท้า
+What did you do!?|ทำอะไรของเธอเนี่ย!?
+Stop it! Go away!|หยุดนะ! ไปให้พ้น!
+tips-tunnelboost|แตะปุ่มกระโดดระหว่างที่คลานอยู่ในช่องทางแคบๆ<LINE>เพื่อให้เคลื่อนที่เร็วขึ้นเล็กน้อย
+tips-slidecancel|แตะปุ่มกระโดดพร้อมกับกดทิศทางตรงข้ามอย่างรวดเร็วระหว่างไถลตัว<LINE>เพื่อยกเลิกการไถลและกลับไปยังจุดเริ่มต้น
+The use of some objects may not be obvious at first glance, experiment with everything you find!|วิธีใช้วัตถุบางอย่างอาจไม่ชัดเจนเมื่อแรกเห็น ลองผิดลองถูกกับทุกอย่างที่หาได้เลย!
+There are many paths to explore in this world.|มีเส้นทางมากมายให้สำรวจในโลกใบนี้
+If you are struggling, try returning to a previous region.|หากคุณกำลังลำบาก ลองกลับไปยังเขตก่อนหน้านี้ดูสิ
+You may find a new path forward, or discover something that makes your survival here easier.|บางทีอาจเจอเส้นทางใหม่ หรือสิ่งที่ช่วยให้เอาตัวรอดที่นี่ได้ง่ายกว่าเดิม
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|แต่ก็ไม่มีอะไรห้ามไม่ให้คุณเอาชนะความท้าทายของเขตนี้ไปทั้งอย่างนี้หรอกนะ
+Your friend is very large, how did you fit them in here?|เพื่อนของเธอตัวใหญ่มาก ยัดเข้ามาในนี้ได้ยังไงเนี่ย?
+How did you bring that in here... I think it is as surprised as I am!|เอาเจ้านั่นเข้ามาในนี้ได้ยังไง... ฉันว่ามันประหลาดใจพอๆ กับฉันเลยนะ!
+Oh, that is not a friend...|อ๊ะ นั่นไม่ใช่เพื่อนแล้วล่ะ...
+Oh...|อ้อ...
+I do enjoy the company of you and your friend though, <PlayerName>.|แต่ฉันก็ชอบที่มีเธอกับเพื่อนมาอยู่ด้วยนะ <PlayerName>
+Is this your friend, <PlayerName>?|นี่ใช่เพื่อนของเธอหรือเปล่า <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|ขอให้เจ้ากับสหายร่วมเดินทางโชคดี ความสามารถของเราจำกัดอยู่เพียงเท่านี้
+Please do not bring more wildlife into my chamber.|ได้โปรดอย่าพาสัตว์ป่าเข้ามาในห้องของฉันอีก
+How did you fit them inside here anyhow?|เจ้าไปสรรหาวิธียัดพวกมันเข้าในนี้ได้ยังไง?
+Take your friend with you. Please. I beg you.|พาเพื่อนของเจ้าไปด้วย ได้โปรด ถือว่าเราขอร้อง

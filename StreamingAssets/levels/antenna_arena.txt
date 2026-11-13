@@ -1,0 +1,24 @@
+Creature - White - dens:4,5,6,7 - chance:0.2
+Creature - White - dens:4,5,6,7 - chance:0.2
+Creature - Blue - dens:4,5,6,7 - chance:0.2
+Creature - Blue - dens:4,5,6,7 - chance:0.2
+
+Creature - Cicada - dens:4,5,6,7 - chance:0.9
+Creature - Cicada - dens:4,5,6,7 - chance:0.9
+Creature - Cicada - dens:4,5,6,7 - chance:0.9
+Creature - Cicada - dens:4,5,6,7 - chance:0.9
+Creature - Cicada - dens:4,5,6,7 - chance:0.9
+
+Creature - Scavenger - dens:-1 - chance:0.8
+Creature - Scavenger - dens:-1 - chance:0.8
+Creature - Scavenger - dens:-1 - chance:0.8
+Creature - Scavenger - dens:-1 - chance:0.8
+Creature - Scavenger - dens:-1 - chance:0.8
+
+Creature - Vulture - dens:-1 - chance:0.7 - RARE
+Creature - Vulture - dens:-1 - chance:0.7 - RARE
+Creature - Vulture - dens:-1 - chance:0.25 - RARE
+Creature - KingVulture - dens:-1 - chance:0.25 - RARE
+
+CreatureGroup - CYANS - chance:0.1
+Creature - Cyan - dens:4,5,6,7 - chance:0.5 - amount:2-3 - group:CYANS

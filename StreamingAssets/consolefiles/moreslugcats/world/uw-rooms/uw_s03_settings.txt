@@ -1,0 +1,7 @@
+Template: NONE
+DangerType: None
+Grime: 0
+Palette: 28
+FadePalette: 3, 0.1304348
+Effects: DayNight-0.7282609-29-123, 
+PlacedObjects: DayNightSettings><63.59399><399.1248><5~8.660254~35~10, 

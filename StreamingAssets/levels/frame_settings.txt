@@ -1,0 +1,8 @@
+Template: NONE
+DangerType: FloodAndRain
+Clouds: 0.2608696
+Palette: 15
+EffectColorB: 6
+PlacedObjects: MultiplayerItem><714.9319><27.17467><Spear~17.3205~-10~0.2074572, MultiplayerItem><1083.46><630.4291><Spear~-161.5718~-145.6467~0.2074572, MultiplayerItem><839.5333><547.1484><Spear~17.32051~-10~0.2074572, MultiplayerItem><452.4587><569.9924><Spear~17.32051~-10~0.2074572, MultiplayerItem><194.0837><608.6809><SporePlant~17.32051~-10~0.06521739, MultiplayerItem><702.7033><28.91568><ExplosiveSpear~17.32051~-10~0.04347826, MultiplayerItem><709.4476><27.9453><Bomb~17.32051~-10~0, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><842.8693><639.4106><0.4347826><0.7847826, OMNI><AM_ENV-WindGrass.ogg><667.059><630.0594><0.3804348><1, 
+FadePalette: 11, 0.3478261

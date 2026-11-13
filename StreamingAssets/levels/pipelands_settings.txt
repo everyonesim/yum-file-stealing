@@ -1,0 +1,8 @@
+Template: NONE
+RandomItemDensity: 0.7391304
+Palette: 2
+EffectColorA: 3
+EffectColorB: 2
+PlacedObjects: MultiplayerItem><472.3693><594.2128><Spear~-2.679504~-87~0.2065217, MultiplayerItem><875.3273><373.4267><Spear~17.32051~-10~0.2282609, MultiplayerItem><1072.593><785.9269><Spear~17.32051~-10~0.2282609, MultiplayerItem><111.6729><648.7575><Spear~17.32051~-10~0.2282609, MultiplayerItem><220.3126><350.68><Spear~17.32051~-10~0.2282609, MultiplayerItem><647.7><228.7497><Spear~17.32051~-10~0.2282609, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><849.0687><641.3346><0.4891304><0.9804348, OMNI><AM_ENV-Outside.ogg><667.6822><655.0619><0.5><0.9217392, 
+FadePalette: 18, 0.3478261

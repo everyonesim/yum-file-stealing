@@ -1,0 +1,5 @@
+warc_f01:4:wara_e08
+warc_a02:4.5:False:False,warc_a04:4.5:False:False,warc_b08:4.5:False:False,warc_c06:4.5:False:False
+warc_a06
+warc_b07:1:1:NULL,warc_b12:0:0:warb_f18,warc_e11:0:0:wvwb_e01
+warc_a03:4,warc_a09:3,warc_b05:3,warc_c02:2,warc_c05:2,warc_c06:2,warc_c11:3,warc_e01:4,warc_e04:2,warc_e05:1,warc_e13:3,warc_e14:1,warc_f05:7

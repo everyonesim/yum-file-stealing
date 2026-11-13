@@ -1,0 +1,16 @@
+DenGroup - DENS - 4,5,6,7
+
+CreatureGroup - SCAVS - chance:0.8
+Creature - Scavenger - amount:6 - chance:0.8 - group:SCAVS
+
+Creature - Pink - dens:DENS - amount:2 - chance:0.6
+Creature - White - dens:DENS - amount:2 - chance:0.6
+Creature - Cyan - dens:DENS - amount:2 - chance:0.6
+
+Creature - Bro - dens:6 - chance:0.06 - RARE
+
+CreatureGroup - SPIDS - chance:0.3
+Creature - BigSpider - dens:DENS - group:SPIDS - chance:0.6 - amount:3
+Creature - SpitterSpider - dens:DENS - group:SPIDS - chance:0.6 - amount:3
+
+Creature - DropBug - dens:DENS - chance:0.06
