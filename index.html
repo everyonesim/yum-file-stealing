@@ -123,6 +123,8 @@ html, body {
     "use strict";
 
     var BUILD = "Build/WebGLUnity6Build";
+    // Bumped when Build/ changes, so a fix is not served from a stale cache.
+    var BUILD_VERSION = "2026-11-13a";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. The CDN
     // is preferred: it caches for a week and answers in a few milliseconds,
@@ -299,14 +301,14 @@ html, body {
         });
         window.rainWorldAssetFallbacks = fallbacks;
         window.rainWorldAssetFallback = fallbacks.length ? fallbacks[0] : "";
-        return loadScript(buildBase + BUILD + ".loader.js").then(function () {
+        return loadScript(buildBase + BUILD + ".loader.js?v=" + BUILD_VERSION).then(function () {
             if (typeof createUnityInstance !== "function") {
                 throw new Error("The Unity loader did not define createUnityInstance.");
             }
             return createUnityInstance(canvas, {
-                dataUrl: buildBase + BUILD + ".data",
-                frameworkUrl: buildBase + BUILD + ".framework.js",
-                codeUrl: buildBase + BUILD + ".wasm",
+                dataUrl: buildBase + BUILD + ".data?v=" + BUILD_VERSION,
+                frameworkUrl: buildBase + BUILD + ".framework.js?v=" + BUILD_VERSION,
+                codeUrl: buildBase + BUILD + ".wasm?v=" + BUILD_VERSION,
                 streamingAssetsUrl: assetsUrl,
                 companyName: "Videocult",
                 productName: "Rain World",
