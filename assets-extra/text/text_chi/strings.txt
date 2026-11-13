@@ -1,0 +1,1351 @@
+﻿0THAI|泰语
+Monk|僧侣
+AUTO|自动
+INFO|信息
+EXIT|退出
+Run!|快跑！
+Jump|跳跃
+Move|移动
+Left|左
+Down|下
+View|视图
+Food|食物
+EDIT|编辑
+PLAY|开始游戏
+BACK|返回
+NEXT|下一个
+You!|你！
+You.|你。
+TRADITIONAL CHINESE|繁体中文
+Fixed campaign seed|已修复剧情种子
+watcher-description|扩展包添加了一个新剧情：观望者。本扩展包包含新的区域、生物、机制、物品、150余首全新音乐曲目，还有更多内容等你发现。
+backup_info_loading|正在加载存档信息...
+backup_info_no_data|此存档中没有剧情数据。
+backups_description|查看，创建，或从先前备份的保存数据中恢复。
+save_file_corrupted|在尝试读取或初始化存档文件时发生错误。为了保护您的存档数据，游戏启动已暂停。<LINE>请联系Akupara Games支持中心，并提供以下错误代码。<LINE><LINE>错误代码：{ERROR}<LINE><LINE>您是否想要重试加载存档文件？
+objecttype-PuffBall|真菌孢子
+objecttype-WaterNut|泡水果
+objecttype-Mushroom|蘑菇
+creaturetype-Spider|蜘蛛
+creaturetype-BigEel|利维坦
+creaturetype-EggBug|蛋虫
+The Monk-linebreaks|僧侣
+Speedrun Validation|速通验证
+switch_controls_map|R键
+Showing level names|显示关卡名称
+ps4_region_map_help|按R1查看区域地图
+Successful cycles :|成功的雨循环：
+Helped Five Pebbles|帮助五块卵石
+New arenas unlocked|已解锁新竞技场
+mod_menu_apply_mods|正在应用模组更改，请稍候……
+mod_menu_enable_all|启用所有模组
+Creating index maps|正在创建索引图
+OpDragger_MouseTuto|按住鼠标按键并向上或向下拖拽以调整数值
+MenuModStat_MapTuto|按住<Button>检查控制
+Loading screen tips|加载界面提示
+Hunter Bonus Cycles|猎手额外雨循环
+Visual breath meter|视觉呼吸仪表
+Scavenger headshots|
+NONE (User Defined)|无（用户定义）
+rwremix-description|各种可配置的辅助功能和社区请求功能，包括新的游戏机制和奖励功能。使用配置界面即可打开或关闭各个功能。
+Hello <PlayerName>.|你好，<PlayerName>。
+still, very... bad.|还是，很……糟。
+I will take a look.|我看一看。
+There you go again.|你又要走了。
+again... leaving...|又……要走……
+SIMPLIFIED CHINESE|简体中文
+No Ringing in Ears|去除耳鸣声
+remix_game_version|游戏版本已更新，请通过拓展菜单重新应用你的模组。
+ROUNDS SESSION-ru2|一轮局数
+objecttype-SeedCob|爆米花
+objecttype-Lantern|灯笼
+objecttype-FlyLure|蝠蝇饵
+creaturetype-Leech|水蛭
+creaturetype-Snail|蜗牛
+creaturetype-Hazer|墨鱼
+Industrial Complex|工业区
+Scavenger Merchant|拾荒者商贩
+Path of aggression|犁庭扫穴之道
+Catch and eat them|抓住并吃掉它们
+Configure controls|配置控制方式
+No players joined!|无玩家加入！
+Start new playlist|开始新的游玩列表
+minutes until rain|分钟后降雨
+mod_menu_next_page|
+mod_menu_prev_page|
+mod_menu_configure|
+OpUpdown_MouseTuto|点击并输入数字，使用方向键或滚轮调整
+Dialog pauses rain|
+Lizard spear pulls|
+Slow Motion Factor|慢动作系数
+remix_first_launch|你可以通过拓展菜单访问其他内容和配置。使用拓展即可添加、修改或自定义雨世界游戏中可用的内容。
+remix_dlc_redirect|点击内容访问商店页面以了解更多信息。
+How have you been?|最近怎么样？
+You're here again.|你又来了。
+...you...killed...|……你……杀了……
+Yet another thing?|又一个东西？
+Yet again leaving.|又要走了。
+Yes, there you go.|好，你走吧。
+As I was saying...|我之前说过……
+Stay! ... Still...|安静！……别动了……
+I am... too tired.|我……太累了。
+Disable Cosmetic Ripples|禁用装饰性涟漪
+save_file_error_continue|继续可能会影响游戏保存游戏或避免数据丢失的能力。真的要继续吗？
+objecttype-ScavengerBomb|手雷
+creaturetype-GreenLizard|绿蜥蜴
+creaturetype-WhiteLizard|白蜥蜴
+creaturetype-BlackLizard|黑蜥蜴
+creaturetype-GarbageWorm|垃圾虫
+creaturetype-TempleGuard|守卫
+creaturetype-VultureGrub|唤鹫虫
+creaturetype-KingVulture|魔王秃鹫
+Predator has become prey|猎手化为猎物
+The Chieftain-linebreaks|酋长
+Here is a strange energy|这里有一种奇怪的能量
+switch_pause_help_pickup|按下以拾取物体
+Change screen resolution|变更屏幕分辨率
+Arena mode music volume:|竞技场模式音乐音量：
+switch_controls_movement|L摇杆
+switch_controls_hold_map|按住R键
+Showing level thumbnails|显示关卡缩略图
+ps4_fast_travel_map_help|按R1选择你想继续游戏的庇护所
+ps4_save_progress_failed|保存进度数据时发生错误。
+ps4_load_progress_failed|进度保存数据已损坏，将被删除。
+mod_menu_load_order_down|合并模组更改时，请在其他模组之前应用此模组。这可能有助于解决某些模组冲突。
+OpComboBox_MouseOpenTuto|点击打开列表
+OpScrollBox_NonMouseTuto|按确认键并使用摇杆来查看更多
+OpSimpleButton_MouseTuto|点击鼠标按键以触发
+ModdingMenu_ControlThrow|返回/取消
+MenuModStat_ModsDownpour|已预装模组：
+Keep snails out of pipes|
+Additional lizard voices|额外蜥蜴音效
+Splashes alert creatures|
+Disable shelter failures|禁用庇护所故障
+Unlock all sandbox items|解锁全部沙盒物品
+moreslugcats-description|扩展包添加了五个新的可玩剧情，每个剧情都有独自的时间线。此扩展包内含新区域、生物、物品、音乐、替代结局、新游戏模式等等。
+...is this reaching you?|……你能听到吗？
+Oh, <PlayerName>. Hello!|哦，<PlayerName>。你好！
+Oh, <PlayerName>. Hello.|哦，<PlayerName>。你好。
+Oh... I will look at it.|哦……我看看。
+Oh... I will take a look|哦……我看一看。
+...rain... coming... Go!|……雨……来了……快走！
+...please... be still...|……请……安静……
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|禁用在某些传送点附近出现的装饰性涟漪效果
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|不过，我确实喜欢有谁来陪陪我。你可以多呆一会儿，安静的小家伙。
+Disable Player Ripple Trail|禁用玩家涟漪轨迹
+Complete the Hunter passage|完成猎手通行证
+Complete the Outlaw passage|完成暴徒通行证
+Complete the Friend passage|完成朋友通行证
+Complete the Martyr passage|完成殉道者通行证
+Complete the Mother passage|完成慈母通行证
+objecttype-FirecrackerPlant|鞭炮草
+creaturetype-SmallCentipede|小蜈蚣
+Four is enough to hibernate|四个就足够休眠了
+invert_x_description_switch|倒转模拟摇杆控制的横轴。
+invert_y_description_switch|倒转模拟摇杆控制的纵轴。
+Player <X> will use gamepad|玩家<X>将使用游戏手柄
+Player vs player deathmatch|PvP死斗模式
+Play each level three times|每个关卡游玩三次
+switch_fast_travel_map_help|按R键选择你想继续游戏的庇护所
+OpComboBox_NonMouseOpenTuto|按确认键打开列表
+OpKeyBinder_MouseSelectTuto|点击变更按键绑定
+OpSlider_NonMouseAdjustTuto|使用摇杆调整，按确认键以应用
+OpColorPicker_MouseTypeTuto|使用键盘输入十六进制代码以获得所需的颜色
+OpSimpleButton_NonMouseTuto|按确认键以触发
+MenuModStat_ConsoleExplain0|此菜单用于激活并配置拓展内容，以便以新的方式游玩雨世界。
+MenuModList_ListButton_Stat|显示有关已安装模组的统计信息
+MenuModList_ListSlider_Desc|在圆圈上按住鼠标按键并向上或向下拖拽以滚动模组列表
+MenuModList_SearchBox_Empty|输入以搜索……
+MenuModList_SearchBox_Query|搜索查询：<Query>
+Connector_ResetConfig_Alert|已将<ModName>的配置恢复为默认
+Arena creatures cannot flee|竞技场生物无法逃跑
+Monk extra light assistance|僧侣额外光照辅助
+Zero-gravity spear throwing|
+Unlock all arena characters|解锁全部竞技场角色
+Oh, it's you, <PlayerName>.|哦，是你，<PlayerName>。
+Please... don't do... that.|求你……别那样……做。
+What is that, <PlayerName>?|那是什么，<PlayerName>？
+Want it back, <PlayerName>?|要我还给你，<PlayerName>？
+Why should I tolerate this?|我为什么要忍受这个？
+As I tried to say to you...|正如我和你说的那样……
+Disable the visual trail that follows the player once achieving higher ripple attunement|在玩家达到较高涟漪协调状态后，禁用跟随玩家的视觉轨迹效果
+You cannot use PlayStation™Network features in this application due to age restrictions.|由于年龄限制，你无法使用该应用程序的PlayStation™Network功能。
+The following cheats unlock content you would normally unlock via finding unlock tokens.|以下作弊信息可以解锁你通常通过寻找解锁标记才能获得的内容。
+Disable Lightning Flashes|禁用闪电闪光
+backup_create_description|将当前保存数据内容储存为新备份存档。
+backup_delete_description|从备份存档列表中删除选中的备份。
+mod_menu_restoring_backup|正在尝试恢复备份保存数据……
+ps4_load_save_slot_failed|存档数据已损坏并且将被删除。
+Complete the Monk passage|完成僧侣通行证
+Find a way to communicate|设法交流
+creaturetype-YellowLizard|金蜥蜴
+creaturetype-LanternMouse|灯笼鼠
+creaturetype-RedCentipede|赤蜈蚣
+One need not travel alone|此途不再孤单
+You are hungry, find food|你饿了，寻找食物
+invert_x_description_xbox|倒转模拟摇杆控制的横轴。
+invert_y_description_xbox|倒转模拟摇杆控制的纵轴。
+Switch to fullscreen mode|切换至全屏模式
+OpDragger_NonMouseUseTuto|使用摇杆调整，按确认键以设定
+OpKeyBinder_MouseBindTuto|按下按键后绑定（ESC取消绑定）
+OpSlider_NonMouseGrabTuto|按确认键交互
+OpHoldButton_NonMouseTuto|长按确认键以触发
+MenuModStat_ModsInterface|具有拓展用户界面的已启用模组：<Number1>（可配置：<Number2>）
+Show underwater shortcuts|显示水下通路
+Centipede pipe protection|蜈蚣管道保护
+Threat music visual pulse|威胁音乐视觉脉冲
+Disable precycle flooding|禁用雨循环之前的洪水
+Unlock all safari regions|解锁全部观览区域
+ps4_expedition_slot_title|雨世界探险
+ps4_expedition_core_title|雨世界探险核心
+...thank you... better...|……谢谢你……好点了……
+Tried to say... to you...|我和你……说过的……
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|禁用闪电击中时出现的全屏闪光和画面变暗效果
+Reduce Passive Rain Intensity|降低被动雨强度
+Complete the Survivor passage|完成求生者通行证
+Complete the Wanderer passage|完成漫游者通行证
+Five Pebbles (Memory Conflux)|五块卵石（内存集成）
+Hold to eat / swallow objects|按住以进食/吞食物体
+Configure controls for player|配置玩家控制方式
+Standard items spawn on level|关卡中生成标准物品
+ps4_save_progress_description|雨世界进度{0}保存数据
+OpColorPicker_NonMouseSliders|使用摇杆上下以选择，左右以调整。按确认键以应用。
+OpScrollBox_MouseTutoSlidebar|使用滚轮或滚动条查看更多
+ConfigMenuTab_BackButton_Desc|返回主菜单
+ConfigMenuTab_SaveButton_Desc|保存当前模组配置并返回
+MenuModList_ModButton_Display|显示<Mod>
+MenuModList_ListButton_SwapUp|点击以使此模组的加载晚于其上方的模组
+MenuModList_ListButton_SwapDw|点击以使此模组的加载早于其下方的模组
+MenuModList_ListButton_Expand|展开以显示模组列表中的缩略图
+No stealing Hunter back-spear|不偷走猎手背后的长矛
+Scavenger kill squad leniency|拾荒者杀戮小队宽限
+Hide rain timer in safe areas|安全区域内隐藏降雨计时器
+No randomized cycle durations|无随机雨循环持续时间
+Rivulet Rain Timer Multiplier|
+Unlock the Outer Expanse gate|解锁外层空间大门
+Steam manager not initialized|Steam管理器未初始化
+This one again, <PlayerName>?|又是这一颗，<PlayerName>？
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|降低整个雨循环中某些区域装饰性降雨的强度
+Reduce Other Effects Density|降低其他特效密度
+Everything comes full circle|万事周而复始
+Great strides have been made|踏出伟大一步
+Complete the Scholar passage|完成学者通行证
+Complete the Pilgrim passage|完成朝圣通行证
+creaturetype-BrotherLongLegs|长肢老哥
+creaturetype-SmallNeedleWorm|小面条蝇
+Press any button to continue|按任意键继续
+A Bell, Eighteen Amber Beads|一颗铃铛，十八琥珀
+Two Sprouts, Twelve Brackets|两株新芽，十二支架
+The Dragon Slayer-linebreaks|屠龙者
+Three is enough to hibernate|三个就足够休眠了
+Rain is coming! Find shelter|要下雨了！快找庇护所
+Score required to exit level|离开关卡所需得分
+Always allow players to exit|永远允许玩家离开
+ps4_save_options_description|雨世界选项保存数据
+Reloading player progression|正在重新加载玩家进度
+OpKeyBinder_NonMouseBindTuto|按下按键后绑定（PAUSE取消绑定）
+MenuModStat_ModTargetVersion|目标游戏版本：<TargetVersion>（当前游戏版本：<GameVersion>）
+Artificer Explosion Capacity|工匠爆炸次数
+Unlock all sandbox creatures|解锁全部沙盒生物
+Perhaps... I saw you before?|也许……我以前见过你？
+Oh... Should I look at that?|哦……我能看看那个吗？
+A gift for me, <PlayerName>?|是给我的礼物，<PlayerName>？
+Oh... Never mind, I suppose.|哦……那算了。
+I will...not speak to you...|我不会……和你说话了……
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|降低风痕、星尘、漂浮碎片等其他特效的密度与可见度
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|含有大量视觉特效，可能不适合对闪光敏感或容易眼疲劳的玩家
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|旨在使游戏更轻松的设置，但可能会降低整体游戏体验。
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|
+Reduce Floating Particles Density|降低漂浮粒子密度
+Droplets upon Five Large Droplets|五大水滴，先之而落
+Game Over - Press VIEW to restart|游戏结束 - 按“视图”重新开始
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - 选择预设或绑定按键
+PICK UP button - Select shelter_1|拾取按键 - 选择庇护所
+PICK UP button - Select shelter_2|正方键 - 选择庇护所
+PICK UP button - Select shelter_3|Y键 - 选择庇护所
+PICK UP button - Select shelter_4|左方向键 - 选择庇护所
+PICK UP button - Select shelter_5|B键 - 选择庇护所
+OpKeyBinder_ErrorConflictOtherMod|与<AnotherModID>的按键发生冲突
+OpKeyBinder_MouseJoystickBindTuto|按下按键后绑定（ESC取消绑定，CTRL+数字键设置控制器数字）
+ConfigContainer_AlertCopyCosmetic|已将<Text>复制到剪贴板
+ConfigMenuTab_BackHoldButton_Desc|返回主菜单（不会应用模组！）
+Passage progress without Survivor|未完成求生者通行证允许进度
+I will not speak to you any more.|我不会再和你说话了。
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|降低腐化孢子、以太山脊的盐屑等漂浮/下落粒子特效的密度与可见度
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|减少闪光效果，降低装饰性视觉特效的密度，游玩起来更一目了然
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|调整鹿的行为并添加额外机制以影响其行动
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|你快走吧，<PlayerName>！我没事的。<LINE>下雨确实不舒服，不过我以前也经历过的。
+Disable Fetid Glen Rainbow Grain|禁用腐臭幽谷彩虹颗粒
+Followed your parental instincts|顺从内心天性
+Player <X> will use the keyboard|玩家<X>将使用键盘
+switch_controls_singlejoycon_map|SR键
+Playing levels in selected order|按已选顺序游玩关卡
+OpKeyBinder_ErrorConflictVanilla|与默认控制选项的按键发生冲突
+OpKeyBinder_ErrorConflictCurrMod|[<ConflictButton>]键已被占用
+OpColorPicker_NonMouseModeSelect|按确认键选择这个模式
+ConfigMenuTab_RevertButton_Label|返回
+Scavenger corpses have max karma|拾荒者尸体拥有最大业力
+Unlock Developer Commentary mode|解锁开发者评论模式
+Please... thiss all I have left.|求你了……我剩下的只有这个了。
+Ah... <PlayerName>, you're back!|啊……<PlayerName>，你回来了！
+Ah... <PlayerName>, you're back.|啊……<PlayerName>，你回来了。
+NO! I will...not speak to you...|不！我不会……和你说话了……
+A new gift for me, <PlayerName>?|给我的新礼物，<PlayerName>？
+<CapPlayerName>, this one again?|<CapPlayerName>，又是这一颗？
+Yes, take it and leave me alone.|对，拿上它走吧，别来烦我。
+I think the rain is approaching.|好像快要下雨了。
+...leaving now? Don't... return.|……要走了？别……回来。
+Remove the grainy effect that appears in the background of Fetid Glen areas|移除腐臭幽谷区域背景中出现的颗粒特效
+Go explore! There is food and shelter to be found, but beware of predators.|去探索吧！你可以找到食物和庇护所，但要小心掠食者。
+Prevents underwater shortcut symbols from being obscured by the water layer|防止水下通路被水层遮挡
+Changes the amount of bonus cycles Hunter can receive during their campaign|改变猎手在其剧情中可以获得的额外雨循环
+The current session playtime will always be visible as a UI element in-game|在剧情中，你使用一个角色的总游戏时间将始终作为游戏中可见的用户界面元素
+This option significantly decreases the difficulty of Artificer's campaign.|此选项会显着降低工匠剧情的难度。
+Your account is in read-only mode due to a recent password or email change.|由于最近更改了密码或电子邮件，你的帐户处于只读模式。
+These settings adjust the density of VFX for visual accessibility needs.|可以通过这些设置调整视觉特效密度，适应视觉辅助需求。
+Show tutorial messages for Watcher's mechanics during the story campaign|在剧情过程中显示观望者机制相关的教程消息
+Stops Scavengers from being able to steal the spear off of Hunter's back|防止拾荒者从猎手的后背偷走长矛
+Allow throwing spears upwards during a backflip in addition to downwards|为在某些情况下可抛出物体的方向和方式提供额外的选项
+REDUCED|降低
+MINIMAL|最低
+Special|特殊
+RESTORE|恢复
+BACKUPS|备份
+No data|无数据
+Closure|如释重负
+REGIONS|区域
+OPTIONS|选项
+The Leg|支架
+CREDITS|制作人员
+ENGLISH|英语
+ITALIAN|意大利语
+SPANISH|西班牙语
+RUSSIAN|俄语
+CHINESE|中文
+GAMEPAD|游戏手柄
+Hold R1|按住R1
+Options|OPTIONS
+Hold RB|按住RB
+minutes|分钟
+No rain|不降雨
+Survive|存活
+Winner!|胜者！
+RESTART|重新开始
+PASSAGE|传送
+Quits :|退出：
+Ranking|排名
+Profile|个人信息
+In Game|游戏内
+In Menu|菜单内
+Version|版本
+General|通用
+Presets|预设
+CLASSIC|经典
+RELAXED|休闲
+Assists|辅助
+Failure|故障
+...you.|……你。
+Please!|求你了！
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|完全禁用部分装饰性视觉特效，其他特效也会大幅减少
+Close Map Button|地图按键 - 关闭地图
+Enable tutorials|启用教程
+Follow the guide|跟随指引
+objecttype-Spear|长矛
+creaturetype-Fly|蝠蝇
+Select save slot|选择存档
+Movement Buttons|移动按键
+Shuffling levels|打乱顺序
+Playing in order|按顺序游玩
+rounds per level|回合每关卡
+Random creatures|随机生物
+Trophy Collector|奖杯收集者
+Press ? to start|按下“?”开始
+mod_menu_restart|应用的模组需要重新启动游戏。按继续并重新启动游戏。
+Applying Changes|正在应用更改
+Vulture darkness|
+Vanilla exploits|默认利用
+Aggressive Saint|
+Gameplay Assists|游玩辅助
+Generic failure.|通用故障。
+remix_dlc_launch|发现新DLC！你已安装的DLC可以在拓展菜单中找到并启用。
+remix_dlc_locked|必须先购买额外的DLC，才能启用此内容。
+...yes... leave.|……是的……走吧。
+You... are back.|你……回来了。
+Little tormentor|小折磨者
+Unlock Hunter campaign|解锁猎手剧情
+backup_restore_confirm|你当前的保存数据将会被移除！<LINE><LINE>选择恢复将会用此备份中的数据覆盖你所有存档中的保存数据。<LINE>本操作是永久性的，无法撤销。<LINE><LINE>确定要用{X}的数据覆盖当前保存数据吗？
+backup_restore_success|{X}的保存数据已恢复。
+backup_info_disclaimer|（此处显示的数据由当前启用的模组决定。<LINE>可能存在来自当前禁用模组的额外数据）
+A final charitable act|临终慈悲之举
+Path of self-sacrifice|自我献身之道
+objecttype-VultureMask|秃鹫面具
+objecttype-DangleFruit|蓝果
+objecttype-KarmaFlower|业力花
+objecttype-BubbleGrass|气泡草
+creaturetype-RedLizard|赤蜥蜴
+creaturetype-PoleMimic|拟态草
+creaturetype-MirosBird|钢鸟
+creaturetype-Centipede|蜈蚣
+creaturetype-Centiwing|飞蜈蚣
+creaturetype-Scavenger|拾荒者
+creaturetype-BigSpider|狼蛛
+Stronger climbing grip|更强的攀爬能力
+Path of the vegetarian|把素持斋之道
+The Scholar-linebreaks|学者
+The Journey-linebreaks|旅途
+switch_tutorial_crouch|短暂按“下方向键”以蹲伏前进
+Tap to pick up objects|轻触以拾取物体
+Test your new controls|测试你的新控制方式
+switch_controls_pickup|Y键
+switch_region_map_help|按R键查看区域地图
+Sandbox item unlocked:|已解锁沙盒物品：
+ps4_save_options_title|雨世界选项
+mod_menu_load_order_up|合并模组更改时，请在其他模组之后应用此模组。这可能有助于解决某些模组冲突。
+OpSlider_MouseTutoHrzt|按住鼠标按键并向左或向右拖拽以调整数值
+OpSlider_MouseTutoVrtc|按住鼠标按键并向上或向下拖拽以调整数值
+OpTextBox_NonMouseTuto|无法使用控制器修改此元素
+OpHoldButton_MouseTuto|按住鼠标按键以触发
+ModdingMenu_ControlMap|查看控制
+MenuModStat_ModsRegion|已启用区域模组：<Number>
+MenuModList_SwapFailed|无法在依赖模组之前加载一个所需模组
+OIError_Message_Update|运行选项界面时出现问题。
+New dynamic difficulty|新动态难度
+Legacy tongue controls|传统的舌头控制
+Upwards spear throwing|额外投掷弹道
+Quieter gates/shelters|更安静的大门/庇护所
+Faster shelter opening|更快打开庇护所
+Pull spears from walls|拔出墙上的长矛
+Unlock all collections|解锁全部收藏
+expedition-description|在这个具有挑战性的新游戏模式中开始探险吧。你可以在完成随机挑战的同时避免永久死亡，并努力解锁新的额外有用奖励、惩罚性的负担和可以在音乐盒中播放的音乐曲目。
+Please leave me alone.|拜托让我一个人呆着。
+That... Oh, thank you.|那个……哦，谢谢你。
+...don't... come back.|……别……回来。
+Oh... You are leaving.|哦……你要走了。
+Good bye, I suppose...|那个……再见……
+Unlock Watcher arena character|解锁观望者竞技场角色
+ps4_load_save_slot_load_failed|无法加载存档。错误代码：{ERROR}
+ps4_load_expedition_run_failed|无法加载探险运行数据。错误代码：{ERROR}
+You have found another way out|另辟蹊径之行
+Complete the Chieftain passage|完成酋长通行证
+Complete the game as The Saint|以圣徒身份完成游戏
+This land has become your home|此地已成家园
+switch_pause_help_switch_hands|按下两次以换手
+Playing levels in random order|按随机顺序游玩关卡
+OpKeyBinder_NonMouseSelectTuto|按“跳跃”变更按键绑定
+ConfigMenuTab_ApplyButton_Desc|应用当前已选模组
+ConfigMenuTab_BackButton_Label|退出
+ConfigMenuTab_SaveButton_Label|应用
+ConfigMenuTab_ResetButton_Desc|重置当前模组配置
+No Hunter batfly auto-grabbing|猎手不会自动抓住蝠蝇
+Disable all karma requirements|禁用所有业力要求
+Saint environmental protection|
+mod_workshop_upload_buttondesc|将所选模组上传到Steam创意工坊
+It's you, <PlayerName>. Hello.|是你，<PlayerName>。你好。
+NO! ... no. Let it go, please.|不！……不。放开它，求你了。
+You... brought that... for me?|那个……是……给我的？
+And now you're taking it back.|你要拿回去了，是吧。
+Please. Be still for a moment.|拜托了。安静一会吧。
+<CapPlayerName>... Never mind.|<CapPlayerName>……算了。
+Special Button|特殊键
+A Helping Hand|援手
+mod_menu_error|由于以下错误的发生，模组安装失败了：
+Garbage Wastes|垃圾堆
+Shaded Citadel|阴影城堡
+Chimney Canopy|烟囱天棚
+Unknown Region|未知区域
+Scavenger Toll|拾荒者收费站
+RESET PROGRESS|重置进度
+Input Settings|输入设置
+Pick-Up Button|拾取按键
+ROUNDS SESSION|回合战局
+RESUME SESSION|回到战局
+Clear playlist|清除列表
+Eating contest|进食竞赛
+Aggressive AI:|侵略性AI：
+Change Profile|变更个人信息
+mod_menu_apply|应用所选模组的更改
+Speedrun timer|速通计时器
+jollycoop-name|惬意合作模式
+Leaving again.|又要走了。
+switch_controls_singlejoyconl_special|上键
+Something lurks amongst the clouds...|有什么隐匿在云朵之中……
+Take the longer path to enlightenment|踏上漫长的启蒙之路
+A significant gain, but at what cost?|所获丰盛可口，罔顾代价为何
+Game Over - Press + Button to restart|游戏结束 - 按“+”重新开始
+Game Over - Press - Button to restart|游戏结束 - 按“-”重新开始
+switch_controls_singlejoycon_hold_map|按住SR键
+switch_controls_singlejoyconr_special|Y键
+Hold and drag to adjust score awarded|按住并拖动以调整得分奖励
+ConfigContainer_AlertPasteNoncosmetic|已从剪贴板将<Text>粘贴至<ObjectName>
+MenuModList_ModButton_Enable_NonMouse|按确认键启用该模组，长按确认键并使用摇杆切换加载顺序
+Press CONTINUE to view and accept it.|按“继续”查看并接受。
+Thank you. I do wonder what you want.|谢谢你。我很好奇你想要什么。
+Another thing you want me to look at?|你又有想让我看看的东西吗？
+Would you like me to read this pearl?|你想让我读这颗珍珠吗？
+And now you're taking it, apparently.|看来你就是要带走它。
+Triangle|三角键
+Survivor|求生者
+Invert X|倒转X轴
+Invert Y|倒转Y轴
+Champion|英杰
+NEW GAME|新游戏
+THE MONK|僧侣
+Exterior|外部
+The Wall|高墙
+The Monk|僧侣
+WINDOWED|窗口
+LANGUAGE|语言
+JAPANESE|日语
+KEYBOARD|键盘
+Keyboard|键盘
+4 - TEST|4 - 测试
+STANDARD|标准
+CONTINUE|继续
+Add item|添加物品
+Deaths :|死亡：
+Ascended|已飞升
+PREVIOUS|上一个
+SaveData|保存数据
+Presets:|预设：
+Oh. You.|哦。是你。
+creature|生灵
+Seed the determinations of warp point destinations to create less randomness in runs|通过使用种子值来确定跃迁点目标，以减少运行中的随机性。
+Increases the amount of time before you are forced to come up for air while drowning|增加溺水时被迫浮出水面的时间
+Unlock Watcher campaign|解锁观望者剧情
+backup_info_description|查看选中备份内容的信息。
+mod_menu_restore_backup|读取或初始化存档文件时发生错误。但系统检测到存在备份存档文件。<LINE><LINE>继续以开始恢复备份存档。
+Fates have been flipped|命运已然颠覆
+creaturetype-PinkLizard|粉蜥蜴
+creaturetype-BlueLizard|蓝蜥蜴
+creaturetype-Salamander|蝾螈
+creaturetype-CyanLizard|青蜥蜴
+Embraced by a new tribe|他乡宾至如归
+The Survivor-linebreaks|求生者
+The Wanderer-linebreaks|漫游者
+invert_x_description_ps|倒转模拟操作杆控制的横轴。
+invert_y_description_ps|倒转模拟操作杆控制的纵轴。
+Gamepad <X> (Not found)|游戏手柄<X><LINE>未检测到）
+switch_controls_special|X键
+No rain timer exception|无降雨计时器例外
+Sandbox items unlocked:|已解锁沙盒物品：
+ps4_save_progress_title|雨世界进度{0}
+ps4_save_options_failed|保存选项数据时发生错误。
+ps4_load_options_failed|选项保存数据已损坏，将被删除。
+Failed to get rankings.|获取排名失败。
+Switch to windowed mode|切换至窗口模式
+OpCheckBox_NonMouseTuto|按确认键切换
+OpComboBox_MouseUseTuto|双击搜索框
+OpRadioButton_MouseTuto|点击以选择该选项
+OpTextBox_MouseTutoGrab|点击开始输入
+OpTextBox_MouseTutoType|使用键盘输入，按“回车”应用
+ModdingMenu_ControlJump|选择/确认
+ModdingMenu_ControlMove|移动/调整
+ModdingMenu_ControlPckp|剪贴板
+MenuModList_AskModApply|配置模组前先按下“应用模组”
+Jetfish item protection|喷气鱼物品保护
+Currently Active Preset|当前激活预设
+mod_workshop_upload_ask|你要将此模组上传到Steam创意工坊吗？
+Hello there! You again!|你好啊！又是你！
+Hello there. You again!|你好啊。又是你！
+No, please, release it!|不，求你了，放开它！
+That... That is for me?|那……是给我的？
+...oh... to... save me?|……哦……是为了……救我？
+Thank you so very much!|非常感谢！
+Thank you... Sincerely.|谢谢……真的很感谢你。
+Let's see... A pearl...|看啊……一颗珍珠……
+Why are you doing this?|你为什么要这样做？
+Please don't come back.|求你别回来了。
+(Normally requires completing the game as Survivor or Monk to unlock)|（通常需要用求生者或僧侣通关游戏后解锁）
+WARNING! This will reset all of your progress except map exploration.|注意！该操作会重置你的所有进度，地图探索进度除外。
+Red Lizards have a tongue and can snap spears in half with their bite|红蜥蜴有舌头，并且一口就能把长矛咬成两半
+(Normally requires finding Orange unlock tokens in the campaign maps)|（通常需要在剧情地图中找到橙色解锁标记）
+The intended gameplay loop is to have to actively hunt fresh corpses.|预期的游戏循环是必须积极寻找新鲜的尸体。
+Some of the metadata for this mod was invalid and cannot be accepted.|此模组的某些元数据无效，无法接受。
+Maybe this is asking too much... But, would you bring me another one?|也许我的要求有点过分……不过，你能帮我再拿来一个吗？
+The rain is coming. If you stay, you will drown. Now, leave me alone.|要下雨了。如果留下来的话，你会淹死的。现在，别来烦我了。
+watcher-name|观望者
+Restart game|重新开始游戏
+THE SURVIVOR|求生者
+The Exterior|外部
+Five Pebbles|五块卵石
+Subterranean|地下
+The Survivor|求生者
+The Wanderer|漫游者
+A New Friend|新朋友
+You are full|你吃饱了
+Leap the gap|跃过间隙
+View credits|查看制作人员
+Pause Button|暂停按键
+Throw Button|投掷按键
+Select level|选择关卡
+Low wildlife|少量野生动物
+Level Items:|关卡物品：
+Barren level|荒芜关卡
+IT'S A DRAW!|平局！
+Add creature|添加生物
+Minor Assist|少量辅助
+Major Assist|大量辅助
+CLOSE MANUAL|关闭手动
+rwremix-name|雨世界拓展
+...please...|……求你了……
+PICK UP button - Return to regional map_1|拾取键-返回区域地图
+PICK UP button - Return to regional map_2|正方键-返回区域地图
+PICK UP button - Return to regional map_3|Y键-返回区域地图
+PICK UP button - Return to regional map_4|左键-返回区域地图
+PICK UP button - Return to regional map_5|B键-返回区域地图
+ps4_load_save_slot_restore_corrupt_failed|存档数据已损坏。存在备份数据，但尝试恢复备份数据时发生错误。
+Assign player <X> to the default controls|为玩家<X>分配至默认控制
+Something lurks above the chimney tops...|有什么隐匿在天棚顶端……
+These pearls are valued by the Scavengers|这些珍珠对于拾荒者来说很有价值
+Game Over - Press PAUSE BUTTON to restart|游戏结束 - 按“暂停键”重新开始
+Player <X> will use any connected gamepad|玩家<X>将使用任意已连接设备
+switch_single_joycon_fast_travel_map_help|按SR键选择你想继续游戏的庇护所
+Press the MAP button to view regional map|按地图按键查看区域地图
+Jellyfish are vulnerable to being stabbed|水母很容易被刺伤
+Are you sure you want to use this preset?|你确定要使用该预设吗？
+Makes Saint's body immune to the elements|
+The operation timed out. Try again later.|操作已超时。请稍后再试。
+This item already exists on the workshop.|该项已在创意工坊中存在。
+Previously uploaded mod has been updated.|之前上传的模组已经更新。
+And...now you expect me to... talk again?|然后……现在你又想让我……再次开口？
+JUMP button - View map for region_1|跳跃键-查看区域地图
+JUMP button - View map for region_2|交叉键-查看区域地图
+JUMP button - View map for region_3|B键-查看区域地图
+JUMP button - View map for region_4|下键-查看区域地图
+JUMP button - View map for region_5|A键-查看区域地图
+ps4_load_expedition_restore_corrupt|探险核心数据已损坏，但数据的最近备份可以恢复。
+You return from scouting a new land|异域探索归来
+Four Needles under Plentiful Leaves|四针之上，枝繁叶茂
+However, the game will not be saved|然而游戏不会被保存
+PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>控制器设定
+Hold Pause Button or Escape to exit|按住暂停键或ESC键退出
+switch_controls_singlejoyconl_pause|-键
+switch_controls_singlejoyconl_throw|右键
+switch_controls_singlejoyconr_pause|+键
+switch_controls_singlejoyconr_throw|X键
+Press to add Player <X> to the game|按下将玩家<X>加入至游戏
+ps4_save_progress_failed_free_space|保存进度数据时发生错误。空间不足。要再次尝试吗？
+USE UP + DOWN TO ADJUST SCREEN SIZE|使用“上+下”调整屏幕大小
+ConfigMenuTab_RevertHoldButton_Desc|放弃当前对模组配置的更改并返回
+MenuModList_ModButton_NameAndAuthor|<ModName> 作者：<ModAuthor>
+MenuModList_ModButton_Disable_Mouse|禁用<Mod>
+Could not find the files to upload.|无法找到要上传的文件。
+Get... get away... white.... thing.|离我……远点……白色的……东西。
+Thank you, again. I feel wonderful.|再次谢谢你。我感觉很棒。
+You want me to take a look at that?|你想让我看看那个？
+Ah, you would like me to read this?|啊，你想让我读这个吗？
+This... time... don't... come back.|这……次……别……回来。
+Hunter|猎手
+Random|随机
+CREATE|创建
+DELETE|删除
+PRESET|预设
+CANCEL|取消
+Depths|深渊
+SCREEN|屏幕
+FRENCH|法语
+GERMAN|德语
+KOREAN|韩语
+Player|玩家
+Square|正方键
+Circle|圆圈键
+Arrows|方向键
+Paused|已暂停
+minute|分钟
+PLAYER|玩家
+ALWAYS|永远
+REMOVE|移除
+Food :|食物：
+Time :|时间：
+cancel|取消
+Select|选择
+? Back|“?”返回
+? play|“?”开始游戏
+Legacy|传统
+Cheats|作弊
+MANUAL|手动
+TOPICS|主题
+UPLOAD|上传
+LEAVE.|走开。
+You...|你……
+Hello!|你好！
+Hello.|你好。
+Again.|又一次。
+*sigh*|*叹气*
+friend|朋友
+little|小
+[ Notice ]|【通知】
+STORY DATA|剧情数据
+The Martyr|殉道者
+The Mother|慈母
+Rain World|雨世界
+STATISTICS|统计数据
+THE HUNTER|猎手
+The Hunter|猎手
+The Outlaw|暴徒
+The Friend|朋友
+Pilgrimage|朝圣
+FULLSCREEN|全屏
+SAVE FILES|保存文件
+PORTUGUESE|葡萄牙语
+TEST INPUT|测试输入
+Left Stick|左操作杆
+Hold Space|按住空格
+Map Button|地图按键
+Free food!|免费食物！
+Loading...|加载中……
+CROSS-SAVE|跨平台保存
+Load Order|加载顺序
+Oh, hello!|哦，你好！
+Oh, hello.|哦，你好。
+You again.|又是你。
+...rain...|……雨……
+...stop...|……停下……
+Thank you.|谢谢你。
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|加载模组时出现问题！<LINE>正在禁用问题模组。<LINE>按继续并重新启动游戏。
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|……你吃了……我。请你离开这里。我不会和你……说话了。<LINE>我……不能和你说话……因为……你吃了……我……
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|你先是伤害了我，然后你又回来惹我生气。<LINE>真希望我知道你的小脑袋里在想什么。
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|这是用火药制成的武器。是拾荒者给你的吗？<LINE>不得不用的时候，可千万小心点！
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|检测到用户模组数据与游戏模组数据不同步！<LINE>正在重新同步数据。<LINE>按继续并重新启动游戏。<LINE>已禁用模组：
+Stops nearby explosions causing a ringing sound to play|关闭造成鸣响音效的近处爆炸声
+Find the canonical ending to The Spearmaster's campaign|寻得矛大师篇的正典结局
+Assign player <X> to the default PS4 Dualshock controls|将玩家<X>分配到默认的DUALSHOCK®4控制器
+Strange... it seems to have been used not too long ago.|真奇怪……它似乎是不久前使用过的。
+backup_delete_confirm|确定要删除备份{X}吗？<LINE>本操作无法撤销。
+backup_delete_success|已成功删除{X}。
+backup_create_success|已从当前保存数据中创建出新备份{X}。
+backup_restore_failed|在尝试恢复备份保存数据时发生错误。为了保护您的存档数据，游戏启动已暂停。<LINE><LINE>您是否想要重试恢复备份数据？
+Take what isn't yours|带走不属于你的事物
+Generating map images|正在加载地图图片
+objecttype-SporePlant|蜂巢
+objecttype-NSHSwarmer|绿色神经元
+creaturetype-SeaLeech|海水蛭
+creaturetype-TubeWorm|管虫
+creaturetype-Overseer|监视者
+Path of the carnivore|弱肉强食之道
+The Hunter-linebreaks|猎手
+The Outlaw-linebreaks|暴徒
+The Friend-linebreaks|朋友
+Sound effects volume:|音效音量：
+XBox Controller Setup|XBox控制器设置
+switch_controls_pause|+键
+switch_controls_throw|A键
+Add level to playlist|将关卡添加至游玩列表
+switch_update_players|更新玩家
+Play each level twice|每个关卡游玩两次
+mod_menu_reapply_mods|自上次游戏启动以来，一些已启用的模组已经更新。按继续以应用更新。
+OpUpdown_NonMouseGrab|按确认键交互
+OpScrollBox_MouseTuto|使用滚轮查看更多
+ModdingMenu_PckpTuto0|剪贴板按键互动：
+ModdingMenu_PckpTuto1|请先用确认键选择一个可配置的元素
+ModdingMenu_PckpTuto2|长按剪贴板按键并按确认键复制到剪贴板
+ModdingMenu_PckpTuto3|长按剪贴板按键并按取消键粘贴到剪贴板
+MenuModList_DummyDesc|
+OIError_GeneralAdvice|此问题可以通过下载最新版本的模组来解决。
+No swim boost penalty|无游泳加速惩罚
+Rain Timer Multiplier|降雨计时器倍数
+Tweaked deer behavior|调整鹿的行为
+Alternate grenade arc|
+Item stems in sandbox|沙盒模式物品茎干
+Reduce screen shaking|减少屏幕抖动
+Unlock all challenges|解锁全部挑战
+Gathering information|收集信息
+jollycoop-description|最多4名玩家的本地合作剧情和其他游戏模式。有朋友的旅程会更加美好！
+You had your chances.|我给过你机会的。
+Oh, you want it back?|哦，要我还给你？
+backup_restore_description|用选中的备份内容覆盖当前的保存数据。
+ps4_load_expedition_failed|探险运行数据已损坏并且将被删除。
+Complete the Saint passage|完成圣徒通行证
+Complete the Nomad passage|完成流浪者通行证
+objecttype-SLOracleSwarmer|神经元
+objecttype-SSOracleSwarmer|神经元
+objecttype-OverseerCarcass|监视者之眼
+creaturetype-DaddyLongLegs|长肢老爹
+creaturetype-TentaclePlant|巨藻
+creaturetype-SpitterSpider|喷毒狼蛛
+creaturetype-BigNeedleWorm|面条蝇
+Briefly tap DOWN to crouch|短暂轻触“下方向键”以蹲伏前进
+Double tap to switch hands|连续轻触以换手
+Player <X> is in the game!|玩家<X>加入了游戏！
+Remove level from playlist|从游玩列表中移除关卡
+Resume unfinished playlist|继续未完成的游玩列表
+Play each level four times|每个关卡游玩四次
+Play each level five times|每个关卡游玩五次
+mod_menu_fail_requirements|由于需求问题，此模组无法使用！请检查是否安装了以下附加模组，并且这些模组本身没有问题：
+OpComboBox_MouseSearchTuto|在搜索框中输入关键词
+OpComboBox_NonMouseUseTuto|使用摇杆滚动，按确认键以选择
+OpDragger_NonMouseGrabTuto|按确认键交互
+OpRadioButton_NonMouseTuto|按确认键选择这个选项
+OpColorPicker_MouseRGBTuto|使用红色/绿色/蓝色滑块选择颜色
+OpColorPicker_MouseHSLTuto|从方形颜色选择器和亮度滑块中选择一种颜色
+OpColorPicker_MousePLTTuto|从调色板中选择一种颜色
+MenuModList_SearchBox_Desc|点击并输入以搜索模组
+Connector_SaveConfig_Alert|已保存<ModName>的当前配置
+OIError_Message_Initialize|初始化选项界面时出现问题。
+Vulture grub arena variety|
+Lossless scavenger corpses|无损拾荒者尸体
+Continue to the next cycle|继续下一个雨循环
+Or did I say that already?|啊，我是不是说过这件事了？
+Hello again, <PlayerName>!|又见面了，<PlayerName>！
+Hello again, <PlayerName>.|又见面了，<PlayerName>。
+I will accept your gift...|我会接受你的礼物……
+CLOSE|关闭
+STORY|剧情
+ARENA|竞技场
+REMIX|拓展
+Cycle|雨循环
+Music|音乐
+INPUT|输入
+Pause|暂停
+Throw|投掷
+Right|右
+Cross|交叉键
+Space|空格
+Shift|Shift
+PLAY!|开始游戏！
+Play!|开始游戏！
+ERROR|错误
+SCORE|得分
+ROUND|回合
+APPLY|应用
+Other|其他
+Remix|拓展
+...me|……我
+Oh...|哦……
+STOP!|别闹了！
+no...|不……
+ps4_load_expedition_run_restore_corrupt_failed|探险运行数据已损坏。存在备份运行数据，但尝试恢复备份数据时发生错误。
+You have delivered your most important message|身负重任告毕
+You completed every challenge laid before you.|突破所有挑战
+Clear every milestone quest in Expedition Mode|完成探索模式的所有里程碑
+You are not the only lost soul in this world..|游魂四散于地
+Additional food (above four) is kept for later|额外食物（超过四个）可供今后使用
+Grab your prey and hold the eat button to feed|抓住猎物并按住进食键以进食
+MenuModList_ModButton_Disable_NonMouse_Console|按确认键禁用该内容，按右方向键返回到列表
+MenuModList_ModButton_NonMouse_Display_Console|按确认键以显示，按左方向键以切换到该内容的开关
+ConfigTabController_TabSelectButton_UnnamedTab|切换至标签#<TabIndex>
+Not that it solves anyone's problem but yours.|这只能解决你自己的问题，没办法解决其他生灵的。
+As I mentioned you do not have unlimited time.|我提醒过你，你的时间有限。
+Another? You're no better than the scavengers!|又一个？你和拾荒者差不了多少！
+I won't talk to you if you continue like this.|你要是继续这样下去我就不和你说话了。
+ps4_load_expedition_restore_corrupt_failed|探险核心数据已损坏。存在备份核心数据，但尝试恢复备份数据时发生错误。
+Something lurks where the land fissures...|有什么隐匿在大地的裂隙中……
+This place is safe. Stay here to hibernate|这里很安全。在这里休眠吧
+There are also other significant drawbacks|还有其他一些明显的缺点
+When only one player left, rain approaches|只剩一名玩家时，雨就会来临
+ps4_save_expedition_core_failed_free_space|保存探险核心数据时发生错误。空间不足。要再次尝试吗？
+I... won't speak to you... if you do that.|你要是那么做了……我……就不会再和你说话了。
+Ah... <PlayerName>, a neuron from Pebbles?|啊……<PlayerName>，五块卵石那里的神经元？
+ps4_load_save_slot_restore_corrupt|存档数据已损坏，但数据的最近备份可以恢复。
+Complete the Dragon Slayer passage|完成屠龙者通行证
+Something lurks in the darkness...|有什么隐匿在黑暗之中……
+Complete the game as The Artificer|以工匠身份完成游戏
+Five Pebbles (General Systems Bus)|五块卵石（通用系统总线）
+Pick up / Eat button interactions:|“拾取/进食”按键操作：
+Game Over - Press SPACE to restart|游戏结束 - 按“空格键”重新开始
+switch_controls_singlejoyconl_jump|下键
+switch_controls_singlejoyconr_jump|A键
+ps4_save_options_failed_free_space|保存选项数据时发生错误。空间不足。要再次尝试吗？
+ConfigContainer_AlertPasteCosmetic|已从剪贴板粘贴<Text>
+MenuModList_ModButton_Enable_Mouse|启用<Mod>
+Stronger bottomless pit indicators|更明显的无底深渊指示
+Monk-style gates for all campaigns|全部剧情僧侣式大门
+Are you sure you want to continue?|你确定要继续吗？
+That's all. You'll have to go now.|到此为止。你该走了。
+You again? I have nothing for you.|你又回来了？我没有东西可以给你的了。
+I wonder what it is that you want?|我在想你究竟想要什么呢？
+I wish you would stop coming here.|我希望你别来这里了。
+Oh... Of course I will take a look|哦……当然没问题，我看一看。
+ps4_load_expedition_run_restore_corrupt|探险运行数据已损坏，但数据的最近备份可以恢复。
+Clear every challenge in Challenge Mode|完成挑战模式的所有挑战
+ConfigMenuTab_ModPercentageButton_Label|已启用模组：<CountModEnabled>/<CountModTotal>
+Allows Saint to be able to throw spears|
+The following options contain spoilers.|以下选项信息包含剧透内容。
+Workshop upload completed successfully!|创意工坊成功完成上传！
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>！安静点听我说。
+invert_x_description|倒转模拟操作杆控制的横轴。
+invert_y_description|倒转模拟操作杆控制的纵轴。
+rounds per level-ru2|每关持续回合
+objecttype-FlareBomb|闪光弹
+objecttype-DataPearl|珍珠
+objecttype-JellyFish|水母
+objecttype-SlimeMold|黏菌
+objecttype-EggBugEgg|蛋虫卵
+objecttype-NeedleEgg|面条蝇卵
+creaturetype-Slugcat|蛞蝓猫
+creaturetype-Vulture|秃鹫
+creaturetype-CicadaA|蝉乌贼
+creaturetype-CicadaB|蝉乌贼
+creaturetype-JetFish|喷射鱼
+creaturetype-DropBug|落网虫
+Communications Array|通讯阵列
+Stolen Enlightenment|窃光者
+Path of the pacifist|和睦共处之道
+The Saint-linebreaks|圣徒
+switch_controls_jump|B键
+Gametype description|游戏类型描述
+Play each level once|每个关卡游玩一次
+Normal Rain World AI|普通雨世界AI
+for killing creature|（消灭生物）
+Persistent creatures|固定生物
+controller_reconnect|请重新连接玩家{0}的控制器。
+mod_menu_requirement|需要附加模组：
+mod_menu_ext_authors|查看该模组的制作人员名单
+mod_menu_disable_all|禁用所有模组
+Building token cache|正在构建标记缓存
+OpCheckBox_MouseTuto|点击切换
+OpUpdown_NonMouseUse|使用摇杆调整，按确认键以应用
+MenuModStat_ModsFail|缺少需求的已安装模组：
+Connector_UnnamedTab|#<TabIndex>
+Increased stun times|提高昏迷时间
+Wiggle out of grasps|摇摆逃脱抓握
+Key items on Passage|传送关键物品
+Monk extended breath|僧侣延长呼吸
+Breath time leniency|呼吸时间宽限
+Rain timer tick-tock|降雨计时器滴答声
+Vulnerable jellyfish|脆弱水母
+Unlock all campaigns|解锁全部剧情
+More Slugcats Cheats|更多蛞蝓猫作弊
+Exit to title screen|退出至标题界面
+Preparing for upload|准备上传
+devtools-description|启用游戏内开发者工具，它提供编辑地图和区域的必要工具，<LINE>并且可以帮助你为游戏添加模组。<LINE><LINE>在游戏中按“O”即可启用/禁用开发者工具，<LINE>然后按“H”即可调出主要开发者工具界面。
+...leave me alone...|……别来打扰我……
+Hello, <PlayerName>!|你好，<PlayerName>！
+Hello, <PlayerName>.|你好，<PlayerName>。
+...don't... do that.|……别……那样做。
+Another gift for me?|另一份给我的礼物？
+Again? ... just, go.|又来？……快走吧。
+Little archaeologist|小考古学家
+Clear the game as Survivor or Monk to unlock.|用求生者或僧侣通关游戏后解锁。
+Objects can be picked up, carried, and tossed|你可以捡起并携带物体，也可以投掷物体
+Some small creatures can be eaten immediately|某些小型生物可以被立刻吃掉
+MenuModList_ModButton_Enable_NonMouse_Console|按确认键启用该内容，按右方向键返回到列表
+Show icons of nearby creatures on the minimap|在小地图上显示附近生物的图标
+You are bringing a neuron. Is it to taunt me?|你带了个神经元来，是为了嘲笑我吗？
+Your curiosity seems boundless, <PlayerName>.|你的好奇心似乎没有尽头，<PlayerName>。
+remix_dlc_restart|如果你已经购买了DLC，你需要重新启动游戏方可激活其内容。
+Expedition Leader|探索领队
+creaturetype-Deer|雨鹿
+Looks to the Moon|仰望皓月
+Filtration System|过滤系统
+The Dragon Slayer|屠龙者
+Back to main menu|返回主菜单
+1 - SELECT PLAYER|1 - 选择玩家
+2 - SELECT DEVICE|2 - 选择设备
+Previous gametype|上一个游戏类型
+Reset score setup|重置得分设置
+ps4_press_to_join|按下<LINE><LINE><LINE>加入。
+minute until rain|分钟后降雨
+per point of food|（每点食物）
+Delivered Payload|已送达运载物
+Leaderboard empty|排行榜为空
+mod_menu_finalize|（正在完成应用模组，请稍候……）
+MenuModStat_ModID|ID：<ModID>
+Key item tracking|关键物品追踪
+Alpha red lizards|红蜥头领
+Unlock all arenas|解锁全部竞技场
+moreslugcats-name|更多蛞蝓猫扩展包
+Yet another gift?|又是一份礼物？
+And you are back.|你回来了。
+Within Time|时限未尽
+The Pilgrim|朝圣
+DELETE SAVE|删除存档
+Sky Islands|天空群岛
+Farm Arrays|农场阵列
+The Scholar|学者
+The Journey|旅途
+Arena Music|竞技场音乐
+Jump Button|跳跃按键
+NEW SESSION|新战局
+Spears Hit:|玩家互伤
+Rain Timer:|降雨计时器：
+No wildlife|无野生动物
+Level Food:|关卡食物：
+Allow exit:|允许离开：
+Early Rain:|提前下雨：
+SCREEN SIZE|屏幕大小
+Slug Senses|蛞蝓感知
+...leave...|……离开……
+This again.|又来了。
+And...back.|又……回来了。
+Back again.|又回来了。
+Here again.|又来了。
+I...said...|我……说过……
+Migration|迁徙
+Messenger|信使
+The Cycle|轮回
+The Nomad|流浪者
+Outskirts|郊外
+Shoreline|海岸线
+Underhang|下悬架
+The Saint|圣徒
+Ascension|飞升
+SAVE SLOT|存档
+vibration|震动功能
+Connected|已连接
+Wildlife:|野生动物：
+Spear hit|玩家互伤
+GAME OVER|游戏结束
+Clear all|清除全部
+? Confirm|“?”确认
+NEXT PAGE|下一页
+Next Page|下一页
+CONFIGURE|配置
+Author(s)|作者
+VIEW EULA|查看《最终用户许可协议》
+Uploading|上传中
+A neuron.|一个神经元。
+tormentor|折磨者
+An Old Friend|旧友
+Memory Crypts|记忆陵墓
+The Chieftain|酋长
+Music volume:|音乐音量：
+Sound Effects|音效
+Pick up / Eat|拾取/进食
+INPUT PRESETS|输入预设
+Next gametype|下一个游戏类型
+ROUND SESSION|回合战局
+Approximately|大约
+Press to join|按下加入游戏
+Repeat Rooms:|重复房间：
+High wildlife|大量野生动物
+for surviving|（存活）
+per spear hit|（每次长矛击中）
+Configuration|配置
+HOLD TO START|按住以开始
+REGION SELECT|区域选择
+Fetching Data|获取数据
+PREVIOUS PAGE|上一页
+Previous Page|上一页
+Accessibility|无障碍
+Hunter Cycles|猎手雨循环
+Wall pouncing|返墙跳
+devtools-name|开发者工具
+Thank... you.|谢谢……你。
+What is that?|那是什么？
+Another gift?|另一份礼物？
+...thank you.|……谢谢你。
+And...listen!|听我……说！
+Little friend|小朋友
+archaeologist|考古学家
+The consequences of your journey have caught up with you|业报插翅难逃
+You encountered the echo of A Bell, Eighteen Amber Beads|你遇到了“一颗铃铛，十八琥珀”的残余回响
+You encountered the echo of Two Sprouts, Twelve Brackets|你遇到了“两株新芽，十二支架”的残余回响
+Press and hold, then use up/down to adjust score awarded|按住并拖动，然后使用上/下以调整得分奖励
+You must update the application to use network features.|更新应用程序后才可以使用联网功能。
+The presets below can be used to quickly reset settings.|以下选项可用于将所有设置快速重置为预设值。
+RELAXED preset is a significant reduction in difficulty.|休闲预设会使难度显著降低。
+This option may actually make Rivulet's campaign harder.|此选项实际上可能会使溪流的剧情更加困难。
+The scavengers must be jealous of you, finding all these|拾荒者一定会嫉妒你的，找到这么多。
+You completed every expedition laid before you.|经历所有冒险
+Something lurks in a flourishing outcropping...|有什么隐匿在繁荣的田野里……
+Additional food (above three) is kept for later|额外食物（超过三个）可供今后使用
+Hold down to wipe your save slot and start over|按住以清除存档并重新开始
+You are starving. Your game has not been saved.|你在挨饿。你的游戏未被保存。
+Are you sure you want to disable this mechanic?|你确定要禁用此机制吗？
+You must accept the End User License Agreement.|你必须接受《最终用户许可协议》。
+You're leaving yet again. This time, stay away.|你又要走了。这次离我远点。
+Listened to the conflation of echoes|聆听汇聚回响
+Nineteen Spades, Endless Reflections|十九铁铲，无尽倒影
+Game Over - Press OPTIONS to restart|游戏结束 - 按“选项键”重新开始
+switch_controls_singlejoyconl_pickup|左键
+switch_controls_singlejoyconr_pickup|B键
+Creatures are vicious and aggressive|生物凶残好斗
+switch_single_joycon_region_map_help|按SR键查看区域地图
+JUMP/THROW buttons - Switch layers_1|跳跃/投掷按键 - 切换层级
+JUMP/THROW buttons - Switch layers_2|交叉键/圆圈键 - 切换层级
+JUMP/THROW buttons - Switch layers_3|B键/A键 - 切换层级
+JUMP/THROW buttons - Switch layers_4|下方向键/右方向键键 - 切换层级
+JUMP/THROW buttons - Switch layers_5|A键/X键 - 切换层级
+Title is offline or is disconnected.|游戏离线或已断开连接。
+OpKeyBinder_NonMouseJoystickBindTuto|按下按键后绑定（PAUSE取消绑定，START设置控制器数字）
+ConfigContainer_AlertCopyNoncosmetic|已从<ObjectName>将<Text>复制到剪贴板
+ConfigMenuTab_RevertHoldButton_Label|还原
+MenuModList_ModButton_RainWorldDummy|
+Are you sure you want to view these?|你确定要查看这些内容吗？
+Yes, you're welcome to have it back.|是的，我当然会还给你。
+Oh, leaving. Please don't come back.|哦，你走吧。请你别回来了。
+Something lurks at the highest reaches of the world...|有什么隐匿在世界的巅峰上……
+Assign player <X> to the default XBox controller setup|为玩家<X>分配至默认XBox控制
+Select which levels to play<LINE>in the level selector|选择要在关卡选择器<LINE>中游玩的关卡
+Shows a visual pulse on screen when threats are nearby|当附近有威胁时在屏幕上显示视觉脉冲
+All lizard breeds have unique sound effects and voices|所有蜥蜴种类都有独特的音效和声音
+(Normally requires completing Gourmand's food tracker)|（通常需要完成饕餮的食物追踪器）
+Mod's thumbnail image should have a 16:9 aspect ratio.|模组的缩略图应具有16:9的纵横比。
+If you eat it or leave with it, I will die. I beg you.|如果你吃了它或者带着它离开，我会死的。我求求你。
+Oh, I have already read this one to you, <PlayerName>.|哦，这颗珍珠我已经为你读过了，<PlayerName>。
+Complete the game as The Survivor or as The Monk|以求生者或僧侣身份完成游戏
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|点击以启用所有模组
+MenuModList_ModButton_NonMouse_Configure_Console|按确认键以配置，按左方向键以切换到该内容的开关
+Access was denied. Do you own the game on Steam?|访问被拒绝。你在Steam上拥有该游戏吗？
+This one I've already read to you, <PlayerName>.|这颗珍珠我已经为你读过了，<PlayerName>。
+Complete the game as The Hunter|以猎手身份完成游戏
+Your travels have taken you far|此行天涯海角
+You have left this world behind|弃世飞升而去
+ConfigMenuTab_ApplyButton_Label|应用模组
+ConfigMenuTab_RevertButton_Desc|返回模组列表
+ConfigMenuTab_ResetButton_Label|重置配置
+MenuModList_ModButton_Configure|配置<Mod>
+MenuModList_ListButton_ScrollUp|按住鼠标按键以向上滚动模组列表
+MenuModList_ListButton_ScrollDw|按住鼠标按键以向下滚动模组列表
+MenuModList_ListButton_Collapse|折叠以隐藏模组列表中的缩略图
+Connector_ChangeActiveTab_Alert|已将当前活动的标签切换为<TabName>
+Connector_ChangeActiveMod_Alert|已将当前显示的模组切换为<ModName>
+Enable the wall pounce mechanic|启用返墙跳机制
+ps4_expedition_slot_description|雨世界探险保存数据
+ps4_expedition_core_description|雨世界探险核心数据
+ps4_save_expedition_core_failed|保存探险核心数据时发生错误。
+ps4_load_expedition_core_failed|探险核心数据已损坏并且将被删除。
+It's you, <PlayerName>!  Hello!|是你，<PlayerName>！你好！
+You... Strange thing. Now this?|你……奇怪的东西。现在又这样了？
+Oh, what is that, <PlayerName>?|哦，那是什么，<PlayerName>？
+You would like me to read this?|你想让我读这个吗？
+Find the canonical ending to The Gourmand's campaign|寻得饕餮篇的正典结局
+Find a destination for The Hunter's starting payload|为猎手携带的物品寻得归宿
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|按确认键禁用所有模组
+Pause the rain timer while dialog is being displayed|
+Discourages Snails from idling inside pipe entrances|
+It is recommended to use this only as a last resort.|建议仅将其用作最后的手段。
+I don't know what to say. Never come back, creature!|我不知道说什么好了。你别回来了，生灵！
+Little creature, why don't you stay calm and listen?|小生灵，为什么你就不能安静点听我说呢？
+Find the canonical ending to The Rivulet's campaign|寻得溪流篇的正典结局
+Dropping food in the water might attract creatures.|将食物扔进水里可能会引来一些生物。
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|按确认键启用所有模组
+Cannot update mod with no pre-existing workshop ID.|无法更新没有预先存在创意工坊ID的模组。
+There is nothing here. Not even my memories remain.|这里什么都没有了。甚至连我的记忆也没能留下来。
+Something new you want me to look at, <PlayerName>?|你有想让我看看的新东西吗，<PlayerName>？
+It's a bit dusty, but I will do my best. Hold on...|灰尘有点多，但我会尽力而为。稍等……
+Now if you'll let me, I will try to say this again.|如果你希望的话，我会尝试再说一遍。
+It's a rock. Thank you, I suppose, little creature.|是块石头。那个，谢谢你，小生灵。
+objecttype-Rock|石头
+Drainage System|排水系统
+History lessons|以史为鉴之习
+Change language|变更语言
+Bind <X> button|绑定<X>键
+Back to options|返回选项
+round per level|回合每关卡
+Medium wildlife|中量野生动物
+SESSION RESULTS|战局结果
+Finding Changes|正在寻找更改
+Fast map reveal|快速地图显示
+Extra tutorials|额外教程
+Easier dropwigs|
+Quality of Life|便利性
+Unlock Slugpups|解锁蛞蝓幼崽
+expedition-name|探险
+Leave me alone!|别来打扰我！
+Please stop it!|求你别闹了！
+Little creature|小生灵
+Prevents falling off from poles when throwing objects|避免投掷物品时从杆子上掉落
+Swim boosting will not consume additional breath time|游泳加速不会消耗额外的憋气时间
+Removes visual effects that cause the screen to shake|移除导致屏幕抖动的视觉效果
+Are you sure you want to disable ALL karma mechanics?|你确定要禁用所有业力机制吗？
+Mod's thumbnail image must be less than 1 MB in size.|模组的缩略图必须小于1MB。
+Your account is locked or has a community or VAC ban.|你的帐户已被锁定或受到社区或VAC封禁。
+The workshop service is unavailable. Try again later.|创意工坊服务不可用。请稍后再试。
+Yet another gift? You're quite curious, <PlayerName>!|又是一份礼物？你的好奇心真重，<PlayerName>！
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|身手敏捷的杂食动物，既是捕食者也是猎物。你迷失在一片冷酷无情的<LINE>土地上，一切只能靠自己，智慧和谨慎是你最重要的资产。
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|身体虚弱，但精神强大。你与世界的奥秘相协调并<LINE>与其中的生灵感同身受，你的旅程显然会更加安宁。
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|强壮而敏捷，新陈代谢旺盛，需要稳定的肉类供给。但<LINE>果腹不会是你面前唯一的难题，毕竟猎手之路危机四伏。
+Five Pebbles (Unfortunate Development)|五块卵石（不幸的发展）
+Six Grains of Gravel, Mountains Abound|六颗砂砾，群峰林立
+Jump and grab them. They're delicious!|跳起来抓住它们。它们很美味！
+Takes input from any connected gamepad|从任何连接的设备<LINE>获取输入
+switch_controls_singlejoyconl_movement|L摇杆
+switch_controls_singlejoyconr_movement|R摇杆
+Unlock all the Trophies in Rain World!|解锁雨世界的所有奖杯！
+MenuModList_ModButton_Disable_NonMouse|按确认键禁用该模组，长按确认键并使用摇杆切换加载顺序
+MenuModList_ModButton_NonMouse_Display|按确认键显示<Mod>
+ConfigTabController_TabScrollButton_Up|按住鼠标按键以向上滚动标签列表
+ConfigTabController_TabScrollButton_Dw|按住鼠标按键以向下滚动标签列表
+The following cheats contain spoilers.|以下作弊信息包含剧透内容。
+Mod uploaded with Unlisted visibility.|上传的模组具有不公开可见性。
+Ah... <PlayerName>, you're here again!|啊……<PlayerName>，你又来了！
+Ah... <PlayerName>, you're here again.|啊……<PlayerName>，你又来了。
+I must ask you... Don't do that again.|我必须请求你……不要再那样做了。
+Rain... You better go. I will be fine.|雨来了……你快走吧。我没事的。
+<CapPlayerName>... Please settle down.|<CapPlayerName>……请安静一点。
+Yes, there you go. This is ridiculous.|好，你走吧。真是荒唐。
+Five Pebbles (Recursive Transform Array)|五块卵石（递归变压阵列）
+You need to eat meat to sustain yourself|你需要吃肉来维持自己的生命
+Default singleplayer<LINE>keyboard setup|默认单人<LINE>键盘设置
+OpKeyBinder_ErrorConflictOtherModDefault|与<ModID>的默认按键发生冲突
+MenuModList_ModButton_NonMouse_Configure|按确认键配置<Mod>
+You are not currently logged into Steam.|当前未登录Steam。
+Yes, help yourself. They are not edible.|是的，随便拿吧。反正它们又不能吃。
+This pearl has been written to just now!|这颗珍珠才刚刚写好！
+You encountered the echo of Droplets upon Five Large Droplets|你遇到了“五大水滴，先之而落”的残余回响
+Press while holding down direction (crouching) to drop object|按住“下方向键”（蹲伏）的同时按下以放下物体
+You must activate this mod before attempting to configure it.|在尝试配置它之前，你必须激活此模组。
+I won't tolerate this. Leave immediately and don't come back.|我不能容忍这种事。赶紧离开这里，别回来了。
+As you can see, I have nothing for you. Not even my memories.|你也看得出来，我没有任何东西可以给你。甚至连我的记忆也不行。
+Here we go again, little archeologist. Let's read your pearl.|又来了，小考古学家。我们读一下你的珍珠吧。
+You encountered the echo of Four Needles under Plentiful Leaves|你遇到了“四针之上，枝繁叶茂”的残余回响
+Show a visual indicator on the UI of your remaining breath time|在界面上显示呼吸剩余时间的视觉指示器
+Lizards can pull embedded spears out of walls with their tongue|
+Failed to acquire User Generated Content lock. Try again later.|无法获取用户生成内容锁。请稍后再试。
+You encountered the echo of Nineteen Spades, Endless Reflections|你遇到了“十九铁铲，无尽倒影”的残余回响
+Warning, too many creatures may result in poor game performance.|请注意，太多生物可能会带来糟糕的游戏性能。
+Reduces the amount of time taken to get started with a new cycle|减少开始一个新的雨循环所花费的时间
+One of your workshop mods already has the same name as this one.|你的其中一个创意工坊模组与该模组同名。
+I appreciate what you have done but it is time for you to leave.|我很感激你做的事情，但你是时候离开了。
+Let us see... to be honest, I'm as curious to see it as you are.|让我看看……说实话，我和你一样好奇。
+You encountered the echo of Six Grains of Gravel, Mountains Abound|你遇到了“六颗砂砾，群峰林立”的残余回响
+You must apply new mods setup before attempting to configure them.|在尝试配置模组之前，你必须对模组列表应用尚未确认的更改。
+Stops Hunter from automatically grabbing batflies with a free hand|阻止猎手自动空手抓住蝠蝇
+Increases the radius of Monk's hologram light in pitch-black areas|提高僧侣的全息光照在漆黑区域的半径
+Prevents the chance of waking up early before the rain has stopped|防止在雨停之前早早醒来的可能性
+(Normally requires finding Red unlock tokens in the campaign maps)|（通常需要在剧情地图中找到红色解锁标记）
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>，你要是那么做了，我就不会再和你说话了。
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|历经艰难所得，此业金石为开
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|标准拓展设置。更多细节调整可能会混淆游戏的体验方式。
+When crouching, hold the JUMP button without giving any other input|蹲伏时，在不进行其他操作的情况下按住“跳跃”键
+Allow players to exit when rain is close or only one player is left|允许玩家在快要下雨或只剩一名玩家时离开
+Reduces the overall speed of the game to assist with reaction times|降低游戏的整体速度以帮助延长反应时间
+(Normally requires finding Blue unlock tokens in the campaign maps)|（通常需要在剧情地图中找到蓝色解锁标记）
+??????????????????????????????????????????????????????????????????™|
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|你有想让我看看的新东西，<LINE>是不是，<PlayerName>？
+This creature is dehydrated. You can carry it back to water.|这个生物脱水了。你可以把它带回水里。
+Prevent injured creatures from fleeing to dens in arena mode|在竞技场模式下阻止受伤的生物逃到巢穴
+Increases the amount of underwater breath time that Monk has|提高僧侣拥有的水下呼吸时长
+(Normally requires completing all Challenge Mode challenges)|（通常需要完成全部挑战模式的挑战）
+Best of luck to you, little creature. I must resume my work.|祝你好运，小生灵。我得继续我的工作了。
+Never do that again. Or just kill me quickly. Whichever way.|别再那样做了。要么你就快点杀了我。哪种方式都可以。
+I think we have already talked about this one, <PlayerName>.|这一颗我们应该已经说过了，<PlayerName>。
+Larger prey needs to be incapacitated first|面对较大的猎物，你需要先使其丧失行动能力
+Little creature. This is your last warning.|小生灵。这是给你的最后一次警告。
+Please don't... take... more from me... Go.|请别……再……拿走我的东西了……走吧。
+And yet another one! I will read it to you.|又一个！我会读给你听。
+I've told you about this one, <PlayerName>.|这颗珍珠的内容我已经告诉你了，<PlayerName>。
+And now you expect me to continue speaking?|现在你希望我继续说话吗？
+It's a delicious plant. You should have it!|这是一种美味的植物。快尝尝！
+It is possible to hibernate with less than sufficient food|你可以在食物不足的情况下进入休眠
+It is not recommended to use these on a first playthrough.|不建议在首次游玩时使用这些信息。
+This mod already exists on the workshop by another author.|该模组已由其他作者上传至创意工坊。
+Release that, and leave. I will not speak to you any more.|放开它，离开这里吧。我不会再和你说话了。
+Thank you... That is a little better. Thank you, creature.|谢谢你……现在好一点了。谢谢你，生灵。
+In a shelter, hold DOWN for several seconds to force hibernate|在庇护所中，按住“下方向键”几秒钟可以强制休眠
+Multiplies the total duration of the rain timer by this amount|将降雨计时器的总持续时间乘以该数值
+The rain timer makes a tick-tock noise while the UI is visible|界面可见时，降雨计时器会发出滴答声
+Vultures that appear in dark rooms are cloaked by the darkness|
+Press CONTINUE after accepting the End User License Agreement.|接受《最终用户许可协议》后按“继续”。
+Press CONTINUE to view and/or edit your uploaded workshop mod.|按“继续”查看和/或编辑你上传的创意工坊模组。
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|注意！<LINE>该操作将会重置所选存档的所有进度，<LINE>包括地图探索进度。已解锁的竞技场和<LINE>沙盒物品将保留。
+WARNING!<LINE>This will reset all of your progress except map exploration.|注意！<LINE>该操作会重置你的所有进度，地图探索进度除外。
+WARNING! Too many creatures may result in bad game performance or crashes.|请注意！太多生物可能会带来糟糕的游戏性能或导致崩溃。
+Please log in to STOVE Client with the account that has purchased the game|请使用已购买游戏的帐户登录STOVE客户端
+Gives the player the ability to dislodge spears that are embedded in walls|让玩家能够拔出嵌在墙上的长矛
+(One time use) Fast travel to any discovered shelter, recovering all karma|（一次性使用）快速前往任何已发现的庇护所，恢复所有业力
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|在加载界面上显示有助于验证所用设置、检查流程无作弊的信息。
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|在拾荒者杀戮小队攻击你之前，给雨循环开始和区域进入一个宽限期
+Advantageous glitches and speedrunner exploits are made available to use again with this option|有利的差错和速通漏洞可以通过此选项再次使用
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|与原版雨世界体验相似，但启用了一些便利性设置。
+Map|地图
+Esc|ESC
+Yes|是
+YES|是
+HUD|抬头显示器
+run|快跑！
+Up|上
+R1|R1
+RB|RB
+ok|确认
+No|不
+NO|不
+Assign player <X> to the default keyboard controls|为玩家<X>分配至默认键盘控制
+Increase the speed that the minimap reveals itself|提高小地图显示的速度
+(Normally requires completing Gourmand's campaign)|（通常需要完成饕餮的剧情）
+This menu contains cheats to unlock content early.|此菜单包含提前解锁游戏内容的作弊信息。
+What are you? If I had my memories I would know...|你是什么？要是有记忆的话我就能知道了……
+If you behave like this, why should I talk to you?|如果你一直这样，为什么我就得和你说话呢？
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|已暂停 - 注意！进入一个雨循环30秒后退出计为失败
+By comparison, the RELAXED preset may weaken the overall game experience.|相比之下，休闲预设可能会降低整体游戏体验。
+(Normally requires completing campaigns and clearing previous challenges)|（通常需要完成剧情并清除之前的挑战）
+Shelter failures give periodic reprieves by providing longer cycle times.|庇护所故障通过提供更长的雨循环时间来提供周期性的宽限。
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|已暂停 - 注意！未在庇护所中保存的情况下退出会永久结束你的游戏
+For all campaigns, gates will remain open permanently after passing through them once|所有剧情的大门将在通过一次后永久保持打开状态
+Spearing a scavenger directly in their head will do significantly more damage to them|
+The maximum number of subsequent explosion actions Artificer can perform before dying|工匠在死亡前可以执行的后续爆炸动作的最大次数
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|超出限制。你可能需要减小文件大小或删除之前的创意工坊内容。
+A little animal, on the floor of my chamber. I think I know what you are looking for.|小动物，在我房间地面上的那个。我想我知道你在找什么。
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|确定要退出吗？请注意进入一个雨循环30秒后退出计为失败。
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|这些是从五块卵石那里拿来的？<LINE>非常感谢。我确信他不会介意的。
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|使用已于剧情模式中解锁的关卡、物品和生物创建自定义场景。<LINE>可为击败生物和其他行为设定得分，<LINE>但沙盒模式更适于自定义和娱乐！
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|不过对你来说，还有另外一个方法。一条老路。向西穿过农场阵列，然后在大地断裂之处深入地下，<LINE>到你能抵达的最深处，古代文明就在那里建造了他们的神殿并跳着他们愚蠢的仪式舞蹈。
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|在和周围环境的激战中彼此角逐。<LINE>该模式中，吃下食物即可得分，<LINE>玩家存活越久，排名越高。<LINE>关卡、物品和生物可于剧情模式中解锁。
+No items except what you place in the editor|只有你在编辑器中放置的物品
+Allow players above a specific score to exit|允许玩家超过特定分数后离开
+MenuModList_ModButton_NonMouse_Blank_Console|按“左方向键”移动至该内容的切换按键
+ConfigTabController_TabSelectButton_NamedTab|切换至标签<TabName>
+This mod cannot be uploaded to the Workshop.|此模组无法上传至创意工坊。
+It's still warm... this was in use recently.|还很温暖……最近还用过。
+W|胜
+L|败
+Press the MAP button to select the shelter you wish to continue from|按地图按键选择你想继续游戏的庇护所
+These are recommended starting points based on different playstyles.|这些是根据不同的游戏风格推荐的起点。
+It also largely negates the game's difficulty curve and progression.|并且在很大程度上否定了游戏的难度曲线和进程。
+(Normally requires finding Green unlock tokens in the campaign maps)|（通常需要在剧情地图中找到绿色解锁标记）
+“Go west, past the Farm Arrays and then down deep into the earth...”|“向西走，穿过农场阵列。然后深入地下……”
+Please sign in to PlayStation™Network to view leaderboards.|请登录PlayStation™Network查看排行榜。
+Progress towards Trophies will only be tracked for player 1|只会跟踪玩家1的奖杯进度
+This may SIGNIFICANTLY alter your experience with the game.|这可能会显著改变你的游戏体验。
+(Normally requires completing previous campaigns to unlock)|（通常需要完成之前的剧情才能解锁）
+Stop doing... this, or I... will not speak... to you again.|别……这样了，否则我……不会再和你……说话了。
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|你已登出PlayStation™Network。请连接到PlayStation™Network以查看排行榜。
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|通常通过茎干附着在地形上的物品在沙盒模式下会连同其茎干一起生成
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|……你越来越擅长这个了。考古的小野兽。<LINE>我们来看看上面写了什么。
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|点击以禁用所有模组
+This mod does not have any configurable settings.|此模组没有自己的拓展用户界面或配置。
+Thank you little creature. I must resume my work.|谢谢你，小生灵。我得继续工作了。
+Thank you. I must ask you... Don't do that again.|谢谢你。我必须请求你……不要再那样做了。
+Periodically shows tips and tutorials during the loading screen between cycles|在两个雨循环之间的加载界面周期性显示提示和教程
+Adds an additional trajectory of throwing grenades if the up direction is held|
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|针对某些机制和场景引入一些额外的游戏内教程信息
+All cycles will have the same duration, and will always use the longest duration possible|所有雨循环将具有相同的持续时间，并且将始终使用尽可能长的持续时间
+You should try the 'Monk-style Gates' option first before resorting to using this option.|在试图依赖该选项之前，你应该先尝试“僧侣式大门”选项。
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|石头和蜗牛爆破可导致某些生物昏迷的时间增加
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|动态难度受已探索区域数量的影响大于存活的雨循环次数
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|通过快速摇摆移动按键，有机会从不同的抓握中逃脱
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|
+Prevents Jetfish from being able to knock items out of your hands|防止喷气鱼将物品从你手中击落
+Changes the amount of cycles Hunter starts with in their campaign|改变猎手在其剧情中开始时的雨循环数
+You're stuck in a cycle, a repeating pattern. You want a way out.|你被困在了一个周而复始的循环当中。你想要找到出路。
+Another pearl! You want me to read this one too? Just a moment...|又一颗珍珠！你想让我也读一下这个吗？稍等一下……
+A pearl... This one is crystal clear - it was used just recently.|一颗珍珠……这一颗晶莹剔透——这是最近才用过的。
+Gives a small chance of being able to survive a direct attack from a dropwig|
+Use the throw button to activate tongue controls rather than the jump button|使用投掷按键而不是跳跃按键来激活舌头控制
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|传送会将庇护所中的所有关键物品带到新目的地，而不仅仅是胃里面的物品
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|这是一根削尖的钢筋……你想知道什么？<LINE>你似乎很擅长使用它。
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|在地图上追踪关键物品，如果丢失，将在随后的循环中在丢失的位置重新生成
+Centipedes will release you if you go through a pipe while you are grabbed by one|如果你在被一只蜈蚣抓住时穿过管道，蜈蚣会放开你
+Prevents the chance of the region being flooded during a shelter failure scenario|防止在庇护所发生故障的情况下该区域被洪水淹没的可能性
+Makes the death gradients on bottomless pits more visible|使无底深渊上的死亡渐变色更加明显
+Allow throwing spears directionally while in zero gravity|
+This option disables multiple core mechanics of the game.|该选项会禁用多个游戏核心机制。
+It is strange... I'm remembering myself, but also... him.|奇怪了……我想起了自己，但也……想起了他。
+Allow passing any gate for free, regardless of your current karma level|允许自由穿过任意大门，无论当前的业力等级
+Hide the remaining cycle time while in maps that are safe from the rain|在不受雨淋的地图中隐藏剩余的雨循环时间
+And this one is fresh! It was not long ago this data was written to it!|而且这颗很新！里面的数据是不久前才被写入的！
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|启用后，工匠剧情中的所有拾荒者尸体始终具有最大可能的业力值
+Allows certain passages to gain progress even before the Survivor passage has been achieved|在求生者通行证完成之前允许完成其他通行证
+Reduces the volume for the sound effects of gates and shelters opening|降低大门和庇护所打开音效的音量
+Let us try again - not that it has worked well before. I was saying...|我们再试一次——虽然你之前也没有好好听。我刚才在说……
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|如果遇到困难，可以先尝试僧侣剧情。它可以帮助你更好地感受游戏并轻松上手雨世界。
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|启用后，工匠剧情中拾荒者尸体不会在每次雨循环后损失业力
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|（通常需要在剧情地图中提交珍珠并找到广播标记）
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|要知道这并不会让你变得与众不同，从处理层中的微生物，到像我这样的——请见谅<LINE>——相对来说如神一般的存在而言，每个生物都遭遇着相同的困境。
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|看看我这个样子。我能给你的只有几句话而已。<LINE>既然你来到这里，我猜你一定是想听我说几句对吗？那么能请你好好听着吗？<LINE>要是不能的话，你就走吧。
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|坏消息是，我们还没有找到确定的答案。而我们的设备每时每刻都因为风化腐蚀的原因变得更糟。<LINE>我救不了天下众生，也救不了你。我甚至救不了我自己。
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|到最后这一切大概都无足轻重，但你最好换一条路离开。<LINE>换一条不会让你……在我的内存阵列里嬉闹的路。这里就有一个好得不能再好的通道井。
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|不过对你来说，还有另外一个方法。一条老路。向西穿过农场阵列，然后在大地断裂之处深入地下，<LINE>到你能抵达的最深处，古代文明就在那里建造了他们的神殿并跳着他们愚蠢的仪式舞蹈。<LINE>我给你的印记可以让你一路通行无阻。
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|先告诉你好消息。在某种程度上，我就是你在寻找的东西。我和我的同类<LINE>的目标，就是解决你和世间万物心中潜藏的那份幽闭恐惧症。<LINE>真是一次奇怪的施舍——你是个一无所知的受益者，而我是个不情不愿的礼物。至于那些高尚的施舍者呢？<LINE>已经不在了。
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|你能穿过艰难险阻来到这里，一定很勇敢。但很遗憾，你来这里没有任何用处。
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|过了这么久，能遇到一个可以倾诉的对象真是太好了！<LINE>拾荒者不算是好的倾听者。不过他们偶尔会给我带来一些东西……
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|我还在生你的气，但过了这么久，能遇到一个可以倾诉的对象还是挺好的。<LINE>拾荒者不算是好的倾听者。不过他们偶尔会给我带来一些东西……
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|就连时不时来这里的拾荒者，也都一无所获。但是……我已经告诉过你了，不是吗？
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|拾荒者曾经来过我这里。那是拾荒者啊！<LINE>而他们让我活着！<LINE>但……这件事我对你说过，对吧？
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|你得原谅我一直在说重复的话。我的记忆很差。<LINE>本来我是有五个可悲的神经元的……而你吃了一个。<LINE>也许这件事我也对你说过了。
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|或者其实他很介意，不过他的神经元非常多~<LINE>这对他来说无关痛痒。<LINE>但对我来说就是救命稻草！谢谢你，小生灵！
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|虽然你来了，但如果要想听我说话，你就得足够尊敬我。<LINE>这次你会听我的吗？

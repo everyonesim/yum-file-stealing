@@ -1,0 +1,1351 @@
+﻿0THAI|태국어
+Monk|수도승
+AUTO|자동
+INFO|정보
+EXIT|나가기
+Run!|얼른!
+Jump|도약
+Move|이동
+Left|왼쪽
+Down|아래쪽
+View|보기
+Food|음식
+EDIT|수정
+PLAY|플레이
+BACK|뒤로
+NEXT|다음
+You!|너!
+You.|너.
+TRADITIONAL CHINESE|번체 중국어
+Fixed campaign seed|캠페인 시드 고정
+watcher-description|새로운 캠페인 '관찰자'를 추가하는 확장팩입니다. 이 확장팩에는 새로운 지역, 생물, 메커니즘, 아이템, 새로운 음악 트랙 150개 이상 등이 포함되어 있습니다.
+backup_info_loading|저장 슬롯 정보 불러오는 중...
+backup_info_no_data|이 저장 슬롯에는 스토리 데이터가 없습니다.
+backups_description|이전에 백업된 저장 데이터를 보거나, 생성하거나, 복원합니다.
+save_file_corrupted|저장 파일을 읽거나 초기화하는 중 오류가 발생했습니다. 저장 데이터를 보호하기 위해 게임 실행이 중단되었습니다.<LINE>Akupara Games 지원팀에 다음 오류 코드를 기재해 문의해 주시기 바랍니다.<LINE><LINE>오류 코드: {ERROR}<LINE><LINE>저장 파일 불러오기를 재시도하시겠습니까?
+objecttype-PuffBall|포자열매
+objecttype-WaterNut|물떡
+objecttype-Mushroom|버섯
+creaturetype-Spider|무리지네거미
+creaturetype-BigEel|레비아탄
+creaturetype-EggBug|알벌레
+The Monk-linebreaks|수도승
+Speedrun Validation|스피드런 검증
+switch_controls_map|R 버튼
+Showing level names|레벨 이름 표시
+ps4_region_map_help|R1을 눌러 지역 지도 보기
+Successful cycles :|성공한 주기 수:
+Helped Five Pebbles|다섯 조약돌을 도움
+New arenas unlocked|새로운 아레나 해금
+mod_menu_apply_mods|변경한 모드 적용 중, 기다려주세요...
+mod_menu_enable_all|모든 모드 활성화
+Creating index maps|인덱스 맵 생성 중
+OpDragger_MouseTuto|마우스 버튼을 누른 상태에서 위아래로 드래그해 값 조정
+MenuModStat_MapTuto|<Button> 버튼을 길게 눌러 컨트롤 확인
+Loading screen tips|로딩 화면 팁
+Hunter Bonus Cycles|사냥꾼 보너스 주기
+Visual breath meter|남은 숨 표시
+Scavenger headshots|스캐빈저 헤드샷
+NONE (User Defined)|없음(사용자 정의)
+rwremix-description|다양하게 설정 가능한 접근성 기능과 커뮤니티에서 요청한 기능, 새로운 게임플레이 메커니즘과 더 많은 기능을 추가합니다. 설정 화면을 사용해 각 기능을 켜거나 끌 수 있습니다.
+Hello <PlayerName>.|안녕, <PlayerName>.
+still, very... bad.|그래도, 아직... 안 좋아.
+I will take a look.|한 번 볼게.
+There you go again.|또 가버리는구나.
+again... leaving...|또... 떠나네...
+SIMPLIFIED CHINESE|간체 중국어
+No Ringing in Ears|이명 끄기
+remix_game_version|게임 버전이 업데이트되었습니다. 리믹스 메뉴에서 모드를 다시 적용해야 합니다.
+ROUNDS SESSION-ru2|라운드 세션
+objecttype-SeedCob|팝콘 식물
+objecttype-Lantern|등불
+objecttype-FlyLure|박쥐풀
+creaturetype-Leech|거머리
+creaturetype-Snail|달팽이
+creaturetype-Hazer|연막징어
+Industrial Complex|산업 단지
+Scavenger Merchant|스캐빈저 상인
+Path of aggression|폭력의 길
+Catch and eat them|잡아서 먹자
+Configure controls|컨트롤 설정
+No players joined!|참가한 플레이어 없음!
+Start new playlist|새 플레이 목록 시작
+minutes until rain|분 뒤 비
+mod_menu_next_page|View next page of installed mods
+mod_menu_prev_page|View previous page of installed mods
+mod_menu_configure|Change configurations and settings for the selected mod
+OpUpdown_MouseTuto|클릭해서 키보드로 숫자 입력, 화살표 키나 스크롤휠로 조정
+Dialog pauses rain|대사 중 비 멈춤
+Lizard spear pulls|도마뱀 창 뽑기
+Slow Motion Factor|슬로우 모션 비율
+remix_first_launch|리믹스 메뉴에서 추가 콘텐츠와 구성을 사용할 수 있습니다. Rain World 플레이에 콘텐츠를 추가, 수정, 켜고 끄려면 리믹스를 사용하세요.
+remix_dlc_redirect|콘텐츠를 클릭하면 상점 페이지로 방문해 더 자세히 알아볼 수 있습니다.
+How have you been?|어떻게 지냈니?
+You're here again.|또 다시 왔구나.
+...you...killed...|...너... 날...
+Yet another thing?|또 들고 왔어?
+Yet again leaving.|또 다시 떠나네.
+Yes, there you go.|그래, 가는구나.
+As I was saying...|내가 하던 말은...
+Stay! ... Still...|가만히! ... 있어...
+I am... too tired.|나는 너무... 지쳤어.
+Disable Cosmetic Ripples|장식용 잔물결 비활성화
+save_file_error_continue|계속하면 게임을 저장하는 기능에 영향이 가거나 저장 데이터를 잃을 수 있습니다. 정말로 계속할까요?
+objecttype-ScavengerBomb|수류탄
+creaturetype-GreenLizard|초록 도마뱀
+creaturetype-WhiteLizard|하얀 도마뱀
+creaturetype-BlackLizard|검은 도마뱀
+creaturetype-GarbageWorm|쓰레기 벌레
+creaturetype-TempleGuard|가디언
+creaturetype-VultureGrub|독수리 애벌레
+creaturetype-KingVulture|왕독수리
+Predator has become prey|피식자가 된 포식자
+The Chieftain-linebreaks|족장
+Here is a strange energy|기이한 기운이 감돈다
+switch_pause_help_pickup|눌러 물건 줍기
+Change screen resolution|화면 비율 변경
+Arena mode music volume:|아레나 모드 음악 볼륨:
+switch_controls_movement|L 스틱
+switch_controls_hold_map|R 버튼 길게 누르기
+Showing level thumbnails|레벨 섬네일 표시
+ps4_fast_travel_map_help|R1을 눌러 계속하려는 피난처 선택
+ps4_save_progress_failed|진행 데이터 저장 중 오류가 발생했습니다.
+ps4_load_progress_failed|진행 저장 데이터가 손상되어 삭제됩니다.
+mod_menu_load_order_down|모드 변경 사항 적용 시 이 모드를 더 빨리 적용합니다. 이를 통해 모드 충돌을 해결할 수도 있습니다.
+OpComboBox_MouseOpenTuto|클릭해서 목록 열기
+OpScrollBox_NonMouseTuto|결정 버튼을 누르고 조이스틱을 사용해 더 보기
+OpSimpleButton_MouseTuto|마우스 버튼을 클릭해 작동
+ModdingMenu_ControlThrow|뒤로 / 취소
+MenuModStat_ModsDownpour|사전 패키지 모드:
+Keep snails out of pipes|입구에서 달팽이 치우기
+Additional lizard voices|도마뱀 목소리 추가
+Splashes alert creatures|풍덩거리는 소리로 주의 끌기
+Disable shelter failures|피난처 고장 비활성화
+Unlock all sandbox items|모든 샌드박스 아이템 해금
+moreslugcats-description|새로 플레이 가능한 캠페인 다섯 개를 추가하는 확장팩. 각기 시간선의 다른 시점에서 펼쳐집니다. 이 확장팩은 새로운 지역, 생물, 물건, 음악, 추가 엔딩, 새로운 게임 모드, 그 외 더 많은 요소들을 포함합니다.
+...is this reaching you?|...이게 들리나?
+Oh, <PlayerName>. Hello!|아, <PlayerName>. 안녕!
+Oh, <PlayerName>. Hello.|어, <PlayerName>. 안녕.
+Oh... I will look at it.|어... 한 번 볼게.
+Oh... I will take a look|어... 어디 보자.
+...rain... coming... Go!|...비... 온다... 가!
+...please... be still...|...제발... 가만히 있어...
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|일부 워프 지점 주변에 나타나는 장식용 잔물결 효과를 비활성화합니다
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|그래도 누군가 함께 있는 건 좋아. 잠시 머물러도 좋단다, 조용하고 작은 생물아.
+Disable Player Ripple Trail|플레이어 잔물결 흔적 비활성화
+Complete the Hunter passage|사냥꾼 통행권 완료하기
+Complete the Outlaw passage|무법자 통행권 완료하기
+Complete the Friend passage|친구 통행권 완료하기
+Complete the Martyr passage|순교자 통행권 완료하기
+Complete the Mother passage|어머니 통행권 완료하기
+objecttype-FirecrackerPlant|폭죽풀
+creaturetype-SmallCentipede|작은 지네
+Four is enough to hibernate|넷이면 휴면하기엔 충분하다
+invert_x_description_switch|스틱 컨트롤의 가로축을 반전합니다.
+invert_y_description_switch|스틱 컨트롤의 세로축을 반전합니다.
+Player <X> will use gamepad|플레이어 <X> 게임패드 사용
+Player vs player deathmatch|PvP 데스매치
+Play each level three times|각 레벨을 세 번씩 플레이
+switch_fast_travel_map_help|R 버튼을 눌러 계속하려는 피난처 선택
+OpComboBox_NonMouseOpenTuto|결정 버튼을 눌러 목록 펼치기
+OpKeyBinder_MouseSelectTuto|클릭해서 버튼 설정 변경
+OpSlider_NonMouseAdjustTuto|조이스틱으로 값 조절, 결정 버튼으로 적용
+OpColorPicker_MouseTypeTuto|키보드로 원하는 색상의 헥스 코드 입력
+OpSimpleButton_NonMouseTuto|결정 버튼을 눌러 작동
+MenuModStat_ConsoleExplain0|이 메뉴에서 Rain World를 새로운 방식으로 플레이할 수 있는 리믹스 콘텐츠를 켜고 설정할 수 있습니다.
+MenuModList_ListButton_Stat|설치된 모드에 대한 통계 표시
+MenuModList_ListSlider_Desc|원 위에서 마우스 버튼을 누른 상태에서 위아래로 드래그해 모드 목록 스크롤
+MenuModList_SearchBox_Empty|입력해서 검색...
+MenuModList_SearchBox_Query|검색어: <Query>
+Connector_ResetConfig_Alert|<ModName>의 설정이 기본값으로 복구됨
+Arena creatures cannot flee|아레나 생물 도망 막기
+Monk extra light assistance|수도승 빛 증가
+Zero-gravity spear throwing|무중력 창 던지기
+Unlock all arena characters|모든 아레나 캐릭터 해금
+Oh, it's you, <PlayerName>.|어, 너구나, <PlayerName>.
+Please... don't do... that.|제발... 그러지... 마.
+What is that, <PlayerName>?|그건 뭐니, <PlayerName>?
+Want it back, <PlayerName>?|도로 가져가려고, <PlayerName>?
+Why should I tolerate this?|내가 이걸 왜 참아줘야 하는데?
+As I tried to say to you...|내가 하려고 했던 말은...
+Disable the visual trail that follows the player once achieving higher ripple attunement|더 높은 잔물결 조율에 도달했을 때 플레이어를 따라 발생하는 시각적 흔적을 비활성화합니다
+You cannot use PlayStation™Network features in this application due to age restrictions.|연령 제한으로 이 애플리케이션에서 PlayStation™Network 기능을 사용할 수 없습니다.
+The following cheats unlock content you would normally unlock via finding unlock tokens.|다음 치트는 원래 해금 토큰이 있어야 하는 콘텐츠를 해금합니다.
+Disable Lightning Flashes|번개 깜박임 비활성화
+backup_create_description|저장 데이터의 현재 내용을 새로운 백업 저장으로 보관합니다.
+backup_delete_description|백업 저장 목록에서 선택한 백업을 삭제합니다.
+mod_menu_restoring_backup|백업 저장 데이터 복원 시도 중...
+ps4_load_save_slot_failed|저장 슬롯 데이터가 손상되어 삭제됩니다.
+Complete the Monk passage|수도승 통행권 완료하기
+Find a way to communicate|의사소통의 수단을 찾는다
+creaturetype-YellowLizard|노란 도마뱀
+creaturetype-LanternMouse|등불쥐
+creaturetype-RedCentipede|빨간 지네
+One need not travel alone|홀로 여행할 필요는 없다
+You are hungry, find food|배가 고프다, 먹을 것을 찾자
+invert_x_description_xbox|스틱 컨트롤의 가로축을 반전합니다.
+invert_y_description_xbox|스틱 컨트롤의 세로축을 반전합니다.
+Switch to fullscreen mode|전체 화면으로 전환
+OpDragger_NonMouseUseTuto|조이스틱으로 값 조절, 결정 버튼으로 적용
+OpKeyBinder_MouseBindTuto|지정하려는 버튼 누르기(ESC를 눌러 지정 해제)
+OpSlider_NonMouseGrabTuto|결정 버튼을 눌러 사용
+OpHoldButton_NonMouseTuto|결정 버튼을 꾹 눌러 작동
+MenuModStat_ModsInterface|활성화된 모드 중 리믹스 인터페이스가 있는 모드 수: <Number1>(설정 가능: <Number2>)
+Show underwater shortcuts|수중 지름길 표시
+Centipede pipe protection|지네 파이프 보호
+Threat music visual pulse|위협 음악 시각 효과
+Disable precycle flooding|주기 전 침수 비활성화
+Unlock all safari regions|모든 사파리 지역 해금
+ps4_expedition_slot_title|Rain World 원정
+ps4_expedition_core_title|Rain World 원정 주요 정보
+...thank you... better...|...고마워... 좀 낫네...
+Tried to say... to you...|너에게... 말하려고 했어...
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|번개가 칠 때 발생하는 전체 화면 깜박임 및 암전 효과를 비활성화합니다
+Reduce Passive Rain Intensity|패시브 비 강도 감소
+Complete the Survivor passage|생존자 통행권 완료하기
+Complete the Wanderer passage|방랑자 통행권 완료하기
+Five Pebbles (Memory Conflux)|다섯 조약돌 (메모리 합류점)
+Hold to eat / swallow objects|길게 눌러 음식을 먹거나 물건을 삼키기
+Configure controls for player|컨트롤 설정: 플레이어
+Standard items spawn on level|레벨에 일반적인 아이템 생성
+ps4_save_progress_description|Rain World 진행 {0} 저장 데이터
+OpColorPicker_NonMouseSliders|조이스틱으로 위아래로 이동해 선택, 좌우로 값을 조절. 결정 버튼을 눌러 적용
+OpScrollBox_MouseTutoSlidebar|스크롤휠이나 스크롤바를 사용해 더 보기
+ConfigMenuTab_BackButton_Desc|메인 메뉴로 돌아가기
+ConfigMenuTab_SaveButton_Desc|현재 모드 설정을 저장하고 돌아가기
+MenuModList_ModButton_Display|<Mod> 표시
+MenuModList_ListButton_SwapUp|클릭해 위쪽 모드보다 더 늦게 불러오게 하기
+MenuModList_ListButton_SwapDw|클릭해 아래쪽 모드보다 더 먼저 불러오게 하기
+MenuModList_ListButton_Expand|확장해 모드 목록에서 섬네일 표시
+No stealing Hunter back-spear|사냥꾼 등의 창 훔치기 막기
+Scavenger kill squad leniency|관대한 스캐빈저 공격대
+Hide rain timer in safe areas|안전지대에서 비 타이머 숨기기
+No randomized cycle durations|주기 길이 고정
+Rivulet Rain Timer Multiplier|물살이 비 타이머 배수
+Unlock the Outer Expanse gate|바깥 광야 해금
+Steam manager not initialized|Steam 매니저가 초기화되지 않았습니다.
+This one again, <PlayerName>?|또 이거야, <PlayerName>?
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|항상 장식 효과로 주기 내내 비가 내리는 지역에서 비의 강도를 줄입니다
+Reduce Other Effects Density|기타 효과 밀도 감소
+Everything comes full circle|모든 것이 완전히 한 바퀴를 돌았다
+Great strides have been made|대단한 활보를 이루었다
+Complete the Scholar passage|학자 통행권 완료하기
+Complete the Pilgrim passage|순례자 통행권 완료하기
+creaturetype-BrotherLongLegs|브라더 롱 레그
+creaturetype-SmallNeedleWorm|국수파리 유충
+Press any button to continue|아무 버튼이나 눌러 계속
+A Bell, Eighteen Amber Beads|하나의 종, 열여덟 호박구슬
+Two Sprouts, Twelve Brackets|두 새싹, 열두 지지대
+The Dragon Slayer-linebreaks|용살자
+Three is enough to hibernate|셋이면 휴면하기엔 충분하다
+Rain is coming! Find shelter|곧 비가 온다! 피난처를 찾자
+Score required to exit level|레벨에서 나가는 데 필요한 점수
+Always allow players to exit|플레이어 언제나 나가기 허용
+ps4_save_options_description|Rain World 옵션 저장 데이터
+Reloading player progression|플레이어 진행도 다시 불러오는 중
+OpKeyBinder_NonMouseBindTuto|지정하려는 버튼 누르기(PAUSE를 눌러 지정 해제)
+MenuModStat_ModTargetVersion|대상 게임 버전: <TargetVersion>(현재 게임 버전: <GameVersion>)
+Artificer Explosion Capacity|기술병 폭발 출력
+Unlock all sandbox creatures|모든 샌드박스 생물 해금
+Perhaps... I saw you before?|혹시... 내가 널 본 적이 있었을까?
+Oh... Should I look at that?|어... 그걸 살펴봐 줄까?
+A gift for me, <PlayerName>?|내게 주는 선물이니, <PlayerName>?
+Oh... Never mind, I suppose.|아... 별 거 아닌가 보네.
+I will...not speak to you...|너에게는... 이제 말하지 않겠어...
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|바람 흔적, 별가루, 떠다니는 잔해 등 기타 효과의 밀도와 가시성을 줄입니다
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|번쩍이는 빛 또는 눈의 피로에 취약한 경우 강렬한 VFX는 적합하지 않을 수 있습니다
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|물 속에서 풍덩거리면 그 소음을 들은 주변 생물의 주의를 끌 수 있게 된다
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|게임을 아주 쉽게 만들어주는 설정이지만, 전체적인 게임 경험이 약화될 수 있습니다.
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduce Floating Particles Density|부유 입자 밀도 감소
+Droplets upon Five Large Droplets|다섯 알의 큰 물방울 위의 물방울
+Game Over - Press VIEW to restart|게임 오버 - 보기 버튼을 눌러 재시작
+3 - CHOOSE PRESET OR BIND BUTTONS|3 – 사전 설정 선택 또는 버튼 지정
+PICK UP button - Select shelter_1|줍기 버튼 - 피난처 선택
+PICK UP button - Select shelter_2|네모 버튼 - 피난처 선택
+PICK UP button - Select shelter_3|Y 버튼 - 피난처 선택
+PICK UP button - Select shelter_4|왼쪽 버튼 - 피난처 선택
+PICK UP button - Select shelter_5|B 버튼 - 피난처 선택
+OpKeyBinder_ErrorConflictOtherMod|<AnotherModID> 모드와 버튼 충돌
+OpKeyBinder_MouseJoystickBindTuto|설정하고 싶은 버튼 누르기 (ESC를 눌러 할당 해제, CTRL + 숫자를 눌러 컨트롤러 숫자 설정)
+ConfigContainer_AlertCopyCosmetic|<Text> 값을 복사
+ConfigMenuTab_BackHoldButton_Desc|메인 메뉴로 돌아가기(모드 적용하지 않음!)
+Passage progress without Survivor|생존자 없이 통행권 진행
+I will not speak to you any more.|너에게 더 이상 말하지 않을 거야.
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|부패한 포자, 에테르 능선 소금 결정 등 떠다니거나 떨어지는 입자 효과의 밀도를 줄입니다
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|깜박이는 빛을 줄이고, 장식 시각 효과의 밀도를 낮춰 게임플레이 화면을 더욱 선명하게 합니다
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|사슴의 행태 조정 및 사슴의 움직임에 영향을 줄 수 있는 방법 추가
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|<PlayerName>, 떠나는 게 좋겠어! 난 괜찮을 거야.<LINE>즐거운 경험은 아니지만, 이전부터 겪어왔으니까.
+Disable Fetid Glen Rainbow Grain|악취 협곡 거친 입자 비활성화
+Followed your parental instincts|모성 본능을 따랐다
+Player <X> will use the keyboard|플레이어 <X> 키보드 사용
+switch_controls_singlejoycon_map|SR 버튼
+Playing levels in selected order|선택한 순서대로 레벨 플레이
+OpKeyBinder_ErrorConflictVanilla|기본 컨트롤 옵션과 버튼 충돌
+OpKeyBinder_ErrorConflictCurrMod|[<ConflictButton>] 버튼 이미 사용 중
+OpColorPicker_NonMouseModeSelect|결정 버튼을 눌러 모드 선택
+ConfigMenuTab_RevertButton_Label|뒤로
+Scavenger corpses have max karma|스캐빈저 시체 최대 카르마
+Unlock Developer Commentary mode|제작진 해설 모드 해금
+Please... thiss all I have left.|제발... 나한테 남은 건 이것뿐이야.
+Ah... <PlayerName>, you're back!|아... <PlayerName>, 돌아왔구나!
+Ah... <PlayerName>, you're back.|아... <PlayerName>, 돌아왔네.
+NO! I will...not speak to you...|안 돼! 너에겐... 이제 말하지 않을 거야...
+A new gift for me, <PlayerName>?|새로운 선물이니, <PlayerName>?
+<CapPlayerName>, this one again?|<CapPlayerName>, 또 이거야?
+Yes, take it and leave me alone.|그래, 그걸 가져가고 날 내버려둬.
+I think the rain is approaching.|곧 비가 올 것 같아.
+...leaving now? Don't... return.|...떠나는 거야? 돌아오지... 마.
+Remove the grainy effect that appears in the background of Fetid Glen areas|악취 협곡의 배경에 나타나는 거친 입자 효과를 제거합니다
+Go explore! There is food and shelter to be found, but beware of predators.|탐험해보자! 음식과 피난처를 찾으러 다니되, 포식자를 조심하자.
+Prevents underwater shortcut symbols from being obscured by the water layer|물속의 지름길 기호가 물 레이어로 가려지는 것을 방지
+Changes the amount of bonus cycles Hunter can receive during their campaign|사냥꾼이 캠페인 중 받을 수 있는 보너스 주기 수 변경
+The current session playtime will always be visible as a UI element in-game|캠페인 중 캐릭터의 총 플레이 시간을 게임 내 UI에 지속 표시
+This option significantly decreases the difficulty of Artificer's campaign.|이 옵션은 기술병 캠페인의 난이도를 크게 낮춥니다.
+Your account is in read-only mode due to a recent password or email change.|최근 비밀번호 또는 이메일을 변경했기 때문에 계정이 읽기 전용 상태입니다.
+These settings adjust the density of VFX for visual accessibility needs.|이러한 설정은 시각적 접근성 지원을 위해 VFX 밀도를 조정합니다.
+Show tutorial messages for Watcher's mechanics during the story campaign|스토리 캠페인 진행 중 관찰자의 메커니즘에 대한 튜토리얼 메시지 표시
+Stops Scavengers from being able to steal the spear off of Hunter's back|스캐빈저가 사냥꾼 등에 있는 창을 훔치지 못하게 함
+Allow throwing spears upwards during a backflip in addition to downwards|특정 상황에서 물건을 던질 수 있는 방향과 방법 추가
+REDUCED|감소
+MINIMAL|최소
+Special|특수
+RESTORE|복원
+BACKUPS|백업
+No data|데이터 없음
+Closure|마무리
+REGIONS|지역
+OPTIONS|옵션
+The Leg|각부
+CREDITS|제작진
+ENGLISH|영어
+ITALIAN|이탈리아어
+SPANISH|스페인어
+RUSSIAN|러시아어
+CHINESE|중국어
+GAMEPAD|게임패드
+Hold R1|R1 길게 누르기
+Options|OPTIONS
+Hold RB|RB 길게 누르기
+minutes|분
+No rain|비 없음
+Survive|생존
+Winner!|승자!
+RESTART|재시작
+PASSAGE|통행권
+Quits :|종료 횟수:
+Ranking|랭킹
+Profile|프로필
+In Game|게임 내
+In Menu|메뉴 내
+Version|버전
+General|일반
+Presets|사전 설정
+CLASSIC|클래식
+RELAXED|편안함
+Assists|보조
+Failure|실패
+...you.|...너.
+Please!|제발!
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|일부 장식 시각 효과가 완전히 비활성화되며, 나머지도 크게 감소합니다
+Close Map Button|지도 버튼 - 지도 닫기
+Enable tutorials|튜토리얼 활성화
+Follow the guide|안내를 따른다
+objecttype-Spear|창
+creaturetype-Fly|박쥐파리
+Select save slot|저장 슬롯 선택
+Movement Buttons|이동 버튼
+Shuffling levels|레벨 무작위 셔플
+Playing in order|순서대로 플레이
+rounds per level|라운드(레벨당)
+Random creatures|무작위 생물
+Trophy Collector|트로피 수집가
+Press ? to start|?를 눌러 시작
+mod_menu_restart|모드를 적용하려면 게임을 다시 시작해야합니다. 계속 버튼을 누르고 게임을 다시 실행하세요.
+Applying Changes|변경 사항 적용 중
+Vulture darkness|어두운 독수리
+Vanilla exploits|기존 버그 복구
+Aggressive Saint|공격적인 성자
+Gameplay Assists|게임플레이 보조
+Generic failure.|일반적 실패입니다.
+remix_dlc_launch|새로운 DLC가 발견되었습니다! 설치된 DLC는 리믹스 메뉴에서 찾아 활성화할 수 있습니다.
+remix_dlc_locked|이 콘텐츠를 사용하려면 추가 DLC를 구매하셔야 합니다.
+...yes... leave.|...그래... 가버려.
+You... are back.|도로... 왔네.
+Little tormentor|작은 고문자
+Unlock Hunter campaign|사냥꾼 캠페인 해금
+backup_restore_confirm|현재 저장 데이터가 제거됩니다!<LINE><LINE>복원을 선택하면 모든 저장 슬롯의 저장 데이터를 이 백업의 데이터로 덮어씁니다.<LINE>이 작업은 영구적이며 되돌릴 수 없습니다.<LINE><LINE>정말 {X}의 데이터로 현재 저장 데이터를 덮어쓸까요?
+backup_restore_success|{X}의 저장 데이터가 복원되었습니다.
+backup_info_disclaimer|(여기 표시되는 데이터는 현재 활성화된 모드를 기반으로 합니다.<LINE>여기에는 현재 비활성화된 모드의 추가 데이터가 존재할 수도 있습니다.)
+A final charitable act|마지막 관대한 행위
+Path of self-sacrifice|자기희생의 길
+objecttype-VultureMask|독수리 가면
+objecttype-DangleFruit|파란 열매
+objecttype-KarmaFlower|카르마 꽃
+objecttype-BubbleGrass|거품풀
+creaturetype-RedLizard|빨간 도마뱀
+creaturetype-PoleMimic|장대식물
+creaturetype-MirosBird|가위새
+creaturetype-Centipede|지네
+creaturetype-Centiwing|날개지네
+creaturetype-Scavenger|스캐빈저
+creaturetype-BigSpider|큰 거미
+Stronger climbing grip|장대 꽉 붙들기
+Path of the vegetarian|채식주의자의 길
+The Scholar-linebreaks|학자
+The Journey-linebreaks|여정
+switch_tutorial_crouch|아래 버튼을 짧게 눌러 웅크린다
+Tap to pick up objects|탭해 물건 줍기
+Test your new controls|새로운 컨트롤 테스트
+switch_controls_pickup|Y 버튼
+switch_region_map_help|R 버튼을 눌러 지역 지도 보기
+Sandbox item unlocked:|샌드박스 아이템 해금:
+ps4_save_options_title|Rain World 옵션
+mod_menu_load_order_up|모드 변경 사항 적용 시 이 모드를 더 나중에 적용합니다. 이를 통해 모드 충돌을 해결할 수도 있습니다.
+OpSlider_MouseTutoHrzt|마우스 버튼을 누른 상태에서 좌우로 드래그해 값 조정
+OpSlider_MouseTutoVrtc|마우스 버튼을 누른 상태에서 위아래로 드래그해 값 조정
+OpTextBox_NonMouseTuto|이 요소는 컨트롤러로 수정할 수 없습니다.
+OpHoldButton_MouseTuto|마우스 버튼을 길게 눌러 작동
+ModdingMenu_ControlMap|컨트롤 보기
+MenuModStat_ModsRegion|활성화된 지역 모드 수: <Number>
+MenuModList_SwapFailed|필요 모드를 종속 모드보다 더 먼저 불러올 수 없습니다.
+OIError_Message_Update|OptionInterface 실행 중 문제가 발생했습니다.
+New dynamic difficulty|새로운 동적 난이도
+Legacy tongue controls|구버전 혀 컨트롤
+Upwards spear throwing|투척 궤적 추가
+Quieter gates/shelters|더 조용한 관문/피난처
+Faster shelter opening|더 빠른 피난처 개방
+Pull spears from walls|벽에서 창 회수
+Unlock all collections|모든 컬렉션 해금
+expedition-description|이 새롭고 어려운 게임 모드에서 원정에 나서보세요. 영구적인 죽음을 피해 완전히 무작위로 제시되는 도전을 완료하며 유용한 특전, 어려운 고난, 주크박스에서 재생할 음악을 새로 해금합니다.
+Please leave me alone.|제발 날 내버려둬.
+That... Oh, thank you.|그건... 아, 고마워.
+...don't... come back.|...돌아오지... 마.
+Oh... You are leaving.|아... 떠나는구나.
+Good bye, I suppose...|잘 가, 라고 해야겠지...
+Unlock Watcher arena character|관찰자 아레나 캐릭터 해금
+ps4_load_save_slot_load_failed|저장 슬롯을 불러올 수 없습니다. 오류 코드: {ERROR}
+ps4_load_expedition_run_failed|원정 플레이 데이터를 불러올 수 없습니다. 오류 코드: {ERROR}
+You have found another way out|다른 출구를 찾았다
+Complete the Chieftain passage|족장 통행권 완료하기
+Complete the game as The Saint|성자로 게임을 완료한다
+This land has become your home|이 땅이 당신의 집이 되었다
+switch_pause_help_switch_hands|두 번 눌러 양손의 물건을 바꾸기
+Playing levels in random order|무작위 순서로 레벨 플레이
+OpKeyBinder_NonMouseSelectTuto|도약 버튼을 눌러 버튼 지정 변경
+ConfigMenuTab_ApplyButton_Desc|현재 선택한 모드 적용
+ConfigMenuTab_BackButton_Label|나가기
+ConfigMenuTab_SaveButton_Label|적용
+ConfigMenuTab_ResetButton_Desc|현재 모드의 설정 초기화
+No Hunter batfly auto-grabbing|사냥꾼 박쥐파리 자동 잡기 막기
+Disable all karma requirements|모든 카르마 조건 비활성화
+Saint environmental protection|성자 환경 보호
+mod_workshop_upload_buttondesc|선택한 모드를 Steam 창작마당에 업로드
+It's you, <PlayerName>. Hello.|너구나, <PlayerName>. 안녕.
+NO! ... no. Let it go, please.|안 돼! ... 안 돼. 놓아줘, 제발.
+You... brought that... for me?|그거... 날 위해... 가져온 거야?
+And now you're taking it back.|그리고 다시 가져가는구나.
+Please. Be still for a moment.|제발. 좀 가만히 있어 줄래.
+<CapPlayerName>... Never mind.|<CapPlayerName>... 아니, 됐어.
+Special Button|특수 버튼
+A Helping Hand|도움의 손길
+mod_menu_error|다음 오류 때문에 모드 적용에 실패했습니다.
+Garbage Wastes|쓰레기 폐기장
+Shaded Citadel|그늘진 성채
+Chimney Canopy|굴뚝 덮개
+Unknown Region|미지의 지역
+Scavenger Toll|스캐빈저 요금소
+RESET PROGRESS|진행 상황 초기화
+Input Settings|입력 설정
+Pick-Up Button|줍기 버튼
+ROUNDS SESSION|라운드 세션
+RESUME SESSION|세션 재개
+Clear playlist|플레이 목록 삭제
+Eating contest|먹기 대회
+Aggressive AI:|공격적인 AI:
+Change Profile|프로필 변경
+mod_menu_apply|선택 모드에 대한 변경 사항 적용
+Speedrun timer|스피드런 타이머
+jollycoop-name|졸리 협동
+Leaving again.|또 떠나는구나.
+switch_controls_singlejoyconl_special|위 버튼
+Something lurks amongst the clouds...|구름 사이에 무언가가 숨어있다...
+Take the longer path to enlightenment|더 긴 길을 돌아 계몽을 얻는다
+A significant gain, but at what cost?|상당한 이득을 얻었다. 하지만 그 대가는?
+Game Over - Press + Button to restart|게임 오버 - + 버튼을 눌러 재시작
+Game Over - Press - Button to restart|게임 오버 - - 버튼을 눌러 재시작
+switch_controls_singlejoycon_hold_map|SR 버튼 길게 누르기
+switch_controls_singlejoyconr_special|Y 버튼
+Hold and drag to adjust score awarded|길게 누른 채 드래그해 점수 조정
+ConfigContainer_AlertPasteNoncosmetic|<Text> 값을 <ObjectName>에 붙여넣음
+MenuModList_ModButton_Enable_NonMouse|결정 버튼을 눌러 모드 켜기, 결정 버튼을 누르고 조이스틱으로 적용 순서 변경
+Press CONTINUE to view and accept it.|계속 버튼을 눌러 확인하고 동의하십시오.
+Thank you. I do wonder what you want.|고마워. 네가 뭘 원하는 건지 정말 궁금해지네.
+Another thing you want me to look at?|내가 봐 줬으면 하는 것이 또 있니?
+Would you like me to read this pearl?|이 진주를 읽어줬으면 하는 거야?
+And now you're taking it, apparently.|다시 가져가려는 거구나.
+Triangle|세모 버튼
+Survivor|생존자
+Invert X|X축 반전
+Invert Y|Y축 반전
+Champion|투사
+NEW GAME|새 게임
+THE MONK|수도승
+Exterior|외부
+The Wall|겉벽
+The Monk|수도승
+WINDOWED|창 모드
+LANGUAGE|언어
+JAPANESE|일본어
+KEYBOARD|키보드
+Keyboard|키보드
+4 - TEST|4 - 테스트
+STANDARD|기본
+CONTINUE|계속
+Add item|아이템 추가
+Deaths :|사망 횟수:
+Ascended|승천
+PREVIOUS|이전
+SaveData|저장 데이터
+Presets:|사전 설정:
+Oh. You.|아. 너구나.
+creature|생물
+Seed the determinations of warp point destinations to create less randomness in runs|워프 도착 지점을 정하는 시드를 고정해 플레이마다 무작위성 감소
+Increases the amount of time before you are forced to come up for air while drowning|물속에서 질식해서 위로 올라가질 때까지 버틸 수 있는 시간 증가
+Unlock Watcher campaign|관찰자 캠페인 해금
+backup_info_description|선택한 백업 내용에 대한 정보를 봅니다.
+mod_menu_restore_backup|저장 파일을 읽거나 초기화하는 과정에서 오류가 발생했습니다. 그러나 이 시스템에서 백업 저장 파일이 감지되었습니다. <LINE><LINE>복원을 시작하려면 계속을 선택하세요.
+Fates have been flipped|운명이 뒤바뀌었다
+creaturetype-PinkLizard|분홍 도마뱀
+creaturetype-BlueLizard|파란 도마뱀
+creaturetype-Salamander|도롱뇽
+creaturetype-CyanLizard|하늘 도마뱀
+Embraced by a new tribe|새 부족에게 받아들여지다
+The Survivor-linebreaks|생존자
+The Wanderer-linebreaks|방랑자
+invert_x_description_ps|스틱 컨트롤의 가로축을 반전합니다.
+invert_y_description_ps|스틱 컨트롤의 세로축을 반전합니다.
+Gamepad <X> (Not found)|게임패드 <X>(찾을 수 없음)
+switch_controls_special|X 버튼
+No rain timer exception|비 타이머 고정
+Sandbox items unlocked:|샌드박스 아이템 해금:
+ps4_save_progress_title|Rain World 진행 {0}
+ps4_save_options_failed|옵션 데이터 저장 중 오류가 발생했습니다.
+ps4_load_options_failed|옵션 저장 데이터가 손상되어 삭제됩니다.
+Failed to get rankings.|랭킹을 가져오지 못했습니다.
+Switch to windowed mode|창 모드로 전환
+OpCheckBox_NonMouseTuto|결정 버튼을 눌러 끄고 켜기
+OpComboBox_MouseUseTuto|상자를 더블 클릭해 검색
+OpRadioButton_MouseTuto|클릭해서 이 선택지 고르기
+OpTextBox_MouseTutoGrab|클릭하여 입력 시작
+OpTextBox_MouseTutoType|키보드를 사용해 입력, 엔터 키를 눌러 적용
+ModdingMenu_ControlJump|선택 / 결정
+ModdingMenu_ControlMove|이동/조정
+ModdingMenu_ControlPckp|클립보드
+MenuModList_AskModApply|모드를 설정하기 전에 모드 적용 버튼부터 누르세요.
+Jetfish item protection|제트물고기 물건 보호
+Currently Active Preset|현재 사용 중인 사전 설정
+mod_workshop_upload_ask|이 모드를 Steam 창작마당에 업로드하시겠습니까?
+Hello there! You again!|안녕! 또 너구나!
+Hello there. You again!|안녕. 또 너구나!
+No, please, release it!|안 돼, 제발, 놓아줘!
+That... That is for me?|그... 그거 나 주려는 거야?
+...oh... to... save me?|...아... 날... 구해주려고?
+Thank you so very much!|정말 너무나도 고마워!
+Thank you... Sincerely.|고마워... 진심이야.
+Let's see... A pearl...|어디 보자... 진주네...
+Why are you doing this?|왜 이러는 거야?
+Please don't come back.|제발 돌아오지 마.
+(Normally requires completing the game as Survivor or Monk to unlock)|(원래 생존자나 수도승으로 게임을 완료해 해금해야 합니다.)
+WARNING! This will reset all of your progress except map exploration.|경고! 지도 탐험도를 제외한 진행 상황이 모두 초기화됩니다.
+Red Lizards have a tongue and can snap spears in half with their bite|빨간 도마뱀에 혀가 달리고, 창을 깨물어 파괴할 수 있음
+(Normally requires finding Orange unlock tokens in the campaign maps)|(일반적으로 캠페인 세계에서 주황색 해금 토큰을 찾아야 해금 가능)
+The intended gameplay loop is to have to actively hunt fresh corpses.|계속해서 신선한 시체를 사냥해야 하는 것이 의도된 게임플레이입니다.
+Some of the metadata for this mod was invalid and cannot be accepted.|이 모드의 메타데이터가 유효하지 않아 사용할 수 없습니다.
+Maybe this is asking too much... But, would you bring me another one?|무리한 부탁일 수도 있지만... 하나 더 가져와 줄 수 있을까?
+The rain is coming. If you stay, you will drown. Now, leave me alone.|곧 비가 올 거야. 네가 여기 남아있다면 익사하겠지. 자, 이제 날 혼자 내버려둬.
+watcher-name|관찰자
+Restart game|게임 재시작
+THE SURVIVOR|생존자
+The Exterior|외부
+Five Pebbles|다섯 조약돌
+Subterranean|지하
+The Survivor|생존자
+The Wanderer|방랑자
+A New Friend|새로운 친구
+You are full|배가 가득 찼다
+Leap the gap|틈을 건너자
+View credits|제작진 보기
+Pause Button|일시 정지 버튼
+Throw Button|투척 버튼
+Select level|레벨 선택
+Low wildlife|야생 생물 적음
+Level Items:|레벨 아이템:
+Barren level|불모지 레벨
+IT'S A DRAW!|무승부!
+Add creature|생물 추가
+Minor Assist|보조 지원
+Major Assist|주요 지원
+CLOSE MANUAL|안내서 닫기
+rwremix-name|Rain World 리믹스
+...please...|...제발...
+PICK UP button - Return to regional map_1|줍기 버튼 - 지역 지도로 돌아가기
+PICK UP button - Return to regional map_2|네모 버튼 - 지역 지도로 돌아가기
+PICK UP button - Return to regional map_3|Y 버튼 - 지역 지도로 돌아가기
+PICK UP button - Return to regional map_4|왼쪽 버튼 - 지역 지도로 돌아가기
+PICK UP button - Return to regional map_5|B 버튼 - 지역 지도로 돌아가기
+ps4_load_save_slot_restore_corrupt_failed|저장 슬롯 데이터가 손상되었습니다.<LINE>데이터 백업은 존재하지만, 백업 데이터를 복원하려던 중 오류가 발생했습니다.
+Assign player <X> to the default controls|<X> 플레이어를 기본 컨트롤에 할당
+Something lurks above the chimney tops...|굴뚝 꼭대기 위에 무언가가 숨어있다...
+These pearls are valued by the Scavengers|이 진주는 스캐빈저들이 귀하게 여기는 것이다
+Game Over - Press PAUSE BUTTON to restart|게임 오버 - PAUSE 버튼을 눌러 재시작
+Player <X> will use any connected gamepad|플레이어 <X> 아무 입력 장치나 사용
+switch_single_joycon_fast_travel_map_help|SR 버튼을 눌러 계속하려는 피난처 선택
+Press the MAP button to view regional map|맵 버튼을 눌러 지역 지도 보기
+Jellyfish are vulnerable to being stabbed|해파리가 찔릴 수 있음
+Are you sure you want to use this preset?|정말로 이 사전 설정을 사용하시겠습니까?
+Makes Saint's body immune to the elements|성자의 몸이 환경에 면역이 되도록 한다
+The operation timed out. Try again later.|작업 시간이 초과되었습니다. 나중에 다시 시도해주세요.
+This item already exists on the workshop.|이 아이템은 이미 창작마당에 존재합니다.
+Previously uploaded mod has been updated.|이전에 업로드한 모드가 업데이트되었습니다.
+And...now you expect me to... talk again?|그래 놓고... 이젠 나더러 다시 말하라는... 거야?
+JUMP button - View map for region_1|도약 버튼 - 지역 지도 보기
+JUMP button - View map for region_2|엑스 버튼 - 지역 지도 보기
+JUMP button - View map for region_3|B 버튼 - 지역 지도 보기
+JUMP button - View map for region_4|아래 버튼 - 지역 지도 보기
+JUMP button - View map for region_5|A 버튼 - 지역 지도 보기
+ps4_load_expedition_restore_corrupt|원정 핵심 데이터가 손상되었지만, 데이터의 최신 백업을 복원할 수 있었습니다.
+You return from scouting a new land|새로운 땅 정찰에서 돌아왔다
+Four Needles under Plentiful Leaves|무성한 이파리 아래 네 바늘
+However, the game will not be saved|그런 경우 게임은 저장되지 않는다
+PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>무선 컨트롤러 설정
+Hold Pause Button or Escape to exit|일시 정지 버튼이나 Esc를 길게 눌러 나가기
+switch_controls_singlejoyconl_pause|- 버튼
+switch_controls_singlejoyconl_throw|오른쪽 버튼
+switch_controls_singlejoyconr_pause|+ 버튼
+switch_controls_singlejoyconr_throw|X 버튼
+Press to add Player <X> to the game|눌러서 플레이어 <X> 게임에 추가
+ps4_save_progress_failed_free_space|진행 데이터 저장 중 오류가 발생했습니다. 남은 공간이 부족합니다. 재시도하시겠습니까?
+USE UP + DOWN TO ADJUST SCREEN SIZE|위 + 아래 버튼으로 화면 크기 조정
+ConfigMenuTab_RevertHoldButton_Desc|현재 모드 설정에 대한 변경 사항을 취소하고 돌아가기
+MenuModList_ModButton_NameAndAuthor|<ModName>(제작: <ModAuthor>)
+MenuModList_ModButton_Disable_Mouse|<Mod> 비활성화
+Could not find the files to upload.|업로드할 파일을 찾지 못했습니다.
+Get... get away... white.... thing.|저... 저리 가... 하얀.... 것.
+Thank you, again. I feel wonderful.|다시 한번 고마워. 훨씬 나아졌어.
+You want me to take a look at that?|내가 이걸 봐주었으면 하는 거야?
+Ah, you would like me to read this?|아, 내가 이걸 읽어줬으면 하는 거야?
+This... time... don't... come back.|이번... 에는... 돌아... 오지 마.
+Hunter|사냥꾼
+Random|무작위
+CREATE|생성
+DELETE|삭제
+PRESET|사전 설정
+CANCEL|취소
+Depths|심층
+SCREEN|화면
+FRENCH|프랑스어
+GERMAN|독일어
+KOREAN|한국어
+Player|플레이어
+Square|네모 버튼
+Circle|동그라미 버튼
+Arrows|화살표
+Paused|일시 정지
+minute|분
+PLAYER|플레이어
+ALWAYS|언제나
+REMOVE|제거
+Food :|음식:
+Time :|시간:
+cancel|취소
+Select|선택
+? Back|? 뒤로
+? play|? 플레이
+Legacy|레거시
+Cheats|치트
+MANUAL|안내서
+TOPICS|주제
+UPLOAD|업로드
+LEAVE.|나가.
+You...|너...
+Hello!|안녕!
+Hello.|안녕.
+Again.|또네.
+*sigh*|하아...
+friend|친구
+little|작은
+[ Notice ]|[ 알림 ]
+STORY DATA|스토리 데이터
+The Martyr|순교자
+The Mother|어머니
+Rain World|Rain World
+STATISTICS|통계
+THE HUNTER|사냥꾼
+The Hunter|사냥꾼
+The Outlaw|무법자
+The Friend|친구
+Pilgrimage|순례
+FULLSCREEN|전체화면
+SAVE FILES|저장 파일
+PORTUGUESE|포르투갈어
+TEST INPUT|입력 테스트
+Left Stick|왼쪽 스틱
+Hold Space|스페이스 바 길게 누르기
+Map Button|지도 버튼
+Free food!|공짜 음식!
+Loading...|불러오는 중...
+CROSS-SAVE|크로스플레이 저장
+Load Order|불러오기 순서
+Oh, hello!|아, 안녕!
+Oh, hello.|어, 안녕.
+You again.|또 너구나.
+...rain...|...비...
+...stop...|...멈춰...
+Thank you.|고마워.
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|모드를 불러오는 중 문제가 발생했습니다!<LINE>문제가 되는 모드를 비활성화합니다.<LINE>계속을 누르고 게임을 다시 실행하세요.
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...네가 나를... 먹었어. 제발 저리 가. 너에겐 말하지... 않을 거야.<LINE>난... 너랑 말을 '할 수가 없어'... 네가 나를... 먹었으니까...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|처음엔 나를 해치더니, 이제는 돌아와서 날 귀찮게 하는구나.<LINE>네가 그 조그마한 머리로 어떤 생각을 하는지 참으로 궁금하네.
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|화약으로 만든 무기구나. 스캐빈저들이 네게 이걸 준거니?<LINE>이걸 써야 할 때는 각별히 주의하도록 해!
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|사용자 모드 데이터와 게임 모드 데이터 사이 비동기화가 탐지되었습니다!<LINE>데이터를 다시 동기화합니다.<LINE>계속을 누르고 게임을 다시 실행하세요.<LINE>비활성화된 모드:
+Stops nearby explosions causing a ringing sound to play|근처에서 폭발 발생 시 귀에 울리는 소리 제거
+Find the canonical ending to The Spearmaster's campaign|창술가 캠페인의 정식 엔딩을 찾는다
+Assign player <X> to the default PS4 Dualshock controls|<X> 플레이어를 기본 DUALSHOCK®4 컨트롤에 할당
+Strange... it seems to have been used not too long ago.|이상하네... 이건 얼마 전까지도 사용됐던 것 같아.
+backup_delete_confirm|{X} 백업을 정말로 삭제하시겠습니까?<LINE>이 작업은 되돌릴 수 없습니다.
+backup_delete_success|{X}이(가) 삭제되었습니다.
+backup_create_success|현재 저장 데이터에서 새로운 {X} 백업이 생성되었습니다.
+backup_restore_failed|백업 저장 데이터를 복원하는 중 오류가 발생했습니다. 저장 데이터를 보호하기 위해 게임 실행이 중단되었습니다.<LINE><LINE>백업 데이터 복원을 재시도하시겠습니까?
+Take what isn't yours|당신의 것이 아닌 것을 가져간다
+Generating map images|지도 이미지 생성 중
+objecttype-SporePlant|벌집
+objecttype-NSHSwarmer|초록 신경
+creaturetype-SeaLeech|바다 거머리
+creaturetype-TubeWorm|밧줄벌레
+creaturetype-Overseer|감시자
+Path of the carnivore|포식자의 길
+The Hunter-linebreaks|사냥꾼
+The Outlaw-linebreaks|무법자
+The Friend-linebreaks|친구
+Sound effects volume:|효과음 크기:
+XBox Controller Setup|XBox 컨트롤러 설정
+switch_controls_pause|+ 버튼
+switch_controls_throw|A 버튼
+Add level to playlist|플레이 목록에 레벨 추가
+switch_update_players|플레이어 업데이트
+Play each level twice|각 레벨을 두 번씩 플레이
+mod_menu_reapply_mods|이전 게임 실행 이후 일부 모드가 업데이트되었습니다. 계속 버튼을 눌러 업데이트를 적용하세요.
+OpUpdown_NonMouseGrab|결정 버튼을 눌러 사용
+OpScrollBox_MouseTuto|스크롤휠을 사용해 더 보기
+ModdingMenu_PckpTuto0|클립보드 버튼 조작법:
+ModdingMenu_PckpTuto1|설정할 수 있는 요소를 먼저 결정 버튼으로 선택한다
+ModdingMenu_PckpTuto2|클립보드 버튼을 누르면서 결정 버튼을 눌러 클립보드로 복사한다
+ModdingMenu_PckpTuto3|클립보드 버튼을 누르면서 취소 버튼을 눌러 클립보드에서 붙여넣기 한다
+MenuModList_DummyDesc|레인월드의 기본 버전
+OIError_GeneralAdvice|이는 최신 버전의 모드를 다운로드해 해결할 수 있습니다.
+No swim boost penalty|수영 가속 페널티 제거
+Rain Timer Multiplier|비 타이머 배수
+Tweaked deer behavior|사슴 행태 수정
+Alternate grenade arc|폭탄 궤적 추가
+Item stems in sandbox|샌드박스에서 아이템 줄기
+Reduce screen shaking|화면 흔들림 감소
+Unlock all challenges|모든 도전 해금
+Gathering information|정보 수집 중
+jollycoop-description|플레이어 4명까지 함께할 수 있는 로컬 협동 스토리 및 기타 게임 모드입니다. 친구와 함께하는 여정이 더 나은 법이죠!
+You had your chances.|기회를 줬건만.
+Oh, you want it back?|아, 다시 가져가게?
+backup_restore_description|현재 저장 데이터를 선택한 백업 내용으로 덮어씁니다.
+ps4_load_expedition_failed|원정 플레이 데이터가 손상되어 삭제됩니다.
+Complete the Saint passage|성자 통행권 완료하기
+Complete the Nomad passage|유목민 통행권 완료하기
+objecttype-SLOracleSwarmer|신경
+objecttype-SSOracleSwarmer|신경
+objecttype-OverseerCarcass|감시자 눈
+creaturetype-DaddyLongLegs|대디 롱 레그
+creaturetype-TentaclePlant|괴물해초
+creaturetype-SpitterSpider|발사거미
+creaturetype-BigNeedleWorm|국수파리
+Briefly tap DOWN to crouch|아래 버튼을 짧게 탭해 웅크린다
+Double tap to switch hands|두 번 탭해 양손의 물건을 바꾸기
+Player <X> is in the game!|플레이어 <X> 게임 참가!
+Remove level from playlist|플레이 목록에서 레벨 제거
+Resume unfinished playlist|끝나지 않은 플레이 목록 재개
+Play each level four times|각 레벨을 네 번씩 플레이
+Play each level five times|각 레벨을 다섯 번씩 플레이
+mod_menu_fail_requirements|요건을 충족하지 않는 부분이 있어 이 모드를 사용할 수 없습니다! 다음 추가 모드가 설치되어 있는지, 각각의 추가 모드에 문제가 없는지 확인하세요.
+OpComboBox_MouseSearchTuto|상자에 키워드를 입력해 검색
+OpComboBox_NonMouseUseTuto|조이스틱으로 스크롤, 결정 버튼으로 선택
+OpDragger_NonMouseGrabTuto|결정 버튼을 눌러 사용
+OpRadioButton_NonMouseTuto|결정 버튼을 눌러 이 선택지 고르기
+OpColorPicker_MouseRGBTuto|빨강/초록/파랑 슬라이더로 색상 선택
+OpColorPicker_MouseHSLTuto|네모 색상 선택기와 명도 슬라이더로 색상 선택
+OpColorPicker_MousePLTTuto|팔레트에서 색상 선택
+MenuModList_SearchBox_Desc|클릭하고 입력해 모드 검색
+Connector_SaveConfig_Alert|<ModName>의 현재 설정 저장됨
+OIError_Message_Initialize|OptionInterface를 불러오는 데 문제가 발생했습니다.
+Vulture grub arena variety|아레나 독수리 애벌레 다양화
+Lossless scavenger corpses|상하지 않는 스캐빈저 시체
+Continue to the next cycle|다음 주기로 계속하기
+Or did I say that already?|아니면 이 말도 전에 했었나?
+Hello again, <PlayerName>!|다시 만났네, <PlayerName>!
+Hello again, <PlayerName>.|다시 만났구나, <PlayerName>.
+I will accept your gift...|그 선물은 받아 둘게...
+CLOSE|닫기
+STORY|스토리
+ARENA|아레나
+REMIX|리믹스
+Cycle|주기
+Music|음악
+INPUT|입력
+Pause|일시 정지
+Throw|투척
+Right|오른쪽
+Cross|엑스 버튼
+Space|스페이스 바
+Shift|Shift
+PLAY!|플레이!
+Play!|플레이!
+ERROR|오류
+SCORE|점수
+ROUND|라운드
+APPLY|적용
+Other|기타
+Remix|리믹스
+...me|...죽였어
+Oh...|오...
+STOP!|멈춰!
+no...|그만...
+ps4_load_expedition_run_restore_corrupt_failed|원정 플레이 데이터가 손상되었습니다.<LINE>플레이 데이터 백업은 존재하지만, 백업 데이터를 복원하려던 중 오류가 발생했습니다.
+You have delivered your most important message|당신의 가장 중요한 전갈을 배달했다
+You completed every challenge laid before you.|당신 앞에 있는 모든 도전을 완료했다
+Clear every milestone quest in Expedition Mode|원정 모드의 모든 이정표 탐구를 해낸다
+You are not the only lost soul in this world..|이 세상에서 길 잃은 영혼은 당신만이 아니다.
+Additional food (above four) is kept for later|추가로 네 칸 넘게 먹은 음식은 다음을 위해 축적한다
+Grab your prey and hold the eat button to feed|사냥감을 붙잡고 먹기 버튼을 길게 눌러 먹는다
+MenuModList_ModButton_Disable_NonMouse_Console|결정 버튼을 눌러 이 콘텐츠 끄기, 오른쪽을 눌러 목록으로 돌아가기
+MenuModList_ModButton_NonMouse_Display_Console|결정 버튼을 눌러 표시, 왼쪽을 눌러 이 콘텐츠 스위치로 이동
+ConfigTabController_TabSelectButton_UnnamedTab|<TabIndex>번 탭으로 전환
+Not that it solves anyone's problem but yours.|그게 다른 누구를 돕진 못하겠지만, 네 문제 정도는 해결해주겠지.
+As I mentioned you do not have unlimited time.|이미 말했듯, 네가 가진 시간은 무한하지 않아.
+Another? You're no better than the scavengers!|또야? 너 스캐빈저와 별다를 게 없구나!
+I won't talk to you if you continue like this.|계속 그렇게 굴면 너한테 말 안 할 거야.
+ps4_load_expedition_restore_corrupt_failed|원정 핵심 데이터가 손상되었습니다.<LINE>핵심 데이터 백업은 존재하지만, 백업 데이터를 복원하려던 중 오류가 발생했습니다.
+Something lurks where the land fissures...|땅이 갈라지는 곳에 무언가가 숨어있다...
+This place is safe. Stay here to hibernate|이 장소라면 안전하다. 여기에 머물러 휴면하자
+There are also other significant drawbacks|또한 여러 가지 커다란 불이익도 있다
+When only one player left, rain approaches|플레이어가 한 명만 남으면 비가 옴
+ps4_save_expedition_core_failed_free_space|원정 주요 데이터 저장 오류. 여유 공간이 부족합니다. 재시도하시겠습니까?
+I... won't speak to you... if you do that.|또... 그러면 너에게... 말하지 않겠어.
+Ah... <PlayerName>, a neuron from Pebbles?|아... <PlayerName>, 조약돌에게서 가져온 신경이니?
+ps4_load_save_slot_restore_corrupt|저장 슬롯 데이터가 손상되었지만, 데이터의 최신 백업을 복원할 수 있었습니다.
+Complete the Dragon Slayer passage|용살자 통행권 완료하기
+Something lurks in the darkness...|어둠 속에 무언가가 숨어있다...
+Complete the game as The Artificer|기술병으로 게임을 완료한다
+Five Pebbles (General Systems Bus)|다섯 조약돌 (종합 시스템 버스)
+Pick up / Eat button interactions:|줍기/먹기 버튼 조작법:
+Game Over - Press SPACE to restart|게임 오버 - 스페이스 바를 눌러 재시작
+switch_controls_singlejoyconl_jump|아래 버튼
+switch_controls_singlejoyconr_jump|A 버튼
+ps4_save_options_failed_free_space|옵션 데이터 저장 중 오류가 발생했습니다. 남은 공간이 부족합니다. 재시도하시겠습니까?
+ConfigContainer_AlertPasteCosmetic|<Text> 값을 붙여넣음
+MenuModList_ModButton_Enable_Mouse|<Mod> 활성화
+Stronger bottomless pit indicators|끝없는 구덩이 표시 강조
+Monk-style gates for all campaigns|모든 캠페인에서 수도승식 관문 적용
+Are you sure you want to continue?|정말로 계속하시겠습니까?
+That's all. You'll have to go now.|그게 전부야. 이제 넌 가야 해.
+You again? I have nothing for you.|또 너야? 내가 해줄 건 없어.
+I wonder what it is that you want?|도대체 원하는 게 뭐니?
+I wish you would stop coming here.|이제 여기에 그만 와 줬으면 좋겠어.
+Oh... Of course I will take a look|아... 물론 살펴봐 줄게.
+ps4_load_expedition_run_restore_corrupt|원정 플레이 데이터가 손상되었지만, 데이터의 최신 백업을 복원할 수 있었습니다.
+Clear every challenge in Challenge Mode|도전 모드의 모든 도전을 해낸다
+ConfigMenuTab_ModPercentageButton_Label|활성화된 모드: <CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|성자가 창을 던질 수 있게 한다
+The following options contain spoilers.|다음 옵션에는 스포일러가 포함되어 있습니다.
+Workshop upload completed successfully!|창작마당에 업로드 성공!
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! 가만히 좀 들어.
+invert_x_description|아날로그 스틱 컨트롤의 가로축을 반전합니다.
+invert_y_description|아날로그 스틱 컨트롤의 세로축을 반전합니다.
+rounds per level-ru2|라운드(레벨당)
+objecttype-FlareBomb|섬광탄
+objecttype-DataPearl|진주
+objecttype-JellyFish|해파리
+objecttype-SlimeMold|이끼
+objecttype-EggBugEgg|알벌레 알
+objecttype-NeedleEgg|국수파리 알
+creaturetype-Slugcat|슬러그캣
+creaturetype-Vulture|독수리
+creaturetype-CicadaA|오징어매미
+creaturetype-CicadaB|오징어매미
+creaturetype-JetFish|제트물고기
+creaturetype-DropBug|집게벌레
+Communications Array|통신 배열
+Stolen Enlightenment|훔친 계몽
+Path of the pacifist|평화주의자의 길
+The Saint-linebreaks|성자
+switch_controls_jump|B 버튼
+Gametype description|게임 유형 설명
+Play each level once|각 레벨을 한 번씩 플레이
+Normal Rain World AI|보통 Rain World AI
+for killing creature|생물 처치
+Persistent creatures|생물 지속 생성
+controller_reconnect|플레이어 {0}의 컨트롤러를 다시 연결하십시오.
+mod_menu_requirement|추가 모드 필요:
+mod_menu_ext_authors|이 모드의 제작진 목록 보기
+mod_menu_disable_all|모든 모드 비활성화
+Building token cache|토큰 캐시 생성 중
+OpCheckBox_MouseTuto|클릭해서 끄고 켜기
+OpUpdown_NonMouseUse|조이스틱으로 값 조절, 결정 버튼으로 적용
+MenuModStat_ModsFail|설치된 모드 중 필요한 모드가 누락된 모드:
+Connector_UnnamedTab|<TabIndex>번
+Increased stun times|기절 시간 증가
+Wiggle out of grasps|몸 흔들어 탈출
+Key items on Passage|핵심 아이템 통행권 사용
+Monk extended breath|수도승 숨 증가
+Breath time leniency|넉넉한 수영 시간
+Rain timer tick-tock|비 타이머 똑딱 소리
+Vulnerable jellyfish|해파리 약화
+Unlock all campaigns|모든 캠페인 해금
+More Slugcats Cheats|More Slugcats 치트
+Exit to title screen|타이틀 화면으로 나가기
+Preparing for upload|업로드 준비 중
+devtools-description|게임 내 개발자 도구를 켜서, 맵과 지역을 수정하는 도구를 사용하고 모드를 제작하는 데 도움을 받습니다.<LINE><LINE>게임 내에서 O 키를 눌러 개발자 도구를 활성화/비활성화할 수 있으며, H 키를 눌러 메인 개발자 도구 인터페이스를 불러올 수 있습니다.
+...leave me alone...|...날 내버려 둬...
+Hello, <PlayerName>!|안녕, <PlayerName>!
+Hello, <PlayerName>.|안녕, <PlayerName>.
+...don't... do that.|...그... 그러지 마.
+Another gift for me?|또 선물 주는 거야?
+Again? ... just, go.|또? ... 그냥, 가.
+Little archaeologist|작은 고고학자
+Clear the game as Survivor or Monk to unlock.|생존자나 수도승으로 게임을 완료해 해금합니다.
+Objects can be picked up, carried, and tossed|물건들을 주워서, 가지고 다니거나 던질 수 있다
+Some small creatures can be eaten immediately|어떤 작은 생물들은 바로 잡아먹을 수도 있다
+MenuModList_ModButton_Enable_NonMouse_Console|결정 버튼을 눌러 이 콘텐츠 켜기, 오른쪽을 눌러 목록으로 돌아가기
+Show icons of nearby creatures on the minimap|미니맵에서 주변 생물의 아이콘 표시
+You are bringing a neuron. Is it to taunt me?|신경을 가져오는구나. 날 조롱하려는 거니?
+Your curiosity seems boundless, <PlayerName>.|네 호기심은 끝이 없나 보구나, <PlayerName>.
+remix_dlc_restart|DLC를 구매하셨다면, 게임을 재시작해야 새 콘텐츠를 사용할 수 있습니다.
+Expedition Leader|원정 선도자
+creaturetype-Deer|비사슴
+Looks to the Moon|달을 향해 보라
+Filtration System|여과 시스템
+The Dragon Slayer|용살자
+Back to main menu|메인 메뉴로 돌아가기
+1 - SELECT PLAYER|1 - 플레이어 선택
+2 - SELECT DEVICE|2 – 입력 장치 선택
+Previous gametype|이전 게임 유형
+Reset score setup|점수 설정 초기화
+ps4_press_to_join|참가하려면<LINE><LINE><LINE>누르세요.
+minute until rain|분 뒤 비
+per point of food|음식 1점당
+Delivered Payload|배달 성공
+Leaderboard empty|순위표 비어 있음
+mod_menu_finalize|(모드 적용 마무리 중, 기다려주세요...)
+MenuModStat_ModID|ID: <ModID>
+Key item tracking|핵심 아이템 추적
+Alpha red lizards|알파 빨간 도마뱀
+Unlock all arenas|모든 아레나 해금
+moreslugcats-name|More Slugcats 확장팩
+Yet another gift?|또 다른 선물이야?
+And you are back.|그리고 도로 왔네.
+Within Time|시간 안에
+The Pilgrim|순례자
+DELETE SAVE|저장 삭제
+Sky Islands|하늘 제도
+Farm Arrays|농장 배열지
+The Scholar|학자
+The Journey|여정
+Arena Music|아레나 음악
+Jump Button|도약 버튼
+NEW SESSION|새 세션
+Spears Hit:|창 적중:
+Rain Timer:|비 타이머:
+No wildlife|야생 생물 없음
+Level Food:|레벨 음식:
+Allow exit:|나가기 허용:
+Early Rain:|이른 비 내림:
+SCREEN SIZE|화면 크기
+Slug Senses|감지 능력
+...leave...|...저리 가...
+This again.|또 이러네.
+And...back.|또... 돌아왔네.
+Back again.|다시 돌아왔네.
+Here again.|또 왔네.
+I...said...|내... 말은...
+Migration|이주
+Messenger|전령
+The Cycle|주기
+The Nomad|유목민
+Outskirts|교외
+Shoreline|연안선
+Underhang|하부
+The Saint|성자
+Ascension|승천
+SAVE SLOT|저장 슬롯
+vibration|진동 기능
+Connected|연결됨
+Wildlife:|야생 생물:
+Spear hit|창 적중
+GAME OVER|게임 오버
+Clear all|전체 삭제
+? Confirm|? 확인
+NEXT PAGE|다음 페이지
+Next Page|다음 페이지
+CONFIGURE|설정
+Author(s)|제작자
+VIEW EULA|EULA 보기
+Uploading|업로드 중
+A neuron.|신경이네.
+tormentor|고문자
+An Old Friend|옛 친구
+Memory Crypts|기억 납골당
+The Chieftain|족장
+Music volume:|음악 크기:
+Sound Effects|효과음
+Pick up / Eat|줍기/먹기
+INPUT PRESETS|입력 사전 설정
+Next gametype|다음 게임 유형
+ROUND SESSION|라운드 세션
+Approximately|대략
+Press to join|눌러서 참가하기
+Repeat Rooms:|방의 반복 횟수:
+High wildlife|야생 생물 많음
+for surviving|생존당
+per spear hit|창 적중당
+Configuration|설정
+HOLD TO START|길게 눌러 시작
+REGION SELECT|지역 선택
+Fetching Data|데이터 수집 중
+PREVIOUS PAGE|이전 페이지
+Previous Page|이전 페이지
+Accessibility|접근성
+Hunter Cycles|사냥꾼 주기
+Wall pouncing|벽튕기기
+devtools-name|개발자 도구
+Thank... you.|고마... 워.
+What is that?|그건 뭐니?
+Another gift?|또 선물이야?
+...thank you.|...고마워.
+And...listen!|그리고... 들어봐!
+Little friend|작은 친구
+archaeologist|고고학자
+The consequences of your journey have caught up with you|여정의 결과가 당신을 따라잡았다
+You encountered the echo of A Bell, Eighteen Amber Beads|하나의 종, 열여덟 호박구슬의 메아리와 조우했다
+You encountered the echo of Two Sprouts, Twelve Brackets|두 새싹, 열두 지지대의 메아리와 조우했다
+Press and hold, then use up/down to adjust score awarded|길게 누른 채 위/아래 버튼으로 점수 조정
+You must update the application to use network features.|네트워크 기능을 사용하려면 애플리케이션을 업데이트해야 합니다.
+The presets below can be used to quickly reset settings.|아래 선택지로 빠르게 모든 설정을 사전 설정으로 초기화할 수 있습니다.
+RELAXED preset is a significant reduction in difficulty.|편안함 사전 설정은 난이도를 크게 낮춰줍니다.
+This option may actually make Rivulet's campaign harder.|이 옵션으로 물살이 캠페인이 어려워질 수 있습니다.
+The scavengers must be jealous of you, finding all these|스캐빈저들도 분명 네가 이것들을 이리 잘 찾아내는 걸 부러워할 거야.
+You completed every expedition laid before you.|당신 앞에 있는 모든 원정을 완료했다
+Something lurks in a flourishing outcropping...|무성한 농작물 사이에 무언가가 숨어있다...
+Additional food (above three) is kept for later|추가로 세 칸 넘게 먹은 음식은 다음을 위해 축적한다
+Hold down to wipe your save slot and start over|길게 눌러 저장 슬롯을 지우고 새로 시작
+You are starving. Your game has not been saved.|굶주린 상태입니다. 게임이 저장되지 않습니다.
+Are you sure you want to disable this mechanic?|정말로 이 메커니즘을 끄시겠습니까?
+You must accept the End User License Agreement.|최종 사용자 라이선스 계약에 동의하셔야 합니다.
+You're leaving yet again. This time, stay away.|또 떠나는구나. 이번에는 다시 오지 마.
+Listened to the conflation of echoes|메아리의 합성을 들었다
+Nineteen Spades, Endless Reflections|열아홉 자루의 삽, 끝없는 반영
+Game Over - Press OPTIONS to restart|게임 오버 - 옵션 버튼을 눌러 재시작
+switch_controls_singlejoyconl_pickup|왼쪽 버튼
+switch_controls_singlejoyconr_pickup|B 버튼
+Creatures are vicious and aggressive|생물들이 훨씬 포악하고 공격적임
+switch_single_joycon_region_map_help|SR 버튼을 눌러 지역 지도 보기
+JUMP/THROW buttons - Switch layers_1|도약/투척 버튼 - 레이어 전환
+JUMP/THROW buttons - Switch layers_2|엑스 버튼/동그라미 버튼 - 레이어 전환
+JUMP/THROW buttons - Switch layers_3|B 버튼/A 버튼 - 레이어 전환
+JUMP/THROW buttons - Switch layers_4|아래쪽 버튼/오른쪽 버튼 - 레이어 전환
+JUMP/THROW buttons - Switch layers_5|A 버튼/X 버튼 - 레이어 전환
+Title is offline or is disconnected.|게임이 오프라인이거나 연결이 끊겼습니다.
+OpKeyBinder_NonMouseJoystickBindTuto|지정하려는 버튼 누르기(PAUSE를 눌러 지정 해제, START를 눌러 컨트롤러 숫자 설정)
+ConfigContainer_AlertCopyNoncosmetic|<Text> 값을 <ObjectName>에서 복사
+ConfigMenuTab_RevertHoldButton_Label|취소
+MenuModList_ModButton_RainWorldDummy|레인월드 기본 게임. 위에 있는 모든 모드 이전에 적용됨
+Are you sure you want to view these?|정말로 확인하시겠습니까?
+Yes, you're welcome to have it back.|그래, 다시 가져가도 좋아.
+Oh, leaving. Please don't come back.|아, 떠나는구나. 제발 다시는 돌아오지 마.
+Something lurks at the highest reaches of the world...|세상에서 가장 높은 곳에 무언가가 숨어있다...
+Assign player <X> to the default XBox controller setup|XBox 컨트롤러 기본값으로 플레이어 <X> 할당
+Select which levels to play<LINE>in the level selector|레벨 선택 목록에서<LINE>플레이할 레벨 선택
+Shows a visual pulse on screen when threats are nearby|위협이 근처에 있는 경우 화면에 맥박을 시각적으로 표시
+All lizard breeds have unique sound effects and voices|모든 도마뱀 아종이 각기 다른 효과음과 목소리 보유
+(Normally requires completing Gourmand's food tracker)|(일반적으로 대식가의 음식 모음을 완성해야 해금 가능)
+Mod's thumbnail image should have a 16:9 aspect ratio.|모드의 섬네일 이미지는 16:9 비율이어야 합니다.
+If you eat it or leave with it, I will die. I beg you.|그걸 먹거나 가져가 버리면, 나는 죽고 말 거야. 제발 부탁이야.
+Oh, I have already read this one to you, <PlayerName>.|아, 이미 읽어줬던 거야, <PlayerName>.
+Complete the game as The Survivor or as The Monk|생존자나 수도승으로 게임을 완료한다
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|클릭해서 모든 모드 활성화
+MenuModList_ModButton_NonMouse_Configure_Console|결정 버튼을 눌러 설정, 왼쪽을 눌러 이 콘텐츠 스위치로 이동
+Access was denied. Do you own the game on Steam?|접근이 거부되었습니다. Steam에서 게임을 소유 중이신가요?
+This one I've already read to you, <PlayerName>.|이건 너한테 이미 읽어준 거야, <PlayerName>.
+Complete the game as The Hunter|사냥꾼으로 게임을 완료한다
+Your travels have taken you far|당신을 먼 길로 안내한 여정
+You have left this world behind|이 세상을 뒤로 하고 떠났다
+ConfigMenuTab_ApplyButton_Label|모드 적용
+ConfigMenuTab_RevertButton_Desc|모드 목록으로 돌아가기
+ConfigMenuTab_ResetButton_Label|설정 초기화
+MenuModList_ModButton_Configure|<Mod> 설정
+MenuModList_ListButton_ScrollUp|마우스 버튼을 길게 눌러 모드 목록을 위로 스크롤
+MenuModList_ListButton_ScrollDw|마우스 버튼을 길게 눌러 모드 목록을 아래로 스크롤
+MenuModList_ListButton_Collapse|축소해 모드 목록에서 섬네일 숨김
+Connector_ChangeActiveTab_Alert|현재 활성 탭이 <TabName> 탭으로 전환됨
+Connector_ChangeActiveMod_Alert|현재 표시된 모드가 <ModName> 모드로 전환됨
+Enable the wall pounce mechanic|벽튕기기 활성화
+ps4_expedition_slot_description|Rain World 원정 저장 데이터
+ps4_expedition_core_description|Rain World 원정 주요 데이터
+ps4_save_expedition_core_failed|원정 주요 데이터 저장 오류.
+ps4_load_expedition_core_failed|원정 주요 데이터가 오염되어서 삭제합니다.
+It's you, <PlayerName>!  Hello!|너구나, <PlayerName>! 안녕!
+You... Strange thing. Now this?|너... 이상한 녀석. 이제 이러기야?
+Oh, what is that, <PlayerName>?|아, 그건 뭐니, <PlayerName>?
+You would like me to read this?|이걸 읽어줬으면 하는 거니?
+Find the canonical ending to The Gourmand's campaign|대식가 캠페인의 정식 엔딩을 찾는다
+Find a destination for The Hunter's starting payload|사냥꾼이 시작할 때 들고 있던 배달물의 목적지를 찾는다
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|결정 버튼을 눌러 모든 모드 끄기
+Pause the rain timer while dialog is being displayed|대사가 나올 때 비 타이머를 정지한다
+Discourages Snails from idling inside pipe entrances|달팽이가 통로 입구에 머무르는 걸 꺼리게 한다
+It is recommended to use this only as a last resort.|최후의 수단으로만 사용하시는 것이 좋습니다.
+I don't know what to say. Never come back, creature!|무슨 말을 해야 할지 모르겠다. 다신 돌아오지 마, 짐승아!
+Little creature, why don't you stay calm and listen?|작은 생물아, 좀 얌전히 들어줄 수 없겠니?
+Find the canonical ending to The Rivulet's campaign|물살이 캠페인의 정식 엔딩을 찾는다
+Dropping food in the water might attract creatures.|물에 음식을 떨어뜨리면 생물을 유인할 수도 있다.
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|결정 버튼을 눌러 모든 모드 켜기
+Cannot update mod with no pre-existing workshop ID.|창작마당 ID가 없는 모드를 업데이트할 수 없습니다.
+There is nothing here. Not even my memories remain.|여기에는 아무것도 없어. 내 기억조차 남아있지 않아.
+Something new you want me to look at, <PlayerName>?|새로 뭔가 보여주고 싶은 거야, <PlayerName>?
+It's a bit dusty, but I will do my best. Hold on...|약간 먼지투성이지만, 최선을 다해 볼게. 잠시만...
+Now if you'll let me, I will try to say this again.|자, 내 이야기를 들어주겠다면 다시 말을 해 줄게.
+It's a rock. Thank you, I suppose, little creature.|이건 돌이네. 고맙다고 해야 하는 거겠지, 작은 생물.
+objecttype-Rock|돌
+Drainage System|배수 처리시설
+History lessons|역사 수업
+Change language|언어 변경
+Bind <X> button|<X> 버튼 설정
+Back to options|옵션으로 돌아가기
+round per level|라운드(레벨당)
+Medium wildlife|야생 생물 중간
+SESSION RESULTS|세션 결과
+Finding Changes|변경 사항 찾는 중
+Fast map reveal|빠른 지도 표시
+Extra tutorials|추가 튜토리얼
+Easier dropwigs|쉬운 집게벌레
+Quality of Life|편의성
+Unlock Slugpups|아기 슬러그캣 해금
+expedition-name|원정
+Leave me alone!|나를 내버려 둬!
+Please stop it!|좀 가만히 있어!
+Little creature|작은 생물
+Prevents falling off from poles when throwing objects|물건을 던질 때 장대에서 떨어지는 것을 막는다
+Swim boosting will not consume additional breath time|수영하며 가속하는 경우 호흡 시간을 추가로 소모하지 않음
+Removes visual effects that cause the screen to shake|화면을 흔드는 시각적 효과 제거
+Are you sure you want to disable ALL karma mechanics?|정말로 모든 카르마 메커니즘을 비활성화하시겠습니까?
+Mod's thumbnail image must be less than 1 MB in size.|모드의 섬네일 이미지는 1MB 미만이어야 합니다.
+Your account is locked or has a community or VAC ban.|계정이 잠겼거나, 커뮤니티/VAC 차단됐습니다.
+The workshop service is unavailable. Try again later.|창작마당 서비스를 사용할 수 없습니다. 나중에 다시 시도해주세요.
+Yet another gift? You're quite curious, <PlayerName>!|또 다른 선물이니? 정말이지 호기심이 많구나, <PlayerName>!
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|기민한 잡식성, 포식자이자 피식자. 가혹하고 무심한 대지에서<LINE>기지와 신중함을 최고의 도구로 삼아 자신만의 길을 개척해나가야 한다.
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|육신은 연약하나 정신은 강인하다. 세계의 불가사의와 공명하여<LINE>그 생물들과 교감하기에, 당신의 여정은 훨씬 더 평화로울 것이다.
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|강하고 날쌔며, 활발한 신진대사를 지녀 꾸준히 육식을 해야 한다.<LINE>그러나 당신의 위장만 걱정할 게 아니다. 사냥꾼의 길은 극도로 험난할 것이니.
+Five Pebbles (Unfortunate Development)|다섯 조약돌 (불운한 발생지)
+Six Grains of Gravel, Mountains Abound|여섯 알의 자갈, 사방의 산
+Jump and grab them. They're delicious!|뛰어서 잡자. 저건 맛있으니까!
+Takes input from any connected gamepad|연결된 입력 장치의 입력 사용
+switch_controls_singlejoyconl_movement|L 스틱
+switch_controls_singlejoyconr_movement|R 스틱
+Unlock all the Trophies in Rain World!|Rain World의 모든 트로피를 해금하세요!
+MenuModList_ModButton_Disable_NonMouse|결정 버튼을 눌러 모드 끄기, 결정 버튼을 누르고 조이스틱으로 적용 순서 변경
+MenuModList_ModButton_NonMouse_Display|결정 버튼을 눌러 <Mod> 표시
+ConfigTabController_TabScrollButton_Up|마우스 버튼을 길게 눌러 탭 목록을 위로 스크롤
+ConfigTabController_TabScrollButton_Dw|마우스 버튼을 길게 눌러 탭 목록을 아래로 스크롤
+The following cheats contain spoilers.|다음 치트에는 스포일러가 포함되어 있습니다.
+Mod uploaded with Unlisted visibility.|미등록 공개 설정으로 모드가 업로드되었습니다.
+Ah... <PlayerName>, you're here again!|아... <PlayerName>, 다시 왔구나!
+Ah... <PlayerName>, you're here again.|아... <PlayerName>, 다시 왔네.
+I must ask you... Don't do that again.|꼭 좀 부탁할게... 다시는 그러지 마.
+Rain... You better go. I will be fine.|비가 와... 넌 가보는 게 좋겠어. 난 괜찮을 거야.
+<CapPlayerName>... Please settle down.|<CapPlayerName>... 제발 가만히 있어주겠니.
+Yes, there you go. This is ridiculous.|그래, 가버려. 정말 어이가 없네.
+Five Pebbles (Recursive Transform Array)|다섯 조약돌 (재귀 변압 배열)
+You need to eat meat to sustain yourself|살아가기 위해선 고기를 먹어야 한다
+Default singleplayer<LINE>keyboard setup|싱글 플레이어<LINE>기본 키보드 설정
+OpKeyBinder_ErrorConflictOtherModDefault|기본 버튼이 <ModID> 모드와 충돌
+MenuModList_ModButton_NonMouse_Configure|결정 버튼을 눌러 <Mod> 설정
+You are not currently logged into Steam.|현재 Steam에 로그인되어 있지 않습니다.
+Yes, help yourself. They are not edible.|그래, 마음껏 주워 먹어. 그건 음식이 아니니까.
+This pearl has been written to just now!|이 진주엔 방금 전까지 계속 기록되고 있었어!
+You encountered the echo of Droplets upon Five Large Droplets|다섯 알의 큰 물방울 위의 물방울의 메아리와 조우했다
+Press while holding down direction (crouching) to drop object|아래 버튼을 누른 상태로(웅크림) 줍기 버튼을 눌러 물건 내려놓기
+You must activate this mod before attempting to configure it.|설정을 확인하기 전에 이 모드를 켜야 합니다.
+I won't tolerate this. Leave immediately and don't come back.|참고만 있지는 않겠어. 당장 떠나서 다시는 돌아오지 마.
+As you can see, I have nothing for you. Not even my memories.|너도 보다시피, 나에겐 줄 수 있는 게 아무것도 없어. 내 기억조차도.
+Here we go again, little archeologist. Let's read your pearl.|다시 시작해볼까, 작은 고고학자야. 네가 가져온 진주를 읽어보자고.
+You encountered the echo of Four Needles under Plentiful Leaves|무성한 이파리 아래 네 바늘의 메아리와 조우했다
+Show a visual indicator on the UI of your remaining breath time|남은 숨을 나타내는 시각적 UI 표시
+Lizards can pull embedded spears out of walls with their tongue|도마뱀이 혀로 벽에 박힌 창을 뽑아낼 수 있게 된다
+Failed to acquire User Generated Content lock. Try again later.|사용자 생성 콘텐츠 잠금 획득에 실패했습니다. 나중에 다시 시도해주세요.
+You encountered the echo of Nineteen Spades, Endless Reflections|열아홉 자루의 삽, 끝없는 반영의 메아리와 조우했다
+Warning, too many creatures may result in poor game performance.|경고: 생물이 너무 많으면 게임 성능이 저하될 수 있습니다.
+Reduces the amount of time taken to get started with a new cycle|새로운 주기를 시작 시 피난처가 열리는 시간 감소
+One of your workshop mods already has the same name as this one.|이 모드와 이름이 같은 창작마당 모드가 존재합니다.
+I appreciate what you have done but it is time for you to leave.|네가 해준 일은 감사하지만, 이제 나가 줄 시간이야.
+Let us see... to be honest, I'm as curious to see it as you are.|어디 보자... 솔직히 말해 나도 이게 뭔지 궁금하단다.
+You encountered the echo of Six Grains of Gravel, Mountains Abound|여섯 알의 자갈, 사방의 산의 메아리와 조우했다
+You must apply new mods setup before attempting to configure them.|모드를 설정하기 전에 모드 목록의 변경 사항을 적용해야 합니다.
+Stops Hunter from automatically grabbing batflies with a free hand|사냥꾼이 빈손으로 박쥐파리를 자동으로 붙잡지 못하게 함
+Increases the radius of Monk's hologram light in pitch-black areas|완전히 어두운 지역에서 수도승의 홀로그램 빛 반경 증가
+Prevents the chance of waking up early before the rain has stopped|비가 멈추기 전에 일찍 깰 확률을 없앱니다.
+(Normally requires finding Red unlock tokens in the campaign maps)|(일반적으로 캠페인 세계에서 빨간색 해금 토큰을 찾아야 해금 가능)
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>, 네가 또 그러면 다시는 너에게 말하지 않을 거야.
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|가장 고된 길을 통해 제일 높은 경지의 계몽을 달성했다. 가디언들마저 경의를 표해야 할 위업이다.
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|기본 리믹스 설정입니다. 게임 경험을 바꿀 수 있는 여러 가지 수정이 가능합니다.
+When crouching, hold the JUMP button without giving any other input|몸을 웅크린 채로, 다른 버튼을 누르지 않고 도약 버튼만 길게 누른다
+Allow players to exit when rain is close or only one player is left|비가 내리기 직전/한 명만 남았을 때 플레이어 나가기 허용
+Reduces the overall speed of the game to assist with reaction times|반응 속도를 보조하기 위해 게임의 전반적인 속도 감소
+(Normally requires finding Blue unlock tokens in the campaign maps)|(일반적으로 캠페인 세계에서 파란색 해금 토큰을 찾아야 해금 가능)
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|뭔가 새로운 걸 가져왔구나,<LINE>그렇지, <PlayerName>?
+This creature is dehydrated. You can carry it back to water.|이 생물은 말라가고 있다. 도로 물에 데려가 줄 수 있다.
+Prevent injured creatures from fleeing to dens in arena mode|아레나 모드에서 다친 생물이 둥지로 도망치지 못하게 함
+Increases the amount of underwater breath time that Monk has|수도승이 물속에서 숨을 참을 수 있는 시간 증가
+(Normally requires completing all Challenge Mode challenges)|(일반적으로 도전 모드의 모든 도전을 완료해야 해금 가능)
+Best of luck to you, little creature. I must resume my work.|행운이 함께하길 바라지, 작은 생물. 난 다시 내 일을 계속해야겠어.
+Never do that again. Or just kill me quickly. Whichever way.|다시는 그러지 마. 아니면 차라리 나를 빨리 죽이든가. 둘 중 아무거나 해.
+I think we have already talked about this one, <PlayerName>.|이거에 대해선 이미 이야기한 것 같은데, <PlayerName>.
+Larger prey needs to be incapacitated first|커다란 사냥감은 먼저 무력화시켜야 한다
+Little creature. This is your last warning.|작은 생물. 이게 마지막 경고다.
+Please don't... take... more from me... Go.|제발... 더는... 빼앗아가지 마... 저리 가.
+And yet another one! I will read it to you.|또 하나가 더 있다니! 내가 읽어줄게.
+I've told you about this one, <PlayerName>.|이것에 대해서는 이미 이야기했어, <PlayerName>.
+And now you expect me to continue speaking?|인제 와서 나보고 계속 말하라는 거야?
+It's a delicious plant. You should have it!|맛있는 식물이야. 먹어도 좋아!
+It is possible to hibernate with less than sufficient food|음식이 충분하지 않더라도 휴면할 수 있다
+It is not recommended to use these on a first playthrough.|첫 플레이 시 이 치트를 사용하는 걸 권장하지 않습니다.
+This mod already exists on the workshop by another author.|이 모드는 다른 제작자가 이미 창작마당에 올렸습니다.
+Release that, and leave. I will not speak to you any more.|그걸 놓고 떠나줘. 난 너에게 더 이상 말하지 않을 거야.
+Thank you... That is a little better. Thank you, creature.|고마워... 좀 나아졌어. 고마워, 생물아.
+In a shelter, hold DOWN for several seconds to force hibernate|피난처에서, 아래 버튼을 몇 초 동안 누르고 있으면 강제로 휴면한다
+Multiplies the total duration of the rain timer by this amount|비 타이머의 총 지속 시간에 이 수를 곱함
+The rain timer makes a tick-tock noise while the UI is visible|비 타이머 UI가 보일 때 똑딱 소리 재생
+Vultures that appear in dark rooms are cloaked by the darkness|어두운 방에 나타나는 독수리는 어둠 속에 은신하게 된다
+Press CONTINUE after accepting the End User License Agreement.|최종 사용자 라이선스 협정에 동의하고 계속 버튼을 누르십시오.
+Press CONTINUE to view and/or edit your uploaded workshop mod.|계속을 눌러 업로드한 창작마당 모드를 확인하고 수정하하세요.
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|경고!<LINE>선택된 저장 슬롯의 지도 탐험도를 포함한 모든<LINE>진행 상황이 초기화됩니다. 해금한<LINE>아레나 및 샌드박스 요소는 유지됩니다.
+WARNING!<LINE>This will reset all of your progress except map exploration.|경고!<LINE>지도 탐험도를 제외한 진행 상황이 모두 초기화됩니다.
+WARNING! Too many creatures may result in bad game performance or crashes.|경고! 생물이 너무 많으면 게임 성능이 저하되거나 멈출 수 있습니다.
+Please log in to STOVE Client with the account that has purchased the game|게임을 구매한 계정으로 STOVE 클라이언트에 로그인하시기 바랍니다
+Gives the player the ability to dislodge spears that are embedded in walls|플레이어가 벽에 박힌 창 회수 가능
+(One time use) Fast travel to any discovered shelter, recovering all karma|(1회용) 이미 발견한 피난처로 이동하며, 카르마 전부 회복하기
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|로딩 화면에 사용 중인 설정과 플레이의 합당함을 검증하는 데 도움이 되는 정보를 표시합니다.
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|주기 시작 또는 새로운 지역 진입 시, 스캐빈저 공격대가 공격하기 전 유예 시간 추가
+Advantageous glitches and speedrunner exploits are made available to use again with this option|이득이 되는 글리치나 스피드런용 버그 활용 가능
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|원래 Rain World 경험과 비슷하지만, 편의성 기능 설정 몇 가지가 활성화되어 있습니다.
+Map|지도
+Esc|Esc
+Yes|네
+YES|네
+HUD|HUD
+run|도망가
+Up|위쪽
+R1|R1
+RB|RB
+ok|확인
+No|아니요
+NO|아니요
+Assign player <X> to the default keyboard controls|기본 키보드 키 컨트롤로 플레이어 <X> 할당
+Increase the speed that the minimap reveals itself|미니맵이 드러나는 속도 증가
+(Normally requires completing Gourmand's campaign)|(일반적으로 대식가 캠페인을 완료해야 해금 가능)
+This menu contains cheats to unlock content early.|이 메뉴에는 콘텐츠를 미리 해금할 수 있는 치트가 있습니다.
+What are you? If I had my memories I would know...|넌 뭐야? 내 기억이 남아 있었다면 널 알아봤을 텐데...
+If you behave like this, why should I talk to you?|네가 이런 식으로 구는데, 내가 왜 굳이 너와 이야기해야겠어?
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|일시 정지 - 경고! 주기 시작 30초 이후에 종료하면 패배로 간주됩니다.
+By comparison, the RELAXED preset may weaken the overall game experience.|반면 편안함 사전 설정은 게임의 경험을 전반적으로 약화시킬 수 있습니다.
+(Normally requires completing campaigns and clearing previous challenges)|(일반적으로 캠페인을 완료하고 이전 도전을 완료해야 해금 가능)
+Shelter failures give periodic reprieves by providing longer cycle times.|피난처 고장 시 주기가 길어져서 정기적으로 시간 여유를 제공합니다.
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|일시 정지 - 경고! 피난처에서 저장하지 않고 종료하면 게임이 완전히 끝납니다.
+For all campaigns, gates will remain open permanently after passing through them once|모든 캠페인에서 한번 지나간 관문을 지속 개방
+Spearing a scavenger directly in their head will do significantly more damage to them|스캐빈저의 머리를 직접 창으로 공격하면 훨씬 큰 피해를 주게 된다
+The maximum number of subsequent explosion actions Artificer can perform before dying|기술병이 죽기 전에 연속해서 사용할 수 있는 폭발 최대 수
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|제한이 초과되었습니다. 파일 크기를 줄이거나 이전 창작마당 콘텐츠를 삭제해야 합니다.
+A little animal, on the floor of my chamber. I think I know what you are looking for.|내 방바닥의 작은 짐승, 네가 찾는 게 뭔지 알 것 같아.
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|정말로 종료할까요? 주기 시작 30초 이후에 종료하면 패배로 간주됩니다.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|다섯 조약돌에게서 가져오는 거야?<LINE>정말 고마워. 조약돌이라면 별로 신경 쓰지 않을 거야.
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|스토리 캠페인에서 해금된 레벨, 아이템과 생물을 활용하여<LINE>각자의 시나리오를 만들어 보세요. 생물을 처치하거나<LINE>그 밖의 다른 행동에서 점수를 얻도록 설정할 수도 있지만,<LINE>샌드박스 모드는 마음대로 바꿔가며 즐기는 모드입니다!
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|하지만 너에게는 다른 길이 있어. 오래된 길이지. 농장 배열지 서쪽으로 가서, 대지가 갈라지는 곳이 나오면 최대한 깊이 들어가.<LINE>고대인들이 사원을 짓고 우스꽝스러운 의식을 벌이며 춤을 춰대던 곳이야.
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|플레이어끼리 다른 생물들과의 난전 속에서 경쟁해보세요.<LINE>이 모드에서는 음식을 섭취하여 점수를 얻거나, 그저<LINE>생존함으로써 죽은 플레이어보다 더 높은 랭킹을 차지할 수 있습니다.<LINE>새로운 레벨, 아이템과 생물은 스토리 캠페인에서<LINE>해금할 수 있습니다.
+No items except what you place in the editor|에디터에서 추가한 물건만 배치
+Allow players above a specific score to exit|특정 점수 이상인 플레이어는 나가기 허용
+MenuModList_ModButton_NonMouse_Blank_Console|왼쪽을 눌러 이 콘텐츠 토글 버튼으로 이동
+ConfigTabController_TabSelectButton_NamedTab|<TabName> 탭으로 전환
+This mod cannot be uploaded to the Workshop.|이 모드는 창작마당에 업로드할 수 없습니다.
+It's still warm... this was in use recently.|아직 따뜻해... 이건 최근까지 사용되던 거야.
+W|승
+L|패
+Press the MAP button to select the shelter you wish to continue from|맵 버튼을 눌러 계속하려는 피난처 선택
+These are recommended starting points based on different playstyles.|다음은 다양한 플레이 방식에 따른 권장 시작점입니다.
+It also largely negates the game's difficulty curve and progression.|또한 게임의 난이도 변화와 진행을 상당 부분 무시합니다.
+(Normally requires finding Green unlock tokens in the campaign maps)|(일반적으로 캠페인 세계에서 초록색 해금 토큰을 찾아야 해금 가능)
+“Go west, past the Farm Arrays and then down deep into the earth...”|"서쪽으로 가, 농장 배열지를 지나 땅 깊숙이 내려가..."
+Please sign in to PlayStation™Network to view leaderboards.|순위표를 확인하려면 PlayStation™Network에 로그인하세요.
+Progress towards Trophies will only be tracked for player 1|트로피 획득 진행 상황은 플레이어 1에 대해서만 추적됩니다.
+This may SIGNIFICANTLY alter your experience with the game.|이를 통해 게임 경험이 크게 바뀔 수 있습니다.
+(Normally requires completing previous campaigns to unlock)|(일반적으로 이전 캠페인을 완료해야 해금 가능)
+Stop doing... this, or I... will not speak... to you again.|그만두지... 않으면, 다신... 네게 말하지... 않을 거야.
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|PlayStation™Network에서 로그아웃되었습니다. 순위표를 보려면 PlayStation™Network에 다시 연결해주세요.
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|줄기가 달려 있는 아이템이 샌드박스에서도 줄기를 달고 나옴
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|...점점 더 능숙해지고 있네. 작은 고고학자 동물.<LINE>어디, 무슨 내용인지 볼까.
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|클릭해서 모든 모드 비활성화
+This mod does not have any configurable settings.|이 모드에는 리믹스 유저 인터페이스나 설정이 없습니다.
+Thank you little creature. I must resume my work.|고마워, 작은 생물. 난 다시 내 일을 계속해야겠어.
+Thank you. I must ask you... Don't do that again.|고마워. 꼭 좀 부탁할게... 다시는 그러지 마.
+Periodically shows tips and tutorials during the loading screen between cycles|주기 사이의 로딩 화면에서 팁과 튜토리얼을 정기적으로 표시
+Adds an additional trajectory of throwing grenades if the up direction is held|위 방향을 누르고 있을 때 다른 궤적으로 폭탄이 날아가게 된다
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|특정 메커니즘과 상황에 관한 게임 내 튜토리얼 메시지를 더 많이 표시
+All cycles will have the same duration, and will always use the longest duration possible|주기의 길이가 언제나 고정되며 무조건 제일 긴 주기 길이 사용
+You should try the 'Monk-style Gates' option first before resorting to using this option.|이 옵션은 최후의 수단으로 두고 일단은 '수도승식 관문' 옵션을 시도해보세요.
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|돌과 달팽이 폭발이 몇몇 생물을 기절시키는 시간 증가
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|생존한 주기 수 대신 방문한 지역 수에 따라 동적 난이도 적용
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|생물에게 붙잡혔을 때 이동 버튼을 빠르게 눌러 탈출 가능
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|물살이의 캠페인에서 줄어든 비 타이머의 총 시간에 이 수를 곱한다
+Prevents Jetfish from being able to knock items out of your hands|제트물고기가 슬러그캣의 손에서 물건을 떨구지 않도록 한다
+Changes the amount of cycles Hunter starts with in their campaign|사냥꾼 캠페인 시작 시 주기 수 변경
+You're stuck in a cycle, a repeating pattern. You want a way out.|너는 주기, 반복되는 순환 속에 갇혀 있지. 넌 탈출구를 원해.
+Another pearl! You want me to read this one too? Just a moment...|또 진주네! 이것도 읽어줬으면 하는 거야? 잠시만...
+A pearl... This one is crystal clear - it was used just recently.|진주구나... 아주 깨끗하네. 바로 직전까지 사용되었어.
+Gives a small chance of being able to survive a direct attack from a dropwig|집게벌레의 직접 공격을 맞고도 생존할 수 있는 작은 확률이 생긴다
+Use the throw button to activate tongue controls rather than the jump button|도약 버튼 대신 투척 버튼으로 혀 컨트롤 활성화
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|통행권을 사용했을 때 뱃속에 있는 아이템만이 아니라 피난처의 모든 핵심 아이템 이동
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|날카롭게 간 철근이네... 뭘 알고 싶은 거니?<LINE>넌 이미 이걸 능숙하게 다루는 것 같은데.
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|핵심 아이템이 지도에서 추적되며, 잃어버린 경우 이후 주기에서 잃어버린 위치에 해당 아이템 재생성
+Centipedes will release you if you go through a pipe while you are grabbed by one|지네에게 붙잡힌 상태에서 파이프로 들어가면 지네가 놓아줌
+Prevents the chance of the region being flooded during a shelter failure scenario|피난처가 고장났을 때 지역이 침수당할 확률을 없앱니다.
+Makes the death gradients on bottomless pits more visible|끝없는 구덩이의 사망 음영 효과 강조 표시
+Allow throwing spears directionally while in zero gravity|무중력에서 창을 원하는 방향으로 던지게 된다
+This option disables multiple core mechanics of the game.|이 옵션은 게임의 주요 메커니즘을 여러 가지 비활성화합니다.
+It is strange... I'm remembering myself, but also... him.|이상해... 나 자신에 대해 떠오르는데 걔도... 기억이 나고 있어.
+Allow passing any gate for free, regardless of your current karma level|현재 카르마 등급과 무관하게 관문 무료 통과 가능
+Hide the remaining cycle time while in maps that are safe from the rain|비에서 안전한 맵 위치에서 남은 주기 시간 숨김
+And this one is fresh! It was not long ago this data was written to it!|완전 새것이잖아! 정보가 기록된 지 얼마 안 됐어!
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|아레나에서 더 강한 독수리가 해금되었다면 독수리 애벌레가 소환할 수 있게 된다
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|활성화하면 기술병 캠페인에서 모든 스캐빈저 시체가 무조건 최대 카르마를 보유합니다.
+Allows certain passages to gain progress even before the Survivor passage has been achieved|생존자 통행권을 얻기도 전에 몇몇 통행권 진행 가능
+Reduces the volume for the sound effects of gates and shelters opening|관문과 피난처가 작동하는 효과음 크기 감소
+Let us try again - not that it has worked well before. I was saying...|다시 이야기 해볼게... 이래봤자 네가 또 방해하겠지만. 내가 하려던 말은...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|어려움을 겪고 있다면, 먼저 수도승 캠페인을 해보세요. 게임에 대한 감을 더 쉽게 잡을 수 있으며 Rain World에 편히 진입할 수 있습니다.
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|활성화하면 기술병 캠페인에서 스캐빈저 시체가 주기당 카르마를 잃지 않습니다.
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(일반적으로 캠페인 세계에서 진주를 배달하고 방송 토큰을 찾아야 해금 가능)
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|너만이 특별한 건 아니라는 걸 알아둬. 그건 모든 생명체가 공유하는 좌절감이니까.<LINE>처리층의 미생물부터, 감히 말하자면 비교적 신과 같은 나까지도.
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|나를 좀 봐. 내가 줄 수 있는 건 오직 말밖엔 없어.<LINE>여기 왔다는 건 내가 말을 해주길 바라는 거잖아? 그러니 제발 내 이야기를 좀 들어줄래?<LINE>그게 아니라면, 날 좀 내버려 두면 좋겠어.
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|나쁜 소식은 결정적인 해답이 발견되지 않았다는 거지. 설비는 매순간 새로운 단계로 침식되어 가고. 나는 너희를 일괄적으로도,<LINE>개별적으로도 도울 수 없어. 나 자신조차 도울 수 없는 형편이니까.
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|어차피 시간이 종말을 맞이할 때가 되면 모두 부질없어지겠지만. 어쨌든 다른 길로 나가줬으면 좋겠어.<LINE>내 메모리 배열에... 소동을 일으키지 않는 방향으로 말이지. 바로 여기 딱 좋은 접근 통로가 있으니까.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|하지만 너에게는 다른 길이 있어. 오래된 길이지. 농장 배열지 서쪽으로 가서,<LINE>대지가 갈라지는 곳이 나오면 최대한 깊이 들어가. 고대인들이 사원을 짓고<LINE>우스꽝스러운 의식을 벌이며 춤을 춰대던 곳으로. 내가 준 표식이 널 통과시켜 줄 거야.
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|좋은 소식 먼저. 어떻게 보자면 네가 찾던 게 바로 나야. 나와 내 동족의 목적은 너를 비롯해<LINE>무수히 많은 존재들이 겪고 있는 그 숨 막히는 폐쇄감을 해결하는 것이지. 참 기이한 적선이야.<LINE>넌 아무것도 모르는 수혜자고, 나는 마지못해서 건네지는 선물이랄까. 그 고결한 은인들은?<LINE>사라졌지.
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|이곳까지 오다니, 정말 용감한 게 틀림없구나. 그런데 유감이지만 여기까지의 네 여정은 헛된 일이야.
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|오랜만에 누군가에게 말을 할 수 있다니 좋은걸!<LINE>스캐빈저들은 이야기를 잘 들어주지 않거든. 가끔 내게 무언가를 가져오기는 하지만...
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|아직 네게 화가 나 있긴 하지만, 오랜만에 누군가에게 말을 할 수 있다니 좋은걸.<LINE>스캐빈저들은 이야기를 잘 들어주지 않거든. 가끔 내게 무언가를 가져오기는 하지만...
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|때때로 여기를 찾아오는 스캐빈저들도 빈손으로 돌아가지.<LINE>하지만... 이것도 이미 네게 한 이야기 아니니?
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|전에 스캐빈저들이 이곳에 들렀던 적은 있었어. 스캐빈저 말이야!<LINE>그리고 내가 살게 내버려뒀지!<LINE>하지만... 이것도 이미 내가 말한 거 아니야?
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|내가 같은 말을 반복하더라도 이해해줘야 할 거야. 기억 상태가 좋지 않거든.<LINE>나에게는 신경이 고작 다섯 개 있었는데... 그중 하나를 네가 먹어버렸잖아.<LINE>아마 이 말도 전에 했을 수도 있겠지만.
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|사실 신경은 쓰겠지만, 조약돌은 정말 많이 갖고 있으니까~<LINE>별 영향도 없을 거야.<LINE>그렇지만 내게는 커다란 차이인걸! 고마워, 작은 생물아!
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|여기까진 왔으면서 내 말을 들어줄 만큼 예의 바르지는 않구나.<LINE>이번에는 내 이야기를 들어줄 거니?

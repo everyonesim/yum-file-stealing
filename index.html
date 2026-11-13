@@ -165,7 +165,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13n";
+    var BUILD_VERSION = "2026-11-13o";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -509,7 +509,9 @@ html, body {
         // The build's patched file layer retries a failed file against these
         // bases, and prefetches from them in parallel, so one slow or missing
         // file cannot stall the load.
-        var fallbacks = [];
+        // The 745 files the asset branch never carried live in this repo, under a
+        // folder the .gitignore does not exclude, so they are tried first.
+        var fallbacks = [window.location.origin + "/yum-file-stealing/assets-extra"];
         ASSET_BASES.forEach(function (base) {
             var candidate = base + ASSETS_PATH;
             if (candidate !== assetsUrl && fallbacks.indexOf(candidate) < 0) fallbacks.push(candidate);

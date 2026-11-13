@@ -1,0 +1,113 @@
+﻿0Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Forte e veloce, richiede una dieta costante a base di carne. Ma lo stomaco non sarà il<LINE>tuo solo problema... poiché questo percorso è estremamente pericoloso, ciascun ciclo<LINE>viene consumato al tempo di un terribile conto alla rovescia.
+Custom colors|Colore personalizzato
+tips-distract|Puoi superare un predatore che blocca il passaggio con diverse tattiche. Crea un<LINE>diversivo, attiralo con un rumore, sacrifica qualcosa che possa mangiare<LINE>al posto tuo, ecc.
+tips-hoarding|Anche se hai già fatto il pieno di cibo, puoi mettere da parte scorte extra<LINE>nel tuo rifugio, così da facilitarti le cose nei cicli successivi.
+tips-prepared|Non viaggiare mai a mani vuote. Avere oggetti disponibili può fare<LINE>la differenza tra la vita e la morte... Non sai mai quando potrebbero servirti.
+tips-backflip|Cambia rapidamente direzione e allo stesso tempo premi il tasto<LINE>Salta. Eseguirai un salto all'indietro a un'altezza leggermente superiore<LINE>di un salto normale. I salti all'indietro possono essere usati per iniziare a rotolare.
+tips-vertpole|All'apice di un salto all'indietro, lanciati verso il basso con una lancia per creare<LINE>un palo verticale sul terreno. Usalo per avere la possibilità di raggiungere più posti.
+tips-wanderer|Il vagabondo ha visto ogni angolo di mondo e tutto ciò che ha da offrire.<LINE>Il viaggio verso l'aldilà è solo un'altra tappa per lui.
+Body|Corpo
+Eyes|Occhi
+HIGH|ALTA
+Restore Default|Ripristina valori predefiniti
+Back to options|Torna alle opzioni
+tips-spearstick|Le lance possono essere conficcate nelle superfici per creare pali da arrampicata improvvisati. Usale<LINE>per trovare nuove strade verso luoghi inaccessibili.
+tips-batharvest|Fai cadere le mosche pipistrello con i proiettili per catturarle con facilità.<LINE>Infilzale con le lance per catturarne tante in un solo colpo.
+tips-reputation|Le tue azioni contribuiscono alla tua reputazione tra la popolazione dell'ecosistema.<LINE>Dimostra generosità anche verso i nemici e forse ricambieranno il favore.<LINE>Altrimenti, potresti diventare la preda preferita di tutti.
+tips-throwboost|Lanciare un oggetto a mezz'aria ti offre un piccolo slancio nella direzione in cui l'hai lanciato.<LINE>Usa questo trucco per estendere la portata orizzontale dei tuoi salti.
+tips-tunnelturn|Mentre strisci in un corridoio stretto, tieni premuto il tasto Salta e la direzione<LINE>opposta a quella in cui ti stai dirigendo per girarti. Ti muoverai più rapidamente<LINE>verso la direzione in cui stai strisciando.
+tips-powerthrow|Tira una lancia in avanti durante una scivolata per darle maggiore velocità<LINE>e impatto. In questo modo, puoi stordire le creature per un periodo più lungo di tempo e puoi<LINE>perforare alcune difese.
+tips-superslide|Lancia un oggetto all'indietro durante una scivolata per aumentare drasticamente<LINE>la distanza coperta.
+tips-wallpounce|Salta contro un muro e tocca il tasto Salta direttamente all'impatto mentre<LINE>tieni premuto nella direzione del muro per aumentare la forza di rimbalzo dei tuoi salti.
+HUE|TON
+SAT|SAT
+LIT|LUM
+LOW|BASSA
+CHOOSE|SCEGLI
+MEDIUM|MEDIA
+Oh no.|Oh no.
+Analog Sensitivity|Sensibilità analogica
+tips-deathrecovery|La catena alimentare è complessa. Se hai fortuna, anche quando una creatura ti cattura,<LINE>potrebbe lasciarti andare se si ritrova coinvolta in una schermaglia o se viene mangiata!
+tips-utilitycreats|Non tutte le creature sono predatori da evitare. Molte creature<LINE>possono aiutarti durante il viaggio.
+FPS Limit|Limite FPS
+Unlimited|Illimitati
+tips-drop|Premi contemporaneamente il tasto giù e il tasto Raccogli per posizionare l'oggetto che hai in mano<LINE>per terra senza lanciarlo.
+tips-roll|Quando cadi dall'alto, tieni premuto in direzione diagonale verso il basso per rotolare<LINE>quando toccherai il terreno. In questo modo, ridurrai l'impatto<LINE>della caduta e otterrai maggiore mobilità.
+tips-swim|Muoviti come un serpente sott'acqua per migliorare la tua velocità<LINE>quando nuoti. Fai ondeggiare ritmicamente il corpo su e giù, destra e sinistra.
+tips-monk|Il monaco è il percorso di una preda. Cerca del cibo per sopravvivere,<LINE>ma il percorso non garantisce la sicurezza in questo mondo di predatori.
+Quality|Qualità
+Backgrounds|Sfondi
+tips-crouch|Non devi tenere premuto il tasto per restare accovacciato. Tocca giù una volta per<LINE>strisciare e tocca su per rimetterti in piedi.
+tips-escape|Quando è possibile, è meglio evitare lo scontro e i combattimenti.<LINE>Molti predatori sono potenti e pericolosi, quindi non farti prendere troppo dall'entusiasmo.
+tips-cheese|Utilizza i tubi per scambiare posto con un predatore che ti sta inseguendo. Può essere<LINE>un modo semplice per depistarli.
+tips-cannon|Tocca il tasto Salta uscendo da un tubo per lanciarti<LINE>rapidamente verso l'esterno.
+tips-martyr|Il martire non si preoccupa della sua sopravvivenza e si<LINE>lascia appassire finché il suo corpo non diventa polvere.
+tips-hunter|Il cacciatore è il percorso di un predatore, ma in questo mondo crudele e spietato<LINE>il suo bottino di caccia non garantisce la sopravvivenza.
+tips-outlaw|Il fuorilegge vive una vita in battaglia. Tutti coloro che osano avvicinarsi vengono uccisi, amici o nemici.
+tips-friend|L'amico preferisce l'altro e ciò che è ignoto. Il mondo è crudele e spietato,<LINE>ma insieme, si può trovare consolazione e protezione.
+Old tongue controls?|Comandi vecchi lingua?
+Enable wallpouncing?|Abilitare rimbalzo sul muro?
+Enable speedrun timer?|Abilitare tempo speedrun?
+CONFIGURE TITLE SCREEN|CONFIGURA SCHERMATA DEL TITOLO
+Keep your friend safe!|Tieni al sicuro il tuo amico!
+I must resume my work.|Devo riprendere il mio lavoro.
+Enable shelter item transport?|Abilitare trasporto oggetti nel rifugio?
+<CapPlayerName>, are you okay?|<CapPlayerName>, stai bene?
+Enable slug senses?|Abilitare sensi lumaca?
+CONFIGURE SUB MENUS|CONFIGURA SOTTOMENU
+Show tips between cycles?|Mostrare consigli tra i cicli?
+Enable Developer Commentary?|Abilita la modalità Commento sviluppatore?
+Change graphics quality|Modifica qualità della grafica
+Take your pet with you.|Porta con te il tuo animaletto.
+Change menu background images|Modifica immagine di sfondo del menu
+Display a speedrun timer at the top of the screen during gameplay?|Mostrare un tempo speedrun nella parte superiore della schermata durante il gioco?
+Activate tongue abilities with the throw button instead of the jump button?|Attivare l'uso della lingua con il tasto Lancia invece del tasto Salta?
+Allow passages to transport key items in your shelter to your new destination?|Consentire i passaggi per trasportare oggetti importanti nel rifugio verso la nuova destinazione?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Consentire di visualizzare le creature vicine e gli oggetti importanti come icone sulla mappa della memoria del lumagatto?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Abilitare l'uso del rimbalzo sul muro del lumagatto dalle versioni precedenti di Rain World?
+Spawn developer commentary collectables in the single player campaigns?|Generare commenti degli sviluppatori nelle campagne con giocatore singolo?
+Periodically show survival hints and explain gameplay mechanics for new players?|Mostrare consigli di sopravvivenza e spiegare le meccaniche di gioco periodicamente per i nuovi giocatori?
+Configure the background image used on the title screen|Configura l'immagine di sfondo utilizzata nella schermata del titolo
+Configure the background image used in the sub menus|Configura l'immagine di sfondo utilizzata nei sottomenu
+Wiggling around quickly might startle this creature.|Muoviti avanti e indietro rapidamente per spaventare questa creatura.
+I am afraid to ask how you brought your friend here.|Ho paura a chiederti come hai fatto a portarlo qui.
+tips-clock|Premi il tasto Mappa per vedere altre informazioni, come la barra del cibo.<LINE>Il cerchio con i punti nell'angolo in basso a sinistra rappresenta il<LINE>tempo rimasto fino all'arrivo della pioggia. Tienilo d'occhio!
+tips-rocks|Le rocce non sono un'arma letale, ma possono essere utili in molti modi.<LINE>Possono distrarre, allontanare, disarmare, stordire, svelare punti deboli e far cadere<LINE>le creature dai pali o dai ripiani, ecc.
+tips-audio|Gli indizi sonori sono spesso i primi indicatori di un pericolo imminente, anche prima<LINE>che diventi visibile. Ascolta con attenzione.
+tips-slide|Premi in diagonale verso il basso e il tasto Salta mentre sei in movimento per<LINE>scivolare. Scivolerai sul terreno e percorrerai rapidamente una<LINE>breve distanza.
+tips-noise|Le creature possono rilevare la tua presenza non solo con la vista, ma anche con i suoni.<LINE>Cerca di non fare troppo rumore, altrimenti potresti attirare attenzioni indesiderate.
+tips-saint|Il santo è un percorso di pacifismo. Nuocere agli altri è nuocere a se stessi.
+tips-nomad|Il nomade vive in un mondo in costante cambiamento. Vive una vita dopo l'altra,<LINE> mettendo passi in un viaggio infinito verso una meta ignota.
+Calm down!|Calma!
+tips-pipeflash|Le entrate dei tubi lampeggiano se c'è un pericolo dall'altra parte. Il colore<LINE>può darti un indizio sul tipo di pericolo.
+tips-foodtypes|Le mosche pipistrello e i frutti appesi non sono l'unica fonte di cibo. Alcune piante<LINE>e creature sono commestibili, ma solo in alcune condizioni. Sperimenta.
+tips-handorder|L'oggetto nella mano destra è l'oggetto principale che utilizzerai o lancerai per primo.<LINE>Tocca due volte il tasto Raccogli per scambiare gli oggetti nelle due mani.
+tips-slideleap|Tocca Salta durante una scivolata o mentre rotoli per concatenare le due azioni in un salto in lungo. Fallo<LINE>per aumentare la mobilità e coprire rapidamente una distanza maggiore.
+tips-turnboost|Cambia rapidamente direzione per ottenere un piccolo slancio di velocità per un<LINE>breve periodo di tempo nella nuova direzione. Continua a saltare per mantenere<LINE>la velocità più a lungo.
+tips-chieftain|Il capotribù sceglie la forza e la comunità nell'ignoto. È diventato<LINE>parte di questo mondo e ci sopravviverà, grazie ai suoi nuovi legami.
+tips-swallow|I piccoli oggetti non commestibili possono essere conservati nello stomaco<LINE>tenendo premuto il tasto Raccogli per qualche secondo. Tienilo premuto<LINE>anche per recuperare l'oggetto.
+tips-breathe|Presta attenzione al respiro prima di tuffarti in acqua. Se respiri<LINE>pesantemente, resta fermo per qualche secondo per prendere fiato.
+tips-polehop|Tocca il tasto Salta prima di incrociare un palo orizzontale per saltarci<LINE>sopra. Puoi concatenare questa azione per saltare rapidamente oltre i pali.
+tips-scholar|Il ricercatore cerca di capire com'era il mondo prima. Osserva un<LINE>passato cristallizzato per trovare un nuovo significato.
+tips-deathpenalty|La morte conta poco se sei pronto a ripartire. Prenditi del tempo per<LINE>lasciarti la prudenza alle spalle e sperimenta, esplora, scopri com'è fatta questa terra e dove<LINE>trovare il cibo, ecc.
+tips-shelterstore|Gli oggetti conservati nei rifugi resteranno lì nei vari cicli, anche se<LINE>abbandoni la regione. Sono l'unico posto sicuro in cui proteggere<LINE>i tuoi oggetti di valore dalla pioggia.
+tips-dragonslayer|L'uccisore di draghi ama la caccia. Ha messo in ginocchio le più grandi bestie di questo mondo.
+What did you do!?|Che hai fatto?!
+Stop it! Go away!|Basta, vai via!
+tips-tunnelboost|Tocca il tasto Salta mentre strisci in un corridoio stretto per darti<LINE>un piccolo slancio di velocità.
+tips-slidecancel|Durante una scivolata, premi rapidamente il tasto Salta e la direzione opposta al<LINE>movimento. La scivolata verrà annullata e tornerai al punto di partenza.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|All'inizio potresti non capire subito come usare alcuni oggetti, sperimenta con tutto ciò che trovi.
+There are many paths to explore in this world.|Ci sono moltissimi percorsi da esplorare in questo mondo.
+If you are struggling, try returning to a previous region.|Se hai problemi, prova a tornare nella regione precedente.
+You may find a new path forward, or discover something that makes your survival here easier.|Potresti trovare un nuovo percorso o scoprire qualcosa che può aiutarti a sopravvivere qui.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|Tuttavia, niente ti impedisce di superare le sfide di questa regione come stai facendo adesso.
+Your friend is very large, how did you fit them in here?|Il tuo amico è molto grande, come hai fatto a ficcarlo qui dentro?
+How did you bring that in here... I think it is as surprised as I am!|Come l'hai portato qui... È sorpreso quanto me!
+Oh, that is not a friend...|Oh, non è un amico...
+Oh...|Oh...
+I do enjoy the company of you and your friend though, <PlayerName>.|Mi piace stare in compagnia tua e del tuo amico, <PlayerName>.
+Is this your friend, <PlayerName>?|È amico tuo, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Buona fortuna a te e al tuo amico. Non posso fare più nulla.
+Please do not bring more wildlife into my chamber.|Non portare altra fauna nella mia camera.
+How did you fit them inside here anyhow?|Come hai fatto a farlo entrare qui dentro?
+Take your friend with you. Please. I beg you.|Porta con te il tuo amico. Ti scongiuro.

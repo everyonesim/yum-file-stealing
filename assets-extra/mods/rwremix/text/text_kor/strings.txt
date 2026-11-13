@@ -1,0 +1,113 @@
+﻿0Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|강하고 날쌔며, 꾸준히 육식을 해야 한다. 그러나 걱정할 것은 위장뿐만이 아니라...<LINE>매 주기가 불길한 위험이 조금씩 잠식하는 극도로 위험한 이 길이다.
+Custom colors|색상 커스텀
+tips-distract|앞길을 막는 포식자를 처리할 전략은 여러 가지가 있습니다.<LINE>주위를 분산시키거나, 소리를 내 꾀어내거나,<LINE>대신 먹혀줄 미끼를 던질 수도 있습니다.
+tips-hoarding|이미 배부르더라도, 나중의 주기를 편히 보내기 위해<LINE>피난처에 자원을 더 챙기고 돌아갈 수 있습니다.
+tips-prepared|빈손으로 다니지 마세요. 무언가라도 들고 있는 것만으로도 생과 사가 갈릴 수 있습니다.<LINE>언제 무엇이 필요할지 모르는 법이죠.
+tips-backflip|걸어가다가 돌아서면서 도약 버튼을 누르면 백플립을 합니다.<LINE>일반 도약보다 약간 더 높이 뛰어오르며, 구르기로 이어질 수 있습니다.
+tips-vertpole|백플립 중간에 창을 아래로 던지면 땅에 수직으로 창을 박을 수 있습니다.<LINE>이를 이용하면 갈 수 있는 곳이 더 많아집니다.
+tips-wanderer|방랑자는 이 세상의 구석구석의 모든 것을 다 보았습니다.<LINE>그 뒤의 여정 또한 또 다른 한걸음에 불과하죠.
+Body|신체
+Eyes|눈
+HIGH|높음
+Restore Default|기본값 복구
+Back to options|옵션으로 돌아가기
+tips-spearstick|창을 지표면에 박으면 임시로 타고 오를 수 있는 장대로 사용할 수 있습니다.<LINE>이 방법으로 새로운 길을 개척하고 도달하지 못했던 장소로 가보세요.
+tips-batharvest|박쥐파리를 쉽게 잡고 싶다면 물건을 던져 공중에서 떨구세요.<LINE>창을 쓰면 여러 마리를 단번에 꿰뚫어 사냥할 수도 있습니다.
+tips-reputation|슬러그캣의 행위는 생태계의 주민 사이의 명성을 쌓습니다.<LINE>적에게조차 관대하게 대한다면, 은혜가 돌아올지도 모릅니다.<LINE>그 반대로 모두에게 사냥당할 수도 있습니다.
+tips-throwboost|공중에서 물건을 던지면 던지는 방향으로 약간의 가속을 받습니다.<LINE>이를 사용해 가로로 더 멀리 도약할 수 있습니다.
+tips-tunnelturn|좁은 굴에서 기어갈 때, 몸이 향한 방향 반대로<LINE>도약 버튼을 누르면 몸을 돌립니다.<LINE>몸이 향하는 방향으로 기어가는 게 더 빠릅니다.
+tips-powerthrow|슬라이딩하면서 창을 앞으로 던지면 더 빨리 날아가고 더 세게 박힙니다.<LINE>이렇게 던진 창에 맞으면 생물이 더 오래 기절하고,<LINE>몇몇 방어를 꿰뚫을 수도 있습니다.
+tips-superslide|슬라이딩하면서 물건을 반대 방향으로 던지면<LINE>슬라이딩 거리가 크게 늘어납니다.
+tips-wallpounce|벽을 향해 멀리 뛰기를 하고, 벽을 향해 누른 상태에서<LINE>벽과 닿는 순간 도약 버튼을 누르면 더 멀리 튀어갈 수 있습니다.
+HUE|색조
+SAT|채도
+LIT|명도
+LOW|낮음
+CHOOSE|선택
+MEDIUM|보통
+Oh no.|아 이런.
+Analog Sensitivity|조이스틱 민감도
+tips-deathrecovery|먹이사슬은 복잡합니다. 생물에게 붙잡히고 나서도 운이 좋다면, 그 생물이<LINE>다른 생물과 접전을 벌이거나 아예 먹이가 되어버리면 풀려날 수 있죠!
+tips-utilitycreats|모든 생물이 피해야 할 포식자인 건 아닙니다.<LINE>여정에 도움이 될 수 있을 생물도 있습니다.
+FPS Limit|FPS 제한
+Unlimited|무제한
+tips-drop|아래를 누르며 줍기 버튼을 누르면 손에 있는 물건을<LINE>던지지 않고 땅에 놓습니다.
+tips-roll|높은 곳에서 떨어질 때, 대각선 아래를 누르고 있으면 착지할 때 구릅니다.<LINE>이렇게 추락의 충격을 줄이고 기동성을 얻을 수 있습니다.
+tips-swim|물속에서 몸을 뱀처럼 흔들면 잠영 속도가 빨라집니다.<LINE>박자에 맞춰 위아래나 좌우로 몸을 흔드세요.
+tips-monk|수도승은 피식자의 길입니다. 이 세상의 자연을 채집하며 생존하나,<LINE>포식자의 세상에서 이 길은 안전을 장담하지 않습니다.
+Quality|품질
+Backgrounds|배경 이미지
+tips-crouch|몸을 숙인 상태를 유지하기 위해 계속 버튼을 누르고 있지 않아도 됩니다.<LINE>아래를 한번 탭하면 웅크린 상태가 되고, 위를 한번 탭하면 도로 일어섭니다.
+tips-escape|대개는 가능하면 충돌을 피하고 싸움에서 도망치는 게 좋습니다.<LINE>포식자들은 강하고 위험하니, 너무 열심히 싸우려 하진 마세요.
+tips-cheese|통로를 이용해서 추격해오는 포식자와 자리를 바꿔보세요.<LINE>추적해오는 적을 쉽게 떨쳐낼 수 있습니다.
+tips-cannon|파이프에서 나오는 순간 도약 버튼을 누르면 나오는 방향으로 빠르게 튀어나갑니다.
+tips-martyr|순교자는 자신의 생존을 버리고, 몸이 먼지가 될 때까지 말라갑니다.
+tips-hunter|사냥꾼은 포식자가 될 수 있는 길이지만, 이 잔인하고 무심한 세상에서<LINE>사냥한 것만으로는 생존을 장담할 수 없습니다.
+tips-outlaw|무법자는 싸움 속에서 살아갑니다. 친구건 적이건, 가까이 오는 것은 모두 쓰러뜨립니다.
+tips-friend|친구는 다른 이와 미지의 존재를 포용합니다. 세상은 잔인하고 가혹하나,<LINE>함께라면 위로와 보호를 받을 수 있죠.
+Old tongue controls?|구버전 혀 컨트롤을 사용하시겠습니까?
+Enable wallpouncing?|벽튕기기를 활성화하시겠습니까?
+Enable speedrun timer?|스피드런 타이머를 활성화하시겠습니까?
+CONFIGURE TITLE SCREEN|타이틀 화면 설정
+Keep your friend safe!|네 친구를 지켜!
+I must resume my work.|내 일을 계속해야겠어.
+Enable shelter item transport?|피난처 아이템 이동을 활성화하시겠습니까?
+<CapPlayerName>, are you okay?|<CapPlayerName>, 괜찮니?
+Enable slug senses?|감지 능력을 활성화하시겠습니까?
+CONFIGURE SUB MENUS|부가 메뉴 설정
+Show tips between cycles?|주기 사이에 팁을 표시하시겠습니까?
+Enable Developer Commentary?|개발자 해설을 활성화하시겠습니까?
+Change graphics quality|그래픽 품질 변경
+Take your pet with you.|네 애완동물도 데려가렴.
+Change menu background images|메뉴 배경 이미지 변경
+Display a speedrun timer at the top of the screen during gameplay?|게임플레이 중 화면 상단에 스피드런 타이머를 표시하시겠습니까?
+Activate tongue abilities with the throw button instead of the jump button?|도약 버튼 대신 투척 버튼으로 혀 능력을 등록하시겠습니까?
+Allow passages to transport key items in your shelter to your new destination?|통행권으로 피난처에 있는 핵심 아이템을 새로운 도착점으로 운반하도록 허용하시겠습니까?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|근처에 있는 생물과 핵심 아이템을 슬러그캣의 기억 지도에서 아이콘으로 표시하도록 허용하시겠습니까?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|기존 Rain World 버전의 슬러그캣 벽튕기기 능력을 활성화하시겠습니까?
+Spawn developer commentary collectables in the single player campaigns?|싱글 플레이어 캠페인에서 개발자 해설 수집품을 생성할까요?
+Periodically show survival hints and explain gameplay mechanics for new players?|주기적으로 생존 힌트를 표시하고 새로운 플레이어를 위한 게임플레이 메커니즘을 설명할까요?
+Configure the background image used on the title screen|타이틀 화면에서 사용되는 배경 이미지 설정
+Configure the background image used in the sub menus|부가 메뉴에서 사용되는 배경 이미지 설정
+Wiggling around quickly might startle this creature.|빠르게 꿈틀거리는 동작은 이 생물을 놀라게 할 수 있다.
+I am afraid to ask how you brought your friend here.|네가 친구를 어떻게 여기 데리고 왔는지 물어보기가 두렵군.
+tips-clock|지도 버튼을 누르면 현재 허기와 같은 다른 정보도 볼 수 있습니다.<LINE>왼쪽 아래의 점들은 비가 오기 전에 남은 시간을 가리킵니다.<LINE>꼭 확인하세요!
+tips-rocks|돌은 살상력이 떨어지는 무기이지만 아주 유용합니다. 주위를 분산시키거나,<LINE>공격을 쳐내거나, 가진 무기를 떨구게 하거나, 기절시키거나,<LINE>약점을 드러내게 하거나, 장대나 난간을 타는 생물을 떨어뜨릴 수 있습니다!
+tips-audio|청각적인 단서는 위험이 보이기도 전에 다가오는 걸<LINE>먼저 알려주는 첫 지표가 됩니다. 귀를 기울이세요.
+tips-slide|앞으로 가면서 아래를 누르고, 수그리는 도중에 도약 버튼을 누르면<LINE>슬라이딩을 시작합니다. 순간적으로 넓은 바닥을 빠르게 미끄러집니다.
+tips-noise|생물은 시각뿐만 아니라 소음으로도 슬러그캣의 존재를 감지합니다.<LINE>소음에 유의하지 않으면 원치 않는 관심을 끌 수 있습니다.
+tips-saint|성자는 평화주의의 길입니다. 남을 해치는 건 곧 자신을 해치는 것이죠.
+tips-nomad|유목민은 계속 변화하는 세상을 경험합니다. 미지의 목표를 향한<LINE>끝없는 여정에서 걸어가듯이 한 삶에서 다음 삶으로 이동합니다.
+Calm down!|진정해!
+tips-pipeflash|통로 입구가 반짝거리면 반대편에 위험이 있다는 경고입니다.<LINE>반짝이는 색을 보면 어떤 종류의 위험인지 단서도 얻을 수 있습니다.
+tips-foodtypes|박쥐파리와 매달린 열매만 먹이가 되는 건 아닙니다.<LINE>먹을 수 있는 다른 식물과 동물이 있지만, 먼저 특정 조건을 맞춰야 합니다. 실험해보세요.
+tips-handorder|오른손에 든 물건을 우선 사용하거나 던집니다.<LINE>줍기 버튼을 연달아 짧게 누르면 양손에 있는 물건을 바꿀 수 있습니다.
+tips-slideleap|슬라이딩이나 구르기 중에 도약 버튼을 누르면 멀리 뛰기로 연계할 수 있습니다.<LINE>이렇게 이어서 기동성을 극대화하고 먼 거리를 빠르게 이동할 수 있습니다.
+tips-turnboost|이동하다가 빠르게 방향을 바꾸면 새 방향으로 잠깐 가속합니다.<LINE>이후 뛰어다니면 이 가속을 더 오래 유지할 수 있습니다.
+tips-chieftain|족장은 미지에서 힘과 사회를 포용합니다. 이 세상의 일부가 되며,<LINE>새로운 유대와 함께라면 살아남을 것입니다.
+tips-swallow|먹을 수 없는 작은 물건을 들고 줍기 버튼을 몇 초간 누르면 뱃속에 안전히 보관할 수 있습니다.<LINE>마찬가지로, 줍기 버튼을 꾹 눌러 물건을 도로 뱉어낼 수 있습니다.
+tips-breathe|물속에 뛰어들기 전에 숨 쉬는 걸 잘 확인하세요.<LINE>호흡이 가쁘다면, 가만히 서서 숨을 고를 시간을 가지세요.
+tips-polehop|가로로 된 봉과 부딪히기 직전에 도약 버튼을 누르면 봉을 밟고 통통 뜁니다.<LINE>이를 반복해 봉 위를 빠르게 지나갈 수 있습니다.
+tips-scholar|학자는 세상이 본디 어떠했는지 이해하고자 합니다.<LINE>결정화된 과거를 들여보고 그 안의 새로운 의미를 찾죠.
+tips-deathpenalty|다음으로 넘어갈 준비가 될 때까지 죽음은 별로 중요하지 않습니다.<LINE>앞뒤 가리지 않고 실험해보거나, 탐험하거나, 지역의 형태나<LINE>음식이 있는 위치 등을 알아내며 시간을 보내세요.
+tips-shelterstore|피난처에 보관한 물건은 주기가 지나도 보존되며, 지역을 떠나더라도 남습니다.<LINE>비를 피해 귀중품을 보관할 수 있는 유일한 안전 장소죠!
+tips-dragonslayer|용살자는 사냥을 받듭니다. 이 세상의 야수들을 복종시킵니다.
+What did you do!?|무슨 짓을 한 거니!?
+Stop it! Go away!|그만둬! 저리 가!
+tips-tunnelboost|좁은 굴에서 도약 버튼을 누르면 순간적으로 튀어 나갑니다.
+tips-slidecancel|슬라이딩 중에 빠르게 도약 버튼을 탭하는 동시에 반대 방향을 누르면<LINE>슬라이딩을 취소하고 원래 자리로 돌아옵니다.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|어떤 물건들의 용도는 첫눈에 명확하지 않을 수도 있으니, 뭐라도 찾았으면 실험해보자!
+There are many paths to explore in this world.|이 세상에는 탐험해볼 길이 많이 있다.
+If you are struggling, try returning to a previous region.|어려움을 겪고 있다면, 이전 지역으로 돌아가보자.
+You may find a new path forward, or discover something that makes your survival here easier.|새로운 방향을 찾거나, 여기서 생존하는 데 도움이 될 무언가를 발견할 수도 있다.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|하지만 바로 여기에 이 지역의 고난을 극복하는 걸 가로막는 게 있다는 건 아닙니다.
+Your friend is very large, how did you fit them in here?|네 친구는 엄청나게 크네. 어떻게 여기 다 들어올 수 있었던 거니?
+How did you bring that in here... I think it is as surprised as I am!|어떻게 여기 데려온 거니... 나만큼 얘도 놀란 거 같아!
+Oh, that is not a friend...|아, 저건 친구가 아니구나...
+Oh...|오...
+I do enjoy the company of you and your friend though, <PlayerName>.|그래도 너와 네 친구가 함께 있는 건 좋아, <PlayerName>.
+Is this your friend, <PlayerName>?|얘는 네 친구니, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|너와 네 동료에게도 행운을 빌어줄게. 내가 달리해줄 수 있는 건 없으니까.
+Please do not bring more wildlife into my chamber.|내 방에 야생 짐승을 더 데리고 오지 말아줘.
+How did you fit them inside here anyhow?|애초에 이 안에 어떻게 다 들어온 거야?
+Take your friend with you. Please. I beg you.|네 친구를 데려가. 제발. 부탁할게.

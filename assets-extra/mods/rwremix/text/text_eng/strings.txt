@@ -1,0 +1,113 @@
+﻿0Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.
+Custom colors|Custom colors
+tips-distract|A predator blocking the way can be overcome with many tactics. Create a<LINE>distraction, lure them away with noise, deploy a sacrifice that they can eat<LINE>instead of eating you, etc.
+tips-hoarding|Even if you are already full up on food, you can hoard extra supplies<LINE>inside of your shelter to make future cycles easier on yourself.
+tips-prepared|Don't travel empty handed. Having items immediately available can be the<LINE>difference between life and death... you never know when you may need them.
+tips-backflip|Quickly swap your direction of motion, and at the same time press the jump<LINE>button. This will initiate a back-flip, which has slightly more height than a<LINE>normal jump. Backflips can also be used to initiate a roll.
+tips-vertpole|At the peak of a back-flip, throw downwards with a spear to create a vertical<LINE>pole in the ground. Use this to expand the places you can reach even further.
+tips-wanderer|The Wanderer has seen every corner of this world, and all it has to offer.<LINE>The journey beyond is only another step to them.
+Body|Body
+Eyes|Eyes
+HIGH|HIGH
+Restore Default|Restore Default
+Back to options|Back to options
+tips-spearstick|Spears can be lodged into surfaces to create makeshift climbing poles. Use this<LINE>to open up new routes and get to previously inaccessible locations.
+tips-batharvest|Knock batflies out of the air with projectiles to make them easier to capture.<LINE>Skewer them with spears to capture multiple at once.
+tips-reputation|Your actions develop your reputation amongst the ecosystem's populace.<LINE>Be generous even to your enemies, and perhaps the favor will be returned.<LINE>Otherwise you may become hunted by all.
+tips-throwboost|Throwing an item mid-air gives you a slight boost in the direction thrown.<LINE>Use this to extend the horizontal range of your jumps.
+tips-tunnelturn|While crawling through a tight corridor, hold the jump button and the opposite<LINE>direction of where you're facing to turn around. You move faster while facing<LINE>the direction you're crawling.
+tips-powerthrow|Throwing a spear forward during a slide will give the spear extra speed<LINE>and impact. This can stun creatures for a longer period of time, and can<LINE>pierce certain defenses.
+tips-superslide|Throw an object backward during a slide to dramatically increase the<LINE>distance covered by the slide.
+tips-wallpounce|Pouncing toward a wall, then tapping the jump button directly on impact while<LINE>holding toward the wall will greatly increase the rebound force of your wall jumps.
+HUE|HUE
+SAT|SAT
+LIT|LIT
+LOW|LOW
+CHOOSE|CHOOSE
+MEDIUM|MEDIUM
+Oh no.|Oh no.
+Analog Sensitivity|Analog Sensitivity
+tips-deathrecovery|The food chain is complex. If you're lucky, even after being grabbed by a creature,<LINE>they may later lose grasp of you if they wind up in a skirmish or get eaten themselves!
+tips-utilitycreats|Not every creature is a predator to be avoided. There are many creatures<LINE>that may be able to benefit you on your journey as well.
+FPS Limit|FPS Limit
+Unlimited|Unlimited
+tips-drop|Pressing down and the pick-up button together will place the item in your hand<LINE>on the ground without throwing it.
+tips-roll|While falling a far distance, hold diagonally downwards to initiate a roll on<LINE>contact with the ground. This will reduce the impact of the fall and give<LINE>you some extra mobility.
+tips-swim|Move in a controlled snaking motion underwater to improve your swimming<LINE>speed. Wiggle your body rhythmically up and down, or left and right.
+tips-monk|The Monk is the path of prey. Foraging through the wilds of this world to survive,<LINE>but this path does not guarantee safety in a world of predators.
+Quality|Quality
+Backgrounds|Backgrounds
+tips-crouch|You don't have to hold down to stay crouched. Tap down once to enter the crawling<LINE>state, and tap up to return back to standing.
+tips-escape|When possible, it's often better to avoid confrontation and escape from fights.<LINE>Many predators are powerful and dangerous, so don't get overzealous.
+tips-cheese|Utilize pipes to swap places with a predator that is pursuing you. This can be<LINE>an easy way to shake them off your tail.
+tips-cannon|Tap the jump button right when coming out of a pipe to propel yourself<LINE>quickly outward.
+tips-martyr|The Martyr discards their own survival, withering away until their body becomes dust.
+tips-hunter|The Hunter is the path of a predator, but in this cruel and uncaring world the<LINE>spoils of their hunt do not always guarantee survival.
+tips-outlaw|The Outlaw lives their life in battle. All that come near are slain, friend and foe alike.
+tips-friend|The Friend embraces the other and the unknown. The world is cruel and unforgiving,<LINE>but together, comfort and protection can be found.
+Old tongue controls?|Old tongue controls?
+Enable wallpouncing?|Enable wallpouncing?
+Enable speedrun timer?|Enable speedrun timer?
+CONFIGURE TITLE SCREEN|CONFIGURE TITLE SCREEN
+Keep your friend safe!|Keep your friend safe!
+I must resume my work.|I must resume my work.
+Enable shelter item transport?|Enable shelter item transport?
+<CapPlayerName>, are you okay?|<CapPlayerName>, are you okay?
+Enable slug senses?|Enable slug senses?
+CONFIGURE SUB MENUS|CONFIGURE SUB MENUS
+Show tips between cycles?|Show tips between cycles?
+Enable Developer Commentary?|Enable Developer Commentary?
+Change graphics quality|Change graphics quality
+Take your pet with you.|Take your pet with you.
+Change menu background images|Change menu background images
+Display a speedrun timer at the top of the screen during gameplay?|Display a speedrun timer at the top of the screen during gameplay?
+Activate tongue abilities with the throw button instead of the jump button?|Activate tongue abilities with the throw button instead of the jump button?
+Allow passages to transport key items in your shelter to your new destination?|Allow passages to transport key items in your shelter to your new destination?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|Allow nearby creatures and key items to be visible as icons on slugcat's memory map?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|Enable slugcat's wall pouncing ability from legacy Rain World versions?
+Spawn developer commentary collectables in the single player campaigns?|Spawn developer commentary collectables in the single player campaigns?
+Periodically show survival hints and explain gameplay mechanics for new players?|Periodically show survival hints and explain gameplay mechanics for new players?
+Configure the background image used on the title screen|Configure the background image used on the title screen
+Configure the background image used in the sub menus|Configure the background image used in the sub menus
+Wiggling around quickly might startle this creature.|Wiggling around quickly might startle this creature.
+I am afraid to ask how you brought your friend here.|I am afraid to ask how you brought your friend here.
+tips-clock|Pressing the map button also reveals other information such as your food bar.<LINE>The circle of dots in the bottom-left represents the time until the rain comes.<LINE>Pay close attention to it!
+tips-rocks|Rocks may not be a lethal weapon, but they have many practical uses. They<LINE>can distract, deflect, disarm, stun, reveal weak points, knock creatures off<LINE>of poles and ledges, etc!
+tips-audio|Audible clues are often your first indicator of impending danger, even before<LINE>the danger is visible. Listen carefully.
+tips-slide|Press diagonally downwards plus the jump button while in motion to initiate<LINE>a slide. You will slide across the ground covering distance quickly for a short<LINE>period of time.
+tips-noise|Creatures can detect your presence not just by sight, but also by noise. Be<LINE>mindful about being too loud, otherwise you may attract unwanted attention.
+tips-saint|The Saint is a path of pacifism. To bring harm to another is to bring harm to one's self.
+tips-nomad|The Nomad experiences an ever-changing world. Living one life to the next as<LINE>just steps in an endless journey toward an unknown goal.
+Calm down!|Calm down!
+tips-pipeflash|Pipe entrances flash when there is danger on the other side. The color of the<LINE>flash can clue you in on the type of danger.
+tips-foodtypes|Batflies and hanging fruits are far from the only sources of food. Some plants<LINE>and creatures are edible, but only once certain conditions are met. Experiment.
+tips-handorder|The item in your right hand is the primary item that will be used or thrown first.<LINE>Double-tapping the pick-up button will swap items between your two hands.
+tips-slideleap|Tap jump during a slide or a roll to chain it into a long jump. Use this to<LINE>maximize your mobility and cover a lot of distance quickly.
+tips-turnboost|Quickly swapping direction of motion will give you a slight speed boost for a<LINE>short time in the new direction. Keep hopping afterwards to maintain this<LINE>speed boost for longer.
+tips-chieftain|The Chieftain embraces strength and community in the unknown. They have become<LINE>part of this world, and with their new bonds, they will survive it.
+tips-swallow|Small, non-edible items can be stored in your stomach for safe keeping by<LINE>holding down the pick-up button for a few seconds. Likewise, hold it to<LINE>regurgitate the item back up.
+tips-breathe|Pay attention to your breathing before jumping underwater. If you are breathing<LINE>heavy, stand still and give yourself a second to catch your breath first.
+tips-polehop|Tapping the jump button just before intersecting a horizontal pole allows<LINE>you to bounce off the pole. This can be chained to quickly hop across poles.
+tips-scholar|The Scholar seeks to understand the world as it once was. Gazing into a<LINE>crystallized past, and finding new meaning within it.
+tips-deathpenalty|Death matters little until you are ready to move on. Take some time to throw<LINE>caution to the wind and experiment, explore, learn the layout of land, learn<LINE>food locations, etc.
+tips-shelterstore|Items stored in shelters will stay there between cycles, and will persist<LINE>even if you leave the region. They are the only safe places to keep your<LINE>valuables from the rain!
+tips-dragonslayer|The Dragon Slayer embraces the hunt. They have brought the beasts of this world to heel.
+What did you do!?|What did you do!?
+Stop it! Go away!|Stop it! Go away!
+tips-tunnelboost|Tap the jump button while crawling in a tight corridor to give yourself a<LINE>slight boost in speed.
+tips-slidecancel|During a slide, quickly tap the jump button plus the opposite direction of<LINE>motion. This will cancel the slide and return you to where you started.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|The use of some objects may not be obvious at first glance, experiment with everything you find!
+There are many paths to explore in this world.|There are many paths to explore in this world.
+If you are struggling, try returning to a previous region.|If you are struggling, try returning to a previous region.
+You may find a new path forward, or discover something that makes your survival here easier.|You may find a new path forward, or discover something that makes your survival here easier.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|However, there is nothing that stops you from overcoming this region's challenges as you are right now.
+Your friend is very large, how did you fit them in here?|Your friend is very large, how did you fit them in here?
+How did you bring that in here... I think it is as surprised as I am!|How did you bring that in here... I think it is as surprised as I am!
+Oh, that is not a friend...|Oh, that is not a friend...
+Oh...|Oh...
+I do enjoy the company of you and your friend though, <PlayerName>.|I do enjoy the company of you and your friend though, <PlayerName>.
+Is this your friend, <PlayerName>?|Is this your friend, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Best of luck to you, and your companion. There is nothing else I can do.
+Please do not bring more wildlife into my chamber.|Please do not bring more wildlife into my chamber.
+How did you fit them inside here anyhow?|How did you fit them inside here anyhow?
+Take your friend with you. Please. I beg you.|Take your friend with you. Please. I beg you.

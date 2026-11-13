@@ -1,0 +1,1351 @@
+﻿0THAI|THAI
+Monk|Monk
+AUTO|AUTO
+INFO|INFO
+EXIT|EXIT
+Run!|Run!
+Jump|Jump
+Move|Move
+Left|Left
+Down|Down
+View|View
+Food|Food
+EDIT|EDIT
+PLAY|PLAY
+BACK|BACK
+NEXT|NEXT
+You!|You!
+You.|You.
+TRADITIONAL CHINESE|TRADITIONAL CHINESE
+Fixed campaign seed|Fixed campaign seed
+watcher-description|An expansion adding a new campaign: The Watcher. This expansion includes new regions, creatures, mechanics, items, over 150 tracks of new music and much more.
+backup_info_loading|Loading save slot information...
+backup_info_no_data|No story data exists in this save slot.
+backups_description|View, create, or restore from previously backed up save data.
+save_file_corrupted|An error has occurred attempting to read or initialize the save file.<LINE>In order to protect your save data, game launch has been halted. <LINE>Please contact Akupara Games Support with the following error code.<LINE><LINE>ERROR CODE: {ERROR}<LINE><LINE>Do you wish to retry loading the save file?
+objecttype-PuffBall|Spore Puff
+objecttype-WaterNut|Bubble Fruit
+objecttype-Mushroom|Mushroom
+creaturetype-Spider|Coalescipede
+creaturetype-BigEel|Leviathan
+creaturetype-EggBug|Eggbug
+The Monk-linebreaks|The Monk
+Speedrun Validation|Speedrun Validation
+switch_controls_map|R Button
+Showing level names|Showing level names
+ps4_region_map_help|Press R1 to view regional map
+Successful cycles :|Successful cycles :
+Helped Five Pebbles|Helped Five Pebbles
+New arenas unlocked|New arenas unlocked
+mod_menu_apply_mods|Applying mod changes, please wait...
+mod_menu_enable_all|Enable all mods
+Creating index maps|Creating index maps
+OpDragger_MouseTuto|Hold mouse button and drag up or down to adjust value
+MenuModStat_MapTuto|Hold <Button> to check controls
+Loading screen tips|Loading screen tips
+Hunter Bonus Cycles|Hunter Bonus Cycles
+Visual breath meter|Visual breath meter
+Scavenger headshots|Scavenger headshots
+NONE (User Defined)|NONE (User Defined)
+rwremix-description|A wide variety of configurable accessibility features and community requested features, including new gameplay mechanics and bonus features. Use the configuration screen to toggle individual features on or off.
+Hello <PlayerName>.|Hello <PlayerName>.
+still, very... bad.|still, very... bad.
+I will take a look.|I will take a look.
+There you go again.|There you go again.
+again... leaving...|again... leaving...
+SIMPLIFIED CHINESE|SIMPLIFIED CHINESE
+No Ringing in Ears|No Ringing in Ears
+remix_game_version|The game's version has been updated. You will need to reapply your mods through the Remix menu.
+ROUNDS SESSION-ru2|ROUNDS SESSION
+objecttype-SeedCob|Popcorn Plant
+objecttype-Lantern|Lantern
+objecttype-FlyLure|Batnip
+creaturetype-Leech|Leech
+creaturetype-Snail|Snail
+creaturetype-Hazer|Hazer
+Industrial Complex|Industrial Complex
+Scavenger Merchant|Scavenger Merchant
+Path of aggression|Path of aggression
+Catch and eat them|Catch and eat them
+Configure controls|Configure controls
+No players joined!|No players joined!
+Start new playlist|Start new playlist
+minutes until rain|minutes until rain
+mod_menu_next_page|View next page of installed mods
+mod_menu_prev_page|View previous page of installed mods
+mod_menu_configure|Change configurations and settings for the selected mod
+OpUpdown_MouseTuto|Click and type numbers, use arrows or scrollwheel to adjust
+Dialog pauses rain|Dialog pauses rain
+Lizard spear pulls|Lizard spear pulls
+Slow Motion Factor|Slow Motion Factor
+remix_first_launch|Additional content and configurations can be accessed through the REMIX menu. Use REMIX to add, modify, or customize which content is available in your Rain World playthrough.
+remix_dlc_redirect|Click on the content to visit the store page to learn more.
+How have you been?|How have you been?
+You're here again.|You're here again.
+...you...killed...|...you...killed...
+Yet another thing?|Yet another thing?
+Yet again leaving.|Yet again leaving.
+Yes, there you go.|Yes, there you go.
+As I was saying...|As I was saying...
+Stay! ... Still...|Stay! ... Still...
+I am... too tired.|I am... too tired.
+Disable Cosmetic Ripples|Disable Cosmetic Ripples
+save_file_error_continue|Continuing may impact the game's ability to save the game, or save data loss. Really proceeed?
+objecttype-ScavengerBomb|Grenade
+creaturetype-GreenLizard|Green Lizard
+creaturetype-WhiteLizard|White Lizard
+creaturetype-BlackLizard|Black Lizard
+creaturetype-GarbageWorm|Garbage Worm
+creaturetype-TempleGuard|Guardian
+creaturetype-VultureGrub|Vulture Grub
+creaturetype-KingVulture|King Vulture
+Predator has become prey|Predator has become prey
+The Chieftain-linebreaks|The Chieftain
+Here is a strange energy|Here is a strange energy
+switch_pause_help_pickup|Press to pick up objects
+Change screen resolution|Change screen resolution
+Arena mode music volume:|Arena mode music volume:
+switch_controls_movement|Left Stick
+switch_controls_hold_map|Hold R Button
+Showing level thumbnails|Showing level thumbnails
+ps4_fast_travel_map_help|Press R1 to select the shelter you wish to continue from
+ps4_save_progress_failed|Error saving progress data.
+ps4_load_progress_failed|Progress save data is corrupted and will be deleted.
+mod_menu_load_order_down|When merging mod changes, apply this mod earlier than others. This may help resolve certain mod conflicts.
+OpComboBox_MouseOpenTuto|Click to open the list
+OpScrollBox_NonMouseTuto|Press CONFIRM and use joystick to see more
+OpSimpleButton_MouseTuto|Click mouse button to trigger
+ModdingMenu_ControlThrow|Return / Cancel
+MenuModStat_ModsDownpour|Pre-packaged mods:
+Keep snails out of pipes|Keep snails out of pipes
+Additional lizard voices|Additional lizard voices
+Splashes alert creatures|Splashes alert creatures
+Disable shelter failures|Disable shelter failures
+Unlock all sandbox items|Unlock all sandbox items
+moreslugcats-description|An expansion adding five new playable campaigns, each unique in its spot on the timeline. This expansion includes new regions, creatures, items, music, alternate endings, new game modes, and much more.
+...is this reaching you?|...is this reaching you?
+Oh, <PlayerName>. Hello!|Oh, <PlayerName>. Hello!
+Oh, <PlayerName>. Hello.|Oh, <PlayerName>. Hello.
+Oh... I will look at it.|Oh... I will look at it.
+Oh... I will take a look|Oh... I will take a look
+...rain... coming... Go!|...rain... coming... Go!
+...please... be still...|...please... be still...
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|Disable cosmetic ripple effects that appear in the vicinity of some warp locations
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|I do enjoy the company though. You're welcome to stay a while, quiet little thing.
+Disable Player Ripple Trail|Disable Player Ripple Trail
+Complete the Hunter passage|Complete the Hunter passage
+Complete the Outlaw passage|Complete the Outlaw passage
+Complete the Friend passage|Complete the Friend passage
+Complete the Martyr passage|Complete the Martyr passage
+Complete the Mother passage|Complete the Mother passage
+objecttype-FirecrackerPlant|Cherrybomb
+creaturetype-SmallCentipede|Small Centipede
+Four is enough to hibernate|Four is enough to hibernate
+invert_x_description_switch|Invert horizontal axis for analog stick controls.
+invert_y_description_switch|Invert vertical axis for analog stick controls.
+Player <X> will use gamepad|Player <X> will use gamepad
+Player vs player deathmatch|Player vs player deathmatch
+Play each level three times|Play each level three times
+switch_fast_travel_map_help|Press the R Button to select the shelter you wish to continue from
+OpComboBox_NonMouseOpenTuto|Press CONFIRM to open the list
+OpKeyBinder_MouseSelectTuto|Click to change button binding
+OpSlider_NonMouseAdjustTuto|Use joystick to adjust, press CONFIRM to apply
+OpColorPicker_MouseTypeTuto|Type hex code with keyboard for desired color
+OpSimpleButton_NonMouseTuto|Press CONFIRM button to trigger
+MenuModStat_ConsoleExplain0|This menu is used to activate and configure Remix content for new ways of playing Rain World.
+MenuModList_ListButton_Stat|Display statistics about your installed mods
+MenuModList_ListSlider_Desc|Hold your mouse button on the circle and drag up or down to scroll the mod list
+MenuModList_SearchBox_Empty|Type to search...
+MenuModList_SearchBox_Query|Search query: <Query>
+Connector_ResetConfig_Alert|Restored the configuration of <ModName> to default
+Arena creatures cannot flee|Arena creatures cannot flee
+Monk extra light assistance|Monk extra light assistance
+Zero-gravity spear throwing|Zero-gravity spear throwing
+Unlock all arena characters|Unlock all arena characters
+Oh, it's you, <PlayerName>.|Oh, it's you, <PlayerName>.
+Please... don't do... that.|Please... don't do... that.
+What is that, <PlayerName>?|What is that, <PlayerName>?
+Want it back, <PlayerName>?|Want it back, <PlayerName>?
+Why should I tolerate this?|Why should I tolerate this?
+As I tried to say to you...|As I tried to say to you...
+Disable the visual trail that follows the player once achieving higher ripple attunement|Disable the visual trail that follows the player once achieving higher ripple attunement
+You cannot use PlayStation™Network features in this application due to age restrictions.|You cannot use PlayStation™Network features in this application due to age restrictions.
+The following cheats unlock content you would normally unlock via finding unlock tokens.|The following cheats unlock content you would normally obtain via finding unlock tokens.
+Disable Lightning Flashes|Disable Lightning Flashes
+backup_create_description|Store the current contents of your save data as a new backup save.
+backup_delete_description|Delete the selected backup from the list of backup saves.
+mod_menu_restoring_backup|Attempting to restore backup save data...
+ps4_load_save_slot_failed|Save slot data is corrupted and will be deleted.
+Complete the Monk passage|Complete the Monk passage
+Find a way to communicate|Find a way to communicate
+creaturetype-YellowLizard|Yellow Lizard
+creaturetype-LanternMouse|Lantern Mouse
+creaturetype-RedCentipede|Red Centipede
+One need not travel alone|One need not travel alone
+You are hungry, find food|You are hungry, find food
+invert_x_description_xbox|Invert horizontal axis for analog stick controls.
+invert_y_description_xbox|Invert vertical axis for analog stick controls.
+Switch to fullscreen mode|Switch to fullscreen mode
+OpDragger_NonMouseUseTuto|Use joystick to adjust, press CONFIRM to set
+OpKeyBinder_MouseBindTuto|Press a button to bind (ESC to unbind)
+OpSlider_NonMouseGrabTuto|Press CONFIRM to interact
+OpHoldButton_NonMouseTuto|Hold CONFIRM button to trigger
+MenuModStat_ModsInterface|Enabled mods with a Remix user interface: <Number1> (Configurable: <Number2>)
+Show underwater shortcuts|Show underwater shortcuts
+Centipede pipe protection|Centipede pipe protection
+Threat music visual pulse|Threat music visual pulse
+Disable precycle flooding|Disable precycle flooding
+Unlock all safari regions|Unlock all safari regions
+ps4_expedition_slot_title|Rain World Expedition
+ps4_expedition_core_title|Rain World Expedition Core
+...thank you... better...|...thank you... better...
+Tried to say... to you...|Tried to say... to you...
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|Disable fullscreen flash and darkening effect that occurs when lightning strikes
+Reduce Passive Rain Intensity|Reduce Passive Rain Intensity
+Complete the Survivor passage|Complete the Survivor passage
+Complete the Wanderer passage|Complete the Wanderer passage
+Five Pebbles (Memory Conflux)|Five Pebbles (Memory Conflux)
+Hold to eat / swallow objects|Hold to eat / swallow objects
+Configure controls for player|Configure controls for player
+Standard items spawn on level|Standard items spawn on level
+ps4_save_progress_description|Rain World Progress {0} Save Data
+OpColorPicker_NonMouseSliders|With joystick, up or down to choose, left or right to adjust. Press CONFIRM to apply
+OpScrollBox_MouseTutoSlidebar|Use scroll wheel or scrollbar to see more
+ConfigMenuTab_BackButton_Desc|Return to main menu
+ConfigMenuTab_SaveButton_Desc|Save current mod's configurations and return
+MenuModList_ModButton_Display|Display <Mod>
+MenuModList_ListButton_SwapUp|Click to make this mod load later than the mods above it
+MenuModList_ListButton_SwapDw|Click to make this mod load sooner than the mods below it
+MenuModList_ListButton_Expand|Expand to show thumbnails in the mod list
+No stealing Hunter back-spear|No stealing Hunter back-spear
+Scavenger kill squad leniency|Scavenger kill squad leniency
+Hide rain timer in safe areas|Hide rain timer in safe areas
+No randomized cycle durations|No randomized cycle durations
+Rivulet Rain Timer Multiplier|Rivulet Rain Timer Multiplier
+Unlock the Outer Expanse gate|Unlock the Outer Expanse gate
+Steam manager not initialized|Steam manager not initialized
+This one again, <PlayerName>?|This one again, <PlayerName>?
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long
+Reduce Other Effects Density|Reduce Other Effects Density
+Everything comes full circle|Everything comes full circle
+Great strides have been made|Great strides have been made
+Complete the Scholar passage|Complete the Scholar passage
+Complete the Pilgrim passage|Complete the Pilgrim passage
+creaturetype-BrotherLongLegs|Brother Long Legs
+creaturetype-SmallNeedleWorm|Infant Noodlefly
+Press any button to continue|Press any button to continue
+A Bell, Eighteen Amber Beads|A Bell, Eighteen Amber Beads
+Two Sprouts, Twelve Brackets|Two Sprouts, Twelve Brackets
+The Dragon Slayer-linebreaks|The Dragon<LINE>Slayer
+Three is enough to hibernate|Three is enough to hibernate
+Rain is coming! Find shelter|Rain is coming! Find shelter
+Score required to exit level|Score required to exit level
+Always allow players to exit|Always allow players to exit
+ps4_save_options_description|Rain World Options Save Data
+Reloading player progression|Reloading player progression
+OpKeyBinder_NonMouseBindTuto|Press a button to bind (PAUSE to unbind)
+MenuModStat_ModTargetVersion|Target game version: <TargetVersion> (Current game version: <GameVersion>)
+Artificer Explosion Capacity|Artificer Explosion Capacity
+Unlock all sandbox creatures|Unlock all sandbox creatures
+Perhaps... I saw you before?|Perhaps... I saw you before?
+Oh... Should I look at that?|Oh... Should I look at that?
+A gift for me, <PlayerName>?|A gift for me, <PlayerName>?
+Oh... Never mind, I suppose.|Oh... Never mind, I suppose.
+I will...not speak to you...|I will...not speak to you...
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|Settings designed to make the game significantly easier, but may weaken the overall game experience.
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduce Floating Particles Density|Reduce Floating Particles Density
+Droplets upon Five Large Droplets|Droplets upon Five Large Droplets
+Game Over - Press VIEW to restart|Game Over - Press VIEW to restart
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - CHOOSE PRESET OR BIND BUTTONS
+PICK UP button - Select shelter_1|PICK UP button - Select shelter
+PICK UP button - Select shelter_2|square button - Select shelter
+PICK UP button - Select shelter_3|Y Button - Select shelter
+PICK UP button - Select shelter_4|Left Button - Select shelter
+PICK UP button - Select shelter_5|B Button - Select shelter
+OpKeyBinder_ErrorConflictOtherMod|Conflicting button with <AnotherModID>
+OpKeyBinder_MouseJoystickBindTuto|Press a button to bind (ESC to unbind, CTRL + Num to set controller number)
+ConfigContainer_AlertCopyCosmetic|Copied <Text> to clipboard
+ConfigMenuTab_BackHoldButton_Desc|Return to main menu (without applying mods!)
+Passage progress without Survivor|Passage progress without Survivor
+I will not speak to you any more.|I will not speak to you any more.
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|Adjusts deers' behavior and adds additional mechanics to influence their actions
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.
+Disable Fetid Glen Rainbow Grain|Disable Fetid Glen Rainbow Grain
+Followed your parental instincts|Followed your parental instincts
+Player <X> will use the keyboard|Player <X> will use the keyboard
+switch_controls_singlejoycon_map|SR Button
+Playing levels in selected order|Playing levels in selected order
+OpKeyBinder_ErrorConflictVanilla|Conflicting button with vanilla control options
+OpKeyBinder_ErrorConflictCurrMod|[<ConflictButton>] button is already in use
+OpColorPicker_NonMouseModeSelect|Press CONFIRM to select mode
+ConfigMenuTab_RevertButton_Label|BACK
+Scavenger corpses have max karma|Scavenger corpses have max karma
+Unlock Developer Commentary mode|Unlock Developer Commentary mode
+Please... thiss all I have left.|Please... this is all I have left.
+Ah... <PlayerName>, you're back!|Ah... <PlayerName>, you're back!
+Ah... <PlayerName>, you're back.|Ah... <PlayerName>, you're back.
+NO! I will...not speak to you...|NO! I will...not speak to you...
+A new gift for me, <PlayerName>?|A new gift for me, <PlayerName>?
+<CapPlayerName>, this one again?|<CapPlayerName>, this one again?
+Yes, take it and leave me alone.|Yes, take it and leave me alone.
+I think the rain is approaching.|I think the rain is approaching.
+...leaving now? Don't... return.|...leaving now? Don't... return.
+Remove the grainy effect that appears in the background of Fetid Glen areas|Remove the grainy effect that appears in the background of Fetid Glen areas
+Go explore! There is food and shelter to be found, but beware of predators.|Go explore! There is food and shelter to be found, but beware of predators.
+Prevents underwater shortcut symbols from being obscured by the water layer|Prevents underwater shortcut symbols from being obscured by the water layer
+Changes the amount of bonus cycles Hunter can receive during their campaign|Changes the amount of bonus cycles Hunter can receive during their campaign
+The current session playtime will always be visible as a UI element in-game|Your total playtime for a character will always be visible as a UI element in-game during campaigns
+This option significantly decreases the difficulty of Artificer's campaign.|This option significantly decreases the difficulty of Artificer's campaign.
+Your account is in read-only mode due to a recent password or email change.|Your account is in read-only mode due to a recent password or email change.
+These settings adjust the density of VFX for visual accessibility needs.|These settings adjust the density of VFX for visual accessibility needs.
+Show tutorial messages for Watcher's mechanics during the story campaign|Show tutorial messages for Watcher's mechanics during the story campaign
+Stops Scavengers from being able to steal the spear off of Hunter's back|Stops Scavengers from being able to steal the spear off of Hunter's back
+Allow throwing spears upwards during a backflip in addition to downwards|Gives additional options for the directions and ways that objects can be thrown in certain circumstances
+REDUCED|REDUCED
+MINIMAL|MINIMAL
+Special|Special
+RESTORE|RESTORE
+BACKUPS|BACKUPS
+No data|No data
+Closure|Closure
+REGIONS|REGIONS
+OPTIONS|OPTIONS
+The Leg|The Leg
+CREDITS|CREDITS
+ENGLISH|ENGLISH
+ITALIAN|ITALIAN
+SPANISH|SPANISH
+RUSSIAN|RUSSIAN
+CHINESE|CHINESE
+GAMEPAD|GAMEPAD
+Hold R1|Hold R1
+Options|OPTIONS button
+Hold RB|Hold RB
+minutes|minutes
+No rain|No rain
+Survive|Survive
+Winner!|Winner!
+RESTART|RESTART
+PASSAGE|PASSAGE
+Quits :|Quits :
+Ranking|Ranking
+Profile|Profile
+In Game|In Game
+In Menu|In Menu
+Version|Version
+General|General
+Presets|Presets
+CLASSIC|CLASSIC
+RELAXED|RELAXED
+Assists|Assists
+Failure|Failure
+...you.|...you.
+Please!|Please!
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|Some cosmetic visual effects are disabled entirely, and many others are significantly reduced
+Close Map Button|Map button - Close map
+Enable tutorials|Enable tutorials
+Follow the guide|Follow the guide
+objecttype-Spear|Spear
+creaturetype-Fly|Batfly
+Select save slot|Select save slot
+Movement Buttons|Movement Buttons
+Shuffling levels|Shuffling levels
+Playing in order|Playing in order
+rounds per level|rounds per level
+Random creatures|Random creatures
+Trophy Collector|Trophy Collector
+Press ? to start|Press ? to start
+mod_menu_restart|The applied mods require the game to be re-launched. Press continue and then launch the game again.
+Applying Changes|Applying Changes
+Vulture darkness|Vulture darkness
+Vanilla exploits|Vanilla exploits
+Aggressive Saint|Aggressive Saint
+Gameplay Assists|Gameplay Assists
+Generic failure.|Generic failure.
+remix_dlc_launch|New DLC is detected! Your installed DLC can be found and enabled through the REMIX menu.
+remix_dlc_locked|Additional DLC must be purchased before this content can be enabled.
+...yes... leave.|...yes... leave.
+You... are back.|You... are back.
+Little tormentor|Little tormentor
+Unlock Hunter campaign|Unlock Hunter campaign
+backup_restore_confirm|YOUR CURRENT SAVE DATA WILL BE REMOVED!<LINE><LINE>Choosing to restore will overwrite the save data in ALL of your save slots with the data from this backup.<LINE>This operation is permanent and cannot be undone.<LINE><LINE>Are you sure you want to overwrite your current save data with the data from {X}?
+backup_restore_success|The save data from {X} has been restored.
+backup_info_disclaimer|(Data shown here is based on your currently enabled mods.<LINE>There may exist additional data here from mods that are currently disabled)
+A final charitable act|A final charitable act
+Path of self-sacrifice|Path of self-sacrifice
+objecttype-VultureMask|Vulture Mask
+objecttype-DangleFruit|Blue Fruit
+objecttype-KarmaFlower|Karma Flower
+objecttype-BubbleGrass|Bubble Weed
+creaturetype-RedLizard|Red Lizard
+creaturetype-PoleMimic|Pole Plant
+creaturetype-MirosBird|Miros Bird
+creaturetype-Centipede|Centipede
+creaturetype-Centiwing|Centiwing
+creaturetype-Scavenger|Scavenger
+creaturetype-BigSpider|Big Spider
+Stronger climbing grip|Stronger climbing grip
+Path of the vegetarian|Path of the vegetarian
+The Scholar-linebreaks|The Scholar
+The Journey-linebreaks|The Journey
+switch_tutorial_crouch|Briefly press DOWN to crouch
+Tap to pick up objects|Tap to pick up objects
+Test your new controls|Test your new controls
+switch_controls_pickup|Y Button
+switch_region_map_help|Press the R Button to view regional map
+Sandbox item unlocked:|Sandbox item unlocked:
+ps4_save_options_title|Rain World Options
+mod_menu_load_order_up|When merging mod changes, apply this mod later than others. This may help resolve certain mod conflicts.
+OpSlider_MouseTutoHrzt|Hold your mouse button and drag left or right to adjust value
+OpSlider_MouseTutoVrtc|Hold your mouse button and drag up or down to adjust value
+OpTextBox_NonMouseTuto|This element cannot be modified using a controller
+OpHoldButton_MouseTuto|Hold mouse button to trigger
+ModdingMenu_ControlMap|View controls
+MenuModStat_ModsRegion|Enabled region mods: <Number>
+MenuModList_SwapFailed|Cannot load a required mod before its dependent mod
+OIError_Message_Update|There was an issue running OptionInterface.
+New dynamic difficulty|New dynamic difficulty
+Legacy tongue controls|Legacy tongue controls
+Upwards spear throwing|Extra throwing trajectories
+Quieter gates/shelters|Quieter gates/shelters
+Faster shelter opening|Faster shelter opening
+Pull spears from walls|Pull spears from walls
+Unlock all collections|Unlock all collections
+expedition-description|Set out on an Expedition in this challenging new game mode. Complete random challenges whilst avoiding permadeath and work towards unlocking new useful perks, punishing burdens, and music tracks to play in the Jukebox.
+Please leave me alone.|Please leave me alone.
+That... Oh, thank you.|That... Oh, thank you.
+...don't... come back.|...don't... come back.
+Oh... You are leaving.|Oh... You are leaving.
+Good bye, I suppose...|Good bye, I suppose...
+Unlock Watcher arena character|Unlock Watcher arena character
+ps4_load_save_slot_load_failed|Unable to load save slot. Error code: {ERROR}
+ps4_load_expedition_run_failed|Unable to load Expedition run data. Error code: {ERROR}
+You have found another way out|You have found another way out
+Complete the Chieftain passage|Complete the Chieftain passage
+Complete the game as The Saint|Complete the game as The Saint
+This land has become your home|This land has become your home
+switch_pause_help_switch_hands|Press twice to switch hands
+Playing levels in random order|Playing levels in random order
+OpKeyBinder_NonMouseSelectTuto|Press JUMP to change button binding
+ConfigMenuTab_ApplyButton_Desc|Apply currently selected mods
+ConfigMenuTab_BackButton_Label|EXIT
+ConfigMenuTab_SaveButton_Label|APPLY
+ConfigMenuTab_ResetButton_Desc|Reset current mod's configurations
+No Hunter batfly auto-grabbing|No Hunter batfly auto-grabbing
+Disable all karma requirements|Disable all karma requirements
+Saint environmental protection|Saint environmental protection
+mod_workshop_upload_buttondesc|Upload the selected mod to Steam Workshop
+It's you, <PlayerName>. Hello.|It's you, <PlayerName>. Hello.
+NO! ... no. Let it go, please.|NO! ... no. Let it go, please.
+You... brought that... for me?|You... brought that... for me?
+And now you're taking it back.|And now you're taking it back.
+Please. Be still for a moment.|Please. Be still for a moment.
+<CapPlayerName>... Never mind.|<CapPlayerName>... Never mind.
+Special Button|Special Button
+A Helping Hand|A Helping Hand
+mod_menu_error|Mods failed to apply due to the following error:
+Garbage Wastes|Garbage Wastes
+Shaded Citadel|Shaded Citadel
+Chimney Canopy|Chimney Canopy
+Unknown Region|Unknown Region
+Scavenger Toll|Scavenger Toll
+RESET PROGRESS|RESET PROGRESS
+Input Settings|Input Settings
+Pick-Up Button|Pick-Up Button
+ROUNDS SESSION|ROUNDS SESSION
+RESUME SESSION|RESUME SESSION
+Clear playlist|Clear playlist
+Eating contest|Eating contest
+Aggressive AI:|Aggressive AI:
+Change Profile|Change Profile
+mod_menu_apply|Apply changes to selected mods
+Speedrun timer|Speedrun timer
+jollycoop-name|Jolly Co-op
+Leaving again.|Leaving again.
+switch_controls_singlejoyconl_special|Up Button
+Something lurks amongst the clouds...|Something lurks amongst the clouds...
+Take the longer path to enlightenment|Take the longer path to enlightenment
+A significant gain, but at what cost?|A significant gain, but at what cost?
+Game Over - Press + Button to restart|Game Over - Press + Button to restart
+Game Over - Press - Button to restart|Game Over - Press - Button to restart
+switch_controls_singlejoycon_hold_map|Hold SR Button
+switch_controls_singlejoyconr_special|Y Button
+Hold and drag to adjust score awarded|Hold and drag to adjust score awarded
+ConfigContainer_AlertPasteNoncosmetic|Pasted <Text> from clipboard to <ObjectName>
+MenuModList_ModButton_Enable_NonMouse|Press CONFIRM to enable this mod, hold CONFIRM and use the joystick to switch load order
+Press CONTINUE to view and accept it.|Press CONTINUE to view and accept it.
+Thank you. I do wonder what you want.|Thank you. I do wonder what you want.
+Another thing you want me to look at?|Another thing you want me to look at?
+Would you like me to read this pearl?|Would you like me to read this pearl?
+And now you're taking it, apparently.|And now you're taking it, apparently.
+Triangle|Triangle button
+Survivor|Survivor
+Invert X|Invert X
+Invert Y|Invert Y
+Champion|Champion
+NEW GAME|NEW GAME
+THE MONK|THE MONK
+Exterior|Exterior
+The Wall|The Wall
+The Monk|The Monk
+WINDOWED|WINDOWED
+LANGUAGE|LANGUAGE
+JAPANESE|JAPANESE
+KEYBOARD|KEYBOARD
+Keyboard|Keyboard
+4 - TEST|4 - TEST
+STANDARD|STANDARD
+CONTINUE|CONTINUE
+Add item|Add item
+Deaths :|Deaths :
+Ascended|Ascended
+PREVIOUS|PREVIOUS
+SaveData|SaveData
+Presets:|Presets:
+Oh. You.|Oh. You.
+creature|creature
+Seed the determinations of warp point destinations to create less randomness in runs|Seed the determinations of warp point destinations to create less randomness in runs
+Increases the amount of time before you are forced to come up for air while drowning|Increases the amount of time before you are forced to come up for air while drowning
+Unlock Watcher campaign|Unlock Watcher campaign
+backup_info_description|View information about the contents of the selected backup.
+mod_menu_restore_backup|An error has occurred attempting to read or initialize the save file. However, a backup save file was detected on this system.<LINE><LINE>Continue to begin restoring the backup save.
+Fates have been flipped|Fates have been flipped
+creaturetype-PinkLizard|Pink Lizard
+creaturetype-BlueLizard|Blue Lizard
+creaturetype-Salamander|Salamander
+creaturetype-CyanLizard|Cyan Lizard
+Embraced by a new tribe|Embraced by a new tribe
+The Survivor-linebreaks|The Survivor
+The Wanderer-linebreaks|The Wanderer
+invert_x_description_ps|Invert horizontal axis for analog stick controls.
+invert_y_description_ps|Invert vertical axis for analog stick controls.
+Gamepad <X> (Not found)|Gamepad <X> (Not found)
+switch_controls_special|X Button
+No rain timer exception|No rain timer exception
+Sandbox items unlocked:|Sandbox items unlocked:
+ps4_save_progress_title|Rain World Progress {0}
+ps4_save_options_failed|Error saving options data.
+ps4_load_options_failed|Options save data is corrupted and will be deleted.
+Failed to get rankings.|Failed to get rankings.
+Switch to windowed mode|Switch to windowed mode
+OpCheckBox_NonMouseTuto|Press CONFIRM to toggle
+OpComboBox_MouseUseTuto|Double click the box to search
+OpRadioButton_MouseTuto|Click to choose this option
+OpTextBox_MouseTutoGrab|Click to begin typing
+OpTextBox_MouseTutoType|Use keyboard to type, press Enter to apply
+ModdingMenu_ControlJump|Choose / Confirm
+ModdingMenu_ControlMove|Move / Adjust
+ModdingMenu_ControlPckp|Clipboard
+MenuModList_AskModApply|Press APPLY MODS first before configuring mods
+Jetfish item protection|Jetfish item protection
+Currently Active Preset|Currently Active Preset
+mod_workshop_upload_ask|Do you want to upload this mod to Steam Workshop?
+Hello there! You again!|Hello there! You again!
+Hello there. You again!|Hello there. You again!
+No, please, release it!|No, please, release it!
+That... That is for me?|That... That is for me?
+...oh... to... save me?|...oh... to... save me?
+Thank you so very much!|Thank you so very much!
+Thank you... Sincerely.|Thank you... Sincerely.
+Let's see... A pearl...|Let's see... A pearl...
+Why are you doing this?|Why are you doing this?
+Please don't come back.|Please don't come back.
+(Normally requires completing the game as Survivor or Monk to unlock)|(Normally requires completing the game as Survivor or Monk to unlock)
+WARNING! This will reset all of your progress except map exploration.|WARNING! This will reset all of your progress except map exploration.
+Red Lizards have a tongue and can snap spears in half with their bite|Reds have a tongue and can snap spears in half with their bite
+(Normally requires finding Orange unlock tokens in the campaign maps)|(Normally requires finding Orange unlock tokens in the campaign maps)
+The intended gameplay loop is to have to actively hunt fresh corpses.|The intended gameplay loop is to have to actively hunt fresh corpses.
+Some of the metadata for this mod was invalid and cannot be accepted.|Some of the metadata for this mod was invalid and cannot be accepted.
+Maybe this is asking too much... But, would you bring me another one?|Maybe this is asking too much... But, would you bring me another one?
+The rain is coming. If you stay, you will drown. Now, leave me alone.|The rain is coming. If you stay, you will drown. Now, leave me alone.
+watcher-name|The Watcher
+Restart game|Restart game
+THE SURVIVOR|THE SURVIVOR
+The Exterior|The Exterior
+Five Pebbles|Five Pebbles
+Subterranean|Subterranean
+The Survivor|The Survivor
+The Wanderer|The Wanderer
+A New Friend|A New Friend
+You are full|You are full
+Leap the gap|Leap the gap
+View credits|View credits
+Pause Button|Pause Button
+Throw Button|Throw Button
+Select level|Select level
+Low wildlife|Low wildlife
+Level Items:|Level Items:
+Barren level|Barren level
+IT'S A DRAW!|IT'S A DRAW!
+Add creature|Add creature
+Minor Assist|Minor Assist
+Major Assist|Major Assist
+CLOSE MANUAL|CLOSE MANUAL
+rwremix-name|Rain World Remix
+...please...|...please...
+PICK UP button - Return to regional map_1|PICK UP button - Return to regional map
+PICK UP button - Return to regional map_2|square button - Return to regional map
+PICK UP button - Return to regional map_3|Y Button - Return to regional map
+PICK UP button - Return to regional map_4|Left Button - Return to regional map
+PICK UP button - Return to regional map_5|B Button - Return to regional map
+ps4_load_save_slot_restore_corrupt_failed|Save slot data was corrupted.<LINE>A backup of the data exists, but an error occurred attempting to restore the backup data.
+Assign player <X> to the default controls|Assign player <X> to the default controls
+Something lurks above the chimney tops...|Something lurks above the chimney tops...
+These pearls are valued by the Scavengers|These pearls are valued by the Scavengers
+Game Over - Press PAUSE BUTTON to restart|Game Over - Press PAUSE BUTTON to restart
+Player <X> will use any connected gamepad|Player <X> will use any connected device
+switch_single_joycon_fast_travel_map_help|Press the SR Button to select the shelter you wish to continue from
+Press the MAP button to view regional map|Press the MAP button to view regional map
+Jellyfish are vulnerable to being stabbed|Jellyfish are vulnerable to being stabbed
+Are you sure you want to use this preset?|Are you sure you want to use this preset?
+Makes Saint's body immune to the elements|Makes Saint's body immune to the elements
+The operation timed out. Try again later.|The operation timed out. Try again later.
+This item already exists on the workshop.|This item already exists on the workshop.
+Previously uploaded mod has been updated.|Previously uploaded mod has been updated.
+And...now you expect me to... talk again?|And...now you expect me to... talk again?
+JUMP button - View map for region_1|JUMP button - View map for region
+JUMP button - View map for region_2|cross button - View map for region
+JUMP button - View map for region_3|B Button - View map for region
+JUMP button - View map for region_4|Down Button - View map for region
+JUMP button - View map for region_5|A Button - View map for region
+ps4_load_expedition_restore_corrupt|Expedition core data was corrupted, but the most recent backup of the data was able to be restored.
+You return from scouting a new land|You return from scouting a new land
+Four Needles under Plentiful Leaves|Four Needles under Plentiful Leaves
+However, the game will not be saved|However, the game will not be saved
+PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>Controller Setup
+Hold Pause Button or Escape to exit|Hold Pause Button or Escape to exit
+switch_controls_singlejoyconl_pause|- Button
+switch_controls_singlejoyconl_throw|Right Button
+switch_controls_singlejoyconr_pause|+ Button
+switch_controls_singlejoyconr_throw|X Button
+Press to add Player <X> to the game|Press to add Player <X> to the game
+ps4_save_progress_failed_free_space|Error saving progress data. Not enough free space. Try again?
+USE UP + DOWN TO ADJUST SCREEN SIZE|USE UP + DOWN TO ADJUST SCREEN SIZE
+ConfigMenuTab_RevertHoldButton_Desc|Discard current changes to mod's configurations and return
+MenuModList_ModButton_NameAndAuthor|<ModName> by <ModAuthor>
+MenuModList_ModButton_Disable_Mouse|Disable <Mod>
+Could not find the files to upload.|Could not find the files to upload.
+Get... get away... white.... thing.|Get... get away... white.... thing.
+Thank you, again. I feel wonderful.|Thank you, again. I feel wonderful.
+You want me to take a look at that?|You want me to take a look at that?
+Ah, you would like me to read this?|Ah, you would like me to read this?
+This... time... don't... come back.|This... time... don't... come back.
+Hunter|Hunter
+Random|Random
+CREATE|CREATE
+DELETE|DELETE
+PRESET|PRESET
+CANCEL|CANCEL
+Depths|Depths
+SCREEN|SCREEN
+FRENCH|FRENCH
+GERMAN|GERMAN
+KOREAN|KOREAN
+Player|Player
+Square|Square button
+Circle|Circle button
+Arrows|Arrows
+Paused|Paused
+minute|minute
+PLAYER|PLAYER
+ALWAYS|ALWAYS
+REMOVE|REMOVE
+Food :|Food :
+Time :|Time :
+cancel|Cancel
+Select|Select
+? Back|? Back
+? play|? play
+Legacy|Legacy
+Cheats|Cheats
+MANUAL|MANUAL
+TOPICS|TOPICS
+UPLOAD|UPLOAD
+LEAVE.|LEAVE.
+You...|You...
+Hello!|Hello!
+Hello.|Hello.
+Again.|Again.
+*sigh*|*sigh*
+friend|friend
+little|little
+[ Notice ]|[ Notice ]
+STORY DATA|STORY DATA
+The Martyr|The Martyr
+The Mother|The Mother
+Rain World|Rain World
+STATISTICS|STATISTICS
+THE HUNTER|THE HUNTER
+The Hunter|The Hunter
+The Outlaw|The Outlaw
+The Friend|The Friend
+Pilgrimage|Pilgrimage
+FULLSCREEN|FULLSCREEN
+SAVE FILES|SAVE FILES
+PORTUGUESE|PORTUGUESE
+TEST INPUT|TEST INPUT
+Left Stick|Left Stick
+Hold Space|Hold Space
+Map Button|Map Button
+Free food!|Free food!
+Loading...|Loading...
+CROSS-SAVE|CROSS-SAVE
+Load Order|Load Order
+Oh, hello!|Oh, hello!
+Oh, hello.|Oh, hello.
+You again.|You again.
+...rain...|...rain...
+...stop...|...stop...
+Thank you.|Thank you.
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:
+Stops nearby explosions causing a ringing sound to play|Stops nearby explosions causing a ringing sound to play
+Find the canonical ending to The Spearmaster's campaign|Find the canonical ending to The Spearmaster's campaign
+Assign player <X> to the default PS4 Dualshock controls|Assign player <X> to the default DUALSHOCK®4 controls
+Strange... it seems to have been used not too long ago.|Strange... it seems to have been used not too long ago.
+backup_delete_confirm|Are you sure you want to delete the backup {X}?<LINE>This operation cannot be undone.
+backup_delete_success|{X} was deleted successfully.
+backup_create_success|A new backup {X} has been created from your current save data.
+backup_restore_failed|An error has occurred restoring the backup save data. In order to protect your save data, game launch has been halted.<LINE><LINE>Do you wish to retry restoring the backup data?
+Take what isn't yours|Take what isn't yours
+Generating map images|Generating map images
+objecttype-SporePlant|Beehive
+objecttype-NSHSwarmer|Green Neuron
+creaturetype-SeaLeech|Sea Leech
+creaturetype-TubeWorm|Grappling Worm
+creaturetype-Overseer|Overseer
+Path of the carnivore|Path of the carnivore
+The Hunter-linebreaks|The Hunter
+The Outlaw-linebreaks|The Outlaw
+The Friend-linebreaks|The Friend
+Sound effects volume:|Sound effects volume:
+XBox Controller Setup|XBox Controller Setup
+switch_controls_pause|+ Button
+switch_controls_throw|A Button
+Add level to playlist|Add level to playlist
+switch_update_players|Update players
+Play each level twice|Play each level twice
+mod_menu_reapply_mods|Some enabled mods have been updated since the last game launch. Press continue to apply the updates.
+OpUpdown_NonMouseGrab|Press CONFIRM to interact
+OpScrollBox_MouseTuto|Use scroll wheel to see more
+ModdingMenu_PckpTuto0|Clipboard button interactions:
+ModdingMenu_PckpTuto1|Select a configurable element with CONFIRM button first
+ModdingMenu_PckpTuto2|Hold CLIPBOARD Button and press CONFIRM button to copy to clipboard
+ModdingMenu_PckpTuto3|Hold CLIPBOARD Button and press CANCEL button to paste from clipboard
+MenuModList_DummyDesc|The base version of Rain World
+OIError_GeneralAdvice|This issue may be resolved by downloading the latest version of the mod.
+No swim boost penalty|No swim boost penalty
+Rain Timer Multiplier|Rain Timer Multiplier
+Tweaked deer behavior|Tweaked deer behavior
+Alternate grenade arc|Alternate grenade arc
+Item stems in sandbox|Item stems in sandbox
+Reduce screen shaking|Reduce screen shaking
+Unlock all challenges|Unlock all challenges
+Gathering information|Gathering information
+jollycoop-description|Local co-op story and other gamemodes with up to 4 players. The journey is better with friends!
+You had your chances.|You had your chances.
+Oh, you want it back?|Oh, you want it back?
+backup_restore_description|Overwrite your current save data with the contents of the selected backup.
+ps4_load_expedition_failed|Expedition run data is corrupted and will be deleted.
+Complete the Saint passage|Complete the Saint passage
+Complete the Nomad passage|Complete the Nomad passage
+objecttype-SLOracleSwarmer|Neuron
+objecttype-SSOracleSwarmer|Neuron
+objecttype-OverseerCarcass|Overseer Eye
+creaturetype-DaddyLongLegs|Daddy Long Legs
+creaturetype-TentaclePlant|Monster Kelp
+creaturetype-SpitterSpider|Spitter Spider
+creaturetype-BigNeedleWorm|Noodlefly
+Briefly tap DOWN to crouch|Briefly tap DOWN to crouch
+Double tap to switch hands|Double tap to switch hands
+Player <X> is in the game!|Player <X> is in the game!
+Remove level from playlist|Remove level from playlist
+Resume unfinished playlist|Resume unfinished playlist
+Play each level four times|Play each level four times
+Play each level five times|Play each level five times
+mod_menu_fail_requirements|This mod cannot be used due to requirements issues! Check that the following additional mods are installed, and don't have their own issues:
+OpComboBox_MouseSearchTuto|Type keywords into the box to search
+OpComboBox_NonMouseUseTuto|Use joystick to scroll, press CONFIRM to select
+OpDragger_NonMouseGrabTuto|Press CONFIRM to interact
+OpRadioButton_NonMouseTuto|Press CONFIRM to choose this option
+OpColorPicker_MouseRGBTuto|Select a color using the red/green/blue sliders
+OpColorPicker_MouseHSLTuto|Select a color from the square color picker and lightness slider
+OpColorPicker_MousePLTTuto|Select a color from the palette
+MenuModList_SearchBox_Desc|Click and type to search mods
+Connector_SaveConfig_Alert|Saved the current configuration of <ModName>
+OIError_Message_Initialize|There was an issue initializing OptionInterface.
+Vulture grub arena variety|Vulture grub arena variety
+Lossless scavenger corpses|Lossless scavenger corpses
+Continue to the next cycle|Continue to the next cycle
+Or did I say that already?|Or did I say that already?
+Hello again, <PlayerName>!|Hello again, <PlayerName>!
+Hello again, <PlayerName>.|Hello again, <PlayerName>.
+I will accept your gift...|I will accept your gift...
+CLOSE|CLOSE
+STORY|STORY
+ARENA|ARENA
+REMIX|REMIX
+Cycle|Cycle
+Music|Music
+INPUT|INPUT
+Pause|Pause
+Throw|Throw
+Right|Right
+Cross|Cross button
+Space|Space
+Shift|Shift
+PLAY!|PLAY!
+Play!|Play!
+ERROR|ERROR
+SCORE|SCORE
+ROUND|ROUND
+APPLY|APPLY
+Other|Other
+Remix|Remix
+...me|...me
+Oh...|Oh...
+STOP!|STOP!
+no...|no...
+ps4_load_expedition_run_restore_corrupt_failed|Expedition run data was corrupted.<LINE>A backup of the run data exists, but an error occurred attempting to restore the backup data.
+You have delivered your most important message|You have delivered your most important message
+You completed every challenge laid before you.|You completed every challenge laid before you.
+Clear every milestone quest in Expedition Mode|Clear every milestone quest in Expedition Mode
+You are not the only lost soul in this world..|You are not the only lost soul in this world..
+Additional food (above four) is kept for later|Additional food (above four) is kept for later
+Grab your prey and hold the eat button to feed|Grab your prey and hold the eat button to feed
+MenuModList_ModButton_Disable_NonMouse_Console|Press CONFIRM to disable this content, press RIGHT BUTTON to return to the list
+MenuModList_ModButton_NonMouse_Display_Console|Press CONFIRM to display, press LEFT BUTTON to move to the toggle button for this content
+ConfigTabController_TabSelectButton_UnnamedTab|Switch to tab #<TabIndex>
+Not that it solves anyone's problem but yours.|Not that it solves anyone's problem but yours.
+As I mentioned you do not have unlimited time.|As I mentioned you do not have unlimited time.
+Another? You're no better than the scavengers!|Another? You're no better than the scavengers!
+I won't talk to you if you continue like this.|I won't talk to you if you continue like this.
+ps4_load_expedition_restore_corrupt_failed|Expedition core data was corrupted.<LINE>A backup of the core data exists, but an error occurred attempting to restore the backup data.
+Something lurks where the land fissures...|Something lurks where the land fissures...
+This place is safe. Stay here to hibernate|This place is safe. Stay here to hibernate
+There are also other significant drawbacks|There are also other significant drawbacks
+When only one player left, rain approaches|When only one player left, rain approaches
+ps4_save_expedition_core_failed_free_space|Error saving Expedition core data. Not enough free space. Try again?
+I... won't speak to you... if you do that.|I... won't speak to you... if you do that.
+Ah... <PlayerName>, a neuron from Pebbles?|Ah... <PlayerName>, a neuron from Pebbles?
+ps4_load_save_slot_restore_corrupt|Save slot data was corrupted, but the most recent backup of the data was able to be restored.
+Complete the Dragon Slayer passage|Complete the Dragon Slayer passage
+Something lurks in the darkness...|Something lurks in the darkness...
+Complete the game as The Artificer|Complete the game as The Artificer
+Five Pebbles (General Systems Bus)|Five Pebbles (General Systems Bus)
+Pick up / Eat button interactions:|Pick up / Eat button interactions:
+Game Over - Press SPACE to restart|Game Over - Press SPACE to restart
+switch_controls_singlejoyconl_jump|Down Button
+switch_controls_singlejoyconr_jump|A Button
+ps4_save_options_failed_free_space|Error saving options data. Not enough free space. Try again?
+ConfigContainer_AlertPasteCosmetic|Pasted <Text> from clipboard
+MenuModList_ModButton_Enable_Mouse|Enable <Mod>
+Stronger bottomless pit indicators|Stronger bottomless pit indicators
+Monk-style gates for all campaigns|Monk-style gates for all campaigns
+Are you sure you want to continue?|Are you sure you want to continue?
+That's all. You'll have to go now.|That's all. You'll have to go now.
+You again? I have nothing for you.|You again? I have nothing for you.
+I wonder what it is that you want?|I wonder what it is that you want?
+I wish you would stop coming here.|I wish you would stop coming here.
+Oh... Of course I will take a look|Oh... Of course I will take a look
+ps4_load_expedition_run_restore_corrupt|Expedition run data was corrupted, but the most recent backup of the data was able to be restored.
+Clear every challenge in Challenge Mode|Clear every challenge in Challenge Mode
+ConfigMenuTab_ModPercentageButton_Label|Enabled Mods: <CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|Allows Saint to be able to throw spears
+The following options contain spoilers.|The following options contain spoilers.
+Workshop upload completed successfully!|Workshop upload completed successfully!
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! Stay still and listen.
+invert_x_description|Invert horizontal axis for analog stick controls.
+invert_y_description|Invert vertical axis for analog stick controls.
+rounds per level-ru2|rounds per level
+objecttype-FlareBomb|Flashbang
+objecttype-DataPearl|Pearl
+objecttype-JellyFish|Jellyfish
+objecttype-SlimeMold|Slime Mold
+objecttype-EggBugEgg|Eggbug Egg
+objecttype-NeedleEgg|Noodlefly Egg
+creaturetype-Slugcat|Slugcat
+creaturetype-Vulture|Vulture
+creaturetype-CicadaA|Squidcada
+creaturetype-CicadaB|Squidcada
+creaturetype-JetFish|Jetfish
+creaturetype-DropBug|Dropwig
+Communications Array|Communications Array
+Stolen Enlightenment|Stolen Enlightenment
+Path of the pacifist|Path of the pacifist
+The Saint-linebreaks|The Saint
+switch_controls_jump|B Button
+Gametype description|Gametype description
+Play each level once|Play each level once
+Normal Rain World AI|Normal Rain World AI
+for killing creature|for killing creature
+Persistent creatures|Persistent creatures
+controller_reconnect|Please reconnect the controller for player {0}.
+mod_menu_requirement|Requires additional mods:
+mod_menu_ext_authors|View credits list for this mod
+mod_menu_disable_all|Disable all mods
+Building token cache|Building token cache
+OpCheckBox_MouseTuto|Click to toggle
+OpUpdown_NonMouseUse|Use joystick to adjust, press CONFIRM to apply
+MenuModStat_ModsFail|Installed mods that are missing requirements:
+Connector_UnnamedTab|#<TabIndex>
+Increased stun times|Increased stun times
+Wiggle out of grasps|Wiggle out of grasps
+Key items on Passage|Key items on Passage
+Monk extended breath|Monk extended breath
+Breath time leniency|Breath time leniency
+Rain timer tick-tock|Rain timer tick-tock
+Vulnerable jellyfish|Vulnerable jellyfish
+Unlock all campaigns|Unlock all campaigns
+More Slugcats Cheats|More Slugcats Cheats
+Exit to title screen|Exit to title screen
+Preparing for upload|Preparing for upload
+devtools-description|Enables the in-game Developer Tools which provide the tools necessary to edit maps and regions, and to help with the process of modding the game.<LINE><LINE>Press O in-game to enable/disable Dev Tools, and press H to bring up the main Dev Tools interface.
+...leave me alone...|...leave me alone...
+Hello, <PlayerName>!|Hello, <PlayerName>!
+Hello, <PlayerName>.|Hello, <PlayerName>.
+...don't... do that.|...don't... do that.
+Another gift for me?|Another gift for me?
+Again? ... just, go.|Again? ... just, go.
+Little archaeologist|Little archaeologist
+Clear the game as Survivor or Monk to unlock.|Clear the game as Survivor or Monk to unlock.
+Objects can be picked up, carried, and tossed|Objects can be picked up, carried, and tossed
+Some small creatures can be eaten immediately|Some small creatures can be eaten immediately
+MenuModList_ModButton_Enable_NonMouse_Console|Press CONFIRM to enable this content, press RIGHT BUTTON to return to the list
+Show icons of nearby creatures on the minimap|Show icons of nearby creatures on the minimap
+You are bringing a neuron. Is it to taunt me?|You are bringing a neuron. Is it to taunt me?
+Your curiosity seems boundless, <PlayerName>.|Your curiosity seems boundless, <PlayerName>.
+remix_dlc_restart|If you purchased the DLC, you will need to relaunch the game for the content to become available.
+Expedition Leader|Expedition Leader
+creaturetype-Deer|Rain Deer
+Looks to the Moon|Looks to the Moon
+Filtration System|Filtration System
+The Dragon Slayer|The Dragon Slayer
+Back to main menu|Back to main menu
+1 - SELECT PLAYER|1 - SELECT PLAYER
+2 - SELECT DEVICE|2 - SELECT DEVICE
+Previous gametype|Previous gametype
+Reset score setup|Reset score setup
+ps4_press_to_join|Press<LINE><LINE><LINE>to join.
+minute until rain|minute until rain
+per point of food|per point of food
+Delivered Payload|Delivered Payload
+Leaderboard empty|Leaderboard empty
+mod_menu_finalize|(Finalizing applying mods, please wait...)
+MenuModStat_ModID|ID: <ModID>
+Key item tracking|Key item tracking
+Alpha red lizards|Alpha reds
+Unlock all arenas|Unlock all arenas
+moreslugcats-name|More Slugcats Expansion
+Yet another gift?|Yet another gift?
+And you are back.|And you are back.
+Within Time|Within Time
+The Pilgrim|The Pilgrim
+DELETE SAVE|DELETE SAVE
+Sky Islands|Sky Islands
+Farm Arrays|Farm Arrays
+The Scholar|The Scholar
+The Journey|The Journey
+Arena Music|Arena Music
+Jump Button|Jump Button
+NEW SESSION|NEW SESSION
+Spears Hit:|Spears Hit:
+Rain Timer:|Rain Timer:
+No wildlife|No wildlife
+Level Food:|Level Food:
+Allow exit:|Allow exit:
+Early Rain:|Early Rain:
+SCREEN SIZE|SCREEN SIZE
+Slug Senses|Slug Senses
+...leave...|...leave...
+This again.|This again.
+And...back.|And...back.
+Back again.|Back again.
+Here again.|Here again.
+I...said...|I...said...
+Migration|Migration
+Messenger|Messenger
+The Cycle|The Cycle
+The Nomad|The Nomad
+Outskirts|Outskirts
+Shoreline|Shoreline
+Underhang|Underhang
+The Saint|The Saint
+Ascension|Ascension
+SAVE SLOT|SAVE SLOT
+vibration|Vibration
+Connected|Connected
+Wildlife:|Wildlife:
+Spear hit|Spear hit
+GAME OVER|GAME OVER
+Clear all|Clear all
+? Confirm|? Confirm
+NEXT PAGE|NEXT PAGE
+Next Page|Next Page
+CONFIGURE|CONFIGURE
+Author(s)|Author(s)
+VIEW EULA|VIEW EULA
+Uploading|Uploading
+A neuron.|A neuron.
+tormentor|tormentor
+An Old Friend|An Old Friend
+Memory Crypts|Memory Crypts
+The Chieftain|The Chieftain
+Music volume:|Music volume:
+Sound Effects|Sound Effects
+Pick up / Eat|Pick up / Eat
+INPUT PRESETS|INPUT PRESETS
+Next gametype|Next gametype
+ROUND SESSION|ROUND SESSION
+Approximately|Approximately
+Press to join|Press to join
+Repeat Rooms:|Repeat Rooms:
+High wildlife|High wildlife
+for surviving|for surviving
+per spear hit|per spear hit
+Configuration|Configuration
+HOLD TO START|HOLD TO START
+REGION SELECT|REGION SELECT
+Fetching Data|Fetching Data
+PREVIOUS PAGE|PREVIOUS PAGE
+Previous Page|Previous Page
+Accessibility|Accessibility
+Hunter Cycles|Hunter Cycles
+Wall pouncing|Wall pouncing
+devtools-name|Dev Tools
+Thank... you.|Thank... you.
+What is that?|What is that?
+Another gift?|Another gift?
+...thank you.|...thank you.
+And...listen!|And...listen!
+Little friend|Little friend
+archaeologist|archaeologist
+The consequences of your journey have caught up with you|The consequences of your journey have caught up with you
+You encountered the echo of A Bell, Eighteen Amber Beads|You encountered the echo of A Bell, Eighteen Amber Beads
+You encountered the echo of Two Sprouts, Twelve Brackets|You encountered the echo of Two Sprouts, Twelve Brackets
+Press and hold, then use up/down to adjust score awarded|Press and hold, then use up/down to adjust score awarded
+You must update the application to use network features.|You must update the application to use network features.
+The presets below can be used to quickly reset settings.|The options below can be used to quickly reset all settings to preset values.
+RELAXED preset is a significant reduction in difficulty.|RELAXED preset is a significant reduction in difficulty.
+This option may actually make Rivulet's campaign harder.|This option may actually make Rivulet's campaign harder.
+The scavengers must be jealous of you, finding all these|The scavengers must be jealous of you, finding all these
+You completed every expedition laid before you.|You completed every expedition laid before you.
+Something lurks in a flourishing outcropping...|Something lurks in a flourishing outcropping...
+Additional food (above three) is kept for later|Additional food (above three) is kept for later
+Hold down to wipe your save slot and start over|Hold down to wipe your save slot and start over
+You are starving. Your game has not been saved.|You are starving. Your game has not been saved.
+Are you sure you want to disable this mechanic?|Are you sure you want to disable this mechanic?
+You must accept the End User License Agreement.|You must accept the End User License Agreement.
+You're leaving yet again. This time, stay away.|You're leaving yet again. This time, stay away.
+Listened to the conflation of echoes|Listened to the conflation of echoes
+Nineteen Spades, Endless Reflections|Nineteen Spades, Endless Reflections
+Game Over - Press OPTIONS to restart|Game Over - Press OPTIONS BUTTON to restart
+switch_controls_singlejoyconl_pickup|Left Button
+switch_controls_singlejoyconr_pickup|B Button
+Creatures are vicious and aggressive|Creatures are vicious and aggressive
+switch_single_joycon_region_map_help|Press the SR Button to view regional map
+JUMP/THROW buttons - Switch layers_1|JUMP/THROW buttons - Switch layers
+JUMP/THROW buttons - Switch layers_2|cross button/circle button - Switch layers
+JUMP/THROW buttons - Switch layers_3|B Button/A Button - Switch layers
+JUMP/THROW buttons - Switch layers_4|Down Button/Right Button - Switch layers
+JUMP/THROW buttons - Switch layers_5|A Button/X Button - Switch layers
+Title is offline or is disconnected.|Title is offline or is disconnected.
+OpKeyBinder_NonMouseJoystickBindTuto|Press a button to bind (PAUSE to unbind, START to set controller number)
+ConfigContainer_AlertCopyNoncosmetic|Copied <Text> to clipboard from <ObjectName>
+ConfigMenuTab_RevertHoldButton_Label|REVERT
+MenuModList_ModButton_RainWorldDummy|Represents Rain World base game, initially loaded before all the mods above
+Are you sure you want to view these?|Are you sure you want to view these?
+Yes, you're welcome to have it back.|Yes, you're welcome to have it back.
+Oh, leaving. Please don't come back.|Oh, leaving. Please don't come back.
+Something lurks at the highest reaches of the world...|Something lurks at the highest reaches of the world...
+Assign player <X> to the default XBox controller setup|Assign player <X> to the default XBox controller setup
+Select which levels to play<LINE>in the level selector|Select which levels to play<LINE>in the level selector
+Shows a visual pulse on screen when threats are nearby|Shows a visual pulse on screen when threats are nearby
+All lizard breeds have unique sound effects and voices|All lizard breeds have unique sound effects and voices
+(Normally requires completing Gourmand's food tracker)|(Normally requires completing Gourmand's food tracker)
+Mod's thumbnail image should have a 16:9 aspect ratio.|Mod's thumbnail image should have a 16:9 aspect ratio.
+If you eat it or leave with it, I will die. I beg you.|If you eat it or leave with it, I will die. I beg you.
+Oh, I have already read this one to you, <PlayerName>.|Oh, I have already read this one to you, <PlayerName>.
+Complete the game as The Survivor or as The Monk|Complete the game as The Survivor or as The Monk
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|Click to enable all mods
+MenuModList_ModButton_NonMouse_Configure_Console|Press CONFIRM to configure, press LEFT BUTTON to move to the toggle button for this content
+Access was denied. Do you own the game on Steam?|Access was denied. Do you own the game on Steam?
+This one I've already read to you, <PlayerName>.|This one I've already read to you, <PlayerName>.
+Complete the game as The Hunter|Complete the game as The Hunter
+Your travels have taken you far|Your travels have taken you far
+You have left this world behind|You have left this world behind
+ConfigMenuTab_ApplyButton_Label|APPLY MODS
+ConfigMenuTab_RevertButton_Desc|Return to mod list
+ConfigMenuTab_ResetButton_Label|RESET CONFIG
+MenuModList_ModButton_Configure|Configure <Mod>
+MenuModList_ListButton_ScrollUp|Press and hold the mouse button to scroll the mod list up
+MenuModList_ListButton_ScrollDw|Press and hold the mouse button to scroll the mod list down
+MenuModList_ListButton_Collapse|Collapse to hide thumbnails in the mod list
+Connector_ChangeActiveTab_Alert|Switched the currently active tab to <TabName>
+Connector_ChangeActiveMod_Alert|Switched the currently displayed mod to <ModName>
+Enable the wall pounce mechanic|Enable the wall pounce mechanic
+ps4_expedition_slot_description|Rain World Expedition Save Data
+ps4_expedition_core_description|Rain World Expedition Core Data
+ps4_save_expedition_core_failed|Error saving Expedition core data.
+ps4_load_expedition_core_failed|Expedition core data is corrupted and will be deleted.
+It's you, <PlayerName>!  Hello!|It's you, <PlayerName>! Hello!
+You... Strange thing. Now this?|You... Strange thing. Now this?
+Oh, what is that, <PlayerName>?|Oh, what is that, <PlayerName>?
+You would like me to read this?|You would like me to read this?
+Find the canonical ending to The Gourmand's campaign|Find the canonical ending to The Gourmand's campaign
+Find a destination for The Hunter's starting payload|Find a destination for The Hunter's starting payload
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|Press CONFIRM to disable all mods
+Pause the rain timer while dialog is being displayed|Pause the rain timer while dialog is being displayed
+Discourages Snails from idling inside pipe entrances|Discourages Snails from idling inside pipe entrances
+It is recommended to use this only as a last resort.|It is recommended to use this only as a last resort.
+I don't know what to say. Never come back, creature!|I don't know what to say. Never come back, creature!
+Little creature, why don't you stay calm and listen?|Little creature, why don't you stay calm and listen?
+Find the canonical ending to The Rivulet's campaign|Find the canonical ending to The Rivulet's campaign
+Dropping food in the water might attract creatures.|Dropping food in the water might attract creatures.
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|Press CONFIRM to enable all mods
+Cannot update mod with no pre-existing workshop ID.|Cannot update mod with no pre-existing workshop ID.
+There is nothing here. Not even my memories remain.|There is nothing here. Not even my memories remain.
+Something new you want me to look at, <PlayerName>?|Something new you want me to look at, <PlayerName>?
+It's a bit dusty, but I will do my best. Hold on...|It's a bit dusty, but I will do my best. Hold on...
+Now if you'll let me, I will try to say this again.|Now if you'll let me, I will try to say this again.
+It's a rock. Thank you, I suppose, little creature.|It's a rock. Thank you, I suppose, little creature.
+objecttype-Rock|Rock
+Drainage System|Drainage System
+History lessons|History lessons
+Change language|Change language
+Bind <X> button|Bind <X> button
+Back to options|Back to options
+round per level|round per level
+Medium wildlife|Medium wildlife
+SESSION RESULTS|SESSION RESULTS
+Finding Changes|Finding Changes
+Fast map reveal|Fast map reveal
+Extra tutorials|Extra tutorials
+Easier dropwigs|Easier dropwigs
+Quality of Life|Quality of Life
+Unlock Slugpups|Unlock Slugpups
+expedition-name|Expedition
+Leave me alone!|Leave me alone!
+Please stop it!|Please stop it!
+Little creature|Little creature
+Prevents falling off from poles when throwing objects|Prevents falling off from poles when throwing objects
+Swim boosting will not consume additional breath time|Swim boosting will not consume additional breath time
+Removes visual effects that cause the screen to shake|Removes visual effects that cause the screen to shake
+Are you sure you want to disable ALL karma mechanics?|Are you sure you want to disable ALL karma mechanics?
+Mod's thumbnail image must be less than 1 MB in size.|Mod's thumbnail image must be less than 1 MB in size.
+Your account is locked or has a community or VAC ban.|Your account is locked or has a community or VAC ban.
+The workshop service is unavailable. Try again later.|The workshop service is unavailable. Try again later.
+Yet another gift? You're quite curious, <PlayerName>!|Yet another gift? You're quite curious, <PlayerName>!
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.
+Five Pebbles (Unfortunate Development)|Five Pebbles (Unfortunate Development)
+Six Grains of Gravel, Mountains Abound|Six Grains of Gravel, Mountains Abound
+Jump and grab them. They're delicious!|Jump and grab them. They're delicious!
+Takes input from any connected gamepad|Takes input from any connected device
+switch_controls_singlejoyconl_movement|Left Stick
+switch_controls_singlejoyconr_movement|Right Stick
+Unlock all the Trophies in Rain World!|Unlock all the Trophies in Rain World!
+MenuModList_ModButton_Disable_NonMouse|Press CONFIRM to disable this mod, hold CONFIRM and use the joystick to switch load order
+MenuModList_ModButton_NonMouse_Display|Press CONFIRM to display <Mod>
+ConfigTabController_TabScrollButton_Up|Press and hold the mouse button to scroll the tab list up
+ConfigTabController_TabScrollButton_Dw|Press and hold the mouse button to scroll the tab list down
+The following cheats contain spoilers.|The following cheats contain spoilers.
+Mod uploaded with Unlisted visibility.|Mod uploaded with Unlisted visibility.
+Ah... <PlayerName>, you're here again!|Ah... <PlayerName>, you're here again!
+Ah... <PlayerName>, you're here again.|Ah... <PlayerName>, you're here again.
+I must ask you... Don't do that again.|I must ask you... Don't do that again.
+Rain... You better go. I will be fine.|Rain... You better go. I will be fine.
+<CapPlayerName>... Please settle down.|<CapPlayerName>... Please settle down.
+Yes, there you go. This is ridiculous.|Yes, there you go. This is ridiculous.
+Five Pebbles (Recursive Transform Array)|Five Pebbles (Recursive Transform Array)
+You need to eat meat to sustain yourself|You need to eat meat to sustain yourself
+Default singleplayer<LINE>keyboard setup|Default singleplayer<LINE>keyboard setup
+OpKeyBinder_ErrorConflictOtherModDefault|Conflicting default button with <ModID>
+MenuModList_ModButton_NonMouse_Configure|Press CONFIRM to configure <Mod>
+You are not currently logged into Steam.|You are not currently logged into Steam.
+Yes, help yourself. They are not edible.|Yes, help yourself. They are not edible.
+This pearl has been written to just now!|This pearl has been written to just now!
+You encountered the echo of Droplets upon Five Large Droplets|You encountered the echo of Droplets upon Five Large Droplets
+Press while holding down direction (crouching) to drop object|Press while holding down direction (crouching) to drop object
+You must activate this mod before attempting to configure it.|You must activate this mod before attempting to configure it.
+I won't tolerate this. Leave immediately and don't come back.|I won't tolerate this. Leave immediately and don't come back.
+As you can see, I have nothing for you. Not even my memories.|As you can see, I have nothing for you. Not even my memories.
+Here we go again, little archeologist. Let's read your pearl.|Here we go again, little archeologist. Let's read your pearl.
+You encountered the echo of Four Needles under Plentiful Leaves|You encountered the echo of Four Needles under Plentiful Leaves
+Show a visual indicator on the UI of your remaining breath time|Show a visual indicator on the UI of your remaining breath time
+Lizards can pull embedded spears out of walls with their tongue|Lizards can pull embedded spears out of walls with their tongue
+Failed to acquire User Generated Content lock. Try again later.|Failed to acquire User Generated Content lock. Try again later.
+You encountered the echo of Nineteen Spades, Endless Reflections|You encountered the echo of Nineteen Spades, Endless Reflections
+Warning, too many creatures may result in poor game performance.|Warning, too many creatures may result in poor game performance.
+Reduces the amount of time taken to get started with a new cycle|Reduces the amount of time taken to get started with a new cycle
+One of your workshop mods already has the same name as this one.|One of your workshop mods already has the same name as this one.
+I appreciate what you have done but it is time for you to leave.|I appreciate what you have done but it is time for you to leave.
+Let us see... to be honest, I'm as curious to see it as you are.|Let us see... to be honest, I'm as curious to see it as you are.
+You encountered the echo of Six Grains of Gravel, Mountains Abound|You encountered the echo of Six Grains of Gravel, Mountains Abound
+You must apply new mods setup before attempting to configure them.|You must apply pending changes to the mods list before attempting to configure mods.
+Stops Hunter from automatically grabbing batflies with a free hand|Stops Hunter from automatically grabbing batflies with a free hand
+Increases the radius of Monk's hologram light in pitch-black areas|Increases the radius of Monk's hologram light in pitch-black areas
+Prevents the chance of waking up early before the rain has stopped|Prevents the chance of waking up early before the rain has stopped
+(Normally requires finding Red unlock tokens in the campaign maps)|(Normally requires finding Red unlock tokens in the campaign maps)
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>, if you do that, I will not speak to you any more.
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.
+When crouching, hold the JUMP button without giving any other input|When crouching, hold the JUMP button without giving any other input
+Allow players to exit when rain is close or only one player is left|Allow players to exit when rain is close or only one player is left
+Reduces the overall speed of the game to assist with reaction times|Reduces the overall speed of the game to assist with reaction times
+(Normally requires finding Blue unlock tokens in the campaign maps)|(Normally requires finding Blue unlock tokens in the campaign maps)
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|Something new you want me to look at,<LINE>I suppose, <PlayerName>?
+This creature is dehydrated. You can carry it back to water.|This creature is dehydrated. You can carry it back to water.
+Prevent injured creatures from fleeing to dens in arena mode|Prevent injured creatures from fleeing to dens in arena mode
+Increases the amount of underwater breath time that Monk has|Increases the amount of underwater breath time that Monk has
+(Normally requires completing all Challenge Mode challenges)|(Normally requires completing all Challenge Mode challenges)
+Best of luck to you, little creature. I must resume my work.|Best of luck to you, little creature. I must resume my work.
+Never do that again. Or just kill me quickly. Whichever way.|Never do that again. Or just kill me quickly. Whichever way.
+I think we have already talked about this one, <PlayerName>.|I think we have already talked about this one, <PlayerName>.
+Larger prey needs to be incapacitated first|Larger prey needs to be incapacitated first
+Little creature. This is your last warning.|Little creature. This is your last warning.
+Please don't... take... more from me... Go.|Please don't... take... more from me... Go.
+And yet another one! I will read it to you.|And yet another one! I will read it to you.
+I've told you about this one, <PlayerName>.|I've told you about this one, <PlayerName>.
+And now you expect me to continue speaking?|And now you expect me to continue speaking?
+It's a delicious plant. You should have it!|It's a delicious plant. You should have it!
+It is possible to hibernate with less than sufficient food|It is possible to hibernate with less than sufficient food
+It is not recommended to use these on a first playthrough.|It is not recommended to use these on a first playthrough.
+This mod already exists on the workshop by another author.|This mod already exists on the workshop by another author.
+Release that, and leave. I will not speak to you any more.|Release that, and leave. I will not speak to you any more.
+Thank you... That is a little better. Thank you, creature.|Thank you... That is a little better. Thank you, creature.
+In a shelter, hold DOWN for several seconds to force hibernate|In a shelter, hold DOWN for several seconds to force hibernate
+Multiplies the total duration of the rain timer by this amount|Multiplies the total duration of the rain timer by this amount
+The rain timer makes a tick-tock noise while the UI is visible|The rain timer makes a tick-tock noise while the UI is visible
+Vultures that appear in dark rooms are cloaked by the darkness|Vultures that appear in dark rooms are cloaked by the darkness
+Press CONTINUE after accepting the End User License Agreement.|Press CONTINUE after accepting the End User License Agreement.
+Press CONTINUE to view and/or edit your uploaded workshop mod.|Press CONTINUE to view and/or edit your uploaded workshop mod.
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.
+WARNING!<LINE>This will reset all of your progress except map exploration.|WARNING!<LINE>This will reset all of your progress except map exploration.
+WARNING! Too many creatures may result in bad game performance or crashes.|WARNING! Too many creatures may result in bad game performance or crashes.
+Please log in to STOVE Client with the account that has purchased the game|Please log in to STOVE Client with the account that has purchased the game
+Gives the player the ability to dislodge spears that are embedded in walls|Gives the player the ability to dislodge spears that are embedded in walls
+(One time use) Fast travel to any discovered shelter, recovering all karma|(One time use) Fast travel to any discovered shelter, recovering all karma
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|Show information on loading screens that helps verify settings used and the legitimacy of runs.
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|Give a grace period on cycle start and region entry before scavenger kill squads can attack you
+Advantageous glitches and speedrunner exploits are made available to use again with this option|Advantageous glitches and speedrunner exploits are made available to use again with this option
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|Similar to the original Rain World experience, but with a few quality of life settings enabled.
+Map|Map
+Esc|Esc
+Yes|Yes
+YES|YES
+HUD|HUD
+run|run
+Up|Up
+R1|R1
+RB|RB
+ok|OK
+No|No
+NO|NO
+Assign player <X> to the default keyboard controls|Assign player <X> to the default keyboard controls
+Increase the speed that the minimap reveals itself|Increase the speed that the minimap reveals itself
+(Normally requires completing Gourmand's campaign)|(Normally requires completing Gourmand's campaign)
+This menu contains cheats to unlock content early.|This menu contains cheats to unlock content early.
+What are you? If I had my memories I would know...|What are you? If I had my memories I would know...
+If you behave like this, why should I talk to you?|If you behave like this, why should I talk to you?
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss
+By comparison, the RELAXED preset may weaken the overall game experience.|By comparison, the RELAXED preset may weaken the overall game experience.
+(Normally requires completing campaigns and clearing previous challenges)|(Normally requires completing campaigns and clearing previous challenges)
+Shelter failures give periodic reprieves by providing longer cycle times.|Shelter failures give periodic reprieves by providing longer cycle times.
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|Paused - Warning! Quitting without saving in a shelter will permanently end your game
+For all campaigns, gates will remain open permanently after passing through them once|For all campaigns, gates will remain open permanently after passing through them once
+Spearing a scavenger directly in their head will do significantly more damage to them|Spearing a scavenger directly in their head will do significantly more damage to them
+The maximum number of subsequent explosion actions Artificer can perform before dying|The maximum number of subsequent explosion actions Artificer can perform before dying
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|Limit exceeded. You may need to reduce the filesize or remove prior workshop content.
+A little animal, on the floor of my chamber. I think I know what you are looking for.|A little animal, on the floor of my chamber. I think I know what you are looking for.
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the story campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>story campaigns.
+No items except what you place in the editor|No items except what you place in the editor
+Allow players above a specific score to exit|Allow players above a specific score to exit
+MenuModList_ModButton_NonMouse_Blank_Console|Press LEFT BUTTON to move to the toggle button for this content
+ConfigTabController_TabSelectButton_NamedTab|Switch to tab <TabName>
+This mod cannot be uploaded to the Workshop.|This mod cannot be uploaded to the Workshop.
+It's still warm... this was in use recently.|It's still warm... this was in use recently.
+W|W
+L|L
+Press the MAP button to select the shelter you wish to continue from|Press the MAP button to select the shelter you wish to continue from
+These are recommended starting points based on different playstyles.|These are recommended starting points based on different playstyles.
+It also largely negates the game's difficulty curve and progression.|It also largely negates the game's difficulty curve and progression.
+(Normally requires finding Green unlock tokens in the campaign maps)|(Normally requires finding Green unlock tokens in the campaign maps)
+“Go west, past the Farm Arrays and then down deep into the earth...”|“Go west, past the Farm Arrays and then down deep into the earth...”
+Please sign in to PlayStation™Network to view leaderboards.|Please sign in to PlayStation™Network to view leaderboards.
+Progress towards Trophies will only be tracked for player 1|Progress towards Trophies will only be tracked for player 1
+This may SIGNIFICANTLY alter your experience with the game.|This may SIGNIFICANTLY alter your experience with the game.
+(Normally requires completing previous campaigns to unlock)|(Normally requires completing previous campaigns to unlock)
+Stop doing... this, or I... will not speak... to you again.|Stop doing... this, or I... will not speak... to you again.
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|Click to disable all mods
+This mod does not have any configurable settings.|This mod does not have its own Remix user interface or configurations.
+Thank you little creature. I must resume my work.|Thank you little creature. I must resume my work.
+Thank you. I must ask you... Don't do that again.|Thank you. I must ask you... Don't do that again.
+Periodically shows tips and tutorials during the loading screen between cycles|Periodically shows tips and tutorials during the loading screen between cycles
+Adds an additional trajectory of throwing grenades if the up direction is held|Adds an additional trajectory of throwing grenades if the up direction is held
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|Introduces a few additional in-game tutorial messages for certain mechanics and scenarios
+All cycles will have the same duration, and will always use the longest duration possible|All cycles will have the same duration, and will always use the longest duration possible
+You should try the 'Monk-style Gates' option first before resorting to using this option.|You should try the 'Monk-style Gates' option first before resorting to using this option.
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|Dynamic difficulty is influenced by number of regions visited more than number of cycles survived
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign
+Prevents Jetfish from being able to knock items out of your hands|Prevents Jetfish from being able to knock items out of your hands
+Changes the amount of cycles Hunter starts with in their campaign|Changes the amount of cycles Hunter starts with in their campaign
+You're stuck in a cycle, a repeating pattern. You want a way out.|You're stuck in a cycle, a repeating pattern. You want a way out.
+Another pearl! You want me to read this one too? Just a moment...|Another pearl! You want me to read this one too? Just a moment...
+A pearl... This one is crystal clear - it was used just recently.|A pearl... This one is crystal clear - it was used just recently.
+Gives a small chance of being able to survive a direct attack from a dropwig|Gives a small chance of being able to survive a direct attack from a dropwig
+Use the throw button to activate tongue controls rather than the jump button|Use the throw button to activate tongue controls rather than the jump button
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost
+Centipedes will release you if you go through a pipe while you are grabbed by one|Centipedes will release you if you go through a pipe while you are grabbed by one
+Prevents the chance of the region being flooded during a shelter failure scenario|Prevents the chance of the region being flooded during a shelter failure scenario
+Makes the death gradients on bottomless pits more visible|Makes the death gradients on bottomless pits more visible
+Allow throwing spears directionally while in zero gravity|Allow throwing spears directionally while in zero gravity
+This option disables multiple core mechanics of the game.|This option disables multiple core mechanics of the game.
+It is strange... I'm remembering myself, but also... him.|It is strange... I'm remembering myself, but also... him.
+Allow passing any gate for free, regardless of your current karma level|Allow passing any gate for free, regardless of your current karma level
+Hide the remaining cycle time while in maps that are safe from the rain|Hide the remaining cycle time while in maps that are safe from the rain
+And this one is fresh! It was not long ago this data was written to it!|And this one is fresh! It was not long ago this data was written to it!
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value
+Allows certain passages to gain progress even before the Survivor passage has been achieved|Allows certain passages to gain progress even before the Survivor passage has been achieved
+Reduces the volume for the sound effects of gates and shelters opening|Reduces the volume for the sound effects of gates and shelters opening
+Let us try again - not that it has worked well before. I was saying...|Let us try again - not that it has worked well before. I was saying...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?

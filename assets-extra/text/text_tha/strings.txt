@@ -1,0 +1,1351 @@
+﻿0THAI|ไทย
+Monk|นักบวช
+AUTO|อัตโนมัติ
+INFO|ข้อมูล
+EXIT|ออก
+Run!|วิ่ง!
+Jump|กระโดด
+Move|เคลื่อนที่
+Left|ซ้าย
+Down|ลง
+View|ดู
+Food|อาหาร
+EDIT|แก้ไข
+PLAY|เล่น
+BACK|ย้อนกลับ
+NEXT|ถัดไป
+You!|เธอนี่มัน!
+You.|เธอ
+TRADITIONAL CHINESE|จีนตัวเต็ม
+Fixed campaign seed|ใช้รหัสสร้างโลกตายตัวในแคมเปญ
+watcher-description|ส่วนเสริมที่มาพร้อมกับแคมเปญใหม่: ผู้เฝ้ามอง โดยส่วนเสริมนี้ประกอบด้วยเขต สิ่งมีชีวิต กลไก และไอเทมใหม่ๆ รวมถึงดนตรีใหม่มากกว่า 150 บทเพลง และอื่นๆ อีกมากมาย
+backup_info_loading|กำลังโหลดข้อมูลช่องบันทึก...
+backup_info_no_data|ไม่พบข้อมูลเนื้อเรื่องในช่องบันทึกนี้
+backups_description|ดู สร้าง หรือกู้คืนจากข้อมูลบันทึกที่สำรองไว้ก่อนหน้านี้
+save_file_corrupted|เกิดข้อผิดพลาดในการอ่านหรือเริ่มต้นไฟล์บันทึก<LINE>เพื่อความปลอดภัยของข้อมูลบันทึกของคุณ ระบบจึงระงับการเริ่มเกมไว้ชั่วคราว<LINE>โปรดติดต่อฝ่ายสนับสนุนของ Akupara Games พร้อมแจ้งรหัสข้อผิดพลาดต่อไปนี้<LINE><LINE>รหัสข้อผิดพลาด: {ERROR}<LINE><LINE>คุณต้องการพยายามโหลดไฟล์บันทึกใหม่อีกครั้งหรือไม่?
+objecttype-PuffBall|ผลสปอร์
+objecttype-WaterNut|ผลพองตัว
+objecttype-Mushroom|เห็ด
+creaturetype-Spider|แมงมุมรวมฝูง
+creaturetype-BigEel|เลวีอาธาน
+creaturetype-EggBug|แมลงไข่
+The Monk-linebreaks|นักบวช
+Speedrun Validation|การตรวจสอบสำหรับเล่นทำสถิติ
+switch_controls_map|ปุ่ม R
+Showing level names|แสดงชื่อด่าน
+ps4_region_map_help|กด R1 เพื่อดูแผนที่เขต
+Successful cycles :|วัฏจักรเสร็จสมบูรณ์ :
+Helped Five Pebbles|ช่วยห้าก้อนกรวดไป
+New arenas unlocked|ปลดล็อกสนามประลองใหม่
+mod_menu_apply_mods|กำลังปรับใช้การเปลี่ยนแปลงม็อด โปรดรอสักครู่...
+mod_menu_enable_all|เปิดใช้งานม็อดทั้งหมด
+Creating index maps|สร้างแผนที่ดัชนี
+OpDragger_MouseTuto|คลิกเมาส์ค้างแล้วลากขึ้นหรือลงเพื่อปรับค่า
+MenuModStat_MapTuto|กด <Button> ค้างเพื่อดูวิธีควบคุม
+Loading screen tips|คำแนะนำหน้าจอโหลด
+Hunter Bonus Cycles|วัฏจักรโบนัสของนักล่า
+Visual breath meter|แถบแสดงกลั้นหายใจ
+Scavenger headshots|Scavenger headshots
+NONE (User Defined)|ไม่มี (กำหนดโดยผู้ใช้)
+rwremix-description|รวมฟีเจอร์ช่วยการเข้าถึงที่กำหนดค่าได้หลากหลาย และฟีเจอร์ต่างๆ ตามคำเรียกร้องของชุมชนผู้เล่น ซึ่งรวมถึงกลไกการเล่นใหม่และฟีเจอร์โบนัสอื่นๆ ใช้หน้าจอกำหนดค่าเพื่อเปิดปิดฟีเจอร์แต่ละอย่าง
+Hello <PlayerName>.|สวัสดี <PlayerName>
+still, very... bad.|แต่ยัง... แย่มาก
+I will take a look.|ฉันจะดูให้เอง
+There you go again.|เอาอีกแล้วเหรอ
+again... leaving...|จากไป... อีกแล้ว...
+SIMPLIFIED CHINESE|จีนตัวย่อ
+No Ringing in Ears|ปิดเสียงวิ้งในหู
+remix_game_version|มีการอัปเดตเวอร์ชันเกม คุณจำเป็นต้องเปิดใช้งานม็อดใหม่อีกครั้งผ่านเมนูรีมิกซ์
+ROUNDS SESSION-ru2|รอบต่อเซสชันเกม
+objecttype-SeedCob|ต้นป๊อปคอร์น
+objecttype-Lantern|โคมไฟ
+objecttype-FlyLure|กัญชาค้างคาว
+creaturetype-Leech|ปลิง
+creaturetype-Snail|หอยทาก
+creaturetype-Hazer|หมึกควัน
+Industrial Complex|เขตอุตสาหกรรม
+Scavenger Merchant|พ่อค้าตัวคุ้ยซาก
+Path of aggression|วิถีแห่งความรุนแรง
+Catch and eat them|จับแล้วกินพวกมัน
+Configure controls|กำหนดค่าการควบคุม
+No players joined!|ไม่มีผู้เล่นเข้ามา!
+Start new playlist|เริ่มรายการเล่นใหม่
+minutes until rain|นาทีจนกว่าฝนจะตก
+mod_menu_next_page|View next page of installed mods
+mod_menu_prev_page|View previous page of installed mods
+mod_menu_configure|Change configurations and settings for the selected mod
+OpUpdown_MouseTuto|คลิกและพิมพ์ตัวเลข ใช้ลูกศรและลูกกลิ้งเพื่อปรับ
+Dialog pauses rain|Dialog pauses rain
+Lizard spear pulls|Lizard spear pulls
+Slow Motion Factor|ตัวคูณลดความเร็ว
+remix_first_launch|สามารถเข้าถึงเนื้อหาเสริมและการกำหนดค่าต่างๆ ได้ที่เมนูรีมิกซ์ ใช้เมนูนี้เพื่อเพิ่ม เปลี่ยน หรือปรับแต่งเนื้อหาที่คุณต้องการใช้งานในการเล่น Rain World
+remix_dlc_redirect|คลิกที่เนื้อหาเพื่อไปยังหน้าร้านค้าและอ่านรายละเอียดเพิ่มเติม
+How have you been?|สบายดีไหม?
+You're here again.|เจอกันอีกแล้วนะ
+...you...killed...|...เธอ...ฆ่า...
+Yet another thing?|มีมาอีกแล้วเหรอ?
+Yet again leaving.|ทิ้งกันไปอีกแล้ว
+Yes, there you go.|เอาเถอะ จะทำแบบนั้นก็ตามใจ
+As I was saying...|อย่างที่ฉันพูดค้างไว้...
+Stay! ... Still...|หยุด! ... อยู่นิ่งๆ...
+I am... too tired.|ฉัน... เหนื่อยเหลือเกิน
+Disable Cosmetic Ripples|ปิดระลอกคลื่นตกแต่ง
+save_file_error_continue|การดำเนินการต่ออาจส่งผลกระทบต่อระบบการบันทึกเกมหรือทำให้ข้อมูลบันทึกสูญหาย ดำเนินการต่อหรือไม่?
+objecttype-ScavengerBomb|ลูกระเบิด
+creaturetype-GreenLizard|กิ้งก่าเขียว
+creaturetype-WhiteLizard|กิ้งก่าขาว
+creaturetype-BlackLizard|กิ้งก่าดำ
+creaturetype-GarbageWorm|หนอนขยะ
+creaturetype-TempleGuard|ผู้พิทักษ์
+creaturetype-VultureGrub|หนอนเรียกแร้ง
+creaturetype-KingVulture|ราชาแร้ง
+Predator has become prey|ผู้ล่ากลายเป็นผู้ถูกล่าเสียเอง
+The Chieftain-linebreaks|หัวหน้าเผ่า
+Here is a strange energy|ที่นี่มีพลังงานประหลาด
+switch_pause_help_pickup|กดเพื่อหยิบวัตถุ
+Change screen resolution|เปลี่ยนความคมชัดของหน้าจอ
+Arena mode music volume:|ระดับเสียงดนตรีโหมดสนามประลอง:
+switch_controls_movement|จอยสติ๊กอนาล็อกซ้าย
+switch_controls_hold_map|กดปุ่ม R ค้าง
+Showing level thumbnails|แสดงรูปตัวอย่างด่าน
+ps4_fast_travel_map_help|กด R1 เพื่อเลือกที่กำบังที่คุณต้องการเริ่มเล่นต่อ
+ps4_save_progress_failed|พบข้อผิดพลาดในการบันทึกข้อมูลความคืบหน้า
+ps4_load_progress_failed|ข้อมูลบันทึกความคืบหน้าเสียหายและจะถูกลบทิ้ง
+mod_menu_load_order_down|เมื่อรวมการเปลี่ยนแปลงของม็อด ให้ปรับใช้ม็อดนี้ก่อนม็อดอื่น วิธีนี้อาจช่วยแก้ปัญหาการขัดแย้งกันบางประการของม็อดได้
+OpComboBox_MouseOpenTuto|คลิกเพื่อเปิดรายการ
+OpScrollBox_NonMouseTuto|กดยืนยันและใช้จอยสติ๊กเพื่อดูเพิ่มเติม
+OpSimpleButton_MouseTuto|คลิกเมาส์เพื่อใช้
+ModdingMenu_ControlThrow|ย้อนกลับ / ยกเลิก
+MenuModStat_ModsDownpour|ม็อดที่ติดตั้งมาให้แล้ว:
+Keep snails out of pipes|Keep snails out of pipes
+Additional lizard voices|เสียงกิ้งก่าเพิ่มเติม
+Splashes alert creatures|Splashes alert creatures
+Disable shelter failures|ปิดที่กำบังเสียหาย
+Unlock all sandbox items|ปลดล็อกไอเทมในแซนด์บ็อกซ์ทั้งหมด
+moreslugcats-description|เนื้อหาส่วนเสริมที่เพิ่มแคมเปญใหม่ห้าแคมเปญที่มีเอกลักษณ์เฉพาะตัวตามเส้นเนื้อเรื่อง ส่วนเสริมนี้ประกอบไปด้วยสิ่งมีชีวิต ไอเทม เพลงประกอบ ฉากจบแบบอื่น เขตใหม่ โหมดการเล่นใหม่ และอื่นๆ อีกมากมาย
+...is this reaching you?|...ได้รับข้อความนี้ไหม?
+Oh, <PlayerName>. Hello!|อ๊ะ <PlayerName> สวัสดี!
+Oh, <PlayerName>. Hello.|อ๊ะ <PlayerName> สวัสดี
+Oh... I will look at it.|โอ้... เดี๋ยวฉันจะช่วยดูให้นะ
+Oh... I will take a look|โอ้... เดี๋ยวฉันช่วยดูให้
+...rain... coming... Go!|...ฝน... มาแล้ว... ไปซะ!
+...please... be still...|...ได้โปรด... อยู่นิ่งๆ...
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|ปิดเอฟเฟกต์ระลอกคลื่นตกแต่งที่ปรากฏขึ้นใกล้กับตำแหน่งวาร์ปบางแห่ง
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|แต่ฉันก็ชอบที่มีเพื่อนอยู่ด้วย จะอยู่ที่นี่สักพักก็ได้นะเจ้าตัวน้อยผู้เงียบขรึม
+Disable Player Ripple Trail|ปิดร่องรอยระลอกคลื่นของผู้เล่น
+Complete the Hunter passage|บรรลุวิถีนักล่า
+Complete the Outlaw passage|บรรลุวิถีผู้ไร้กฎเกณฑ์
+Complete the Friend passage|บรรลุวิถีสหาย
+Complete the Martyr passage|บรรลุวิถีผู้สละชีพ
+Complete the Mother passage|บรรลุวิถีมารดา
+objecttype-FirecrackerPlant|ระเบิดเชอร์รี
+creaturetype-SmallCentipede|ตะขาบจิ๋ว
+Four is enough to hibernate|สี่ก็พอจะจำศีลแล้ว
+invert_x_description_switch|กลับด้านแกนนอนสำหรับการควบคุมด้วยจอยสติ๊ก
+invert_y_description_switch|กลับด้านแกนตั้งสำหรับการควบคุมด้วยจอยสติ๊ก
+Player <X> will use gamepad|ผู้เล่น <X> จะใช้คอนโทรลเลอร์
+Player vs player deathmatch|การต่อสู้เดธแมตช์ระหว่างผู้เล่น
+Play each level three times|เล่นด่านละสามครั้ง
+switch_fast_travel_map_help|กดปุ่ม R เพื่อเลือกที่กำบังที่คุณต้องการเริ่มเล่นต่อ
+OpComboBox_NonMouseOpenTuto|กดยืนยันเพื่อเปิดรายการ
+OpKeyBinder_MouseSelectTuto|คลิกเพื่อเปลี่ยนการตั้งปุ่ม
+OpSlider_NonMouseAdjustTuto|ใช้จอยสติ๊กปรับค่า จากนั้นกดยืนยันเพื่อปรับใช้
+OpColorPicker_MouseTypeTuto|พิมพ์โค้ดสี Hex ด้วยแป้นพิมพ์เพื่อเลือกสีที่ต้องการ
+OpSimpleButton_NonMouseTuto|กดปุ่มยืนยันเพื่อใช้
+MenuModStat_ConsoleExplain0|เมนูนี้ใช้สำหรับเปิดใช้งานและกำหนดค่าเนื้อหารีมิกซ์เพื่อสร้างวิธีการเล่น Rain World ในรูปแบบใหม่ๆ
+MenuModList_ListButton_Stat|แสดงสถิติเกี่ยวกับม็อดที่ติดตั้ง
+MenuModList_ListSlider_Desc|คลิกเมาส์ค้างบนวงกลมแล้วลากขึ้นหรือลงเพื่อเลื่อนรายการม็อด
+MenuModList_SearchBox_Empty|พิมพ์เพื่อค้นหา...
+MenuModList_SearchBox_Query|คำค้นหา: <Query>
+Connector_ResetConfig_Alert|คืนค่าการกำหนดค่าของ <ModName> เป็นค่าเริ่มต้นแล้ว
+Arena creatures cannot flee|สิ่งมีชีวิตในสนามประลองไม่สามารถหนีได้
+Monk extra light assistance|เพิ่มแสงสว่างให้นักบวช
+Zero-gravity spear throwing|Zero-gravity spear throwing
+Unlock all arena characters|ปลดล็อกตัวละครสนามประลองทั้งหมด
+Oh, it's you, <PlayerName>.|อ้อ... เธอนั่นเอง <PlayerName>
+Please... don't do... that.|ได้โปรด ...อย่า... ทำแบบนั้น
+What is that, <PlayerName>?|นั่นคืออะไรเหรอ <PlayerName>?
+Want it back, <PlayerName>?|อยากได้คืนเหรอ <PlayerName>?
+Why should I tolerate this?|ทำไมฉันต้องทนกับเรื่องแบบนี้ด้วย?
+As I tried to say to you...|อย่างที่ฉันพยายามจะบอกเธอ...
+Disable the visual trail that follows the player once achieving higher ripple attunement|ปิดภาพร่องรอยที่ติดตามผู้เล่นเมื่อบรรลุระดับการสอดประสานกับระลอกคลื่นที่สูงขึ้น
+You cannot use PlayStation™Network features in this application due to age restrictions.|ไม่สามารถใช้ฟีเจอร์ PlayStation™Network ในแอปพลิเคชันนี้ได้เนื่องจากการจำกัดอายุ
+The following cheats unlock content you would normally unlock via finding unlock tokens.|สูตรโกงต่อไปนี้จะปลดล็อกเนื้อหาที่ปกติแล้วต้องตามหาโทเคนปลดล็อก
+Disable Lightning Flashes|ปิดแสงวาบจากสายฟ้า
+backup_create_description|จัดเก็บเนื้อหาปัจจุบันของข้อมูลบันทึกไว้ในรูปแบบบันทึกข้อมูลสำรองใหม่
+backup_delete_description|ลบข้อมูลสำรองที่เลือกออกจากรายการข้อมูลสำรอง
+mod_menu_restoring_backup|กำลังดำเนินการกู้คืนข้อมูลบันทึกสำรอง...
+ps4_load_save_slot_failed|ข้อมูลช่องบันทึกเสียหายและจะถูกลบทิ้ง
+Complete the Monk passage|บรรลุวิถีนักบวช
+Find a way to communicate|หาทางสื่อสาร
+creaturetype-YellowLizard|กิ้งก่าเหลือง
+creaturetype-LanternMouse|หนูโคมไฟ
+creaturetype-RedCentipede|ตะขาบแดง
+One need not travel alone|ไม่มีใครจำเป็นต้องเดินทางเพียงลำพัง
+You are hungry, find food|คุณกำลังหิว หาอาหาร
+invert_x_description_xbox|กลับด้านแกนนอนสำหรับการควบคุมด้วยจอยสติ๊ก
+invert_y_description_xbox|กลับด้านแกนตั้งสำหรับการควบคุมด้วยจอยสติ๊ก
+Switch to fullscreen mode|สลับเป็นโหมดเต็มหน้าจอ
+OpDragger_NonMouseUseTuto|ใช้จอยสติ๊กปรับค่า จากนั้นกดยืนยันเพื่อตั้งค่า
+OpKeyBinder_MouseBindTuto|กดปุ่มอะไรก็ได้เพื่อตั้งปุ่ม (ESC เพื่อถอนปุ่ม)
+OpSlider_NonMouseGrabTuto|กดยืนยันเพื่อโต้ตอบ
+OpHoldButton_NonMouseTuto|กดปุ่มยืนยันค้างเพื่อใช้
+MenuModStat_ModsInterface|ม็อดที่มีอินเตอร์เฟซรีมิกซ์ที่เปิดใช้งาน: <Number1> (ปรับแต่งได้: <Number2>)
+Show underwater shortcuts|แสดงทางลัดใต้น้ำ
+Centipede pipe protection|สลัดตะขาบหลุดเมื่อเข้าท่อ
+Threat music visual pulse|ภาพและเสียงจังหวะชีพจรเตือนภัย
+Disable precycle flooding|ปิดน้ำท่วมก่อนเริ่มวัฏจักร
+Unlock all safari regions|ปลดล็อกเขตสังเกตการณ์ทั้งหมด
+ps4_expedition_slot_title|การเดินทาง Rain World
+ps4_expedition_core_title|ข้อมูลหลักของการเดินทาง Rain World
+...thank you... better...|...ขอบคุณ... ดีขึ้น...
+Tried to say... to you...|พยายาม...จะบอกเธอ...
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|ปิดแสงวาบเต็มหน้าจอและเอฟเฟกต์หน้าจอมืดลงที่เกิดขึ้นเมื่อฟ้าผ่า
+Reduce Passive Rain Intensity|ลดความแรงของฝนในฉากหลัง
+Complete the Survivor passage|บรรลุวิถีผู้รอดชีวิต
+Complete the Wanderer passage|บรรลุวิถีนักเดินทาง
+Five Pebbles (Memory Conflux)|ห้าก้อนกรวด (ศูนย์รวมความจำ)
+Hold to eat / swallow objects|กดค้างเพื่อกิน / กลืนวัตถุ
+Configure controls for player|กำหนดค่าการควบคุมสำหรับผู้เล่น
+Standard items spawn on level|ไอเทมมาตรฐานจะเกิดในด่าน
+ps4_save_progress_description|ข้อมูลบันทึกความคืบหน้า Rain World {0}
+OpColorPicker_NonMouseSliders|ใช้จอยสติ๊กเลื่อนขึ้นหรือลงเพื่อเลือก ซ้ายหรือขวาเพื่อปรับค่า จากนั้นกดยืนยันเพื่อปรับใช้
+OpScrollBox_MouseTutoSlidebar|ใช้ลูกกลิ้งหรือแถบเลื่อนเพื่ออ่านเพิ่มเติม
+ConfigMenuTab_BackButton_Desc|กลับไปยังเมนูหลัก
+ConfigMenuTab_SaveButton_Desc|บันทึกการกำหนดค่าม็อดปัจจุบันและย้อนกลับ
+MenuModList_ModButton_Display|แสดงผล <Mod>
+MenuModList_ListButton_SwapUp|คลิกเพื่อทำให้โหลดม็อดนี้หลังจากม็อดที่อยู่ด้านบน
+MenuModList_ListButton_SwapDw|คลิกเพื่อทำให้โหลดม็อดนี้ก่อนม็อดที่อยู่ด้านล่าง
+MenuModList_ListButton_Expand|ขยายเพื่อแสดงรูปตัวอย่างในรายการม็อด
+No stealing Hunter back-spear|ปิดการโดนขโมยหอกบนหลังของนักล่า
+Scavenger kill squad leniency|การผ่อนปรนจากหน่วยสังหารตัวคุ้ยซาก
+Hide rain timer in safe areas|ซ่อนตัวจับเวลาฝนในพื้นที่ปลอดภัย
+No randomized cycle durations|ไม่สุ่มระยะเวลาวัฏจักร
+Rivulet Rain Timer Multiplier|Rivulet Rain Timer Multiplier
+Unlock the Outer Expanse gate|ปลดล็อกประตูพรมแดนภายนอก
+Steam manager not initialized|ระบบจัดการ Steam ยังไม่เริ่มทำงาน
+This one again, <PlayerName>?|เม็ดนี้อีกแล้วเหรอ <PlayerName>?
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|ลดความแรงของฝนในเขตที่มีฝนเป็นเอฟเฟกต์ตกแต่งตลอดทั้งวัฏจักร
+Reduce Other Effects Density|ลดความหนาแน่นของเอฟเฟกต์อื่นๆ
+Everything comes full circle|ทุกอย่างกลับมาบรรจบกัน
+Great strides have been made|บรรลุก้าวย่างอันยิ่งใหญ่
+Complete the Scholar passage|บรรลุวิถีนักปราชญ์
+Complete the Pilgrim passage|บรรลุวิถีนักแสวงบุญ
+creaturetype-BrotherLongLegs|พี่ชายขายาว
+creaturetype-SmallNeedleWorm|ตัวอ่อนแมลงเส้น
+Press any button to continue|กดปุ่มอะไรก็ได้เพื่อไปต่อ
+A Bell, Eighteen Amber Beads|หนึ่งระฆัง สิบแปดลูกปัดอำพัน
+Two Sprouts, Twelve Brackets|สองหน่ออ่อน สิบสองค้ำยัน
+The Dragon Slayer-linebreaks|ผู้พิชิต<LINE>มังกร
+Three is enough to hibernate|สามก็พอจะจำศีลแล้ว
+Rain is coming! Find shelter|ฝนมาแล้ว! หาที่กำบังสิ
+Score required to exit level|คะแนนที่สามารถออกจากด่านได้
+Always allow players to exit|อนุญาตให้ผู้เล่นออกได้ตลอดเวลา
+ps4_save_options_description|ข้อมูลบันทึกตัวเลือก Rain World
+Reloading player progression|โหลดความคืบหน้าของผู้เล่นใหม่อีกครั้ง
+OpKeyBinder_NonMouseBindTuto|กดปุ่มอะไรก็ได้เพื่อตั้งปุ่ม (หยุดชั่วคราวเพื่อถอนปุ่ม)
+MenuModStat_ModTargetVersion|เวอร์ชันเกมที่รองรับ: <TargetVersion> (เวอร์ชันเกมปัจจุบัน: <GameVersion>)
+Artificer Explosion Capacity|ขีดจำกัดการระเบิดของนักประดิษฐ์
+Unlock all sandbox creatures|ปลดล็อกสิ่งมีชีวิตในแซนด์บ็อกซ์ทั้งหมด
+Perhaps... I saw you before?|หรือว่า... ฉันเคยเจอเธอมาก่อน?
+Oh... Should I look at that?|โอ้... ให้ฉันช่วยดูของนั่นให้ไหม?
+A gift for me, <PlayerName>?|ของขวัญให้ฉันเหรอ <PlayerName>?
+Oh... Never mind, I suppose.|อ้อ... ช่างมันก็แล้วกัน
+I will...not speak to you...|ฉันจะไม่...คุยกับเธอ...
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|ลดความหนาแน่นและการมองเห็นของเอฟเฟกต์อื่นๆ เช่น ร่องรอยกระแสลม ละอองดาว เศษซากลอย ฯลฯ
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|มีการใช้วิชวลเอฟเฟกต์ในระดับสูง อาจส่งผลกระทบต่อผู้ที่มีอาการไวต่อแสงหรืออาการล้าของดวงตาได้ง่าย
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|การตั้งค่าที่ออกแบบมาเพื่อให้เกมง่ายขึ้นเป็นอย่างมาก แต่อาจลดทอนอรรถรสโดยรวมของเกม
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduce Floating Particles Density|ลดความหนาแน่นของอนุภาคลอย
+Droplets upon Five Large Droplets|หยาดน้ำบนห้าหยาดน้ำใหญ่
+Game Over - Press VIEW to restart|เกมโอเวอร์ - กดปุ่ม VIEW เพื่อรีสตาร์ท
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - เลือกพรีเซ็ตหรือตั้งปุ่มเอง
+PICK UP button - Select shelter_1|ปุ่มหยิบ - เลือกที่กำบัง
+PICK UP button - Select shelter_2|ปุ่มสี่เหลี่ยม - เลือกที่กำบัง
+PICK UP button - Select shelter_3|ปุ่ม Y - เลือกที่กำบัง
+PICK UP button - Select shelter_4|ปุ่มซ้าย - เลือกที่กำบัง
+PICK UP button - Select shelter_5|ปุ่ม B - เลือกที่กำบัง
+OpKeyBinder_ErrorConflictOtherMod|ปุ่มซ้ำกับ <AnotherModID>
+OpKeyBinder_MouseJoystickBindTuto|กดปุ่มอะไรก็ได้เพื่อตั้งปุ่ม (ESC เพื่อถอนปุ่ม, CTRL + ตัวเลขเพื่อระบุหมายเลขคอนโทรลเลอร์)
+ConfigContainer_AlertCopyCosmetic|คัดลอก<Text>ไปยังคลิปบอร์ดแล้ว
+ConfigMenuTab_BackHoldButton_Desc|กลับไปยังเมนูหลัก (โดยไม่ปรับใช้ม็อด!)
+Passage progress without Survivor|ความคืบหน้าวิถีแบบไม่ต้องใช้ผู้รอดชีวิต
+I will not speak to you any more.|ฉันจะไม่คุยกับเธออีก
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|ลดความหนาแน่นของเอฟเฟกต์อนุภาคลอย/ร่วงหล่น เช่น สปอร์เน่าเฟะ เกล็ดเกลือในสันเขาอากาศธาตุ ฯลฯ
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|ลดการใช้แสงวาบและลดความหนาแน่นของเอฟเฟกต์ตกแต่งเพื่อให้การเล่นชัดเจนขึ้น
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|ปรับปรุงพฤติกรรมและเพิ่มกลไกเสริมที่ส่งผลต่อการกระทำของกวาง
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|เธอรีบไปเถอะ <PlayerName>! ฉันไม่เป็นไรหรอก<LINE>ถึงจะไม่ค่อยน่าอภิรมย์นักแต่ฉันเคยผ่านมันมาแล้ว
+Disable Fetid Glen Rainbow Grain|ปิดเกรนสีรุ้งในหุบเน่าเหม็น
+Followed your parental instincts|ทำตามสัญชาตญาณความเป็นแม่
+Player <X> will use the keyboard|ผู้เล่น <X> จะใช้แป้นพิมพ์
+switch_controls_singlejoycon_map|ปุ่ม SR
+Playing levels in selected order|เล่นด่านตามลำดับที่เลือก
+OpKeyBinder_ErrorConflictVanilla|ปุ่มซ้ำกับตัวเลือกการควบคุมดั้งเดิมของเกม
+OpKeyBinder_ErrorConflictCurrMod|ปุ่ม [<ConflictButton>] ถูกใช้งานอยู่แล้ว
+OpColorPicker_NonMouseModeSelect|กดยืนยันเพื่อเลือกโหมด
+ConfigMenuTab_RevertButton_Label|ย้อนกลับ
+Scavenger corpses have max karma|ศพของตัวคุ้ยซากมีค่ากรรมสูงสุด
+Unlock Developer Commentary mode|ปลดล็อกโหมดความเห็นจากผู้พัฒนา
+Please... thiss all I have left.|ได้โปรด... ฉันไม่เหลืออะไรอีกแล้วนอกจากสิ่งนี้
+Ah... <PlayerName>, you're back!|อ๊ะ... <PlayerName> กลับมาแล้วเหรอ!
+Ah... <PlayerName>, you're back.|อ๊ะ... <PlayerName> กลับมาแล้วเหรอ
+NO! I will...not speak to you...|ไม่นะ! ฉันจะ...ไม่คุยกับเธอ...
+A new gift for me, <PlayerName>?|ของขวัญใหม่ให้ฉันเหรอ <PlayerName>?
+<CapPlayerName>, this one again?|<CapPlayerName> เอาเม็ดนี้มาอีกแล้วเหรอ?
+Yes, take it and leave me alone.|ได้... เอาไปแล้วอย่ามายุ่งกับฉันอีก
+I think the rain is approaching.|ฉันว่าฝนใกล้เข้ามาแล้วล่ะ
+...leaving now? Don't... return.|...ไปแล้วเหรอ? อย่า... กลับมาอีก
+Remove the grainy effect that appears in the background of Fetid Glen areas|นำเอฟเฟกต์เกรนที่ปรากฏบนพื้นหลังของบริเวณหุบเน่าเหม็นออก
+Go explore! There is food and shelter to be found, but beware of predators.|ออกสำรวจเลย! มีอาหารและที่กำบังให้ค้นพบ แต่ระวังนักล่าด้วย
+Prevents underwater shortcut symbols from being obscured by the water layer|ปิดไม่ให้สัญลักษณ์ทางลัดใต้น้ำถูกชั้นน้ำบดบัง
+Changes the amount of bonus cycles Hunter can receive during their campaign|เปลี่ยนจำนวนวัฏจักรโบนัสที่นักล่าสามารถได้รับระหว่างเล่นแคมเปญ
+The current session playtime will always be visible as a UI element in-game|แสดงเวลาเล่นรวมของตัวละครนั้นๆ บน UI เสมอระหว่างเล่นแคมเปญ
+This option significantly decreases the difficulty of Artificer's campaign.|ตัวเลือกนี้ลดความยากของแคมเปญนักประดิษฐ์ลงอย่างมาก
+Your account is in read-only mode due to a recent password or email change.|บัญชีของคุณอยู่ในโหมดอ่านอย่างเดียว เนื่องจากเพิ่งมีการเปลี่ยนรหัสผ่านหรืออีเมล
+These settings adjust the density of VFX for visual accessibility needs.|การตั้งค่าเหล่านี้จะปรับความหนาแน่นของวิชวลเอฟเฟกต์เพื่อตอบสนองความต้องการด้านการเข้าถึงทางทัศนวิสัย
+Show tutorial messages for Watcher's mechanics during the story campaign|แสดงข้อความสอนเล่นเกี่ยวกับกลไกของผู้เฝ้ามองในช่วงแคมเปญเนื้อเรื่อง
+Stops Scavengers from being able to steal the spear off of Hunter's back|ปิดไม่ให้ตัวคุ้ยซากสามารถขโมยหอกที่อยู่บนหลังของนักล่าได้
+Allow throwing spears upwards during a backflip in addition to downwards|เพิ่มตัวเลือกทิศทางและรูปแบบการปาวัตถุในสถานการณ์ต่างๆ
+REDUCED|ลดลง
+MINIMAL|น้อยที่สุด
+Special|พิเศษ
+RESTORE|กู้คืน
+BACKUPS|ข้อมูลสำรอง
+No data|ไม่มีข้อมูล
+Closure|บทสรุป
+REGIONS|เขต
+OPTIONS|ตัวเลือก
+The Leg|ขา
+CREDITS|เครดิต
+ENGLISH|อังกฤษ
+ITALIAN|อิตาลี
+SPANISH|สเปน
+RUSSIAN|รัสเซีย
+CHINESE|จีน
+GAMEPAD|คอนโทรลเลอร์
+Hold R1|กดปุ่ม R1 ค้าง
+Options|ปุ่มตัวเลือก
+Hold RB|กดปุ่ม RB ค้าง
+minutes|นาที
+No rain|ไม่มีฝน
+Survive|รอดชีวิต
+Winner!|ผู้ชนะ!
+RESTART|รีสตาร์ท
+PASSAGE|วิถี
+Quits :|ออก :
+Ranking|อันดับ
+Profile|โปรไฟล์
+In Game|ในเกม
+In Menu|ในเมนู
+Version|เวอร์ชัน
+General|ทั่วไป
+Presets|พรีเซ็ต
+CLASSIC|คลาสสิก
+RELAXED|ผ่อนคลาย
+Assists|ตัวช่วย
+Failure|เกิดข้อผิดพลาด
+...you.|...เธอ
+Please!|ขอร้องล่ะ!
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|ปิดใช้งานเอฟเฟกต์ตกแต่งบางส่วนโดยสิ้นเชิง และลดระดับเอฟเฟกต์อื่นๆ อีกจำนวนมากลงอย่างมีนัยสำคัญ
+Close Map Button|ปุ่มแผนที่ - ปิดแผนที่
+Enable tutorials|เปิดโหมดสอนเล่น
+Follow the guide|ปฏิบัติตามคำชี้นำ
+objecttype-Spear|หอก
+creaturetype-Fly|แมลงค้างคาว
+Select save slot|เลือกช่องบันทึก
+Movement Buttons|ปุ่มควบคุมการเคลื่อนที่
+Shuffling levels|สลับด่าน
+Playing in order|เล่นตามลำดับ
+rounds per level|รอบต่อด่าน
+Random creatures|สิ่งมีชีวิตสุ่ม
+Trophy Collector|นักสะสมถ้วยรางวัล
+Press ? to start|กด ? เพื่อเริ่ม
+mod_menu_restart|จำเป็นต้องเริ่มเกมใหม่เพื่อใช้ม็อดที่เลือก กดดำเนินการต่อแล้วเปิดเกมใหม่อีกครั้ง
+Applying Changes|ปรับใช้การเปลี่ยนแปลง
+Vulture darkness|Vulture darkness
+Vanilla exploits|ช่องโหว่ของเกมเวอร์ชันดั้งเดิม
+Aggressive Saint|Aggressive Saint
+Gameplay Assists|ตัวช่วยการเล่น
+Generic failure.|เกิดข้อผิดพลาดทั่วไป
+remix_dlc_launch|ตรวจพบเนื้อหาดาวน์โหลดใหม่! คุณสามารถดูและเปิดใช้งานเนื้อหาดาวน์โหลดที่ติดตั้งไว้ได้ผ่านเมนูรีมิกซ์
+remix_dlc_locked|ต้องซื้อเนื้อหาดาวน์โหลดเพิ่มเติมก่อนจึงจะสามารถเปิดใช้งานเนื้อหานี้ได้
+...yes... leave.|...ใช่... ไปซะ
+You... are back.|เธอ... กลับมาแล้ว
+Little tormentor|นักทรมานตัวน้อย
+Unlock Hunter campaign|ปลดล็อกแคมเปญนักล่า
+backup_restore_confirm|ข้อมูลบันทึกปัจจุบันของคุณจะถูกลบ!<LINE><LINE>หากเลือกกู้คืนจะเป็นการเขียนทับข้อมูลบันทึกในทุกช่องบันทึกด้วยข้อมูลจากข้อมูลสำรองนี้<LINE>การดำเนินการนี้มีผลถาวรและไม่สามารถย้อนกลับได้<LINE><LINE>คุณแน่ใจหรือไม่ว่าต้องการเขียนทับข้อมูลบันทึกปัจจุบันด้วยข้อมูลจาก {X}?
+backup_restore_success|กู้คืนข้อมูลบันทึกจาก {X} แล้ว
+backup_info_disclaimer|(ข้อมูลที่แสดงอยู่นี้อ้างอิงจากม็อดที่คุณเปิดใช้งานอยู่ในปัจจุบัน<LINE>อาจมีข้อมูลเพิ่มเติมจากม็อดที่ถูกปิดใช้งานหลงเหลืออยู่ในนี้)
+A final charitable act|ทำความดีครั้งสุดท้าย
+Path of self-sacrifice|วิถีแห่งการสละตน
+objecttype-VultureMask|หน้ากากแร้ง
+objecttype-DangleFruit|ผลไม้สีน้ำเงิน
+objecttype-KarmaFlower|ดอกโกงกรรม
+objecttype-BubbleGrass|หญ้าฟองอากาศ
+creaturetype-RedLizard|กิ้งก่าแดง
+creaturetype-PoleMimic|หญ้าเสา
+creaturetype-MirosBird|นกปากกรรไกร
+creaturetype-Centipede|ตะขาบ
+creaturetype-Centiwing|ตะขาบบิน
+creaturetype-Scavenger|ตัวคุ้ยซาก
+creaturetype-BigSpider|แมงมุมใหญ่
+Stronger climbing grip|ยึดเกาะได้ดีขึ้นในการปีนป่าย
+Path of the vegetarian|วิถีแห่งมังสวิรัติ
+The Scholar-linebreaks|นักปราชญ์
+The Journey-linebreaks|ทัศนาจร
+switch_tutorial_crouch|กดปุ่มลงแล้วปล่อยเพื่อย่อตัว
+Tap to pick up objects|แตะเพื่อหยิบวัตถุ
+Test your new controls|ทดสอบการควบคุมใหม่
+switch_controls_pickup|ปุ่ม Y
+switch_region_map_help|กดปุ่ม R เพื่อดูแผนที่เขต
+Sandbox item unlocked:|ไอเทมแซนด์บ็อกซ์ที่ปลดล็อก:
+ps4_save_options_title|ตัวเลือก Rain World
+mod_menu_load_order_up|เมื่อรวมการเปลี่ยนแปลงของม็อด ให้ปรับใช้ม็อดนี้หลังม็อดอื่น วิธีนี้อาจช่วยแก้ปัญหาการขัดแย้งกันบางประการของม็อดได้
+OpSlider_MouseTutoHrzt|คลิกเมาส์ค้างแล้วลากซ้ายหรือขวาเพื่อปรับค่า
+OpSlider_MouseTutoVrtc|คลิกเมาส์ค้างแล้วลากขึ้นหรือลงเพื่อปรับค่า
+OpTextBox_NonMouseTuto|ไม่สามารถปรับองค์ประกอบนี้ด้วยคอนโทรลเลอร์ได้
+OpHoldButton_MouseTuto|คลิกเมาส์ค้างเพื่อใช้
+ModdingMenu_ControlMap|ดูการควบคุม
+MenuModStat_ModsRegion|ม็อดเขตที่เปิดใช้งาน: <Number>
+MenuModList_SwapFailed|ไม่สามารถโหลดม็อดนี้ได้จนกว่าจะโหลดม็อดที่จำเป็นต้องใช้ก่อน
+OIError_Message_Update|เกิดปัญหาขณะใช้งาน OptionInterface
+New dynamic difficulty|ระดับความยากแบบไดนามิกใหม่
+Legacy tongue controls|การควบคุมลิ้นแบบดั้งเดิม
+Upwards spear throwing|วิถีการปาเพิ่มเติม
+Quieter gates/shelters|ลดเสียงประตู/ที่กำบัง
+Faster shelter opening|เปิดที่กำบังเร็วขึ้น
+Pull spears from walls|ดึงหอกออกจากกำแพง
+Unlock all collections|ปลดล็อกคอลเลกชันทั้งหมด
+expedition-description|ออกเดินทางในโหมดการเล่นใหม่สุดท้าทายนี้! บรรลุความท้าทายแบบสุ่มและหลีกเลี่ยงการตายถาวร เพื่อปลดล็อกความสามารถเสริมใหม่ๆ ที่มีประโยชน์ อุปสรรคเพิ่มความยาก และบทเพลงใหม่ๆ สำหรับฟังในตู้เพลง
+Please leave me alone.|ได้โปรดปล่อยฉันไว้คนเดียวเถอะ
+That... Oh, thank you.|นั่นมัน... อ๊ะ ขอบคุณนะ
+...don't... come back.|...อย่า...กลับมาอีก
+Oh... You are leaving.|อ๊ะ... จะไปแล้วสินะ
+Good bye, I suppose...|ลาก่อนสินะ...
+Unlock Watcher arena character|ปลดล็อกตัวละครผู้เฝ้ามองในสนามประลอง
+ps4_load_save_slot_load_failed|ไม่สามารถโหลดช่องบันทึกได้ รหัสข้อผิดพลาด: {ERROR}
+ps4_load_expedition_run_failed|ไม่สามารถโหลดข้อมูลการเดินทางรอบปัจจุบันได้ รหัสข้อผิดพลาด: {ERROR}
+You have found another way out|คุณพบทางออกอื่น
+Complete the Chieftain passage|บรรลุวิถีหัวหน้าเผ่า
+Complete the game as The Saint|จบเกมด้วยสายนักบุญ
+This land has become your home|ดินแดนนี้กลายเป็นบ้านของคุณแล้ว
+switch_pause_help_switch_hands|กดสองครั้งเพื่อเปลี่ยนมือ
+Playing levels in random order|เล่นด่านตามลำดับสุ่ม
+OpKeyBinder_NonMouseSelectTuto|กดกระโดดเพื่อเปลี่ยนการตั้งปุ่ม
+ConfigMenuTab_ApplyButton_Desc|ปรับใช้ม็อดที่เลือกอยู่ในปัจจุบัน
+ConfigMenuTab_BackButton_Label|ออก
+ConfigMenuTab_SaveButton_Label|ปรับใช้
+ConfigMenuTab_ResetButton_Desc|รีเซ็ตการกำหนดค่าม็อดปัจจุบัน
+No Hunter batfly auto-grabbing|ปิดการจับแมลงค้างคาวอัตโนมัติของนักล่า
+Disable all karma requirements|ปิดเงื่อนไขระดับกรรมทั้งหมด
+Saint environmental protection|Saint environmental protection
+mod_workshop_upload_buttondesc|อัปโหลดม็อดที่เลือกไปยังเวิร์กชอป Steam
+It's you, <PlayerName>. Hello.|เธอนี่เอง <PlayerName> สวัสดี
+NO! ... no. Let it go, please.|ไม่นะ! ... ไม่ ปล่อยมันไป ได้โปรด
+You... brought that... for me?|เธอ... เอาสิ่งนี้มา... ให้ฉันงั้นเหรอ?
+And now you're taking it back.|ตอนนี้เธอเอามันคืนไปซะแล้ว
+Please. Be still for a moment.|ขอร้องล่ะนะ อยู่นิ่งๆ สักครู่ได้ไหม
+<CapPlayerName>... Never mind.|<CapPlayerName>... ช่างเถอะ
+Special Button|ปุ่มพิเศษ
+A Helping Hand|ยื่นมือเข้าช่วย
+mod_menu_error|ไม่สามารถเปิดใช้งานม็อดได้เนื่องจากข้อผิดพลาดต่อไปนี้:
+Garbage Wastes|บ่อขยะ
+Shaded Citadel|ป้อมปราการทมิฬ
+Chimney Canopy|ชั้นเรือนยอดรอบปล่อง
+Unknown Region|เขตที่ไม่รู้จัก
+Scavenger Toll|ด่านค่าผ่านทางตัวคุ้ยซาก
+RESET PROGRESS|รีเซ็ตความคืบหน้า
+Input Settings|ตั้งค่าการป้อนคำสั่ง
+Pick-Up Button|ปุ่มหยิบ
+ROUNDS SESSION|รอบต่อเซสชันเกม
+RESUME SESSION|กลับสู่เซสชันเกม
+Clear playlist|เคลียร์รายการเล่น
+Eating contest|แข่งกินจุ
+Aggressive AI:|AI ดุร้าย:
+Change Profile|เปลี่ยนโปรไฟล์
+mod_menu_apply|ปรับใช้การเปลี่ยนแปลงกับม็อดที่เลือก
+Speedrun timer|ตัวจับเวลาสำหรับการเล่นทำสถิติ
+jollycoop-name|ร่วมมือกันหรรษา
+Leaving again.|จะไปอีกแล้วเหรอ
+switch_controls_singlejoyconl_special|ปุ่มขึ้น
+Something lurks amongst the clouds...|บางอย่างแฝงกายอยู่ท่ามกลางหมู่เมฆ...
+Take the longer path to enlightenment|เลือกเดินบนเส้นทางที่ยาวไกลกว่าเพื่อการรู้แจ้ง
+A significant gain, but at what cost?|สิ่งที่ได้มาช่างแสนสำคัญ แต่ต้องแลกกับอะไรไป?
+Game Over - Press + Button to restart|เกมโอเวอร์ - กดปุ่ม + เพื่อรีสตาร์ท
+Game Over - Press - Button to restart|เกมโอเวอร์ - กดปุ่ม - เพื่อรีสตาร์ท
+switch_controls_singlejoycon_hold_map|กดปุ่ม SR ค้าง
+switch_controls_singlejoyconr_special|ปุ่ม Y
+Hold and drag to adjust score awarded|ลากค้างเพื่อปรับคะแนนที่ได้รับ
+ConfigContainer_AlertPasteNoncosmetic|วาง<Text>จากคลิปบอร์ดไปยัง<ObjectName>แล้ว
+MenuModList_ModButton_Enable_NonMouse|กดยืนยันเพื่อเปิดใช้งานม็อดนี้ กดยืนยันค้างไว้แล้วใช้จอยสติ๊กสลับลำดับการโหลด
+Press CONTINUE to view and accept it.|กดไปต่อเพื่อดูและยอมรับข้อตกลง
+Thank you. I do wonder what you want.|ขอบคุณ ฉันอดสงสัยไม่ได้จริงๆ ว่าเธอต้องการอะไรกันแน่
+Another thing you want me to look at?|มีอีกอย่างที่อยากให้ฉันช่วยดูให้เหรอ?
+Would you like me to read this pearl?|อยากให้อ่านไข่มุกเม็ดนี้ให้เหรอ?
+And now you're taking it, apparently.|ดูเหมือนว่าตอนนี้เธอจะเอามันกลับไปแล้วสินะ
+Triangle|ปุ่มสามเหลี่ยม
+Survivor|ผู้รอดชีวิต
+Invert X|กลับด้านแกน X
+Invert Y|กลับด้านแกน Y
+Champion|แชมเปียน
+NEW GAME|เกมใหม่
+THE MONK|นักบวช
+Exterior|โครงสร้างภายนอก
+The Wall|กำแพง
+The Monk|นักบวช
+WINDOWED|หน้าต่าง
+LANGUAGE|ภาษา
+JAPANESE|ญี่ปุ่น
+KEYBOARD|แป้นพิมพ์
+Keyboard|แป้นพิมพ์
+4 - TEST|4 - ทดสอบ
+STANDARD|มาตรฐาน
+CONTINUE|ไปต่อ
+Add item|เพิ่มไอเทม
+Deaths :|ตาย :
+Ascended|รู้แจ้ง
+PREVIOUS|ก่อนหน้า
+SaveData|ข้อมูลบันทึก
+Presets:|พรีเซ็ต:
+Oh. You.|อ้อ เธอเองเหรอ
+creature|สิ่งมีชีวิต
+Seed the determinations of warp point destinations to create less randomness in runs|กำหนดรหัสสร้างโลกของจุดหมายวาร์ป เพื่อลดการสุ่มในการเล่นแต่ละรอบ
+Increases the amount of time before you are forced to come up for air while drowning|เพิ่มระยะเวลาก่อนที่คุณจะถูกบังคับให้ขึ้นมาหายใจขณะดำน้ำ
+Unlock Watcher campaign|ปลดล็อกแคมเปญผู้เฝ้ามอง
+backup_info_description|ดูข้อมูลเนื้อหาของข้อมูลสำรองที่เลือก
+mod_menu_restore_backup|เกิดข้อผิดพลาดในการอ่านหรือเริ่มต้นไฟล์บันทึก อย่างไรก็ตาม ระบบตรวจพบไฟล์บันทึกสำรองในเครื่องนี้<LINE><LINE>กดดำเนินการต่อเพื่อเริ่มกู้คืนบันทึกสำรอง
+Fates have been flipped|โชคชะตาพลิกผันแล้ว
+creaturetype-PinkLizard|กิ้งก่าชมพู
+creaturetype-BlueLizard|กิ้งก่าฟ้า
+creaturetype-Salamander|ซาลาแมนเดอร์
+creaturetype-CyanLizard|กิ้งก่าฟ้าอมเขียว
+Embraced by a new tribe|ได้รับการยอมรับจากเผ่าใหม่
+The Survivor-linebreaks|ผู้รอดชีวิต
+The Wanderer-linebreaks|นักเดินทาง
+invert_x_description_ps|กลับด้านแกนนอนสำหรับการควบคุมด้วยจอยสติ๊ก
+invert_y_description_ps|กลับด้านแกนตั้งสำหรับการควบคุมด้วยจอยสติ๊ก
+Gamepad <X> (Not found)|คอนโทรลเลอร์ <X> (ไม่พบ)
+switch_controls_special|ปุ่ม X
+No rain timer exception|ไม่มีข้อยกเว้นของตัวจับเวลาฝน
+Sandbox items unlocked:|ไอเทมแซนด์บ็อกซ์ที่ปลดล็อก:
+ps4_save_progress_title|ความคืบหน้า Rain World {0}
+ps4_save_options_failed|พบข้อผิดพลาดในการบันทึกข้อมูลตัวเลือก
+ps4_load_options_failed|ข้อมูลบันทึกตัวเลือกเสียหายและจะถูกลบทิ้ง
+Failed to get rankings.|รับข้อมูลอันดับไม่สำเร็จ
+Switch to windowed mode|สลับเป็นโหมดหน้าต่าง
+OpCheckBox_NonMouseTuto|กดยืนยันเพื่อเปิดปิด
+OpComboBox_MouseUseTuto|คลิกที่ช่องสองครั้งเพื่อค้นหา
+OpRadioButton_MouseTuto|คลิกเพื่อเลือกตัวเลือกนี้
+OpTextBox_MouseTutoGrab|คลิกเพื่อเริ่มพิมพ์
+OpTextBox_MouseTutoType|ใช้แป้นพิมพ์พิมพ์ จากนั้นกด Enter เพื่อปรับใช้
+ModdingMenu_ControlJump|เลือก / ยืนยัน
+ModdingMenu_ControlMove|ย้าย / ปรับ
+ModdingMenu_ControlPckp|คลิปบอร์ด
+MenuModList_AskModApply|กดปรับใช้ม็อดก่อนปรับแต่งม็อด
+Jetfish item protection|ปกป้องไอเทมจากปลาเจ็ท
+Currently Active Preset|พรีเซ็ตที่เปิดใช้งานอยู่ในปัจจุบัน
+mod_workshop_upload_ask|ต้องการอัปโหลดม็อดนี้ไปยังเวิร์กชอป Steam หรือไม่?
+Hello there! You again!|ว่าไง! เธออีกแล้วนะ!
+Hello there. You again!|สวัสดี! เธออีกแล้วนี่!
+No, please, release it!|ไม่นะ ได้โปรด ปล่อยมันไปเถอะ!
+That... That is for me?|ให้... ให้ฉันเหรอ?
+...oh... to... save me?|...อ้อ... เพื่อ... ช่วยฉันเหรอ?
+Thank you so very much!|ขอบคุณเป็นอย่างมากเลย!
+Thank you... Sincerely.|ขอบคุณ... จากใจจริงเลย
+Let's see... A pearl...|ไหนดูซิ... ไข่มุก...
+Why are you doing this?|เธอทำแบบนี้ไปทำไม?
+Please don't come back.|ได้โปรดอย่ากลับมาอีก
+(Normally requires completing the game as Survivor or Monk to unlock)|(ปกติแล้วต้องเล่นจบสายผู้รอดชีวิตหรือนักบวชก่อนจึงจะปลดล็อกได้)
+WARNING! This will reset all of your progress except map exploration.|คำเตือน! คำสั่งนี้จะรีเซ็ตความคืบหน้าทั้งหมดของคุณยกเว้นการสำรวจแผนที่
+Red Lizards have a tongue and can snap spears in half with their bite|กิ้งก่าสีแดงมีลิ้นและสามารถกัดหอกให้หักเป็นสองท่อนได้
+(Normally requires finding Orange unlock tokens in the campaign maps)|(ปกติแล้วต้องหาโทเคนปลดล็อกสีส้มในแผนที่แคมเปญก่อน)
+The intended gameplay loop is to have to actively hunt fresh corpses.|วงจรการเล่นตามที่ออกแบบไว้คือมีความจำเป็นต้องออกล่าศพที่ยังสดใหม่
+Some of the metadata for this mod was invalid and cannot be accepted.|ข้อมูลรายละเอียดบางส่วนของม็อดนี้ไม่ถูกต้อง ระบบจึงไม่สามารถยอมรับได้
+Maybe this is asking too much... But, would you bring me another one?|ฉันอาจจะขอมากเกินไป... แต่เธอเอามาให้ฉันอีกได้ไหม?
+The rain is coming. If you stay, you will drown. Now, leave me alone.|ฝนจะมาแล้ว ถ้าเธอยังอยู่จะจมน้ำเอานะ ทีนี้ก็ทิ้งฉันไว้ซะ
+watcher-name|ผู้เฝ้ามอง
+Restart game|รีสตาร์ทเกม
+THE SURVIVOR|ผู้รอดชีวิต
+The Exterior|โครงสร้างภายนอก
+Five Pebbles|ห้าก้อนกรวด
+Subterranean|ใต้ดิน
+The Survivor|ผู้รอดชีวิต
+The Wanderer|นักเดินทาง
+A New Friend|เพื่อนใหม่
+You are full|คุณอิ่มแล้ว
+Leap the gap|กระโดดข้ามหลุม
+View credits|ดูเครดิต
+Pause Button|ปุ่มหยุดชั่วคราว
+Throw Button|ปุ่มปา
+Select level|เลือกด่าน
+Low wildlife|มีสัตว์ป่าจำนวนน้อย
+Level Items:|ไอเทมในด่าน:
+Barren level|ด่านร้าง
+IT'S A DRAW!|เสมอ!
+Add creature|เพิ่มสิ่งมีชีวิต
+Minor Assist|การช่วยเหลือเล็กน้อย
+Major Assist|การช่วยเหลือระดับสูง
+CLOSE MANUAL|ปิดคู่มือ
+rwremix-name|รีมิกซ์ Rain World
+...please...|...ได้โปรด...
+PICK UP button - Return to regional map_1|ปุ่มหยิบ - กลับไปยังแผนที่เขต
+PICK UP button - Return to regional map_2|ปุ่มสี่เหลี่ยม - กลับไปยังแผนที่เขต
+PICK UP button - Return to regional map_3|ปุ่ม Y -กลับไปยังแผนที่เขต
+PICK UP button - Return to regional map_4|ปุ่มซ้าย -กลับไปยังแผนที่เขต
+PICK UP button - Return to regional map_5|ปุ่ม B -กลับไปยังแผนที่เขต
+ps4_load_save_slot_restore_corrupt_failed|ข้อมูลช่องบันทึกเสียหาย<LINE>พบข้อมูลสำรอง แต่เกิดข้อผิดพลาดในการพยายามกู้คืนข้อมูลดังกล่าว
+Assign player <X> to the default controls|กำหนดให้ผู้เล่น <X> ใช้การควบคุมเริ่มต้น
+Something lurks above the chimney tops...|บางอย่างแฝงกายอยู่เหนือยอดปล่องไฟ...
+These pearls are valued by the Scavengers|ไข่มุกเหล่านี้มีค่าสำหรับพวกตัวคุ้ยซาก
+Game Over - Press PAUSE BUTTON to restart|เกมโอเวอร์ - กดปุ่มหยุดชั่วคราวเพื่อรีสตาร์ท
+Player <X> will use any connected gamepad|ผู้เล่น <X> จะใช้อุปกรณ์ใดก็ได้ที่เชื่อมต่ออยู่
+switch_single_joycon_fast_travel_map_help|กดปุ่ม SR เพื่อเลือกที่กำบังที่คุณต้องการเริ่มเล่นต่อ
+Press the MAP button to view regional map|กดปุ่ม MAP เพื่อดูแผนที่เขต
+Jellyfish are vulnerable to being stabbed|แมงกะพรุนได้รับความเสียหายจากการแทง
+Are you sure you want to use this preset?|แน่ใจหรือไม่ว่าต้องการใช้พรีเซ็ตนี้?
+Makes Saint's body immune to the elements|Makes Saint's body immune to the elements
+The operation timed out. Try again later.|การดำเนินการใช้เวลานานเกินไป โปรดลองใหม่อีกครั้งในภายหลัง
+This item already exists on the workshop.|มีไอเทมนี้อยู่ในเวิร์กชอปอยู่แล้ว
+Previously uploaded mod has been updated.|อัปเดตม็อดที่อัปโหลดไว้ก่อนหน้านี้แล้ว
+And...now you expect me to... talk again?|แล้ว...ตอนนี้ยังจะหวังให้ฉัน...พูดอีกเหรอ?
+JUMP button - View map for region_1|ปุ่มกระโดด -ดูแผนที่เขต
+JUMP button - View map for region_2|ปุ่มกากบาท - ดูแผนที่เขต
+JUMP button - View map for region_3|ปุ่ม B - ดูแผนที่เขต
+JUMP button - View map for region_4|ปุ่มลง - ดูแผนที่เขต
+JUMP button - View map for region_5|ปุ่ม A - ดูแผนที่เขต
+ps4_load_expedition_restore_corrupt|ข้อมูลหลักของการเดินทางเสียหาย แต่ระบบสามารถกู้คืนข้อมูลสำรองล่าสุดได้สำเร็จ
+You return from scouting a new land|คุณกลับมาจากการสำรวจดินแดนใหม่
+Four Needles under Plentiful Leaves|เข็มสี่เล่มภายใต้แมกไม้ขจี
+However, the game will not be saved|อย่างไรก็ตาม ข้อมูลเกมจะไม่ได้รับการบันทึก
+PS4 Dualshock<LINE>Controller Setup|การตั้งค่าคอนโทรลเลอร์<LINE>DUALSHOCK®4
+Hold Pause Button or Escape to exit|กดปุ่มหยุดชั่วคราวหรือ Esc ค้างไว้เพื่อออก
+switch_controls_singlejoyconl_pause|ปุ่ม -
+switch_controls_singlejoyconl_throw|ปุ่มขวา
+switch_controls_singlejoyconr_pause|ปุ่ม +
+switch_controls_singlejoyconr_throw|ปุ่ม X
+Press to add Player <X> to the game|กดเพื่อเพิ่มผู้เล่น <X> เข้ามาในเกม
+ps4_save_progress_failed_free_space|พบข้อผิดพลาดในการบันทึกข้อมูลความคืบหน้า มีพื้นที่ว่างไม่เพียงพอ ลองใหม่อีกครั้งหรือไม่?
+USE UP + DOWN TO ADJUST SCREEN SIZE|ใช้ขึ้น + ลงเพื่อปรับขนาดหน้าจอ
+ConfigMenuTab_RevertHoldButton_Desc|ยกเลิกการเปลี่ยนแปลงการกำหนดค่าม็อดปัจจุบันและย้อนกลับ
+MenuModList_ModButton_NameAndAuthor|<ModName> โดย <ModAuthor>
+MenuModList_ModButton_Disable_Mouse|ปิดใช้งาน <Mod>
+Could not find the files to upload.|ไม่พบไฟล์ที่ต้องการอัปโหลด
+Get... get away... white.... thing.|ออก... ออกไปให้ห่าง... เจ้าตัว... ขาว...
+Thank you, again. I feel wonderful.|ขอบใจอีกครั้งนะ ตอนนี้ฉันรู้สึกดีสุดๆ ไปเลย
+You want me to take a look at that?|อยากให้ฉันช่วยดูของนั่นให้เหรอ?
+Ah, you would like me to read this?|อ้อ อยากให้ฉันอ่านสิ่งนี้ให้เหรอ?
+This... time... don't... come back.|คราว... นี้... อย่า... กลับมาอีก
+Hunter|นักล่า
+Random|สุ่ม
+CREATE|สร้าง
+DELETE|ลบ
+PRESET|พรีเซ็ต
+CANCEL|ยกเลิก
+Depths|ห้วงลึก
+SCREEN|หน้าจอ
+FRENCH|ฝรั่งเศส
+GERMAN|เยอรมัน
+KOREAN|เกาหลี
+Player|ผู้เล่น
+Square|ปุ่มสี่เหลี่ยม
+Circle|ปุ่มวงกลม
+Arrows|ลูกศร
+Paused|หยุดชั่วคราว
+minute|นาที
+PLAYER|ผู้เล่น
+ALWAYS|ตลอดเวลา
+REMOVE|นำออก
+Food :|อาหาร :
+Time :|เวลา :
+cancel|ยกเลิก
+Select|เลือก
+? Back|? ย้อนกลับ
+? play|? เล่น
+Legacy|ดั้งเดิม
+Cheats|สูตรโกง
+MANUAL|คู่มือ
+TOPICS|หัวข้อ
+UPLOAD|อัปโหลด
+LEAVE.|ออกไป
+You...|เธอ...
+Hello!|สวัสดี!
+Hello.|สวัสดี
+Again.|อีกแล้ว
+*sigh*|*ถอนหายใจ*
+friend|สหาย
+little|ตัวน้อย
+[ Notice ]|[ ประกาศ ]
+STORY DATA|ข้อมูลเนื้อเรื่อง
+The Martyr|ผู้สละชีพ
+The Mother|มารดา
+Rain World|Rain World
+STATISTICS|สถิติ
+THE HUNTER|นักล่า
+The Hunter|นักล่า
+The Outlaw|ผู้ไร้กฎเกณฑ์
+The Friend|สหาย
+Pilgrimage|การแสวงบุญ
+FULLSCREEN|เต็มจอ
+SAVE FILES|ไฟล์บันทึก
+PORTUGUESE|โปรตุเกส
+TEST INPUT|ทดสอบการรับสัญญาณ
+Left Stick|จอยสติ๊กอนาล็อกซ้าย
+Hold Space|กด Space ค้าง
+Map Button|ปุ่มแผนที่
+Free food!|อาหารฟรี!
+Loading...|กำลังโหลด...
+CROSS-SAVE|บันทึกข้ามแพลตฟอร์ม
+Load Order|ลำดับการโหลด
+Oh, hello!|โอ๊ะ สวัสดี!
+Oh, hello.|อ๊ะ สวัสดี
+You again.|เป็นเธออีกแล้ว
+...rain...|...ฝน...
+...stop...|...พอเถอะ...
+Thank you.|ขอบคุณ
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|พบปัญหาขณะโหลดม็อด!<LINE>กำลังปิดใช้งานม็อดที่มีปัญหา<LINE>กดไปต่อแล้วเริ่มเกมใหม่อีกครั้ง
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...เธอ... กินฉัน... ได้โปรด ออกไป ฉันจะไม่... คุยกับเธออีก...<LINE>ฉัน... คุยกับเธอ... ไม่ได้แล้ว... เพราะ... เธอ... กินฉันเข้าไป...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|ทีแรกเธอก็ทำร้ายจิตใจกัน จากนั้นก็กลับมากวนฉันอีก<LINE>อยากรู้จริงๆ ว่าในหัวเล็กๆ ของเธอคิดอะไรอยู่
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|มันคืออาวุธที่ทำจากผงเพลิง พวกตัวคุ้ยซากให้เธอมาเหรอ?<LINE>ถ้าต้องใช้ก็ระวังด้วยล่ะ!
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|ตรวจพบข้อมูลม็อดไม่ตรงกันระหว่างผู้ใช้และตัวเกม!<LINE>กำลังทำการซิงค์ข้อมูลใหม่<LINE>กดไปต่อแล้วเริ่มเกมใหม่อีกครั้ง<LINE>ม็อดที่ถูกปิดใช้งาน:
+Stops nearby explosions causing a ringing sound to play|ระงับการเล่นเสียงวิ้งที่เกิดจากระเบิดในบริเวณใกล้เคียง
+Find the canonical ending to The Spearmaster's campaign|บรรลุฉากจบตามเนื้อเรื่องหลักแคมเปญของเจ้าแห่งหอก
+Assign player <X> to the default PS4 Dualshock controls|กำหนดให้ผู้เล่น <X> ใช้การควบคุมเริ่มต้นของ DUALSHOCK®4
+Strange... it seems to have been used not too long ago.|แปลกจัง... ดูเหมือนจะเพิ่งถูกใช้งานไปเมื่อไม่นานมานี้เองนะ
+backup_delete_confirm|แน่ใจหรือไม่ว่าต้องการลบข้อมูลสำรอง {X}?<LINE>การดำเนินการนี้ไม่สามารถย้อนกลับได้
+backup_delete_success|ลบ {X} สำเร็จ
+backup_create_success|สร้างข้อมูลสำรองใหม่ {X} จากข้อมูลบันทึกปัจจุบันของคุณเรียบร้อยแล้ว
+backup_restore_failed|เกิดข้อผิดพลาดในการกู้คืนข้อมูลสำรอง เพื่อความปลอดภัยของข้อมูลบันทึกของคุณ ระบบจึงระงับการเริ่มเกมไว้ชั่วคราว<LINE><LINE>คุณต้องการลองกู้คืนข้อมูลสำรองใหม่อีกครั้งหรือไม่?
+Take what isn't yours|ฉกฉวยสิ่งที่มิใช่ของตน
+Generating map images|กำลังประมวลผลภาพแผนที่
+objecttype-SporePlant|รังผึ้ง
+objecttype-NSHSwarmer|นิวรอนสีเขียว
+creaturetype-SeaLeech|ปลิงทะเล
+creaturetype-TubeWorm|หนอนสลิง
+creaturetype-Overseer|ผู้เฝ้าดู
+Path of the carnivore|วิถีแห่งสัตว์กินเนื้อ
+The Hunter-linebreaks|นักล่า
+The Outlaw-linebreaks|ผู้ไร้กฎเกณฑ์
+The Friend-linebreaks|สหาย
+Sound effects volume:|ระดับเสียงเอฟเฟกต์:
+XBox Controller Setup|การตั้งค่าคอนโทรลเลอร์ XBox
+switch_controls_pause|ปุ่ม +
+switch_controls_throw|ปุ่ม A
+Add level to playlist|เพิ่มด่านเข้าไปยังรายการเล่น
+switch_update_players|อัปเดตผู้เล่น
+Play each level twice|เล่นด่านละสองครั้ง
+mod_menu_reapply_mods|ม็อดที่เปิดใช้งานบางส่วนมีการอัปเดตตั้งแต่การเปิดเกมครั้งล่าสุด กดดำเนินการต่อเพื่อปรับใช้การอัปเดตเหล่านั้น
+OpUpdown_NonMouseGrab|กดยืนยันเพื่อโต้ตอบ
+OpScrollBox_MouseTuto|ใช้ลูกกลิ้งเพื่ออ่านเพิ่มเติม
+ModdingMenu_PckpTuto0|วิธีใช้ปุ่มคลิปบอร์ด:
+ModdingMenu_PckpTuto1|ใช้ปุ่มยืนยันเลือกองค์ประกอบที่ปรับแต่งได้ก่อน
+ModdingMenu_PckpTuto2|กดปุ่มคลิปบอร์ดค้างไว้แล้วกดปุ่มยืนยันเพื่อคัดลอกไปยังคลิปบอร์ด
+ModdingMenu_PckpTuto3|กดปุ่มคลิปบอร์ดค้างไว้แล้วกดปุ่มยกเลิกเพื่อวางจากคลิปบอร์ด
+MenuModList_DummyDesc|Rain World เวอร์ชันพื้นฐาน
+OIError_GeneralAdvice|ปัญหานี้อาจแก้ไขได้ด้วยการดาวน์โหลดม็อดเวอร์ชันล่าสุด
+No swim boost penalty|ไม่มีบทลงโทษเมื่อเร่งความเร็วว่ายน้ำ
+Rain Timer Multiplier|ตัวคูณเวลาฝนตก
+Tweaked deer behavior|ปรับพฤติกรรมกวาง
+Alternate grenade arc|Alternate grenade arc
+Item stems in sandbox|ก้านไอเทมในโหมดแซนด์บ็อกซ์
+Reduce screen shaking|ลดการสั่นของหน้าจอ
+Unlock all challenges|ปลดล็อกความท้าทายทั้งหมด
+Gathering information|รวบรวมข้อมูล
+jollycoop-description|รองรับการเล่นร่วมมือกันในเครื่องเดียวทั้งในโหมดเนื้อเรื่องและโหมดการเล่นอื่นๆ สูงสุดถึง 4 ผู้เล่น การเดินทางสนุกกว่าเมื่อมีเพื่อน!
+You had your chances.|เจ้าหมดโอกาสแล้ว
+Oh, you want it back?|อ้อ อยากได้คืนเหรอ?
+backup_restore_description|เขียนทับข้อมูลบันทึกปัจจุบันด้วยเนื้อหาของข้อมูลสำรองที่เลือก
+ps4_load_expedition_failed|ข้อมูลการเดินทางรอบปัจจุบันเสียหายและจะถูกลบทิ้ง
+Complete the Saint passage|บรรลุวิถีนักบุญ
+Complete the Nomad passage|บรรลุวิถีผู้พเนจร
+objecttype-SLOracleSwarmer|นิวรอน
+objecttype-SSOracleSwarmer|นิวรอน
+objecttype-OverseerCarcass|ลูกตาผู้เฝ้าดู
+creaturetype-DaddyLongLegs|คุณพ่อขายาว
+creaturetype-TentaclePlant|สาหร่ายปีศาจ
+creaturetype-SpitterSpider|แมงมุมจอมพ่น
+creaturetype-BigNeedleWorm|แมลงเส้น
+Briefly tap DOWN to crouch|แตะปุ่มลงแล้วปล่อยเพื่อย่อตัว
+Double tap to switch hands|แตะสองครั้งเพื่อเปลี่ยนมือ
+Player <X> is in the game!|ผู้เล่น <X> อยู่ในเกมแล้ว!
+Remove level from playlist|นำด่านออกจากรายการเล่น
+Resume unfinished playlist|เล่นรายการเล่นที่ยังไม่เล่นไม่จบ
+Play each level four times|เล่นด่านละสี่ครั้ง
+Play each level five times|เล่นด่านละห้าครั้ง
+mod_menu_fail_requirements|ไม่สามารถใช้ม็อดนี้ได้เนื่องจากขาดม็อดที่จำเป็น! โปรดตรวจสอบว่าติดตั้งม็อดเพิ่มเติมต่อไปนี้แล้ว และม็อดเหล่านั้นทำงานได้อย่างถูกต้อง:
+OpComboBox_MouseSearchTuto|พิมพ์คำค้นหาในช่องเพื่อค้นหา
+OpComboBox_NonMouseUseTuto|ใช้จอยสติ๊กเลื่อน จากนั้นกดยืนยันเพื่อเลือก
+OpDragger_NonMouseGrabTuto|กดยืนยันเพื่อโต้ตอบ
+OpRadioButton_NonMouseTuto|กดยืนยันเพื่อเลือกตัวเลือกนี้
+OpColorPicker_MouseRGBTuto|เลือกสีด้วยแถบเลื่อนสีแดง/เขียว/น้ำเงิน
+OpColorPicker_MouseHSLTuto|เลือกสีจากช่องเลือกสีสี่เหลี่ยมและแถบเลื่อนความสว่าง
+OpColorPicker_MousePLTTuto|เลือกสีจากจานสี
+MenuModList_SearchBox_Desc|คลิกแล้วพิมพ์เพื่อค้นหาม็อด
+Connector_SaveConfig_Alert|บันทึกการกำหนดค่าปัจจุบันของ <ModName> แล้ว
+OIError_Message_Initialize|เกิดปัญหาขณะเริ่มต้น OptionInterface
+Vulture grub arena variety|Vulture grub arena variety
+Lossless scavenger corpses|ศพตัวคุ้ยซากไม่เสื่อมค่า
+Continue to the next cycle|ไปสู่วัฏจักรถัดไป
+Or did I say that already?|หรือฉันเคยพูดแบบนี้ไปแล้ว?
+Hello again, <PlayerName>!|สวัสดีอีกครั้งนะ <PlayerName>!
+Hello again, <PlayerName>.|สวัสดีอีกครั้ง <PlayerName>
+I will accept your gift...|ฉันขอรับของขวัญจากเธอไว้แล้วกัน...
+CLOSE|ปิด
+STORY|เนื้อเรื่อง
+ARENA|สนามประลอง
+REMIX|รีมิกซ์
+Cycle|วัฏจักร
+Music|ดนตรี
+INPUT|ป้อนคำสั่ง
+Pause|หยุดชั่วคราว
+Throw|ปา
+Right|ขวา
+Cross|ปุ่มกากบาท
+Space|Space
+Shift|Shift
+PLAY!|เล่น!
+Play!|เล่น!
+ERROR|มีข้อผิดพลาด
+SCORE|คะแนน
+ROUND|รอบ
+APPLY|ปรับใช้
+Other|อื่นๆ
+Remix|รีมิกซ์
+...me|...ฉัน
+Oh...|อ้อ...
+STOP!|หยุดเดี๋ยวนี้!
+no...|ไม่นะ...
+ps4_load_expedition_run_restore_corrupt_failed|ข้อมูลการเดินทางรอบปัจจุบันเสียหาย<LINE>พบข้อมูลสำรอง แต่เกิดข้อผิดพลาดในการพยายามกู้คืนข้อมูลดังกล่าว
+You have delivered your most important message|ส่งสารที่สำคัญที่สุดเรียบร้อย
+You completed every challenge laid before you.|บรรลุความท้าทายทั้งหมดที่อยู่เบื้องหน้า
+Clear every milestone quest in Expedition Mode|บรรลุเควสต์เป้าหมายหลักทั้งหมดในโหมดเดินทาง
+You are not the only lost soul in this world..|คุณไม่ใช่ดวงวิญญาณเพียงดวงเดียวที่หลงทางอยู่ในโลกใบนี้...
+Additional food (above four) is kept for later|อาหารส่วนเกิน (มากกว่าสี่) จะเก็บไว้ใช้ภายหลัง
+Grab your prey and hold the eat button to feed|จับเหยื่อแล้วกดปุ่มกินค้างไว้เพื่อกินอาหาร
+MenuModList_ModButton_Disable_NonMouse_Console|กดยืนยันเพื่อปิดใช้งานเนื้อหานี้ กดปุ่มขวาเพื่อกลับไปยังรายการ
+MenuModList_ModButton_NonMouse_Display_Console|กดยืนยันเพื่อแสดงผล กดปุ่มซ้ายเพื่อเลื่อนไปยังปุ่มเปิดปิดเนื้อหานี้
+ConfigTabController_TabSelectButton_UnnamedTab|สลับไปยังแท็บ #<TabIndex>
+Not that it solves anyone's problem but yours.|แก้ปัญหาของใครไม่ได้นอกจากปัญหาของเจ้าคนเดียว
+As I mentioned you do not have unlimited time.|อย่างที่เคยบอกไว้ว่าเวลาของเจ้ามีจำกัด
+Another? You're no better than the scavengers!|อีกเม็ดเหรอ? เธอนี่พอๆ กับพวกตัวคุ้ยซากเลยนะเนี่ย!
+I won't talk to you if you continue like this.|ถ้ายังทำตัวแบบนี้ต่อ ฉันจะไม่คุยกับเธอแล้ว
+ps4_load_expedition_restore_corrupt_failed|ข้อมูลหลักของการเดินทางเสียหาย<LINE>พบข้อมูลสำรอง แต่เกิดข้อผิดพลาดในการพยายามกู้คืนข้อมูลดังกล่าว
+Something lurks where the land fissures...|บางอย่างแฝงกายอยู่ตรงรอยแยกแห่งพสุธา...
+This place is safe. Stay here to hibernate|ตรงนี้เป็นที่ปลอดภัย อยู่ที่นี่เพื่อจำศีล
+There are also other significant drawbacks|และยังมีข้อเสียที่สำคัญอื่นๆ ด้วย
+When only one player left, rain approaches|ฝนใกล้เข้ามาเมื่อเหลือผู้เล่นเพียงคนเดียว
+ps4_save_expedition_core_failed_free_space|เกิดข้อผิดพลาดในการบันทึกข้อมูลหลักของการเดินทางเนื่องจากพื้นที่ว่างไม่เพียงพอ ลองอีกครั้งหรือไม่?
+I... won't speak to you... if you do that.|ฉัน... จะไม่คุยกับเธออีก... ถ้าเธอทำแบบนั้น
+Ah... <PlayerName>, a neuron from Pebbles?|อ๊ะ... <PlayerName> นิวรอนจากกรวดเหรอ?
+ps4_load_save_slot_restore_corrupt|ข้อมูลในช่องบันทึกเสียหาย แต่ระบบสามารถกู้คืนข้อมูลสำรองล่าสุดได้สำเร็จ
+Complete the Dragon Slayer passage|บรรลุวิถีผู้พิชิตมังกร
+Something lurks in the darkness...|บางอย่างแฝงกายอยู่ในความมืด...
+Complete the game as The Artificer|จบเกมด้วยสายนักประดิษฐ์
+Five Pebbles (General Systems Bus)|ห้าก้อนกรวด (ชุมสายระบบส่วนกลาง)
+Pick up / Eat button interactions:|วิธีใช้ปุ่มหยิบ / กิน:
+Game Over - Press SPACE to restart|เกมโอเวอร์ - กด SPACE เพื่อรีสตาร์ท
+switch_controls_singlejoyconl_jump|ปุ่มลง
+switch_controls_singlejoyconr_jump|ปุ่ม A
+ps4_save_options_failed_free_space|พบข้อผิดพลาดในการบันทึกข้อมูลตัวเลือก มีพื้นที่ว่างไม่เพียงพอ ลองใหม่อีกครั้งหรือไม่?
+ConfigContainer_AlertPasteCosmetic|วาง<Text>จากคลิปบอร์ดแล้ว
+MenuModList_ModButton_Enable_Mouse|เปิดใช้งาน <Mod>
+Stronger bottomless pit indicators|ตัวบ่งชี้เหวไร้ก้นบึ้งชัดเจนขึ้น
+Monk-style gates for all campaigns|ประตูแบบนักบวชสำหรับแคมเปญทั้งหมด
+Are you sure you want to continue?|แน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?
+That's all. You'll have to go now.|เท่านี้แหละ ไปได้แล้ว
+You again? I have nothing for you.|เจ้าอีกแล้วเหรอ? เราไม่มีธุระอะไรกับเจ้าแล้ว
+I wonder what it is that you want?|สงสัยจังว่าเธอต้องการอะไร?
+I wish you would stop coming here.|ฉันหวังว่าเธอจะเลิกมาที่นี่สักที
+Oh... Of course I will take a look|โอ้... ได้สิเดี๋ยวฉันดูให้
+ps4_load_expedition_run_restore_corrupt|ข้อมูลการเดินทางรอบปัจจุบันเสียหาย แต่ระบบสามารถกู้คืนข้อมูลสำรองล่าสุดได้สำเร็จ
+Clear every challenge in Challenge Mode|บรรลุความท้าทายทั้งหมดในโหมดท้าทาย
+ConfigMenuTab_ModPercentageButton_Label|ม็อดที่เปิดใช้งาน: <CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|Allows Saint to be able to throw spears
+The following options contain spoilers.|ตัวเลือกต่อไปนี้มีการเปิดเผยเนื้อหาสำคัญ
+Workshop upload completed successfully!|อัปโหลดไปยังเวิร์กชอปสำเร็จ!
+<CapPlayerName>! Stay still and listen.|<CapPlayerName>! อยู่นิ่งๆ แล้วฟังนะ
+invert_x_description|กลับด้านแกนนอนสำหรับการควบคุมด้วยจอยสติ๊ก
+invert_y_description|กลับด้านแกนตั้งสำหรับการควบคุมด้วยจอยสติ๊ก
+rounds per level-ru2|รอบต่อด่าน
+objecttype-FlareBomb|ระเบิดแสง
+objecttype-DataPearl|ไข่มุก
+objecttype-JellyFish|แมงกะพรุน
+objecttype-SlimeMold|ราเมือก
+objecttype-EggBugEgg|ไข่แมลงไข่
+objecttype-NeedleEgg|ไข่แมลงเส้น
+creaturetype-Slugcat|เหมียวทาก
+creaturetype-Vulture|แร้ง
+creaturetype-CicadaA|จั๊กจั่นหมึก
+creaturetype-CicadaB|จั๊กจั่นหมึก
+creaturetype-JetFish|ปลาเจ็ท
+creaturetype-DropBug|แมลงดิ่ง
+Communications Array|ชุดเสาสัญญาณ
+Stolen Enlightenment|ปัญญาที่ถูกฉกชิง
+Path of the pacifist|วิถีแห่งผู้รักสันติ
+The Saint-linebreaks|นักบุญ
+switch_controls_jump|ปุ่ม B
+Gametype description|คำอธิบายประเภทเกม
+Play each level once|เล่นด่านละครั้ง
+Normal Rain World AI|AI ปกติของ Rain World
+for killing creature|จากการฆ่าสิ่งมีชีวิต
+Persistent creatures|สิ่งมีชีวิตคงสภาพ
+controller_reconnect|โปรดเชื่อมต่อคอนโทรลเลอร์ของผู้เล่น {0} ใหม่
+mod_menu_requirement|ม็อดที่ต้องใช้เพิ่มเติม:
+mod_menu_ext_authors|ดูรายการเครดิตของม็อดนี้
+mod_menu_disable_all|ปิดใช้งานม็อดทั้งหมด
+Building token cache|สร้างแคชโทเคน
+OpCheckBox_MouseTuto|คลิกเพื่อเปิดปิด
+OpUpdown_NonMouseUse|ใช้จอยสติ๊กปรับค่า จากนั้นกดยืนยันเพื่อปรับใช้
+MenuModStat_ModsFail|ม็อดที่ติดตั้งไว้แต่ขาดสิ่งที่จำเป็น:
+Connector_UnnamedTab|#<TabIndex>
+Increased stun times|เพิ่มระยะเวลามึนงง
+Wiggle out of grasps|ดิ้นหลุดจากการถูกจับ
+Key items on Passage|ไอเทมสำคัญเมื่อใช้วิถี
+Monk extended breath|นักบวชกลั้นหายใจได้นานขึ้น
+Breath time leniency|การผ่อนปรนเวลากลั้นหายใจ
+Rain timer tick-tock|เสียงเข็มนาฬิกาของตัวจับเวลาฝน
+Vulnerable jellyfish|แมงกะพรุนมีจุดอ่อน
+Unlock all campaigns|ปลดล็อกแคมเปญทั้งหมด
+More Slugcats Cheats|สูตรโกงภาคเหมียวทากมากเว่อร์
+Exit to title screen|ออกไปหน้าเริ่มเกม
+Preparing for upload|เตรียมอัปโหลด
+devtools-description|เปิดใช้งานเครื่องมือสำหรับนักพัฒนาภายในเกมซึ่งมีเครื่องมือที่จำเป็นสำหรับการแก้ไขแผนที่และเขตต่างๆ รวมถึงช่วยอำนวยความสะดวกในกระบวนการสร้างม็อดให้กับเกม<LINE><LINE>กดปุ่ม O ขณะอยู่ในเกมเพื่อเปิด/ปิดการทำงานของเครื่องมือสำหรับนักพัฒนาและกดปุ่ม H เพื่อเปิดอินเตอร์เฟซหลักของเครื่องมือสำหรับนักพัฒนา
+...leave me alone...|...ปล่อยฉันไว้คนเดียวเถอะ...
+Hello, <PlayerName>!|สวัสดี <PlayerName>!
+Hello, <PlayerName>.|สวัสดี <PlayerName>
+...don't... do that.|...อย่า... ทำแบบนั้น
+Another gift for me?|มีของขวัญมาให้ฉันอีกแล้วเหรอ?
+Again? ... just, go.|อีกแล้วเหรอ? ... ไปเถอะ
+Little archaeologist|นักโบราณคดีตัวน้อย
+Clear the game as Survivor or Monk to unlock.|เคลียร์เกมด้วยสายผู้รอดชีวิตหรือนักบวชเพื่อปลดล็อก
+Objects can be picked up, carried, and tossed|สามารถหยิบ ถือ และขว้างวัตถุได้
+Some small creatures can be eaten immediately|สามารถกินสิ่งมีชีวิตขนาดเล็กได้ทันที
+MenuModList_ModButton_Enable_NonMouse_Console|กดยืนยันเพื่อเปิดใช้งานเนื้อหานี้ กดปุ่มขวาเพื่อกลับไปยังรายการ
+Show icons of nearby creatures on the minimap|แสดงไอคอนของสิ่งมีชีวิตใกล้เคียงบนแผนที่ย่อ
+You are bringing a neuron. Is it to taunt me?|เธอเอานิวรอนมาเยาะเย้ยฉันเหรอ?
+Your curiosity seems boundless, <PlayerName>.|ความอยากรู้อยากเห็นของเธอนี่ดูจะไม่มีที่สิ้นสุดเลยนะ <PlayerName>
+remix_dlc_restart|หากคุณซื้อเนื้อหาดาวน์โหลด คุณจะต้องเริ่มเกมใหม่เพื่อให้เนื้อหาดังกล่าวพร้อมใช้งาน
+Expedition Leader|ผู้นำการเดินทาง
+creaturetype-Deer|กวางฝน
+Looks to the Moon|เหม่อมองจันทร์
+Filtration System|ระบบกรอง
+The Dragon Slayer|ผู้พิชิตมังกร
+Back to main menu|กลับไปยังเมนูหลัก
+1 - SELECT PLAYER|1 - เลือกผู้เล่น
+2 - SELECT DEVICE|2 - เลือกอุปกรณ์
+Previous gametype|ประเภทเกมก่อนหน้า
+Reset score setup|รีเซ็ตการตั้งค่าคะแนน
+ps4_press_to_join|กด<LINE><LINE><LINE>เพื่อเข้าร่วม
+minute until rain|นาทีจนกว่าฝนจะตก
+per point of food|ต่ออาหารหนึ่งหน่วย
+Delivered Payload|สัมภาระที่ส่งไป
+Leaderboard empty|กระดานจัดอันดับว่างเปล่า
+mod_menu_finalize|(กำลังดำเนินการขั้นสุดท้ายในการปรับใช้ม็อด โปรดรอสักครู่...)
+MenuModStat_ModID|ID: <ModID>
+Key item tracking|ติดตามไอเทมสำคัญ
+Alpha red lizards|กิ้งก่าสีแดงระดับจ่าฝูง
+Unlock all arenas|ปลดล็อกสนามประลองทั้งหมด
+moreslugcats-name|ส่วนเสริมเหมียวทากมากเว่อร์
+Yet another gift?|ยังมีของขวัญมาให้อีกเหรอ?
+And you are back.|กลับมาอีกจนได้นะ
+Within Time|ทันเวลา
+The Pilgrim|นักแสวงบุญ
+DELETE SAVE|ลบบันทึก
+Sky Islands|หมู่เกาะลอยฟ้า
+Farm Arrays|ทุ่งเกษตรกรรม
+The Scholar|นักปราชญ์
+The Journey|ทัศนาจร
+Arena Music|ดนตรีสนามประลอง
+Jump Button|ปุ่มกระโดด
+NEW SESSION|เซสชันเกมใหม่
+Spears Hit:|ปาหอกโดน:
+Rain Timer:|ตัวจับเวลาฝน:
+No wildlife|ไม่มีสัตว์ป่า
+Level Food:|อาหารในด่าน:
+Allow exit:|อนุญาตให้ออกจากด่าน:
+Early Rain:|ฝนก่อนกำหนด:
+SCREEN SIZE|ขนาดหน้าจอ
+Slug Senses|สัมผัสทาก
+...leave...|...ไปเถอะ...
+This again.|อีกแล้วเหรอ
+And...back.|แล้วก็... กลับมาอีก
+Back again.|กลับมาอีกแล้ว
+Here again.|มาอีกแล้ว
+I...said...|ฉัน...บอกว่า...
+Migration|การย้ายถิ่นฐาน
+Messenger|ผู้ส่งสาร
+The Cycle|วัฏจักร
+The Nomad|ผู้พเนจร
+Outskirts|เขตรอบนอก
+Shoreline|ชายฝั่ง
+Underhang|ใต้ท้อง
+The Saint|นักบุญ
+Ascension|หลุดพ้น
+SAVE SLOT|ช่องบันทึก
+vibration|ระบบสั่น
+Connected|เชื่อมต่อแล้ว
+Wildlife:|สัตว์ป่า:
+Spear hit|ปาหอกโดน
+GAME OVER|เกมโอเวอร์
+Clear all|ล้างทั้งหมด
+? Confirm|? ยืนยัน
+NEXT PAGE|หน้าถัดไป
+Next Page|หน้าถัดไป
+CONFIGURE|กำหนดค่า
+Author(s)|ผู้สร้าง
+VIEW EULA|ดูใบอนุญาตสำหรับผู้ใช้ปลายทาง
+Uploading|กำลังอัปโหลด
+A neuron.|นิวรอนนี่นา
+tormentor|นักทรมาน
+An Old Friend|เพื่อนเก่า
+Memory Crypts|สุสานความจำ
+The Chieftain|หัวหน้าเผ่า
+Music volume:|ระดับเสียงดนตรี:
+Sound Effects|เสียงเอฟเฟกต์
+Pick up / Eat|หยิบ / กิน
+INPUT PRESETS|พรีเซ็ตการรับข้อมูล
+Next gametype|ประเภทเกมถัดไป
+ROUND SESSION|รอบเซสชันเกม
+Approximately|ประมาณ
+Press to join|กดเพื่อเข้าร่วม
+Repeat Rooms:|เล่นด่านซ้ำ:
+High wildlife|มีสัตว์ป่าจำนวนมาก
+for surviving|สำหรับการเอาชีวิตรอด
+per spear hit|ต่อการปาหอกโดนหนึ่งครั้ง
+Configuration|การกำหนดค่า
+HOLD TO START|กดค้างเพื่อเริ่ม
+REGION SELECT|เลือกเขต
+Fetching Data|ดึงข้อมูล
+PREVIOUS PAGE|หน้าก่อนหน้า
+Previous Page|หน้าก่อนหน้า
+Accessibility|การช่วยการเข้าถึง
+Hunter Cycles|วัฏจักรของนักล่า
+Wall pouncing|กระโจนจากกำแพง
+devtools-name|เครื่องมือสำหรับนักพัฒนา
+Thank... you.|ขอบ... คุณ
+What is that?|นั่นคืออะไรเหรอ?
+Another gift?|ของขวัญอีกชิ้นเหรอ?
+...thank you.|...ขอบคุณ
+And...listen!|แล้ว...ฟังฉัน!
+Little friend|เพื่อนตัวน้อย
+archaeologist|นักโบราณคดี
+The consequences of your journey have caught up with you|ผลจากการเดินทางไล่ตามคุณทันแล้ว
+You encountered the echo of A Bell, Eighteen Amber Beads|ได้พบกับเสียงสะท้อนของหนึ่งระฆัง สิบแปดลูกปัดอำพัน
+You encountered the echo of Two Sprouts, Twelve Brackets|ได้พบกับเสียงสะท้อนของสองหน่ออ่อน สิบสองค้ำยัน
+Press and hold, then use up/down to adjust score awarded|กดค้างไว้ จากนั้นใช้ขึ้น/ลงเพื่อปรับคะแนนที่ได้รับ
+You must update the application to use network features.|ต้องอัปเดตแอปพลิเคชันเพื่อใช้ฟีเจอร์เครือข่าย
+The presets below can be used to quickly reset settings.|สามารถใช้ตัวเลือกด้านล่างเพื่อรีเซ็ตการตั้งค่าทั้งหมดเป็นค่าตามพรีเซ็ตได้อย่างรวดเร็ว
+RELAXED preset is a significant reduction in difficulty.|พรีเซ็ตผ่อนคลายจะลดความยากของเกมลงเป็นอย่างมาก
+This option may actually make Rivulet's campaign harder.|ตัวเลือกนี้อาจทำให้แคมเปญของสายธารยากขึ้น
+The scavengers must be jealous of you, finding all these|พวกตัวคุ้ยซากคงอิจฉาเธอน่าดูที่เจอของทั้งหมดนี่
+You completed every expedition laid before you.|บรรลุการเดินทางทั้งหมดที่อยู่เบื้องหน้า
+Something lurks in a flourishing outcropping...|บางอย่างแฝงกายอยู่ในชะง่อนผาที่ผลิบาน...
+Additional food (above three) is kept for later|อาหารส่วนเกิน (มากกว่าสาม) จะเก็บไว้ใช้ภายหลัง
+Hold down to wipe your save slot and start over|กดค้างเพื่อล้างช่องบันทึกแล้วเริ่มเล่นใหม่
+You are starving. Your game has not been saved.|คุณกำลังหิว เกมยังไม่ได้รับการบันทึก
+Are you sure you want to disable this mechanic?|แน่ใจหรือไม่ว่าต้องการปิดกลไกนี้?
+You must accept the End User License Agreement.|คุณต้องยอมรับข้อตกลงใบอนุญาตสำหรับผู้ใช้ปลายทาง
+You're leaving yet again. This time, stay away.|จะไปอีกแล้วงั้นเหรอ คราวนี้ก็ไม่ต้องกลับมาอีกนะ
+Listened to the conflation of echoes|ฟังเสียงสะท้อนที่ผสานเป็นหนึ่ง
+Nineteen Spades, Endless Reflections|สิบเก้าจอบ การรำพึงไม่รู้จบ
+Game Over - Press OPTIONS to restart|เกมโอเวอร์ - กดปุ่ม OPTIONS เพื่อรีสตาร์ท
+switch_controls_singlejoyconl_pickup|ปุ่มซ้าย
+switch_controls_singlejoyconr_pickup|ปุ่ม B
+Creatures are vicious and aggressive|เหล่าสิ่งมีชีวิตจะดุร้ายและก้าวร้าว
+switch_single_joycon_region_map_help|กดปุ่ม SR เพื่อดูแผนที่เขต
+JUMP/THROW buttons - Switch layers_1|ปุ่มกระโดด/ปา - สลับเลเยอร์
+JUMP/THROW buttons - Switch layers_2|ปุ่มกากบาท/วงกลม - สลับเลเยอร์
+JUMP/THROW buttons - Switch layers_3|ปุ่ม B/ปุ่ม A - สลับเลเยอร์
+JUMP/THROW buttons - Switch layers_4|ปุ่มลง/ปุ่มขวา - สลับเลเยอร์
+JUMP/THROW buttons - Switch layers_5|ปุ่ม A/ปุ่ม X - สลับเลเยอร์
+Title is offline or is disconnected.|เกมอยู่ในสถานะออฟไลน์หรือขาดการเชื่อมต่อ
+OpKeyBinder_NonMouseJoystickBindTuto|กดปุ่มอะไรก็ได้เพื่อตั้งปุ่ม (หยุดชั่วคราวเพื่อถอนปุ่ม, START เพื่อระบุหมายเลขคอนโทรลเลอร์)
+ConfigContainer_AlertCopyNoncosmetic|คัดลอก<Text>ไปยังคลิปบอร์ดจาก<ObjectName>แล้ว
+ConfigMenuTab_RevertHoldButton_Label|คืนค่า
+MenuModList_ModButton_RainWorldDummy|Represents Rain World base game, initially loaded before all the mods above
+Are you sure you want to view these?|แน่ใจหรือไม่ว่าต้องการดู?
+Yes, you're welcome to have it back.|ได้สิ เอาคืนไปได้เลย
+Oh, leaving. Please don't come back.|อ้อ จะไปแล้วสินะ ได้โปรดอย่ากลับมาอีก
+Something lurks at the highest reaches of the world...|บางอย่างแฝงกายอยู่ ณ จุดสูงสุดของโลก...
+Assign player <X> to the default XBox controller setup|กำหนดให้ผู้เล่น <X> ใช้การตั้งค่าเริ่มต้นของคอนโทรลเลอร์ Xbox
+Select which levels to play<LINE>in the level selector|เลือกด่านที่ต้องการเล่น<LINE>ในหน้าเลือกด่าน
+Shows a visual pulse on screen when threats are nearby|แสดงภาพจังหวะชีพจรบนหน้าจอเมื่อมีภัยคุกคามอยู่ใกล้เคียง
+All lizard breeds have unique sound effects and voices|กิ้งก่าทุกสายพันธุ์มีเอฟเฟกต์เสียงและเสียงร้องที่เป็นเอกลักษณ์เฉพาะตัว
+(Normally requires completing Gourmand's food tracker)|(ปกติแล้วต้องทำบันทึกรายการอาหารของนักกินให้ครบก่อน)
+Mod's thumbnail image should have a 16:9 aspect ratio.|รูปตัวอย่างม็อดควรมีสัดส่วนภาพ 16:9
+If you eat it or leave with it, I will die. I beg you.|ถ้าเธอกินมันเข้าไปหรือเอามันไปจากที่นี่ ฉันจะตาย ขอร้องล่ะ
+Oh, I have already read this one to you, <PlayerName>.|อ๊ะ ฉันเคยอ่านเม็ดนี้ให้ฟังไปแล้วนะ <PlayerName>
+Complete the game as The Survivor or as The Monk|จบเกมด้วยสายผู้รอดชีวิตหรือนักบวช
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|คลิกเพื่อเปิดใช้งานม็อดทั้งหมด
+MenuModList_ModButton_NonMouse_Configure_Console|กดยืนยันเพื่อกำหนดค่า กดปุ่มซ้ายเพื่อเลื่อนไปยังปุ่มเปิดปิดเนื้อหานี้
+Access was denied. Do you own the game on Steam?|การเข้าถึงถูกปฏิเสธ คุณมีเกมนี้ใน Steam หรือไม่?
+This one I've already read to you, <PlayerName>.|เม็ดนี้ฉันเคยอ่านให้ฟังไปแล้วนะ <PlayerName>
+Complete the game as The Hunter|จบเกมด้วยสายนักล่า
+Your travels have taken you far|การเดินทางได้นำพาคุณไปไกลแสนไกล
+You have left this world behind|คุณทิ้งโลกใบนี้ไว้เบื้องหลัง
+ConfigMenuTab_ApplyButton_Label|ปรับใช้ม็อด
+ConfigMenuTab_RevertButton_Desc|กลับไปยังรายการม็อด
+ConfigMenuTab_ResetButton_Label|รีเซ็ตการปรับแต่ง
+MenuModList_ModButton_Configure|กำหนดค่า <Mod>
+MenuModList_ListButton_ScrollUp|คลิกเมาส์ค้างเพื่อเลื่อนรายการม็อดขึ้น
+MenuModList_ListButton_ScrollDw|คลิกเมาส์ค้างเพื่อเลื่อนรายการม็อดลง
+MenuModList_ListButton_Collapse|ย่อเพื่อซ่อนรูปตัวอย่างในรายการม็อด
+Connector_ChangeActiveTab_Alert|สลับไปยังแท็บ <TabName> แล้ว
+Connector_ChangeActiveMod_Alert|สลับม็อดที่แสดงผลอยู่ในปัจจุบันเป็น <ModName> แล้ว
+Enable the wall pounce mechanic|เปิดใช้งานกลไกกระโจนจากกำแพง
+ps4_expedition_slot_description|ข้อมูลบันทึกการเดินทาง Rain World
+ps4_expedition_core_description|ข้อมูลหลักของการเดินทาง Rain World
+ps4_save_expedition_core_failed|เกิดข้อผิดพลาดในการบันทึกข้อมูลหลักของการเดินทาง
+ps4_load_expedition_core_failed|ข้อมูลหลักของการเดินทางเสียหายและจะถูกลบทิ้ง
+It's you, <PlayerName>!  Hello!|เธอนี่เอง <PlayerName>! ว่าไง!
+You... Strange thing. Now this?|เธอนี่... แปลกจริงๆ เลยนะ แล้วยังเอาสิ่งนี้มาให้อีก?
+Oh, what is that, <PlayerName>?|โอ๊ะ นั่นอะไรเหรอ <PlayerName>?
+You would like me to read this?|อยากให้ฉันอ่านสิ่งนี้ให้เหรอ?
+Find the canonical ending to The Gourmand's campaign|บรรลุฉากจบตามเนื้อเรื่องหลักแคมเปญของนักกิน
+Find a destination for The Hunter's starting payload|หาจุดหมายในการส่งสัมภาระเริ่มต้นของนักล่า
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|กดยืนยันเพื่อปิดใช้งานม็อดทั้งหมด
+Pause the rain timer while dialog is being displayed|Pause the rain timer while dialog is being displayed
+Discourages Snails from idling inside pipe entrances|Discourages Snails from idling inside pipe entrances
+It is recommended to use this only as a last resort.|ขอแนะนำให้ใช้ตัวเลือกนี้เป็นทางเลือกสุดท้ายเท่านั้น
+I don't know what to say. Never come back, creature!|หมดคำจะพูดกับเธอแล้ว อย่ากลับมาให้ฉันเห็นหน้าอีก สิ่งมีชีวิตเอ๋ย!
+Little creature, why don't you stay calm and listen?|สิ่งมีชีวิตตัวน้อย ทำไมไม่ยอมใจเย็นๆ แล้วฟังนะ?
+Find the canonical ending to The Rivulet's campaign|บรรลุฉากจบตามเนื้อเรื่องหลักแคมเปญของสายธาร
+Dropping food in the water might attract creatures.|การหย่อนอาหารลงในน้ำอาจดึงดูดสิ่งมีชีวิตต่างๆ
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|กดยืนยันเพื่อเปิดใช้งานม็อดทั้งหมด
+Cannot update mod with no pre-existing workshop ID.|ไม่สามารถอัปเดตม็อดที่ไม่มี ID เวิร์กชอปมาก่อนได้
+There is nothing here. Not even my memories remain.|ที่นี่ไม่มีอะไรเหลือแล้ว แม้แต่ความทรงจำของฉันก็ไม่เหลืออยู่เลย
+Something new you want me to look at, <PlayerName>?|มีของใหม่มาให้ฉันช่วยดูให้เหรอ <PlayerName>?
+It's a bit dusty, but I will do my best. Hold on...|มีฝุ่นจับนิดหน่อย แต่ฉันจะพยายามเต็มที่ รอเดี๋ยวนะ...
+Now if you'll let me, I will try to say this again.|ถ้าอย่างนั้นขอลองพูดอีกรอบนะ
+It's a rock. Thank you, I suppose, little creature.|นี่มันก้อนหิน เอาเถอะ ขอบใจนะ สิ่งมีชีวิตตัวน้อย
+objecttype-Rock|หิน
+Drainage System|ระบบระบายน้ำ
+History lessons|บทเรียนประวัติศาสตร์
+Change language|เปลี่ยนภาษา
+Bind <X> button|ตั้งปุ่ม <X>
+Back to options|กลับไปยังตัวเลือก
+round per level|รอบต่อด่าน
+Medium wildlife|มีสัตว์ป่าจำนวนปานกลาง
+SESSION RESULTS|ผลเซสชันเกม
+Finding Changes|ค้นหาการเปลี่ยนแปลง
+Fast map reveal|แสดงแผนที่เร็วขึ้น
+Extra tutorials|สอนเล่นเพิ่มเติม
+Easier dropwigs|Easier dropwigs
+Quality of Life|ความสะดวกในการเล่น
+Unlock Slugpups|ปลดล็อกลูกทาก
+expedition-name|การเดินทาง
+Leave me alone!|ไปให้พ้น!
+Please stop it!|ได้โปรดพอเถอะ!
+Little creature|สิ่งมีชีวิตตัวน้อย
+Prevents falling off from poles when throwing objects|ป้องกันการร่วงจากเสาขณะปาวัตถุ
+Swim boosting will not consume additional breath time|ไม่เสียเวลากลั้นหายใจเพิ่มเติมเมื่อเร่งความเร็วในการว่ายน้ำ
+Removes visual effects that cause the screen to shake|นำวิชวลเอฟเฟกต์ที่ทำให้หน้าจอสั่นออก
+Are you sure you want to disable ALL karma mechanics?|แน่ใจหรือไม่ว่าต้องปิดการใช้งานกลไกกรรมทั้งหมด?
+Mod's thumbnail image must be less than 1 MB in size.|รูปตัวอย่างม็อดจะต้องมีขนาดน้อยกว่า 1 MB
+Your account is locked or has a community or VAC ban.|บัญชีของคุณถูกล็อก หรือถูกระงับการใช้งานจากชุมชน หรือถูกแบนโดย VAC
+The workshop service is unavailable. Try again later.|บริการเวิร์กชอปไม่พร้อมใช้งานในขณะนี้ โปรดลองใหม่อีกครั้งในภายหลัง
+Yet another gift? You're quite curious, <PlayerName>!|ของขวัญอีกแล้วเหรอ? เธอนี่ขี้สงสัยจังนะ <PlayerName>!
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|สิ่งมีชีวิตว่องไวที่กินทั้งพืชและสัตว์ เป็นทั้งผู้ล่าและผู้ถูกล่า เมื่อต้องพลัดหลงอยู่ในดินแดนอันโหดร้ายและเย็นชา<LINE>คุณต้องหาหนทางเอาตัวรอด โดยอาศัยไหวพริบและความระมัดระวังเป็นอาวุธหลัก
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|ร่างกายอ่อนแอแต่จิตวิญญาณแข็งแกร่ง เข้าใจความลี้ลับของโลกและ<LINE>มีความเมตตาต่อเหล่าสิ่งมีชีวิต การเดินทางของคุณจะสงบสุขขึ้นอย่างมาก
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|แข็งแกร่งและว่องไว มีระบบเผาผลาญอันรุนแรงที่ต้องการเนื้อสัตว์เป็นอาหารอย่างต่อเนื่อง<LINE>แต่ความหิวไม่ใช่เพียงสิ่งเดียวที่คุณต้องกังวล เพราะวิถีแห่งนักล่านั้นเต็มไปด้วยภยันตรายแสนสาหัส
+Five Pebbles (Unfortunate Development)|ห้าก้อนกรวด (การพัฒนาอับโชค)
+Six Grains of Gravel, Mountains Abound|หกเม็ดกรวด วงล้อมแห่งขุนเขา
+Jump and grab them. They're delicious!|กระโดดคว้าสิ ผลพวกนี้อร่อยนะ!
+Takes input from any connected gamepad|รับข้อมูลจากทุกอุปกรณ์ที่เชื่อมต่อ
+switch_controls_singlejoyconl_movement|จอยสติ๊กอนาล็อกซ้าย
+switch_controls_singlejoyconr_movement|จอยสติ๊กอนาล็อกขวา
+Unlock all the Trophies in Rain World!|ปลดล็อกถ้วยรางวัลทั้งหมดใน Rain World!
+MenuModList_ModButton_Disable_NonMouse|กดยืนยันเพื่อปิดใช้งานม็อดนี้ กดยืนยันค้างไว้แล้วใช้จอยสติ๊กสลับลำดับการโหลด
+MenuModList_ModButton_NonMouse_Display|กดยืนยันเพื่อแสดงผล <Mod>
+ConfigTabController_TabScrollButton_Up|คลิกเมาส์ค้างเพื่อเลื่อนรายการแท็บขึ้น
+ConfigTabController_TabScrollButton_Dw|คลิกเมาส์ค้างเพื่อเลื่อนรายการแท็บลง
+The following cheats contain spoilers.|สูตรโกงต่อไปนี้มีการเปิดเผยเนื้อหาสำคัญ
+Mod uploaded with Unlisted visibility.|อัปโหลดม็อดเสร็จสิ้น โดยกำหนดระดับการเข้าถึงเป็นแบบไม่แสดงในรายการ
+Ah... <PlayerName>, you're here again!|อ๊ะ... <PlayerName> เจอกันอีกแล้วนะ!
+Ah... <PlayerName>, you're here again.|อ๊ะ... <PlayerName> เจอกันอีกแล้วนะ
+I must ask you... Don't do that again.|ฉันขอร้องล่ะ... อย่าทำแบบนั้นอีกเลยนะ
+Rain... You better go. I will be fine.|ฝน... เธอไปเถอะ ฉันไม่เป็นไรหรอก
+<CapPlayerName>... Please settle down.|<CapPlayerName>... ใจเย็นๆ ก่อน
+Yes, there you go. This is ridiculous.|เอาเถอะ จะไปก็ตามใจ น่าขันสิ้นดี
+Five Pebbles (Recursive Transform Array)|ห้าก้อนกรวด (โครงข่ายประมวลผลวนซ้ำ)
+You need to eat meat to sustain yourself|คุณต้องกินเนื้อเพื่อประทังชีวิต
+Default singleplayer<LINE>keyboard setup|การตั้งค่าแป้นพิมพ์<LINE>ผู้เล่นคนเดียวเริ่มต้น
+OpKeyBinder_ErrorConflictOtherModDefault|ปุ่มเริ่มต้นซ้ำกับ <ModID>
+MenuModList_ModButton_NonMouse_Configure|กดยืนยันเพื่อกำหนดค่า <Mod>
+You are not currently logged into Steam.|คุณยังไม่ได้เข้าสู่ระบบ Steam
+Yes, help yourself. They are not edible.|อยากทำอะไรก็ทำเถอะ แต่มันกินไม่ได้หรอกนะ
+This pearl has been written to just now!|ไข่มุกนี่เพิ่งถูกบันทึกข้อมูลเมื่อกี๊เอง!
+You encountered the echo of Droplets upon Five Large Droplets|ได้พบกับเสียงสะท้อนของหยาดน้ำบนห้าหยาดน้ำใหญ่
+Press while holding down direction (crouching) to drop object|กดระหว่างที่กดปุ่มทิศทางลงค้างไว้ (ปุ่มย่อตัว) เพื่อทิ้งวัตถุ
+You must activate this mod before attempting to configure it.|คุณจะต้องเปิดใช้งานม็อดนี้ก่อนที่จะพยายามกำหนดค่า
+I won't tolerate this. Leave immediately and don't come back.|เราจะไม่ทนอีกต่อไป ออกไปเดี๋ยวนี้และอย่ากลับมาอีก
+As you can see, I have nothing for you. Not even my memories.|ก็อย่างที่เธอเห็น ฉันไม่มีอะไรจะให้เธอหรอก แม้แต่ความทรงจำของตัวเองยังไม่มีเลย
+Here we go again, little archeologist. Let's read your pearl.|เอาอีกแล้วนะ นักโบราณคดีตัวน้อย มาอ่านไข่มุกเม็ดนี้ของเธอกัน
+You encountered the echo of Four Needles under Plentiful Leaves|ได้พบกับเสียงสะท้อนของเข็มสี่เล่มภายใต้แมกไม้ขจี
+Show a visual indicator on the UI of your remaining breath time|แสดงตัวบ่งชี้เวลากลั้นหายใจที่เหลืออยู่บน UI
+Lizards can pull embedded spears out of walls with their tongue|Lizards can pull embedded spears out of walls with their tongue
+Failed to acquire User Generated Content lock. Try again later.|ล็อก UGC ไม่สำเร็จ โปรดลองใหม่อีกครั้งในภายหลัง
+You encountered the echo of Nineteen Spades, Endless Reflections|ได้พบกับเสียงสะท้อนของสิบเก้าจอบ การรำพึงไม่รู้จบ
+Warning, too many creatures may result in poor game performance.|คำเตือน การมีสิ่งมีชีวิตมากเกินไปอาจส่งผลให้ประสิทธิภาพของเกมลดลง
+Reduces the amount of time taken to get started with a new cycle|ลดระยะเวลาที่ใช้ในการเริ่มวัฏจักรใหม่
+One of your workshop mods already has the same name as this one.|หนึ่งในม็อดของคุณในเวิร์กชอปมีชื่อซ้ำกับม็อดนี้
+I appreciate what you have done but it is time for you to leave.|เราก็ซาบซึ้งในสิ่งที่เจ้าทำอยู่ แต่ถึงเวลาที่เจ้าต้องไปแล้ว
+Let us see... to be honest, I'm as curious to see it as you are.|ไหนดูซิ... บอกตามตรง ฉันเองก็อยากรู้พอๆ กับเธอนั่นแหละ
+You encountered the echo of Six Grains of Gravel, Mountains Abound|ได้พบกับเสียงสะท้อนของหกเม็ดกรวด วงล้อมแห่งขุนเขา
+You must apply new mods setup before attempting to configure them.|คุณต้องปรับใช้การเปลี่ยนแปลงในรายการม็อดที่ค้างอยู่ก่อนจึงจะสามารถกำหนดค่าม็อดได้
+Stops Hunter from automatically grabbing batflies with a free hand|ปิดไม่ให้นักล่าจับแมลงค้างคาวอัตโนมัติเมื่อมือว่าง
+Increases the radius of Monk's hologram light in pitch-black areas|เพิ่มรัศมีแสงโฮโลแกรมของนักบวชในพื้นที่มืดสนิท
+Prevents the chance of waking up early before the rain has stopped|ป้องกันให้ไม่มีโอกาสที่จะตื่นเร็วก่อนฝนหยุด
+(Normally requires finding Red unlock tokens in the campaign maps)|(ปกติแล้วต้องหาโทเคนปลดล็อกสีแดงในแผนที่แคมเปญก่อน)
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName> ถ้าเธอทำแบบนั้นฉันจะไม่คุยกับเธออีก
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|การรู้แจ้งขั้นสูงสุดที่บรรลุได้ด้วยเส้นทางที่ยากลำบากที่สุด... ความสำเร็จที่แม้แต่เหล่าผู้พิทักษ์ยังต้องก้มหัวให้
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|การตั้งค่ารีมิกซ์มาตรฐาน มีการปรับแต่งกลไกหลายส่วนที่อาจช่วยสร้างประสบการณ์ใหม่ในการเล่นเกม
+When crouching, hold the JUMP button without giving any other input|ระหว่างย่อตัว กดปุ่มกระโดดค้างไว้โดยไม่ใส่คำสั่งอื่น
+Allow players to exit when rain is close or only one player is left|อนุญาตให้ผู้เล่นออกได้เมื่อฝนใกล้ตกหรือเหลือผู้เล่นเพียงคนเดียว
+Reduces the overall speed of the game to assist with reaction times|ลดความเร็วโดยรวมของเกมเพื่อช่วยให้ตอบสนองได้ง่ายขึ้น
+(Normally requires finding Blue unlock tokens in the campaign maps)|(ปกติแล้วต้องหาโทเคนปลดล็อกสีน้ำเงินในแผนที่แคมเปญก่อน)
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|สงสัยว่าจะมีอะไรใหม่ๆ มาให้ฉันดูอีกแล้วใช่ไหม<LINE><PlayerName>?
+This creature is dehydrated. You can carry it back to water.|สิ่งมีชีวิตตัวนี้ขาดน้ำ สามารถแบกกลับไปหาน้ำได้
+Prevent injured creatures from fleeing to dens in arena mode|ปิดไม่ให้สิ่งมีชีวิตที่บาดเจ็บหนีกลับรังในโหมดสนามประลอง
+Increases the amount of underwater breath time that Monk has|เพิ่มระยะเวลาการกลั้นหายใจใต้น้ำของนักบวช
+(Normally requires completing all Challenge Mode challenges)|(ปกติแล้วต้องบรรลุความท้าทายทั้งหมดในโหมดท้าทายก่อน)
+Best of luck to you, little creature. I must resume my work.|ขอให้โชคดีแล้วกันเจ้าสิ่งมีชีวิตตัวน้อย เราต้องกลับไปสะสางงานต่อแล้ว
+Never do that again. Or just kill me quickly. Whichever way.|อย่าทำแบบนั้นอีกหรือไม่ก็ฆ่าฉันให้ตายไวๆ จะทางไหนก็ได้ทั้งนั้น
+I think we have already talked about this one, <PlayerName>.|ฉันว่าเราเคยคุยกันเรื่องเม็ดนี้กันไปแล้วนะ <PlayerName>
+Larger prey needs to be incapacitated first|ต้องทำให้เหยื่อตัวใหญ่หมดสติก่อนจึงจะกินได้
+Little creature. This is your last warning.|สิ่งมีชีวิตตัวน้อย นี่คือคำเตือนสุดท้ายจากเรา
+Please don't... take... more from me... Go.|ได้โปรดอย่า... เอา... อะไรไปจากฉันอีกเลย... ไปซะ
+And yet another one! I will read it to you.|มีมาอีกเม็ดแล้วเหรอเนี่ย! เดี๋ยวฉันอ่านให้ฟังเอง
+I've told you about this one, <PlayerName>.|ฉันเคยเล่าเรื่องเม็ดนี้ให้ฟังไปแล้วนะ <PlayerName>
+And now you expect me to continue speaking?|แล้วตอนนี้ยังจะหวังให้ฉันพูดต่ออีกเหรอ?
+It's a delicious plant. You should have it!|นี่เป็นพืชที่อร่อยมากนะ กินซะสิ!
+It is possible to hibernate with less than sufficient food|สามารถจำศีลทั้งที่อาหารไม่เพียงพอได้
+It is not recommended to use these on a first playthrough.|ไม่แนะนำให้ใช้ในการเล่นรอบแรก
+This mod already exists on the workshop by another author.|มีม็อดนี้อยู่แล้วโดยผู้สร้างอื่น
+Release that, and leave. I will not speak to you any more.|ปล่อยมันลงแล้วไปซะ ฉันจะไม่คุยกับเธออีก
+Thank you... That is a little better. Thank you, creature.|ขอบใจนะ... รู้สึกดีขึ้นนิดหน่อยแล้วล่ะ ขอบใจนะ สิ่งมีชีวิตตัวน้อย
+In a shelter, hold DOWN for several seconds to force hibernate|ในที่กำบัง กดปุ่มลงค้างไว้หลายวินาทีเพื่อบังคับให้เริ่มจำศีล
+Multiplies the total duration of the rain timer by this amount|คูณระยะเวลาทั้งหมดของตัวจับเวลาฝนด้วยจำนวนนี้
+The rain timer makes a tick-tock noise while the UI is visible|ตัวจับเวลาฝนส่งเสียงเข็มนาฬิกาเดินระหว่างที่ UI ปรากฏอยู่
+Vultures that appear in dark rooms are cloaked by the darkness|Vultures that appear in dark rooms are cloaked by the darkness
+Press CONTINUE after accepting the End User License Agreement.|กดไปต่อหลังยอมรับข้อตกลงใบอนุญาตสำหรับผู้ใช้ปลายทาง
+Press CONTINUE to view and/or edit your uploaded workshop mod.|กดไปต่อเพื่อดูและ/หรือแก้ไขม็อดที่คุณอัปโหลดในเวิร์กชอป
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|คำเตือน!<LINE>คำสั่งนี้จะรีเซ็ตความคืบหน้าทั้งหมดในช่องบันทึกที่เลือก<LINE>รวมถึงการสำรวจแผนที่ด้วย ไอเทมแซนด์บ็อกซ์และ<LINE>สนามประลองทั้งหมดจะคงอยู่
+WARNING!<LINE>This will reset all of your progress except map exploration.|คำเตือน!<LINE>คำสั่งนี้จะรีเซ็ตความคืบหน้าทั้งหมดของคุณยกเว้นการสำรวจแผนที่
+WARNING! Too many creatures may result in bad game performance or crashes.|คำเตือน! การมีสิ่งมีชีวิตมากเกินไปอาจส่งผลให้ประสิทธิภาพของเกมย่ำแย่หรือเกมดับ
+Please log in to STOVE Client with the account that has purchased the game|โปรดเข้าสู่ระบบในไคลเอนต์ STOVE ด้วยบัญชีที่ซื้อเกมนี้ไว้
+Gives the player the ability to dislodge spears that are embedded in walls|ทำให้ผู้เล่นสามารถดึงหอกที่ปักอยู่ในกำแพงออกมาได้
+(One time use) Fast travel to any discovered shelter, recovering all karma|(ใช้ได้ครั้งเดียว) เดินทางด่วนไปยังที่กำบังใดก็ได้ที่เคยพบ และฟื้นฟูค่ากรรมทั้งหมด
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|แสดงข้อมูลบนหน้าจอโหลดที่ช่วยรับรองการตั้งค่าที่ใช้และความถูกต้องของการเล่นทำสถิติ
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|มอบระยะเวลาปลอดภัยเมื่อเริ่มวัฏจักรหรือเข้าสู่เขตใหม่ ก่อนที่หน่วยสังหารของตัวคุ้ยซากจะสามารถโจมตีคุณได้
+Advantageous glitches and speedrunner exploits are made available to use again with this option|ตัวเลือกนี้จะทำให้สามารถกลับมาใช้บั๊กที่เป็นประโยชน์และเทคนิคการทำสถิติความเร็วได้อีกครั้ง
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|ประสบการณ์ Rain World แบบดั้งเดิมแต่มีการเปิดใช้งานการตั้งค่าความสะดวกในการเล่นเพิ่มเติมบางส่วน
+Map|แผนที่
+Esc|Esc
+Yes|ใช่
+YES|ใช่
+HUD|HUD
+run|หนีไป
+Up|ขึ้น
+R1|R1
+RB|RB
+ok|โอเค
+No|ไม่
+NO|ไม่
+Assign player <X> to the default keyboard controls|กำหนดให้ผู้เล่น <X> ใช้การควบคุมเริ่มต้นของแป้นพิมพ์
+Increase the speed that the minimap reveals itself|เพิ่มความเร็วการแสดงผลของแผนที่ย่อ
+(Normally requires completing Gourmand's campaign)|(ปกติแล้วต้องเล่นแคมเปญนักกินให้จบก่อน)
+This menu contains cheats to unlock content early.|เมนูนี้ประกอบด้วยสูตรโกงเพื่อปลดล็อกเนื้อหาล่วงหน้า
+What are you? If I had my memories I would know...|เธอคือตัวอะไรกัน? ถ้าฉันยังมีความทรงจำเหลืออยู่ก็คงจะรู้ไปแล้ว...
+If you behave like this, why should I talk to you?|ถ้าเธอยังทำตัวแบบนี้ มีเหตุผลอะไรให้ฉันต้องคุยกับเธออีก?
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|หยุดชั่วคราว - คำเตือน! การออกหลังจากเริ่มวัฏจักรไป 30 วินาทีจะนับว่าแพ้
+By comparison, the RELAXED preset may weaken the overall game experience.|ในทางกลับกันพรีเซ็ตผ่อนคลายอาจลดทอนอรรถรสโดยรวมของเกม
+(Normally requires completing campaigns and clearing previous challenges)|(ปกติแล้วต้องเล่นแคมเปญให้จบและบรรลุความท้าทายก่อนหน้าก่อน)
+Shelter failures give periodic reprieves by providing longer cycle times.|เหตุการณ์ที่กำบังเสียหายจะช่วยให้คุณได้พักหายใจเป็นระยะโดยการเพิ่มเวลาของวัฏจักรให้นานขึ้น
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|หยุดชั่วคราว - คำเตือน! การออกโดยไม่ได้บันทึกในที่กำบังจะทำให้เกมจบลงถาวร
+For all campaigns, gates will remain open permanently after passing through them once|ในทุกแคมเปญ ประตูทั้งหมดจะเปิดทิ้งไว้ถาวรหลังจากผ่านเข้าไปแล้วครั้งหนึ่ง
+Spearing a scavenger directly in their head will do significantly more damage to them|Spearing a scavenger directly in their head will do significantly more damage to them
+The maximum number of subsequent explosion actions Artificer can perform before dying|จำนวนครั้งสูงสุดที่นักประดิษฐ์สามารถระเบิดติดต่อกันได้ก่อนที่จะเสียชีวิต
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|เกินขีดจำกัดที่กำหนด คุณอาจต้องลดขนาดไฟล์ลงหรือลบเนื้อหาเก่าในเวิร์กชอปออก
+A little animal, on the floor of my chamber. I think I know what you are looking for.|สัตว์ตัวจ้อยบนพื้นห้องของเรา เราว่าเรารู้ว่าเจ้ากำลังตามหาอะไร
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|ต้องการออกจริงหรือไม่? โปรดทราบว่าการออกหลังจากเริ่มวัฏจักรไป 30 วินาทีจะนับว่าแพ้
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|เธอไปเอามาจากของห้าก้อนกรวดเหรอ?<LINE>ขอบคุณมากนะ เขาคงไม่ถือหรอก
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|สร้างสถานการณ์จำลองในแบบของคุณเอง โดยใช้ด่าน ไอเทม และสิ่งมีชีวิตต่างๆ<LINE>ที่คุณปลดล็อกมาจากการเล่นแคมเปญเนื้อเรื่อง<LINE>คุณสามารถตั้งค่าให้ได้รับคะแนนจากการกระทำต่างๆ หรือการเอาชนะสิ่งมีชีวิตได้<LINE>แต่หัวใจสำคัญของแซนด์บ็อกซ์คือการปรับแต่งและความสนุกสนาน!
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|แต่สำหรับเจ้ายังมีทางอื่นอยู่ เส้นทางสายเก่า มุ่งหน้าไปทางตะวันตกผ่านทุ่งเกษตรกรรมแล้วลงไปใต้พิภพ<LINE>ตรงที่ผืนดินแยกออกเป็นรอยแตก ลงไปให้ลึกที่สุดเท่าที่เจ้าจะไปได้ ณ ที่ที่คนโบราณสร้างวิหารและร่ายรำประกอบพิธีกรรมอันโง่เง่าของพวกเขา
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|ประชันกันในการต่อสู้ระหว่างผู้เล่นและสภาพแวดล้อมต่างๆ<LINE>โหมดนี้จะได้คะแนนจากการกินไอเทมอาหารต่างๆ<LINE>โดยผู้เล่นที่รอดชีวิตจะมีอันดับคะแนนสูงกว่าผู้เล่นที่ตายเสมอ<LINE>สามารถปลดล็อกไอเทม สิ่งมีชีวิต และด่านใหม่ๆ เพิ่มได้<LINE>จากแคมเปญเนื้อเรื่อง
+No items except what you place in the editor|ไม่มีไอเทมยกเว้นของที่วางไว้ในหน้าปรับแต่ง
+Allow players above a specific score to exit|อนุญาตให้ผู้เล่นที่มีคะแนนมากกว่าที่กำหนดออกได้
+MenuModList_ModButton_NonMouse_Blank_Console|กดปุ่มซ้ายเพื่อเลื่อนไปยังปุ่มเปิดปิดเนื้อหานี้
+ConfigTabController_TabSelectButton_NamedTab|สลับไปยังแท็บ <TabName>
+This mod cannot be uploaded to the Workshop.|ไม่สามารถอัปโหลดม็อดนี้ไปยังเวิร์กชอปได้
+It's still warm... this was in use recently.|ยังอุ่นอยู่เลย... แสดงว่าเพิ่งผ่านการใช้งานมา
+W|ชนะ
+L|แพ้
+Press the MAP button to select the shelter you wish to continue from|กดปุ่ม MAP เพื่อเลือกที่กำบังที่คุณต้องการเริ่มเล่นต่อ
+These are recommended starting points based on different playstyles.|ตัวเลือกเหล่านี้คือค่าเริ่มต้นที่แนะนำตามสไตล์การเล่นที่แตกต่างกัน
+It also largely negates the game's difficulty curve and progression.|นอกจากนี้ยังทำให้ลำดับขั้นความยากและการดำเนินเกมส่วนใหญ่ไม่เป็นไปตามปกติด้วย
+(Normally requires finding Green unlock tokens in the campaign maps)|(ปกติแล้วต้องหาโทเคนปลดล็อกสีเขียวในแผนที่แคมเปญก่อน)
+“Go west, past the Farm Arrays and then down deep into the earth...”|"ไปทางทิศตะวันตก ผ่านทุ่งเกษตรกรรม แล้วลงไปใต้พิภพ..."
+Please sign in to PlayStation™Network to view leaderboards.|โปรดลงชื่อเข้าใช้ PlayStation™Network เพื่อดูกระดานจัดอันดับ
+Progress towards Trophies will only be tracked for player 1|ระบบจะติดตามความคืบหน้าถ้วยรางวัลให้กับผู้เล่น 1 เท่านั้น
+This may SIGNIFICANTLY alter your experience with the game.|การตั้งค่านี้อาจทำให้ประสบการณ์ที่คุณได้รับจากเกมเปลี่ยนแปลงไปอย่างมาก
+(Normally requires completing previous campaigns to unlock)|(ปกติแล้วต้องเล่นแคมเปญก่อนหน้าให้จบเพื่อปลดล็อก)
+Stop doing... this, or I... will not speak... to you again.|หยุดทำ... แบบนี้ ไม่งั้นฉัน... จะไม่คุย... กับเธออีก
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|คุณออกจากระบบ PlayStation™Network อยู่ โปรดเชื่อมต่อกับ PlayStation™Network เพื่อดูกระดานจัดอันดับ
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|ไอเทมที่ปกติต้องยึดกับพื้นผิวด้วยก้านจะเกิดมาพร้อมกับก้านของตัวเองเมื่อวางในโหมดแซนด์บ็อกซ์
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|...เก่งขึ้นทุกทีเลยนะเนี่ยเจ้าสัตว์นักโบราณคดีตัวน้อย<LINE>มาดูกันว่าเม็ดนี้มีอะไรซ่อนอยู่
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|คลิกเพื่อปิดใช้งานม็อดทั้งหมด
+This mod does not have any configurable settings.|ม็อดนี้ไม่มีการกำหนดค่าหรืออินเตอร์เฟซผู้ใช้รีมิกซ์เป็นของตัวเอง
+Thank you little creature. I must resume my work.|ขอบคุณมาก สิ่งมีชีวิตตัวน้อย เราต้องกลับไปทำงานต่อแล้ว
+Thank you. I must ask you... Don't do that again.|ขอบคุณ ฉันขอร้องล่ะ... อย่าทำแบบนั้นอีกเลยนะ
+Periodically shows tips and tutorials during the loading screen between cycles|แสดงคำแนะนำและสอนเล่นเป็นระยะบนหน้าจอโหลดระหว่างวัฏจักร
+Adds an additional trajectory of throwing grenades if the up direction is held|Adds an additional trajectory of throwing grenades if the up direction is held
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|เพิ่มข้อความสอนเล่นในเกมสำหรับสถานการณ์และกลไกบางอย่างเพิ่มเติม
+All cycles will have the same duration, and will always use the longest duration possible|วัฏจักรทั้งหมดมีระยะเวลาเท่ากัน และจะนานที่สุดเท่าที่เป็นไปได้เสมอ
+You should try the 'Monk-style Gates' option first before resorting to using this option.|คุณควรลองใช้ตัวเลือก "ประตูแบบนักบวช" ดูก่อนที่จะตัดสินใจใช้ตัวเลือกนี้
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|เพิ่มระยะเวลาที่ก้อนหินและหอยทากระเบิดสามารถทำให้สิ่งมีชีวิตบางชนิดมึนงงได้
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|ระดับความยากแบบไดนามิกจะขึ้นอยู่กับจำนวนเขตที่เคยไปมากกว่าจำนวนวัฏจักรที่รอดชีวิตมาได้
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|มอบโอกาสให้หนีจากการถูกจับโดยการกดปุ่มเคลื่อนที่เพื่อดิ้นอย่างรวดเร็ว
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign
+Prevents Jetfish from being able to knock items out of your hands|ปิดไม่ให้ปลาเจ็ทกระแทกไอเทมหลุดจากมือ
+Changes the amount of cycles Hunter starts with in their campaign|เปลี่ยนจำนวนวัฏจักรเริ่มต้นของนักล่าในแคมเปญ
+You're stuck in a cycle, a repeating pattern. You want a way out.|เจ้าติดอยู่ในวัฏจักรซ้ำซาก เจ้าต้องการทางออก
+Another pearl! You want me to read this one too? Just a moment...|ไข่มุกอีกเม็ดเหรอ! อยากให้ฉันช่วยอ่านเม็ดนี้ด้วยใช่ไหม? รอสักครู่นะ...
+A pearl... This one is crystal clear - it was used just recently.|ไข่มุก... เม็ดนี้ใสแจ๋วเลย - เพิ่งถูกใช้งานมาเมื่อเร็วๆ นี้เองนะเนี่ย
+Gives a small chance of being able to survive a direct attack from a dropwig|Gives a small chance of being able to survive a direct attack from a dropwig
+Use the throw button to activate tongue controls rather than the jump button|ใช้ปุ่มปาควบคุมลิ้นแทนปุ่มกระโดด
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|เมื่อวาร์ปเมื่อบรรลุวิถีจะนำไอเทมสำคัญทั้งหมดในที่กำบังไปยังจุดหมายใหม่ด้วย แทนที่จะนำไปแค่ไอเทมในท้อง
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|นี่มันเศษเหล็กเส้นลับคมนี่... เธออยากรู้อะไรล่ะ?<LINE>ฉันว่าเธอก็ดูใช้มันเก่งพอตัวอยู่แล้วนะ
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|ติดตามไอเทมสำคัญบนแผนที่ และจะเกิดใหม่ในวัฏจักรถัดไปบริเวณจุดที่ทำหายล่าสุดหากทำหาย
+Centipedes will release you if you go through a pipe while you are grabbed by one|ตะขาบจะปล่อยตัวคุณ หากคุณมุดผ่านท่อขณะที่กำลังถูกจับอยู่
+Prevents the chance of the region being flooded during a shelter failure scenario|ปิดโอกาสที่น้ำจะท่วมเขตเมื่อเกิดเหตุการณ์ที่กำบังเสียหาย
+Makes the death gradients on bottomless pits more visible|ทำให้การไล่ระดับสีแจ้งเตือนถึงตายในเหวไร้ก้นบึ้งมองเห็นได้ชัดเจนขึ้น
+Allow throwing spears directionally while in zero gravity|Allow throwing spears directionally while in zero gravity
+This option disables multiple core mechanics of the game.|ตัวเลือกนี้จะปิดการทำงานของกลไกหลักหลายประการในเกม
+It is strange... I'm remembering myself, but also... him.|แปลกจัง... ฉันเริ่มจำเรื่องของตัวเองได้แล้ว แล้วก็... เรื่องของเขาด้วย
+Allow passing any gate for free, regardless of your current karma level|อนุญาตให้ผ่านทุกประตูฟรีโดยไม่สนระดับกรรมปัจจุบันของคุณ
+Hide the remaining cycle time while in maps that are safe from the rain|ซ่อนเวลาวัฏจักรคงเหลือระหว่างที่อยู่ในแผนที่ที่ปลอดภัยจากฝน
+And this one is fresh! It was not long ago this data was written to it!|ส่วนเม็ดนี้ก็ยังใหม่อยู่เลย! ข้อมูลในนี้เพิ่งถูกเขียนลงไปเมื่อไม่นานมานี้เอง!
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|หากเปิดใช้งาน ศพของตัวคุ้ยซากในแคมเปญนักประดิษฐ์จะมีค่ากรรมสูงสุดเท่าที่จะเป็นไปได้เสมอ
+Allows certain passages to gain progress even before the Survivor passage has been achieved|สามารถสะสมความคืบหน้าของบางวิถีได้ แม้จะยังไม่ได้บรรลุวิถีผู้รอดชีวิต
+Reduces the volume for the sound effects of gates and shelters opening|ลดระดับเสียงของเอฟเฟกต์เสียงเปิดประตูและที่กำบัง
+Let us try again - not that it has worked well before. I was saying...|มาลองใหม่อีกครั้งกัน - ถึงคราวที่แล้วจะจบไม่สวยก็เถอะ ฉันกำลังพูดถึง...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|หากคุณรู้สึกว่าเกมยากเกินไป ลองเริ่มจากแคมเปญนักบวชก่อน อาจจะช่วยให้คุณคุ้นเคยกับเกมมากขึ้นและปรับตัวเข้ากับโลกของ Rain World ได้ง่ายกว่าเดิม
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|หากเปิดใช้งาน ศพของตัวคุ้ยซากในแคมเปญนักประดิษฐ์จะไม่สูญเสียค่ากรรมเมื่อจบแต่ละวัฏจักร
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(ปกติแล้วต้องนำไข่มุกไปส่งและตามหาโทเคนส่งสัญญาณในแผนที่แคมเปญก่อน)
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|จงรู้ไว้ว่าเรื่องนี้ไม่ได้ทำให้เจ้าพิเศษเลย - ทุกชีวิตต่างก็ร่วมแบ่งปันความคับข้องใจแบบเดียวกัน<LINE>ตั้งแต่เหล่าจุลชีพในชั้นประมวลผลไปจนถึงตัวเรา ผู้ซึ่งหากจะให้พูดก็เปรียบดั่งพระเจ้าเมื่อเทียบกับสิ่งเหล่านั้น
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|ดูสภาพฉันสิ สิ่งเดียวที่ฉันยังมอบให้ได้ก็มีแต่คำพูดเท่านั้น<LINE>ในเมื่อเธอมาถึงที่นี่ก็แปลว่าเธอต้องการให้ฉันพูดไม่ใช่หรือไง? ถ้าอย่างนั้นก็ช่วยฟังกันหน่อยได้ไหม?<LINE>ถ้าไม่อยากฟังก็ปล่อยให้ฉันอยู่ลำพังเถอะ
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|ข่าวร้ายคือยังไม่มีการค้นพบทางออกที่แน่นอน และอุปกรณ์กำลังผุพังลงในทุกขณะ<LINE>เราไม่อาจช่วยเจ้าได้ ไม่ว่าจะเป็นเผ่าพันธุ์หรือเจ้าคนเดียว แม้แต่ตัวเองยังช่วยไม่ได้เลย
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|เมื่อถึงจุดสิ้นสุดของกาลเวลาแล้วเรื่องทั้งหมดนี้ก็คงไร้ความหมาย แต่ถ้าเจ้าใช้ทางออกอื่นได้ก็คงดีไม่น้อย<LINE>ทางที่ไม่ต้องมา... วิ่งเพ่นพ่านในแผงความจำของเรา ช่องทางเข้าปกติก็มีอยู่ตรงนี้
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|แต่สำหรับเจ้ายังมีทางอื่นอยู่ เส้นทางสายเก่า มุ่งหน้าไปทางตะวันตกผ่านทุ่งเกษตรกรรมแล้วลงไปใต้พิภพ<LINE>ตรงที่ผืนดินแยกออกเป็นรอยแตก ลงไปให้ลึกที่สุดเท่าที่เจ้าจะไปได้ ณ ที่ที่คนโบราณสร้างวิหารและร่ายรำประกอบพิธีกรรมอันโง่เง่าของพวกเขา<LINE>ตราที่เรามอบให้จะทำให้เจ้าผ่านเข้าไปได้
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|มาฟังข่าวดีกันก่อน เราก็คือสิ่งที่เจ้ากำลังตามหาอยู่นั่นแหละ จุดประสงค์ของเราและพรรคพวก<LINE>คือการแก้ปัญหาความอึดอัดคับแค้นที่หมุนวนอยู่ในอกของเจ้าและสิ่งมีชีวิตอื่นอีกนับไม่ถ้วน<LINE>เป็นกุศลทานอันแสนประหลาด - เจ้าเป็นผู้รับอย่างไม่รู้ตัวและเราคือของขวัญที่จำใจต้องเป็น เหล่าผู้มีพระคุณแสนประเสริฐน่ะเหรอ?<LINE>จากไปหมดแล้ว
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|เธอคงจะกล้าหาญน่าดูถึงดั้นด้นมาที่นี่ได้ แต่ฉันเสียใจจริงๆ ที่ต้องบอกว่าการเดินทางของเธอนั้นสูญเปล่า
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|ดีจังที่มีใครสักคนให้คุยด้วยเสียที!<LINE>พวกตัวคุ้ยซากน่ะไม่ใช่ผู้ฟังที่ดีสักเท่าไหร่หรอก แต่บางทีเจ้าพวกนั้นก็เอาของมาฝากฉันเป็นครั้งคราว...
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|ฉันยังโกรธเธออยู่ แต่การได้มีใครสักคนให้คุยด้วยหลังจากผ่านมานานขนาดนี้มันก็ดีจริงๆ นั่นแหละ<LINE>พวกตัวคุ้ยซากน่ะไม่ใช่ผู้ฟังที่ดีสักเท่าไหร่หรอก แต่บางทีเจ้าพวกนั้นก็เอาของมาฝากฉันเป็นครั้งคราว...
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|ขนาดพวกตัวคุ้ยซากที่มาที่นี่เป็นครั้งคราวยังต้องกลับไปมือเปล่า แต่... ฉันเคยบอกเรื่องนี้กับเธอไปแล้วใช่ไหม?
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|พวกตัวคุ้ยซากเคยมาที่นี่ พวกตัวคุ้ยซากเชียวนะ!<LINE>เจ้าพวกนั้นไม่ทำอันตรายฉัน!<LINE>แต่ว่า... ฉันเคยเล่าเรื่องนี้ให้เธอฟังไปแล้วใช่ไหม?
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|ยกโทษให้ฉันด้วยนะถ้าฉันพูดอะไรซ้ำซาก ความจำของฉันแย่มากน่ะ<LINE>เมื่อก่อนฉันเคยมีนิวรอนแค่ห้าอัน... แล้วเธอก็กินเข้าไปอันหนึ่ง<LINE>บางทีฉันก็คงเคยเล่าเรื่องนี้ให้เธอฟังไปแล้วเหมือนกัน
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|อันที่จริงฉันว่าเขาถือแหละ แต่เขามีเต็มไปหมดเลยนี่นา~<LINE>แบ่งมาแค่นี้ไม่สะเทือนเขาหรอก<LINE>แต่สำหรับฉันน่ะคนละเรื่องเลย! ขอบใจมากนะเจ้าตัวเล็ก!
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|เธอมาที่นี่แต่กลับไม่ให้เกียรติที่จะฟังกันเลย<LINE>คราวนี้จะยอมฟังฉันไหม?

@@ -1,0 +1,1351 @@
+﻿0THAI|TAILANDÉS
+Monk|Monje
+AUTO|AUTOMÁTICO
+INFO|INFORMACIÓN
+EXIT|SALIR
+Run!|¡Corre!
+Jump|Saltar
+Move|Mover
+Left|Izquierda
+Down|Abajo
+View|Vista
+Food|Comida
+EDIT|EDITAR
+PLAY|JUGAR
+BACK|ATRÁS
+NEXT|SIGUIENTE
+You!|¡Tú!
+You.|Tú.
+TRADITIONAL CHINESE|CHINO TRADICIONAL
+Fixed campaign seed|Semilla de campaña fija
+watcher-description|Esta expansión añade una nueva campaña: El vigilante. Además, incluye novedades en cuanto a regiones, criaturas, mecánicas, objetos, más de 150 pistas de música nueva y mucho más.
+backup_info_loading|Cargando información de la ranura de guardado...
+backup_info_no_data|No hay datos de historia en esta ranura de guardado.
+backups_description|Consulta las copias de seguridad, crea una nueva o restaura los datos guardados en una de ellas.
+save_file_corrupted|Se ha producido un error al intentar leer o inicializar el archivo de guardado.<LINE>Hemos interrumpido el inicio del juego para proteger tus datos guardados. <LINE>Contacta con el servicio de asistencia técnica de Akupara Games con el siguiente código de error.<LINE><LINE>CÓDIGO DE ERROR: {ERROR}<LINE><LINE>¿Quieres intentar cargar el archivo de guardado de nuevo?
+objecttype-PuffBall|Bola de esporas
+objecttype-WaterNut|Fruta burbuja
+objecttype-Mushroom|Seta
+creaturetype-Spider|Arañipiés
+creaturetype-BigEel|Leviatán
+creaturetype-EggBug|Bichohuevo
+The Monk-linebreaks|El monje
+Speedrun Validation|Verificación de partida
+switch_controls_map|Botón R
+Showing level names|Mostrando nombre de nivel
+ps4_region_map_help|Presiona R1 para ver el mapa de la región
+Successful cycles :|Ciclos con éxito:
+Helped Five Pebbles|Has ayudado a Cinco Piedras
+New arenas unlocked|Nuevas arenas desbloqueadas
+mod_menu_apply_mods|Aplicando cambios de mod, espera...
+mod_menu_enable_all|Activar todos los mods
+Creating index maps|Creando mapas índice
+OpDragger_MouseTuto|Mantén el botón del ratón y arrastra arriba o abajo para ajustar el valor
+MenuModStat_MapTuto|Mantén <Button> para consultar los controles
+Loading screen tips|Consejos en pantalla de carga
+Hunter Bonus Cycles|Ciclos de bonif. del cazador
+Visual breath meter|Indicador de aguante de respiración
+Scavenger headshots|
+NONE (User Defined)|NINGUNA (usar la config. personalizada)
+rwremix-description|Disfruta de una variedad de características de accesibilidad que puedes configurar y otras que ha pedido la comunidad, incluidas mecánicas nuevas y funciones adicionales. Usa la pantalla de configuración para activar o desactivar características de forma independiente.
+Hello <PlayerName>.|Hola, <PlayerName>.
+still, very... bad.|aun así, muy... mal.
+I will take a look.|Echaré un vistazo.
+There you go again.|Otra vez igual.
+again... leaving...|otra vez... te vas...
+SIMPLIFIED CHINESE|CHINO SIMPLIFICADO
+No Ringing in Ears|Sin molestias para los oídos
+remix_game_version|Se ha actualizado la versión del juego. Tendrás que volver a aplicar los mods en el menú de REMIX.
+ROUNDS SESSION-ru2|SESIÓN DE RONDAS
+objecttype-SeedCob|Planta de palomitas
+objecttype-Lantern|Farol
+objecttype-FlyLure|Hierba de mosca-murciélagos
+creaturetype-Leech|Sanguijuela
+creaturetype-Snail|Caracol
+creaturetype-Hazer|Calamar humeante
+Industrial Complex|Complejo Industrial
+Scavenger Merchant|Mercado carroñero
+Path of aggression|Sendero de la agresión
+Catch and eat them|Cógelos y cómetelos
+Configure controls|Configurar controles
+No players joined!|¡No entraron jugadores!
+Start new playlist|Empezar nueva lista de reproducción
+minutes until rain|minutos hasta que llueva
+mod_menu_next_page|
+mod_menu_prev_page|
+mod_menu_configure|
+OpUpdown_MouseTuto|Haz clic y escribe un número; usa las flechas o la rueda de desplazamiento para ajustarlo
+Dialog pauses rain|
+Lizard spear pulls|
+Slow Motion Factor|Factor de cámara lenta
+remix_first_launch|Puedes acceder a los ajustes y el contenido adicionales a través del menú de REMIX. Usa REMIX para añadir, modificar o personalizar  qué contenido está disponible en tus partidas de Rain World.
+remix_dlc_redirect|Haz clic en el contenido para visitar la página de la tienda y ver más información.
+How have you been?|¿Cómo estás?
+You're here again.|Otra vez estás aquí.
+...you...killed...|...tú... me...
+Yet another thing?|¿Y otra cosa más?
+Yet again leaving.|Y te vas otra vez.
+Yes, there you go.|Sí, aquí tienes.
+As I was saying...|Como te decía...
+Stay! ... Still...|¡Quédate! ... En fin...
+I am... too tired.|Estoy... demasiado cansada.
+Disable Cosmetic Ripples|Desactivar ondas estéticas
+save_file_error_continue|Si continúas, puede que esto afecte a la función de guardar la partida o que se pierdan datos. ¿Quieres continuar?
+objecttype-ScavengerBomb|Granada
+creaturetype-GreenLizard|Lagarto verde
+creaturetype-WhiteLizard|Lagarto blanco
+creaturetype-BlackLizard|Lagarto negro
+creaturetype-GarbageWorm|Gusano de la basura
+creaturetype-TempleGuard|Guardián
+creaturetype-VultureGrub|Larva de buitre
+creaturetype-KingVulture|Buitre real
+Predator has become prey|El depredador se ha convertido en presa
+The Chieftain-linebreaks|El líder
+Here is a strange energy|Hay una energía extraña
+switch_pause_help_pickup|Toca para recoger objetos
+Change screen resolution|Cambiar resolución de pantalla
+Arena mode music volume:|Volumen del modo Arena:
+switch_controls_movement|Palanca izquierda
+switch_controls_hold_map|Mantén presionado el botón R
+Showing level thumbnails|Mostrando miniaturas de nivel
+ps4_fast_travel_map_help|Presiona R1 para seleccionar el refugio desde el cual deseas continuar
+ps4_save_progress_failed|Ocurrió un error al guardar los datos del progreso.
+ps4_load_progress_failed|Los datos guardados del progreso están dañados y serán eliminados.
+mod_menu_load_order_down|Al combinar cambios de mod, aplicar este mod antes que el resto. Esto puede ayudar a resovler ciertos conflictos con mods.
+OpComboBox_MouseOpenTuto|Haz clic para abrir la lista
+OpScrollBox_NonMouseTuto|Pulsa CONFIRMAR y usa el joystick para ver más
+OpSimpleButton_MouseTuto|Se activa al hacer clic
+ModdingMenu_ControlThrow|Atrás / Cancelar
+MenuModStat_ModsDownpour|Mods preempaquetados:
+Keep snails out of pipes|
+Additional lizard voices|Voces adicionales de lagartos
+Splashes alert creatures|
+Disable shelter failures|Desactivar fallos de refugio
+Unlock all sandbox items|Desbloquear todos los objetos del modo Sandbox
+moreslugcats-description|Esta expansión añade 5 nuevas campañas jugables, cada una única se desarrolla en un punto temporal diferente. Además, incluye novedades en cuanto a regiones, criaturas, objetos, música, finales alternativos, modos de juego y mucho más.
+...is this reaching you?|¿...te llega lo que te digo?
+Oh, <PlayerName>. Hello!|Oh, <PlayerName>. ¡Hola!
+Oh, <PlayerName>. Hello.|Oh, <PlayerName>. Hola.
+Oh... I will look at it.|Oh... Lo miraré.
+Oh... I will take a look|Oh... Echaré un vistazo.
+...rain... coming... Go!|...Viene... lluvia. ¡Vete!
+...please... be still...|...por favor... quédate quieto...
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|Desactiva los efectos estéticos de las ondas que aparecen en los alrededores de algunas ubicaciones de teletransporte.
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|Aunque disfruto de la compañía. Te invito a que te quedes un poco, bichillo silencioso.
+Disable Player Ripple Trail|Desactivar la estela de onda de jugador
+Complete the Hunter passage|Completa el pasaje del cazador
+Complete the Outlaw passage|Completa el pasaje del forajido
+Complete the Friend passage|Completa el pasaje del amigo
+Complete the Martyr passage|Completa el pasaje del mártir
+Complete the Mother passage|Completa el pasaje de la madre
+objecttype-FirecrackerPlant|Petardo
+creaturetype-SmallCentipede|Ciempiés pequeño
+Four is enough to hibernate|Cuatro son suficientes para hibernar
+invert_x_description_switch|Invierte el eje horizontal para las palancas.
+invert_y_description_switch|Invierte el eje vertical para las palancas.
+Player <X> will use gamepad|Jugador <X> usará el control
+Player vs player deathmatch|Duelo a muerte jugador contra jugador
+Play each level three times|Jugar cada nivel tres veces
+switch_fast_travel_map_help|Presiona R para seleccionar el refugio desde el cual deseas continuar
+OpComboBox_NonMouseOpenTuto|Pulsa CONFIRMAR para abrir la lista
+OpKeyBinder_MouseSelectTuto|Haz clic para cambiar la asignación del botón
+OpSlider_NonMouseAdjustTuto|Usa el joystick para ajustar y pulsa CONFIRMAR para aplicar
+OpColorPicker_MouseTypeTuto|Escribe un código hexadecimal con el teclado para obtener el color que quieres
+OpSimpleButton_NonMouseTuto|Se activa al pulsar CONFIRMAR
+MenuModStat_ConsoleExplain0|Este menú se usa para activar y configurar el contenido de Remix para jugar a Rain World de formas diferentes.
+MenuModList_ListButton_Stat|Muestra las estadísticas de los mods que has instalado
+MenuModList_ListSlider_Desc|Mantén el botón del ratón en el círculo y arrastra arriba o abajo para desplazarte por la lista de mods
+MenuModList_SearchBox_Empty|Escribe para buscar...
+MenuModList_SearchBox_Query|Búsqueda: <Query>
+Connector_ResetConfig_Alert|Has restaurado la configuración de <ModName> a los valores predeterminados
+Arena creatures cannot flee|Las criaturas de la arena no pueden escapar
+Monk extra light assistance|Luz adicional del monje
+Zero-gravity spear throwing|
+Unlock all arena characters|Desbloquear todos los personajes de la arena
+Oh, it's you, <PlayerName>.|Oh, eres tú, <PlayerName>.
+Please... don't do... that.|Por favor... no hagas... eso.
+What is that, <PlayerName>?|¿Qué es eso, <PlayerName>?
+Want it back, <PlayerName>?|¿Quieres que te lo devuelva, <PlayerName>?
+Why should I tolerate this?|¿Por qué tengo que aguantar esto?
+As I tried to say to you...|Como ya intenté decirte...
+Disable the visual trail that follows the player once achieving higher ripple attunement|Desactiva la estela visual que sigue al jugador al llegar a una sintonía de onda superior.
+You cannot use PlayStation™Network features in this application due to age restrictions.|No puedes usar las funciones de PlayStation™Network en esta aplicación a causa de restricciones de edad.
+The following cheats unlock content you would normally unlock via finding unlock tokens.|Los siguientes trucos desbloquearán contenido que normalmente se obtiene<LINE>al encontrar fichas de desbloqueo.
+Disable Lightning Flashes|Desactivar el flash de los relámpagos
+backup_create_description|Almacena el contenido actual de tus datos guardados en una copia de seguridad nueva.
+backup_delete_description|Elimina las copias de seguridad seleccionadas de la lista.
+mod_menu_restoring_backup|Intentando restaurar los datos de la copia de seguridad...
+ps4_load_save_slot_failed|Los datos de la ranura de guardado están dañados y se eliminarán.
+Complete the Monk passage|Completa el pasaje del monje
+Find a way to communicate|Encuentra una forma de comunicarte
+creaturetype-YellowLizard|Lagarto amarillo
+creaturetype-LanternMouse|Ratón farol
+creaturetype-RedCentipede|Ciempiés rojo
+One need not travel alone|Uno no debe viajar solo
+You are hungry, find food|Tienes hambre, encuentra comida
+invert_x_description_xbox|Invierte el eje horizontal para los sticks.
+invert_y_description_xbox|Invierte el eje vertical para los sticks.
+Switch to fullscreen mode|Cambiar a pantalla completa
+OpDragger_NonMouseUseTuto|Usa el joystick para ajustar y pulsa CONFIRMAR para elegir
+OpKeyBinder_MouseBindTuto|Pulsa un botón para asignarlo (ESC para desasignar)
+OpSlider_NonMouseGrabTuto|Pulsa CONFIRMAR para interactuar
+OpHoldButton_NonMouseTuto|Se activa al mantener CONFIRMAR
+MenuModStat_ModsInterface|Mods activados con la interfaz de Remix: <Number1> (configurables: <Number2>)
+Show underwater shortcuts|Mostrar atajos subacuáticos
+Centipede pipe protection|Protección contra ciempiés en tuberías
+Threat music visual pulse|Aviso visual de amenazas
+Disable precycle flooding|Desactivar inundación preciclo
+Unlock all safari regions|Desbloquear todas las campañas de safari
+ps4_expedition_slot_title|Rain World Expedición
+ps4_expedition_core_title|Información principal de Rain World Expedición
+...thank you... better...|...gracias... mejor...
+Tried to say... to you...|Intenté... decirte...
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|Desactiva el flash de pantalla completa y el efecto de oscuridad que ocurre cuando caen rayos.
+Reduce Passive Rain Intensity|Reducir la intensidad de la lluvia pasiva
+Complete the Survivor passage|Completa el pasaje del superviviente
+Complete the Wanderer passage|Completa el pasaje del trotamundos
+Five Pebbles (Memory Conflux)|Cinco Guijarros (Confluencia de Recuerdos)
+Hold to eat / swallow objects|Mantén para comer/tragar objetos
+Configure controls for player|Configura los controles de jugador
+Standard items spawn on level|Objetos normales en el nivel
+ps4_save_progress_description|Datos guardados de Rain World Progress {0}
+OpColorPicker_NonMouseSliders|Mueve el joystick arriba o abajo para elegir y a izquierda o derecha para ajustar. Pulsa CONFIRMAR para aplicar
+OpScrollBox_MouseTutoSlidebar|Usa la rueda o la barra de desplazamiento para ver más
+ConfigMenuTab_BackButton_Desc|Vuelves al menú principal
+ConfigMenuTab_SaveButton_Desc|Guarda la configuración actual del mod y vuelve atrás
+MenuModList_ModButton_Display|Mostrar <Mod>
+MenuModList_ListButton_SwapUp|Haz clic para hacer que este mod se cargue después de los mods que hay por encima
+MenuModList_ListButton_SwapDw|Haz clic para hacer que este mod se cargue antes de los mods que hay por debajo
+MenuModList_ListButton_Expand|Expande para ver las miniaturas de la lista de mods
+No stealing Hunter back-spear|Sin quitar lanza de espalda
+Scavenger kill squad leniency|Ventaja contra grupo de carroñeros
+Hide rain timer in safe areas|Ocultar temporizador de lluvia en<LINE>zonas seguras
+No randomized cycle durations|Sin duración de ciclos aleatoria
+Rivulet Rain Timer Multiplier|
+Unlock the Outer Expanse gate|Desbloquear la puerta de Extensión Exterior
+Steam manager not initialized|No has iniciado Steam
+This one again, <PlayerName>?|¿Otra vez esta, <PlayerName>?
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|Reduce la intensidad de la lluvia en regiones donde aparece como efecto estético durante todo el ciclo.
+Reduce Other Effects Density|Reducir la densidad de otros efectos
+Everything comes full circle|Se cierra el círculo
+Great strides have been made|Has dado pasos de gigante
+Complete the Scholar passage|Completa el pasaje del erudito
+Complete the Pilgrim passage|Completa el pasaje del peregrino
+creaturetype-BrotherLongLegs|Hermano patilargo
+creaturetype-SmallNeedleWorm|Cría de moscafideo
+Press any button to continue|Pulsa cualquier botón para continuar
+A Bell, Eighteen Amber Beads|Una campana, dieciocho cuentas de ámbar
+Two Sprouts, Twelve Brackets|Dos brotes, doce horquillas
+The Dragon Slayer-linebreaks|El asesino<LINE>de dragones
+Three is enough to hibernate|Tres es suficiente para hibernar
+Rain is coming! Find shelter|¡Viene lluvia! Encuentra cobijo
+Score required to exit level|Puntuación necesaria para salir del nivel
+Always allow players to exit|Permitir a los jugadores salir siempre
+ps4_save_options_description|Datos guardados de las opciones Rain World
+Reloading player progression|Cargando el progreso de juego
+OpKeyBinder_NonMouseBindTuto|Pulsa un botón para asignarlo (PAUSA para desasignar)
+MenuModStat_ModTargetVersion|Versión objetivo del juego: <TargetVersion> (versión actual del juego: <GameVersion>)
+Artificer Explosion Capacity|Capacidad de explosión de artífice
+Unlock all sandbox creatures|Desbloquear todas las criaturas del modo Sandbox
+Perhaps... I saw you before?|Tal vez... ¿Te he visto antes?
+Oh... Should I look at that?|Oh... ¿Tengo que mirarlo?
+A gift for me, <PlayerName>?|¿Un regalo para mí, <PlayerName>?
+Oh... Never mind, I suppose.|Oh... Supongo que da igual.
+I will...not speak to you...|Yo... no voy a hablar contigo...
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|Reduce la densidad y visibilidad de otros efectos como el rastro del viento, nebulosas, escombros flotantes, etc.
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|Puede que los efectos intensos no sean adecuados para las personas que sean sensibles a las luces parpadeantes o la fatiga ocular.
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|Estos ajustes hacen que el juego sea mucho más fácil, pero pueden hacer que la experiencia general sea menos desafiante.
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduce Floating Particles Density|Reducir la densidad de las partículas flotantes
+Droplets upon Five Large Droplets|Gotitas sobre cinco grandes gotitas
+Game Over - Press VIEW to restart|Fin del juego - Pulsa VISTA para volver a empezar
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - ELEGIR UN PRESET O CONFIGURAR BOTONES
+PICK UP button - Select shelter_1|Botón de COGER - Seleccionar cobijo
+PICK UP button - Select shelter_2|Botón cuadrado - Seleccionar cobijo
+PICK UP button - Select shelter_3|Botón Y: seleccionar refugio
+PICK UP button - Select shelter_4|Botón izquierda: seleccionar refugio
+PICK UP button - Select shelter_5|Botón B: seleccionar refugio
+OpKeyBinder_ErrorConflictOtherMod|Conflicto entre un botón y <AnotherModID>
+OpKeyBinder_MouseJoystickBindTuto|Pulsa un botón para asignarlo (ESC para desasignar, CTRL + Num para elegir el número del control)
+ConfigContainer_AlertCopyCosmetic|Has copiado <Text> al portapapeles
+ConfigMenuTab_BackHoldButton_Desc|Vuelves al menú principal (sin aplicar mods)
+Passage progress without Survivor|Progreso de pasaje sin requisito de<LINE>superviviente
+I will not speak to you any more.|No voy a hablar más contigo.
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|Reduce la densidad de los efectos de partículas que caen o flotan como las esporas de putrefacción, los copos de sal de la Cresta de éter, etc.
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|Menos luces parpadeantes y se reduce la densidad de los efectos estéticos para que el juego sea más claro.
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|Ajusta el comportamiento de los ciervos y añade mecánicas adicionales para influir en sus acciones
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|¡Deberías irte, <PlayerName>! Estaré bien.<LINE>No es agradable, pero ya he pasado por esto antes.
+Disable Fetid Glen Rainbow Grain|Desactivar el grano arcoíris de la Cañada fétida
+Followed your parental instincts|Has seguido tu instinto maternal
+Player <X> will use the keyboard|Jugador <X> usará el teclado
+switch_controls_singlejoycon_map|Botón SR
+Playing levels in selected order|Jugando niveles en orden seleccionado
+OpKeyBinder_ErrorConflictVanilla|Conflicto entre un botón y una opción de control común
+OpKeyBinder_ErrorConflictCurrMod|El botón [<ConflictButton>] ya está en uso
+OpColorPicker_NonMouseModeSelect|Pulsa CONFIRMAR para elegir un modo
+ConfigMenuTab_RevertButton_Label|ATRÁS
+Scavenger corpses have max karma|Cadáveres de carroñeros con karma máx.
+Unlock Developer Commentary mode|Desbloquear modo Comentarios de desarrollador
+Please... thiss all I have left.|Por favor... esto es todo lo que me queda.
+Ah... <PlayerName>, you're back!|Ah... ¡<PlayerName>, has vuelto!
+Ah... <PlayerName>, you're back.|Ah... <PlayerName>, has vuelto.
+NO! I will...not speak to you...|¡NO! Yo... no voy a hablar contigo...
+A new gift for me, <PlayerName>?|¿Un nuevo regalo para mí, <PlayerName>?
+<CapPlayerName>, this one again?|<CapPlayerName>, ¿otra vez esta?
+Yes, take it and leave me alone.|Sí, cógelo y déjame en paz.
+I think the rain is approaching.|Creo que se acerca la lluvia.
+...leaving now? Don't... return.|¿...ya te vas? No... regreses.
+Remove the grainy effect that appears in the background of Fetid Glen areas|Elimina el efecto de textura de grano que aparece en el fondo de las zonas de la Cañada fétida.
+Go explore! There is food and shelter to be found, but beware of predators.|¡Sal a explorar! Podrás encontrar comida y cobijo, pero cuidado con los depredadores.
+Prevents underwater shortcut symbols from being obscured by the water layer|Evita que los símbolos de atajo subacuáticos se oscurezcan por la capa de agua
+Changes the amount of bonus cycles Hunter can receive during their campaign|Cambia la cantidad de ciclos de bonificación que el cazador puede recibir durante la campaña
+The current session playtime will always be visible as a UI element in-game|El tiempo de juego total de un personaje siempre será visible como elemento de la IU durante las campañas del juego
+This option significantly decreases the difficulty of Artificer's campaign.|Esta opción reduce bastante la dificultad de la campaña del artífice.
+Your account is in read-only mode due to a recent password or email change.|Tu cuenta está en modo de solo lectura debido a un cambio de contraseña o correo electrónico.
+These settings adjust the density of VFX for visual accessibility needs.|Estos ajustes modifican la densidad de los efectos según las necesidades de accesibilidad visual.
+Show tutorial messages for Watcher's mechanics during the story campaign|Muestra los mensajes de tutoriales para las mecánicas del vigilante durante la campaña de la historia
+Stops Scavengers from being able to steal the spear off of Hunter's back|Evita que los carroñeros le quiten la lanza de la espalda al cazador
+Allow throwing spears upwards during a backflip in addition to downwards|Ofrece opciones adicionales respecto a las direcciones y las formas en las que puedes lanzar objetos en ciertas circunstancias
+REDUCED|REDUCIDOS
+MINIMAL|MÍNIMOS
+Special|Especial
+RESTORE|RESTAURAR
+BACKUPS|COPIAS DE SEGURIDAD
+No data|Sin datos
+Closure|Pasar página
+REGIONS|REGIONES
+OPTIONS|OPCIONES
+The Leg|La Pata
+CREDITS|CRÉDITOS
+ENGLISH|INGLÉS
+ITALIAN|ITALIANO
+SPANISH|ESPAÑOL
+RUSSIAN|RUSO
+CHINESE|CHINO
+GAMEPAD|CONTROL
+Hold R1|Mantén pulsado R1
+Options|OPTIONS
+Hold RB|Mantén presionado RB
+minutes|minutos
+No rain|Sin lluvia
+Survive|Supervivencia
+Winner!|Ganador!
+RESTART|REINICIAR
+PASSAGE|PASAJE
+Quits :|Abandonos:
+Ranking|Puntuación
+Profile|Perfil
+In Game|En el juego
+In Menu|En el menú principal
+Version|Versión
+General|General
+Presets|Ajustes predefinidos
+CLASSIC|CLÁSICO
+RELAXED|RELAJADO
+Assists|Asistentes
+Failure|Fallo
+...you.|...tú...
+Please!|¡Por favor!
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|Algunos efectos visuales estéticos se desactivan por completo y muchos otros se reducen drásticamente.
+Close Map Button|Botón de mapa: cerrar mapa
+Enable tutorials|Activar tutoriales
+Follow the guide|Sigue al guía
+objecttype-Spear|Lanza
+creaturetype-Fly|Mosca-murciélago
+Select save slot|Seleccionar ranura de guardado
+Movement Buttons|Botones de movimiento
+Shuffling levels|Cambiando el orden de niveles
+Playing in order|Jugando en orden
+rounds per level|rondas por nivel
+Random creatures|Criaturas aleatorias
+Trophy Collector|Coleccionista de trofeos
+Press ? to start|Pulsa ? para empezar.
+mod_menu_restart|Los mods aplicados requieren que al juego se reinicie. Pulsa continuar e inicia el juego de nuevo.
+Applying Changes|Aplicando cambios
+Vulture darkness|
+Vanilla exploits|Aprovechar errores del juego
+Aggressive Saint|
+Gameplay Assists|Asistentes de juego
+Generic failure.|Fallo general.
+remix_dlc_launch|¡DLC nuevo detectado! El DLC instalado se puede encontrar y activar en el menú de REMIX.
+remix_dlc_locked|Debes comprar un DLC adicional antes de activar este contenido.
+...yes... leave.|...sí.... vete.
+You... are back.|Has... vuelto.
+Little tormentor|Pequeño tormento
+Unlock Hunter campaign|Desbloquear la campaña del cazador
+backup_restore_confirm|¡SE ELIMINARÁN LOS DATOS GUARDADOS ACTUALES!<LINE><LINE>Si eliges restaurarlos se sobrescribirán los datos de TODAS las ranuras de guardado con los de esta copia de seguridad.<LINE>Esta acción es permanente y no se puede deshacer.<LINE><LINE>¿Seguro que quieres sobrescribir los datos guardados actuales con los datos de {X}?
+backup_restore_success|Los datos de {X} se han restaurado.
+backup_info_disclaimer|(Los datos que se muestran aquí dependen de los mods que tengas activados.<LINE>Puede que haya datos adicionales de mods que no están activados ahora mismo).
+A final charitable act|Un acto de caridad final
+Path of self-sacrifice|Sendero del sacrificio
+objecttype-VultureMask|Máscara de buitre
+objecttype-DangleFruit|Fruta azul
+objecttype-KarmaFlower|Flor de karma
+objecttype-BubbleGrass|Hierba burbuja
+creaturetype-RedLizard|Lagarto rojo
+creaturetype-PoleMimic|Planta de postes
+creaturetype-MirosBird|Pájaro Miró
+creaturetype-Centipede|Ciempiés
+creaturetype-Centiwing|Cienalas
+creaturetype-Scavenger|Carroñero
+creaturetype-BigSpider|Araña gigante
+Stronger climbing grip|Gancho para trepar fuerte
+Path of the vegetarian|Sendero del vegetariano
+The Scholar-linebreaks|El erudito
+The Journey-linebreaks|El viaje
+switch_tutorial_crouch|Toca ABAJO brevemente para agacharte
+Tap to pick up objects|Toca para recoger objetos
+Test your new controls|Probar controles nuevos
+switch_controls_pickup|Botón Y
+switch_region_map_help|Presiona el botón R para ver el mapa de la región
+Sandbox item unlocked:|Objeto del arenero desbloqueado:
+ps4_save_options_title|Opciones de Rain World
+mod_menu_load_order_up|Al combinar cambios de mod, aplica este mod más tarde que el resto. Esto puede ayudar a resolver ciertos conflictos con mods.
+OpSlider_MouseTutoHrzt|Mantén el botón del ratón y arrastra a la izquierda o la derecha para ajustar el valor
+OpSlider_MouseTutoVrtc|Mantén el botón del ratón y arrastra arriba o abajo para ajustar el valor
+OpTextBox_NonMouseTuto|Este elemento no se puede modificar con un mando
+OpHoldButton_MouseTuto|Se activa al mantener pulsado el botón del ratón
+ModdingMenu_ControlMap|Ver controles
+MenuModStat_ModsRegion|Mods de región activados: <Number>
+MenuModList_SwapFailed|No se puede cargar un mod que dependa de otro antes de cargar este último
+OIError_Message_Update|Se ha producido un error al ejecutar OptionInterface
+New dynamic difficulty|Dificultad dinámica nueva
+Legacy tongue controls|Control original para sacar lengua
+Upwards spear throwing|Trayectorias de lanzamiento adicionales
+Quieter gates/shelters|Puertas y refugios silenciosos
+Faster shelter opening|Apertura rápida de refugios
+Pull spears from walls|Sacar lanzas de muros
+Unlock all collections|Desbloquear todas las colecciones
+expedition-description|Aventúrate en una expedición con este modo nuevo y desafiante. Supera retos aleatorios mientras evitas morir de forma permanente. Avanza y desbloquea beneficios nuevos y útiles, lastres severos y canciones que reproducir en la gramola.
+Please leave me alone.|Por favor, déjame en paz.
+That... Oh, thank you.|Eso... Oh, gracias.
+...don't... come back.|...no vuelvas.
+Oh... You are leaving.|Oh... Te vas.
+Good bye, I suppose...|Adiós, supongo.
+Unlock Watcher arena character|Desbloquear el personaje vigilante de la arena
+ps4_load_save_slot_load_failed|No se ha podido cargar la ranura de guardado. Código de error: {ERROR}
+ps4_load_expedition_run_failed|No se han podido cargar los datos de expedición. Código de error: {ERROR}
+You have found another way out|Has encontrado otra salida
+Complete the Chieftain passage|Completa el pasaje del líder
+Complete the game as The Saint|Completa el juego con el santo
+This land has become your home|Esta tierra se ha convertido en tu casa
+switch_pause_help_switch_hands|Toca dos veces para cambiar de mano
+Playing levels in random order|Jugando niveles en orden aleatorio
+OpKeyBinder_NonMouseSelectTuto|Pulsa SALTAR para cambiar la asignación del botón
+ConfigMenuTab_ApplyButton_Desc|Aplica los mods elegidos actualmente
+ConfigMenuTab_BackButton_Label|SALIR
+ConfigMenuTab_SaveButton_Label|APLICAR
+ConfigMenuTab_ResetButton_Desc|Reinicia la configuración actual del mod y vuelve atrás
+No Hunter batfly auto-grabbing|Sin autocaptura
+Disable all karma requirements|Sin requisitos de karma
+Saint environmental protection|
+mod_workshop_upload_buttondesc|Subir el mod seleccionado a Steam Workshop
+It's you, <PlayerName>. Hello.|Eres tú, <PlayerName> Hola.
+NO! ... no. Let it go, please.|¡NO! ... no. Déjalo, por favor.
+You... brought that... for me?|¿Has traído eso... para mí?
+And now you're taking it back.|Y ahora te lo llevas.
+Please. Be still for a moment.|Por favor. Quédate quieto un momento.
+<CapPlayerName>... Never mind.|<CapPlayerName>... No importa.
+Special Button|Botón especial
+A Helping Hand|Echar una mano
+mod_menu_error|Los mods no se han aplicado debido al siguiente error:
+Garbage Wastes|Páramos de Residuos
+Shaded Citadel|Ciudadela Ensombrecida
+Chimney Canopy|Dosel de Chimeneas
+Unknown Region|Región Desconocida
+Scavenger Toll|Peaje carroñero
+RESET PROGRESS|REINICIAR PROGRESO
+Input Settings|Ajustes de entrada
+Pick-Up Button|Botón de recoger
+ROUNDS SESSION|SESIÓN DE RONDAS
+RESUME SESSION|REANUDAR SESIÓN
+Clear playlist|Vaciar lista de reproducción
+Eating contest|Competición de comer
+Aggressive AI:|IA agresiva:
+Change Profile|Cambiar perfil.
+mod_menu_apply|Aplica cambios a los mods seleccionados
+Speedrun timer|Indicador de duración de partida
+jollycoop-name|Felicidad cooperativa
+Leaving again.|Otra vez te vas.
+switch_controls_singlejoyconl_special|Botón arriba
+Something lurks amongst the clouds...|Algo acecha entre las nubes...
+Take the longer path to enlightenment|Toma el camino más largo hacia la iluminación
+A significant gain, but at what cost?|Una ganancia significativa, ¿pero a qué precio?
+Game Over - Press + Button to restart|Fin de la partida: presiona el botón + para reiniciar
+Game Over - Press - Button to restart|Fin de la partida: presiona el botón - para reiniciar
+switch_controls_singlejoycon_hold_map|Mantén presionado el botón SR
+switch_controls_singlejoyconr_special|Botón Y
+Hold and drag to adjust score awarded|Mantén y arrastra para ajustar la puntuación conseguida
+ConfigContainer_AlertPasteNoncosmetic|Has pegado <Text> desde el portapapeles a <ObjectName>
+MenuModList_ModButton_Enable_NonMouse|Pulsa CONFIRMAR para activar este mod, mantén CONFIRMAR y usa el joystick para cambiar el orden de carga
+Press CONTINUE to view and accept it.|Pulsa CONTINUAR para verlo y aceptarlo.
+Thank you. I do wonder what you want.|Gracias. Me pregunto lo que quieres.
+Another thing you want me to look at?|¿Otra cosa que quieres que mire?
+Would you like me to read this pearl?|¿Quieres que te lea esta perla?
+And now you're taking it, apparently.|Y, por lo que parece, ahora te lo llevas.
+Triangle|Botón triángulo
+Survivor|Superviviente
+Invert X|Invertir X
+Invert Y|Invertir Y
+Champion|Campeón
+NEW GAME|JUEGO NUEVO
+THE MONK|EL MONJE
+Exterior|Exterior
+The Wall|El Muro
+The Monk|El monje
+WINDOWED|EN MODO VENTANA
+LANGUAGE|IDIOMA
+JAPANESE|JAPONÉS
+KEYBOARD|TECLADO
+Keyboard|Teclado
+4 - TEST|4 - PROBAR
+STANDARD|ESTÁNDAR
+CONTINUE|CONTINUAR
+Add item|Añadir objeto
+Deaths :|Muertes:
+Ascended|Has ascendido
+PREVIOUS|ANTERIOR
+SaveData|Datos guardados
+Presets:|Ajustes predefinidos:
+Oh. You.|Oh. Tú.
+creature|criatura
+Seed the determinations of warp point destinations to create less randomness in runs|Comparte los destinos de los puntos de teletransporte para reducir la aleatoriedad en las partidas
+Increases the amount of time before you are forced to come up for air while drowning|Aumenta el tiempo antes de que debas salir del agua para no ahogarte
+Unlock Watcher campaign|Desbloquear la campaña del vigilante
+backup_info_description|Consulta la información de los contenidos de la copia de seguridad seleccionada.
+mod_menu_restore_backup|Se ha producido un error al intentar leer o inicializar el archivo guardado. Sin embargo, se ha detectado un archivo guardado de copia de seguridad en este sistema. <LINE><LINE>Continúa para comenzar a restaurar la copia de seguridad guardada.
+Fates have been flipped|El destino ha cambiado
+creaturetype-PinkLizard|Lagarto rosa
+creaturetype-BlueLizard|Lagarto azul
+creaturetype-Salamander|Salamandra
+creaturetype-CyanLizard|Lagarto cian
+Embraced by a new tribe|Adoptado por una nueva tribu
+The Survivor-linebreaks|El<LINE>superviviente
+The Wanderer-linebreaks|El trotamundos
+invert_x_description_ps|Invierte el eje horizontal para los joysticks.
+invert_y_description_ps|Invierte el eje vertical para los joysticks.
+Gamepad <X> (Not found)|Control <X> (No encontrado)
+switch_controls_special|Botón X
+No rain timer exception|Sin excepción de temporizador de lluvia
+Sandbox items unlocked:|Objetos del arenero desbloqueados:
+ps4_save_progress_title|Progreso en Rain World {0}
+ps4_save_options_failed|Ocurrió un error al guardar los datos de las opciones.
+ps4_load_options_failed|Los datos guardados de las opciones están dañados y serán eliminados.
+Failed to get rankings.|Error al acceder a la clasificación.
+Switch to windowed mode|Cambiar a modo ventana
+OpCheckBox_NonMouseTuto|Pulsa CONFIRMAR para cambiar
+OpComboBox_MouseUseTuto|Haz doble clic en el cuadro para buscar
+OpRadioButton_MouseTuto|Haz clic para elegir esta opción
+OpTextBox_MouseTutoGrab|Haz clic para empezar a escribir
+OpTextBox_MouseTutoType|Usa el teclado para escribir y pulsa Entrar para aplicar
+ModdingMenu_ControlJump|Elegir / Confirmar
+ModdingMenu_ControlMove|Mover / Ajustar
+ModdingMenu_ControlPckp|Portapapeles
+MenuModList_AskModApply|Pulsa APLICAR MODS antes de configurar los mods
+Jetfish item protection|Protección de objetos contra impulpeces
+Currently Active Preset|Ajustes predefinidos actuales
+mod_workshop_upload_ask|¿Quieres subir este mod a Steam Workshop?
+Hello there! You again!|¡Hola! ¡Tú otra vez!
+Hello there. You again!|Hola. ¡Tú otra vez!
+No, please, release it!|No, por favor, ¡suéltalo!
+That... That is for me?|Eso... ¿Eso es para mí?
+...oh... to... save me?|...oh... para... ¿salvarme?
+Thank you so very much!|¡Muchísimas gracias!
+Thank you... Sincerely.|Gracias... De verdad.
+Let's see... A pearl...|Vamos a ver... Una perla...
+Why are you doing this?|¿Por qué lo haces?
+Please don't come back.|Por favor, no vuelvas.
+(Normally requires completing the game as Survivor or Monk to unlock)|(Normalmente hace falta completar el juego con el superviviente o el monje)
+WARNING! This will reset all of your progress except map exploration.|¡ADVERTENCIA! Se reiniciará todo tu progreso, excepto la exploración del mapa.
+Red Lizards have a tongue and can snap spears in half with their bite|Los alfas rojos tienen lengua y pueden romper lanzas por la mitad al morderlas
+(Normally requires finding Orange unlock tokens in the campaign maps)|(Normalmente hace falta encontrar fichas de desbloqueo naranjas en los mapas de campaña)
+The intended gameplay loop is to have to actively hunt fresh corpses.|La mecánica de juego está pensada para que sigas buscando criaturas que acaban de morir.
+Some of the metadata for this mod was invalid and cannot be accepted.|Algunos de los metadatos de este mod no son válidos y no se pueden aceptar.
+Maybe this is asking too much... But, would you bring me another one?|Tal vez sea pedirte demasiado... Pero, ¿puedes traerme otra?
+The rain is coming. If you stay, you will drown. Now, leave me alone.|Viene la lluvia. Si te quedas, te ahogarás. Y ahora déjame en paz.
+watcher-name|El vigilante
+Restart game|Reiniciar juego
+THE SURVIVOR|EL SUPERVIVIENTE
+The Exterior|El Exterior
+Five Pebbles|Cinco Guijarros
+Subterranean|Subterráneo
+The Survivor|El superviviente
+The Wanderer|El trotamundos
+A New Friend|Un nuevo amigo
+You are full|Estás lleno
+Leap the gap|Salta la distancia
+View credits|Ver créditos
+Pause Button|Botón de pausa
+Throw Button|Botón de lanzar
+Select level|Seleccionar nivel
+Low wildlife|Poca fauna
+Level Items:|Objetos del nivel:
+Barren level|Nivel del páramo
+IT'S A DRAW!|¡EMPATE!
+Add creature|Añadir criatura
+Minor Assist|Asistente básico
+Major Assist|Asistente completo
+CLOSE MANUAL|CERRAR MANUAL
+rwremix-name|Rain World Remezcla
+...please...|...por favor...
+PICK UP button - Return to regional map_1|Botón RECOGER: volver al mapa de la región
+PICK UP button - Return to regional map_2|Botón cuadrado: volver al mapa de la región
+PICK UP button - Return to regional map_3|Botón Y: volver al mapa de la región
+PICK UP button - Return to regional map_4|Botón izquierda: volver al mapa de la región
+PICK UP button - Return to regional map_5|Botón B: volver al mapa de la región
+ps4_load_save_slot_restore_corrupt_failed|Los datos de la ranura de guardado están dañados.<LINE>Existe una copia de seguridad de los datos, pero se ha producido un error al intentar restaurarla.
+Assign player <X> to the default controls|Asignar al jugador <X> los controles por defecto
+Something lurks above the chimney tops...|Algo acecha sobre las chimeneas...
+These pearls are valued by the Scavengers|Los Carroñeros valoran estas perlas
+Game Over - Press PAUSE BUTTON to restart|Fin del juego - Pulsa PAUSA para volver a empezar
+Player <X> will use any connected gamepad|Jugador <X> usará cualquier dispositivo conectado
+switch_single_joycon_fast_travel_map_help|Presiona SR para seleccionar el refugio desde el cual deseas continuar
+Press the MAP button to view regional map|Pulsa el botón de MAPA para ver el mapa de la región
+Jellyfish are vulnerable to being stabbed|Las medusas reciben daño cuando se las apuñala
+Are you sure you want to use this preset?|¿Seguro que quieres usar estos ajustes predefinidos?
+Makes Saint's body immune to the elements|
+The operation timed out. Try again later.|Se agotó el tiempo para realizar la operación. Inténtalo más tarde.
+This item already exists on the workshop.|Este objeto ya existe en el Workshop.
+Previously uploaded mod has been updated.|El mod subido previamente se ha actualizado.
+And...now you expect me to... talk again?|Y... ¿ahora esperas que vuelva a... hablarte?
+JUMP button - View map for region_1|Botón SALTAR: ver el mapa de la región
+JUMP button - View map for region_2|Botón equis: ver el mapa de la región
+JUMP button - View map for region_3|Botón B: ver el mapa de la región
+JUMP button - View map for region_4|Botón abajo: ver el mapa de la región
+JUMP button - View map for region_5|Botón A: ver el mapa de la región
+ps4_load_expedition_restore_corrupt|Los datos principales de expedición están dañados, pero se ha podido restaurar la copia de seguridad más reciente de los datos.
+You return from scouting a new land|Has vuelto tras explorar un territorio nuevo
+Four Needles under Plentiful Leaves|Cuatro agujas bajo abundantes hojas
+However, the game will not be saved|Sin embargo, el juego no se guardará
+PS4 Dualshock<LINE>Controller Setup|Configuración de control<LINE>DUALSHOCK®4
+Hold Pause Button or Escape to exit|Mantén el botón de pausa o Escape para salir
+switch_controls_singlejoyconl_pause|Botón -
+switch_controls_singlejoyconl_throw|Botón derecha
+switch_controls_singlejoyconr_pause|Botón +
+switch_controls_singlejoyconr_throw|Botón X
+Press to add Player <X> to the game|Pulsa para añadir al jugador <X>
+ps4_save_progress_failed_free_space|Ocurrió un error al guardar los datos del progreso. No hay espacio suficiente. ¿Deseas intentar de nuevo?
+USE UP + DOWN TO ADJUST SCREEN SIZE|Usa arriba y abajo para ajustar el tamaño de la pantalla
+ConfigMenuTab_RevertHoldButton_Desc|Descarta los cambios actuales en la configuración del mod y vuelve atrás
+MenuModList_ModButton_NameAndAuthor|<ModName> de <ModAuthor>
+MenuModList_ModButton_Disable_Mouse|Desactivar <Mod>
+Could not find the files to upload.|No se han encontrado archivos que subir.
+Get... get away... white.... thing.|Vete... bicho... blanco.
+Thank you, again. I feel wonderful.|Gracias de nuevo. Me siento increíble.
+You want me to take a look at that?|¿Quieres que le eche un vistazo a eso?
+Ah, you would like me to read this?|Ah, ¿quieres que te lea esto?
+This... time... don't... come back.|Esta... vez... no... vuelvas.
+Hunter|Cazador
+Random|Aleatorio
+CREATE|CREAR
+DELETE|ELIMINAR
+PRESET|AJUSTES PREDEFINIDOS
+CANCEL|CANCELAR
+Depths|Profundidades
+SCREEN|PANTALLA
+FRENCH|FRANCÉS
+GERMAN|ALEMÁN
+KOREAN|COREANO
+Player|Jugador
+Square|Botón cuadrado
+Circle|Botón círculo
+Arrows|Arrows
+Paused|Pausado
+minute|minuto
+PLAYER|JUGADOR
+ALWAYS|SIEMPRE
+REMOVE|BORRAR
+Food :|Comida:
+Time :|Tiempo :
+cancel|Cancelar
+Select|Seleccionar
+? Back|? Atrás
+? play|? Jugar
+Legacy|Legado
+Cheats|Trucos
+MANUAL|MANUAL
+TOPICS|TEMAS
+UPLOAD|SUBIR
+LEAVE.|VETE.
+You...|Tú...
+Hello!|¡Hola!
+Hello.|Hola.
+Again.|Otra vez.
+*sigh*|*ay*
+friend|amigo
+little|pequeña
+[ Notice ]|[ Aviso ]
+STORY DATA|DATOS DE HISTORIA
+The Martyr|El mártir
+The Mother|La madre
+Rain World|Rain World
+STATISTICS|ESTADÍSTICAS
+THE HUNTER|EL CAZADOR
+The Hunter|El cazador
+The Outlaw|El forajido
+The Friend|El amigo
+Pilgrimage|Peregrinación
+FULLSCREEN|PANTALLA COMPLETA
+SAVE FILES|ARCHIVOS DE GUARDADO
+PORTUGUESE|PORTUGUÉS
+TEST INPUT|PROBAR ENTRADA
+Left Stick|Joystick izquierdo
+Hold Space|Mantén presionada la barra espaciadora
+Map Button|Botón de mapa
+Free food!|¡Comida gratis!
+Loading...|Cargando...
+CROSS-SAVE|Cross-Save
+Load Order|Orden de carga
+Oh, hello!|¡Oh, hola!
+Oh, hello.|Oh, hola.
+You again.|Tú otra vez.
+...rain...|...lluvia...
+...stop...|...para...
+Thank you.|Gracias.
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|¡Errores encontrados al cargar mods!<LINE>Desactiva los mods que causan el error.<LINE>Pulsa continuar y vuelve a iniciar el juego.
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|...me has... comido. Por favor, vete. No... hablaré contigo.<LINE>No... No voy a hablar contigo... porque... me... comiste....
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|Primero me haces daño, luego vuelves a molestarme.<LINE>Me gustaría saber qué tienes en esa cabecita tuya.
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|Es un arma hecha de pólvora. ¿Te la han dado los carroñeros?<LINE>¡Ten cuidado cuando tengas que usarla!
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|Se ha detectado un fallo de sincronización entre los datos del mod del usuario y los datos del mod del juego.<LINE>Vuelve a sincronizar los datos.<LINE>Pulsa continuar y vuelve a iniciar el juego.<LINE>Desactiva los mods:
+Stops nearby explosions causing a ringing sound to play|Elimina el sonido de las explosiones y reproduce un sonido.
+Find the canonical ending to The Spearmaster's campaign|Encuentra el final canónico de la campaña del lancero
+Assign player <X> to the default PS4 Dualshock controls|Asignar al jugador <X> los controles por defecto de DUALSHOCK®4
+Strange... it seems to have been used not too long ago.|Qué raro... parece que no hace mucho que se ha usado.
+backup_delete_confirm|¿Seguro que quieres eliminar la copia de seguridad {X}?<LINE>Esta acción no se puede deshacer.
+backup_delete_success|{X} se ha eliminado.
+backup_create_success|Se ha creado una copia de seguridad {X} nueva a partir de los datos guardados.
+backup_restore_failed|Se ha producido un error al restaurar los datos de la copia de seguridad. Hemos interrumpido el inicio del juego para proteger los datos guardados.<LINE><LINE>¿Quieres intentar restaurar la copia de seguridad de nuevo?
+Take what isn't yours|Toma lo que no es tuyo
+Generating map images|Generando imágenes de mapa
+objecttype-SporePlant|Colmena
+objecttype-NSHSwarmer|Neurona verde
+creaturetype-SeaLeech|Sanguijuela marina
+creaturetype-TubeWorm|Gusano gancho
+creaturetype-Overseer|Supervisor
+Path of the carnivore|Sendero del carnívoro
+The Hunter-linebreaks|El cazador
+The Outlaw-linebreaks|El forajido
+The Friend-linebreaks|El amigo
+Sound effects volume:|Volumen de los efectos:
+XBox Controller Setup|Configuración de<LINE>control inalámbrico Xbox One
+switch_controls_pause|Botón +
+switch_controls_throw|Botón A
+Add level to playlist|Añadir nivel a la lista de reproducción
+switch_update_players|Actualizar jugadores
+Play each level twice|Jugar cada nivel dos veces
+mod_menu_reapply_mods|Algunos mods activados se han actualizado desde la última vez que se inició el juego. Pulsa continuar para aplicar los cambios.
+OpUpdown_NonMouseGrab|Pulsa CONFIRMAR para interactuar
+OpScrollBox_MouseTuto|Usa la rueda de desplazamiento para ver más
+ModdingMenu_PckpTuto0|Interacciones del botón del portapapeles:
+ModdingMenu_PckpTuto1|Primero elige un elemento configurable con el botón CONFIRMAR
+ModdingMenu_PckpTuto2|Mantén pulsado el botón PORTAPAPELES y pulsa CONFIRMAR para copiar al portapapeles
+ModdingMenu_PckpTuto3|Mantén pulsado el botón PORTAPAPELES y pulsa CANCELAR para pegar desde el portapapeles
+MenuModList_DummyDesc|
+OIError_GeneralAdvice|Puede que el error se solucione al descargar la última versión del mod.
+No swim boost penalty|Sin penalización al nadar rápido
+Rain Timer Multiplier|Multiplicador del temporizador<LINE>de lluvia
+Tweaked deer behavior|Comportamiento de ciervos modificado
+Alternate grenade arc|
+Item stems in sandbox|Objetos con tallos en el modo Sandbox
+Reduce screen shaking|Reducir agitación de pantalla
+Unlock all challenges|Desbloquear todos los desafíos
+Gathering information|Reuniendo información
+jollycoop-description|Cooperativo local para la historia y otros modos de juegos, con hasta 4 jugadores. ¡El viaje es mejor con amigos!
+You had your chances.|Tuviste tu oportunidad.
+Oh, you want it back?|Oh, ¿quieres que te lo devuelva?
+backup_restore_description|Sobrescribe los datos guardados actuales con los contenidos de la copia de seguridad seleccionada.
+ps4_load_expedition_failed|Los datos de la partida de expedición están dañados y se eliminarán.
+Complete the Saint passage|Completa el pasaje del santo
+Complete the Nomad passage|Completa el pasaje del nómada
+objecttype-SLOracleSwarmer|Neurona
+objecttype-SSOracleSwarmer|Neurona
+objecttype-OverseerCarcass|Ojo de supervisor
+creaturetype-DaddyLongLegs|Papá patilargo
+creaturetype-TentaclePlant|Monstrualga
+creaturetype-SpitterSpider|Araña escupidora
+creaturetype-BigNeedleWorm|Moscafideo
+Briefly tap DOWN to crouch|Toca ABAJO brevemente para agacharte
+Double tap to switch hands|Toca dos veces para cambiar de mano
+Player <X> is in the game!|¡El jugador <X> ha entrado!
+Remove level from playlist|Quitar nivel de la lista de reproducción
+Resume unfinished playlist|Continuar lista de reproducción sin terminar
+Play each level four times|Jugar cada nivel cuatro veces
+Play each level five times|Jugar cada nivel cinco veces
+mod_menu_fail_requirements|¡Este mod no se puede utilizar ya que hay problemas con los requerimientos! Comprueba que los siguientes mods adicionales estén instalados, y que no tengan problemas:
+OpComboBox_MouseSearchTuto|Escribe palabras clave en el cuadro para buscar
+OpComboBox_NonMouseUseTuto|Usa el joystick para desplazarte y pulsa CONFIRMAR para elegir
+OpDragger_NonMouseGrabTuto|Pulsa CONFIRMAR para interactuar
+OpRadioButton_NonMouseTuto|Pulsa CONFIRMAR para elegir esta opción
+OpColorPicker_MouseRGBTuto|Elige un color usando los controles deslizantes de color rojo, verde o azul
+OpColorPicker_MouseHSLTuto|Elige un color con el cuadro de selección de color y el control deslizante de brillo
+OpColorPicker_MousePLTTuto|Elige un color en la paleta
+MenuModList_SearchBox_Desc|Haz clic y escribe para buscar mods
+Connector_SaveConfig_Alert|Has guardado la configuración actual de <ModName>
+OIError_Message_Initialize|Se ha producido un error al iniciar OptionInterface
+Vulture grub arena variety|
+Lossless scavenger corpses|Cadáveres de carroñeros sin perder karma
+Continue to the next cycle|Continuar al siguiente ciclo
+Or did I say that already?|¿O ya he dicho eso?
+Hello again, <PlayerName>!|¡Hola otra vez, <PlayerName>!
+Hello again, <PlayerName>.|Hola otra vez, <PlayerName>.
+I will accept your gift...|Aceptaré tu regalo...
+CLOSE|CERRAR
+STORY|HISTORIA
+ARENA|ARENA
+REMIX|REMIX
+Cycle|Ciclo
+Music|Música
+INPUT|ORDEN
+Pause|Pausa
+Throw|Lanzar
+Right|Derecha
+Cross|Botón equis
+Space|Espaciadora
+Shift|Maýus
+PLAY!|¡JUGAR!
+Play!|¡Jugar!
+ERROR|ERROR
+SCORE|PUNTUACIÓN
+ROUND|RONDA
+APPLY|APLICAR
+Other|Otro
+Remix|Remix
+...me|...mataste
+Oh...|Oh...
+STOP!|¡PARA!
+no...|no...
+ps4_load_expedition_run_restore_corrupt_failed|Los datos de la partida de expedición están dañados.<LINE>Existe una copia de seguridad de los datos de la expedición, pero se ha producido un error al intentar restaurarla.
+You have delivered your most important message|Has entregado el mensaje más importante
+You completed every challenge laid before you.|Has completado todos los desafíos en tu camino.
+Clear every milestone quest in Expedition Mode|Supera todas las tareas objetivo en el modo Expedición
+You are not the only lost soul in this world..|No eres la única alma perdida de este mundo...
+Additional food (above four) is kept for later|La comida adicional (más de cuatro) se guarda para más tarde
+Grab your prey and hold the eat button to feed|Atrapa a tu presa y mantén el botón de comer para alimentarte
+MenuModList_ModButton_Disable_NonMouse_Console|Pulsa CONFIRMAR para desactivar este contenido, pulsa DERECHA para volver a la lista
+MenuModList_ModButton_NonMouse_Display_Console|Pulsa CONFIRMAR para mostrar, pulsa IZQUIERDA para ir al botón de alternar este contenido
+ConfigTabController_TabSelectButton_UnnamedTab|Cambiar a pestaña nro. <TabIndex>
+Not that it solves anyone's problem but yours.|No es que vaya a solucionar más problema que el tuyo.
+As I mentioned you do not have unlimited time.|Como ya dije, no dispones de tiempo ilimitado.
+Another? You're no better than the scavengers!|¿Otra? ¡No eres mejor que los carroñeros!
+I won't talk to you if you continue like this.|No hablaré contigo si sigues así.
+ps4_load_expedition_restore_corrupt_failed|Los datos principales de expedición están dañados.<LINE>Existe una copia de seguridad de los datos principales, pero se ha producido un error al intentar restaurarla.
+Something lurks where the land fissures...|Algo acecha en las fisuras de la tierra...
+This place is safe. Stay here to hibernate|Este lugar es seguro. Quédate aquí a hibernar
+There are also other significant drawbacks|También hay otros inconvenientes mayores
+When only one player left, rain approaches|La lluvia se acerca cuando solo queda un jugador
+ps4_save_expedition_core_failed_free_space|Se ha producido un error al guardar los datos principales de expedición. No hay espacio suficiente. ¿Intentarlo de nuevo?
+I... won't speak to you... if you do that.|Yo... no volveré a hablar contigo... si haces eso.
+Ah... <PlayerName>, a neuron from Pebbles?|Ah... <PlayerName>, ¿una neurona de Guijarros?
+ps4_load_save_slot_restore_corrupt|Los datos de la ranura de guardado están dañados, pero se ha podido restaurar la copia de seguridad más reciente de los datos.
+Complete the Dragon Slayer passage|Completa el pasaje del asesino de dragones
+Something lurks in the darkness...|Algo acecha en la oscuridad...
+Complete the game as The Artificer|Completa el juego con el artífice
+Five Pebbles (General Systems Bus)|Cinco Guijarros (Bus de Sistemas Generales)
+Pick up / Eat button interactions:|Interacciones del botón Recoger/Comer:
+Game Over - Press SPACE to restart|Fin del juego - Pulsa ESPACIO para volver a empezar
+switch_controls_singlejoyconl_jump|Botón abajo
+switch_controls_singlejoyconr_jump|Botón A
+ps4_save_options_failed_free_space|Ocurrió un error al guardar los datos de las opciones. No hay suficiente espacio. ¿Deseas intentar de nuevo?
+ConfigContainer_AlertPasteCosmetic|Has pegado <Text> desde el portapapeles
+MenuModList_ModButton_Enable_Mouse|Activar <Mod>
+Stronger bottomless pit indicators|Indicadores visibles de abismos
+Monk-style gates for all campaigns|Puertas del monje en todas las campañas
+Are you sure you want to continue?|¿Seguro que quieres continuar?
+That's all. You'll have to go now.|Eso es todo. Ahora tienes que irte.
+You again? I have nothing for you.|¿Otra vez tú? No tengo nada para ti.
+I wonder what it is that you want?|Me pregunto qué será lo que quieres.
+I wish you would stop coming here.|Me gustaría que dejases de venir.
+Oh... Of course I will take a look|Oh... Por supuesto que le echaré un vistazo.
+ps4_load_expedition_run_restore_corrupt|Los datos de la partida de expedición están dañados, pero se ha podido restaurar la copia de seguridad más reciente de los datos.
+Clear every challenge in Challenge Mode|Supera todos los retos del modo Desafío
+ConfigMenuTab_ModPercentageButton_Label|Mods activados: <CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|
+The following options contain spoilers.|Los siguientes opciones contienen «spoilers».
+Workshop upload completed successfully!|¡Mod subido al Workshop!
+<CapPlayerName>! Stay still and listen.|¡<CapPlayerName>! Estate quieto y escucha.
+invert_x_description|Invierte el eje horizontal para los controles de los sticks analógicos.
+invert_y_description|Invierte el eje vertical para los controles de los sticks analógicos.
+rounds per level-ru2|rondas por nivel
+objecttype-FlareBomb|Granada cegadora
+objecttype-DataPearl|Perla
+objecttype-JellyFish|Medusa
+objecttype-SlimeMold|Hongo baboso
+objecttype-EggBugEgg|Huevo de bichohuevo
+objecttype-NeedleEgg|Huevo de moscafideo
+creaturetype-Slugcat|Gato-babosa
+creaturetype-Vulture|Buitre
+creaturetype-CicadaA|Calamigarra
+creaturetype-CicadaB|Calamigarra
+creaturetype-JetFish|Impulpez
+creaturetype-DropBug|Tijereta
+Communications Array|Matriz de comunicaciones
+Stolen Enlightenment|Iluminación robada
+Path of the pacifist|Sendero del pacifista
+The Saint-linebreaks|El santo
+switch_controls_jump|Botón B
+Gametype description|Descripción del tipo de juego
+Play each level once|Jugar cada nivel una vez
+Normal Rain World AI|IA de Rain World normal
+for killing creature|por matar a una criatura
+Persistent creatures|Criaturas persistentes
+controller_reconnect|Por favor, reconecta el mando del jugador {0}.
+mod_menu_requirement|Requiere mods adicionales:
+mod_menu_ext_authors|Ver la lista de créditos para este mod
+mod_menu_disable_all|Desactivar todos los mods
+Building token cache|Construyendo caché de fichas
+OpCheckBox_MouseTuto|Haz clic para cambiar
+OpUpdown_NonMouseUse|Usa el joystick para ajustar y pulsa CONFIRMAR para aplicar
+MenuModStat_ModsFail|Mods instalados que no cumplen con los requisitos:
+Connector_UnnamedTab|Nro. <TabIndex>
+Increased stun times|Aturdimiento mejorado
+Wiggle out of grasps|Escapar cuando te atrapan
+Key items on Passage|Objetos clave en pasajes
+Monk extended breath|Aguante bajo el agua con el monje
+Breath time leniency|Ventaja al aguantar la respiración
+Rain timer tick-tock|Tictac en temporizador de lluvia
+Vulnerable jellyfish|Vulnerabilidad de medusas
+Unlock all campaigns|Desbloquear todas las campañas
+More Slugcats Cheats|Trucos
+Exit to title screen|Salir a la pantalla de título
+Preparing for upload|Preparando subida
+devtools-description|Activa las herramientas de desarrollador en el juego, que ofrecen todo lo necesario para editar mapas y regiones, y ayudan con el proceso de crear mods del juego.<LINE><LINE> Pulsa O en el juego para activar o desactivar las herramientas de desarrollador y pulsa H para mostrar la interfaz principal de las herramientas de desarrollador.
+...leave me alone...|...déjame en paz...
+Hello, <PlayerName>!|¡Hola, <PlayerName>!
+Hello, <PlayerName>.|Hola, <PlayerName>.
+...don't... do that.|...no... hagas eso.
+Another gift for me?|¿Otro regalo para mí?
+Again? ... just, go.|¿Otra vez? ... simplemente vete.
+Little archaeologist|Pequeño arqueólogo
+Clear the game as Survivor or Monk to unlock.|Se desbloquea al completar el juego con el superviviente o el monje.
+Objects can be picked up, carried, and tossed|Los objetos se pueden coger, llevar y soltar
+Some small creatures can be eaten immediately|Algunas criaturas pequeñas pueden comerse inmediatamente
+MenuModList_ModButton_Enable_NonMouse_Console|Pulsa CONFIRMAR para activar este contenido, pulsa DERECHA para volver a la lista
+Show icons of nearby creatures on the minimap|Muestra los iconos de criaturas cercanas en el minimapa
+You are bringing a neuron. Is it to taunt me?|Traes una neurona. ¿Es para provocarme?
+Your curiosity seems boundless, <PlayerName>.|Tu curiosidad parece no tener límites, <PlayerName>.
+remix_dlc_restart|Si has comprado el DLC, tendrás que volver a iniciar el juego para que el contenido esté disponible.
+Expedition Leader|Líder de expedición
+creaturetype-Deer|Ciervo pluvial
+Looks to the Moon|Miras a la Luna
+Filtration System|Sistema de Filtrado
+The Dragon Slayer|El asesino de dragones
+Back to main menu|Volver al menú principal
+1 - SELECT PLAYER|1 - SELECCIONAR JUGADOR
+2 - SELECT DEVICE|2 - SELECCIONAR DISPOSITIVO
+Previous gametype|Tipo de juego anterior
+Reset score setup|Restablecer configuración de puntuación
+ps4_press_to_join|Presiona<LINE><LINE><LINE>para unirte.
+minute until rain|minuto hasta que llueva
+per point of food|por punto de comida
+Delivered Payload|Carga entregada
+Leaderboard empty|¡Marcadores vacíos!
+mod_menu_finalize|(Terminando de aplicar mods, por favor espera...)
+MenuModStat_ModID|ID: <ModID>
+Key item tracking|Objetos clave en el mapa
+Alpha red lizards|Alfas rojos
+Unlock all arenas|Desbloquear todas las arenas
+moreslugcats-name|Expansión Más gato-babosas
+Yet another gift?|¿Y otro regalo?
+And you are back.|Y has vuelto.
+Within Time|A tiempo
+The Pilgrim|El peregrino
+DELETE SAVE|BORRAR ARCHIVO DE GUARDADO
+Sky Islands|Islas Celestiales
+Farm Arrays|Silos
+The Scholar|El erudito
+The Journey|El viaje
+Arena Music|Música de la arena
+Jump Button|Botón de saltar
+NEW SESSION|NUEVA SESIÓN
+Spears Hit:|Lanzas golpeadas:
+Rain Timer:|Temporizador de lluvia:
+No wildlife|Sin fauna
+Level Food:|Nivel de comida:
+Allow exit:|Permitir salir:
+Early Rain:|Lluvia temprana:
+SCREEN SIZE|Tamaño de la pantalla
+Slug Senses|Capacidad de detección
+...leave...|...vete...
+This again.|Otra vez con esto.
+And...back.|...Y otra vez.
+Back again.|Otra vez de vuelta.
+Here again.|Otra vez aquí.
+I...said...|Te... dije...
+Migration|Migración
+Messenger|Mensajero
+The Cycle|El ciclo
+The Nomad|El nómada
+Outskirts|Afueras
+Shoreline|Costa
+Underhang|Desnivel
+The Saint|El santo
+Ascension|Ascensión
+SAVE SLOT|RANURA DE GUARDADO
+vibration|Vibración
+Connected|Conectado
+Wildlife:|Fauna:
+Spear hit|Golpe de lanza
+GAME OVER|FIN DE LA PARTIDA
+Clear all|Borrar todo
+? Confirm|? Confirmar
+NEXT PAGE|PÁGINA SIGUIENTE
+Next Page|Página siguiente
+CONFIGURE|CONFIGURAR
+Author(s)|Autor(es/as)
+VIEW EULA|VER EULA
+Uploading|Subiendo
+A neuron.|Una neurona.
+tormentor|tormento
+An Old Friend|Una vieja amistad
+Memory Crypts|Criptas de los Recuerdos
+The Chieftain|El líder
+Music volume:|Volumen de la música:
+Sound Effects|Efectos de sonido
+Pick up / Eat|Coger / Comer
+INPUT PRESETS|PRESETS DE ENTRADA
+Next gametype|Tipo de juego siguiente
+ROUND SESSION|SESIÓN DE RONDA
+Approximately|Aproximadamente
+Press to join|Pulsa para unirte
+Repeat Rooms:|Repetir salas:
+High wildlife|Mucha fauna
+for surviving|por sobrevivir
+per spear hit|por golpe de lanza
+Configuration|Configuración
+HOLD TO START|PULSA PARA COMENZAR
+REGION SELECT|SELECCIÓN DE REGIÓN
+Fetching Data|Obteniendo datos...
+PREVIOUS PAGE|PÁGINA ANTERIOR
+Previous Page|Página anterior
+Accessibility|Accesibilidad
+Hunter Cycles|Ciclos del cazador
+Wall pouncing|Abalanzarse sobre muros
+devtools-name|Herramientas de desarrollador
+Thank... you.|Gracias...
+What is that?|¿Qué es eso?
+Another gift?|¿Otro regalo?
+...thank you.|...gracias.
+And...listen!|Y... ¡escucha!
+Little friend|Pequeño amigo
+archaeologist|arqueólogo
+The consequences of your journey have caught up with you|Llegan las consecuencias de tu viaje
+You encountered the echo of A Bell, Eighteen Amber Beads|Has encontrado el eco de una campana, dieciocho cuentas de ámbar
+You encountered the echo of Two Sprouts, Twelve Brackets|Has encontrado el eco de dos brotes, doce horquillas
+Press and hold, then use up/down to adjust score awarded|Pulsa y mantén, y usa arriba o abajo para ajustar la puntuación conseguida
+You must update the application to use network features.|Tienes que actualizar la aplicación para usar las funciones de red.
+The presets below can be used to quickly reset settings.|Las opciones de abajo se pueden restaurar rápidamente a los valores predefinidos.
+RELAXED preset is a significant reduction in difficulty.|Los ajustes predefinidos de RELAJADO reducen la dificultad bastante.
+This option may actually make Rivulet's campaign harder.|Puede que esta opción haga que la campaña del Riachuelo sea más difícil.
+The scavengers must be jealous of you, finding all these|Los carroñeros deben de tenerte celos por encontrar tantas
+You completed every expedition laid before you.|Has completado todas las expediciones en tu camino.
+Something lurks in a flourishing outcropping...|Algo acecha en un saliente...
+Additional food (above three) is kept for later|La comida adicional (por encima de tres) se guardará para después
+Hold down to wipe your save slot and start over|Mantén pulsado para limpiar tu ranura de guardado y empezar de cero
+You are starving. Your game has not been saved.|Te estás muriendo de hambre. El juego no se ha guardado.
+Are you sure you want to disable this mechanic?|¿Seguro que quieres desactivar esta mecánica?
+You must accept the End User License Agreement.|Debes aceptar el acuerdo de licencia de usuario final.
+You're leaving yet again. This time, stay away.|Y otra vez más te vas. Esta vez quédate ahí.
+Listened to the conflation of echoes|Has escuchado al cúmulo de los ecos
+Nineteen Spades, Endless Reflections|Diecinueve picas, reflejos infinitos
+Game Over - Press OPTIONS to restart|Fin de la partida - Pulsa botón de opciones para reiniciar
+switch_controls_singlejoyconl_pickup|Botón izquierda
+switch_controls_singlejoyconr_pickup|Botón B
+Creatures are vicious and aggressive|Las criaturas son viciosas y agresivas
+switch_single_joycon_region_map_help|Presiona el botón SR para ver el mapa de la región
+JUMP/THROW buttons - Switch layers_1|Botones de SALTO/LANZAR - Cambiar capas
+JUMP/THROW buttons - Switch layers_2|Botón equis/botón círculo - Cambiar capas
+JUMP/THROW buttons - Switch layers_3|Botón B/Botón A: cambiar capas
+JUMP/THROW buttons - Switch layers_4|Botón abajo/Botón derecha: cambiar capas
+JUMP/THROW buttons - Switch layers_5|Botón A/Botón X: cambiar capas
+Title is offline or is disconnected.|El juego está desconectado.
+OpKeyBinder_NonMouseJoystickBindTuto|Pulsa un botón para asignarlo (PAUSA para cancelar, START para elegir el número del control)
+ConfigContainer_AlertCopyNoncosmetic|Has copiado <Text> al portapapeles desde <ObjectName>
+ConfigMenuTab_RevertHoldButton_Label|REVERTIR
+MenuModList_ModButton_RainWorldDummy|
+Are you sure you want to view these?|¿Seguro que quieres continuar?
+Yes, you're welcome to have it back.|Sí, puedes llevártelo.
+Oh, leaving. Please don't come back.|Oh, te vas. Por favor, no vuelvas.
+Something lurks at the highest reaches of the world...|Algo acecha en las zonas más altas del mundo...
+Assign player <X> to the default XBox controller setup|Asignar al jugador <X> los controles por defecto del control inalámbrico Xbox One
+Select which levels to play<LINE>in the level selector|Selecciona qué niveles jugar<LINE> en el selector de niveles
+Shows a visual pulse on screen when threats are nearby|Muestra un aviso visual cuando hay amenazas cerca
+All lizard breeds have unique sound effects and voices|Todas las especies de lagartos tienen voces y efectos de sonido únicos
+(Normally requires completing Gourmand's food tracker)|(Normalmente hace falta completar el medidor de comida del glotón)
+Mod's thumbnail image should have a 16:9 aspect ratio.|La imagen de miniatura debe tener una proporción de 16:9.
+If you eat it or leave with it, I will die. I beg you.|Si te lo comes o te lo llevas, moriré. Te lo suplico.
+Oh, I have already read this one to you, <PlayerName>.|Oh, ya te he leído esta, <PlayerName>.
+Complete the game as The Survivor or as The Monk|Completa el juego con el superviviente o el monje
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|Haz clic para activar todos los mods
+MenuModList_ModButton_NonMouse_Configure_Console|Pulsa CONFIRMAR para configurar, pulsa IZQUIERDA para ir al botón de alternar este contenido
+Access was denied. Do you own the game on Steam?|Acceso denegado. ¿Tienes el juego en Steam?
+This one I've already read to you, <PlayerName>.|Esta ya te la he leído, <PlayerName>.
+Complete the game as The Hunter|Completa el juego con el cazador
+Your travels have taken you far|Tus viajes te han llevado lejos
+You have left this world behind|Has dejado atrás este mundo
+ConfigMenuTab_ApplyButton_Label|APLICAR MODS
+ConfigMenuTab_RevertButton_Desc|Vuelves a la lista de mods
+ConfigMenuTab_ResetButton_Label|RESTAURAR
+MenuModList_ModButton_Configure|Configurar <Mod>
+MenuModList_ListButton_ScrollUp|Pulsa y mantén el botón del ratón para desplazarte hacia arriba en la lista de mods
+MenuModList_ListButton_ScrollDw|Pulsa y mantén el botón del ratón para desplazarte hacia abajo en la lista de mods
+MenuModList_ListButton_Collapse|Pliega para ocultar las miniaturas de la lista de mods
+Connector_ChangeActiveTab_Alert|Has cambiado la pestaña activa actual a la pestaña <TabName>
+Connector_ChangeActiveMod_Alert|Has cambiado el mod mostrado actual al mod <ModName>
+Enable the wall pounce mechanic|Activa la mecánica de abalanzarte sobre muros
+ps4_expedition_slot_description|Datos guardados de Rain World Expedición
+ps4_expedition_core_description|Datos principales de Rain World Expedición
+ps4_save_expedition_core_failed|Se ha producido un error al guardar los datos principales. No hay espacio suficiente. ¿Intentarlo de nuevo?
+ps4_load_expedition_core_failed|Los datos principales de expedición están dañados y se eliminarán.
+It's you, <PlayerName>!  Hello!|¡Eres tú, <PlayerName>!  Hola!
+You... Strange thing. Now this?|Tú... Bicho raro. ¿Ahora esto?
+Oh, what is that, <PlayerName>?|Oh, ¿qué es eso, <PlayerName>?
+You would like me to read this?|¿Quieres que te la lea?
+Find the canonical ending to The Gourmand's campaign|Encuentra el final canónico de la campaña del glotón
+Find a destination for The Hunter's starting payload|Encuentra un destino para la carga inicial del cazador
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|Pulsa CONFIRMAR para desactivar todos los mods
+Pause the rain timer while dialog is being displayed|
+Discourages Snails from idling inside pipe entrances|
+It is recommended to use this only as a last resort.|Se recomienda usa esta opción como último recurso.
+I don't know what to say. Never come back, creature!|No sé qué decir. ¡Nunca vuelvas más, criatura!
+Little creature, why don't you stay calm and listen?|Criaturita, ¿por qué no te calmas y me escuchas?
+Find the canonical ending to The Rivulet's campaign|Encuentra el final canónico de la campaña del riachuelo
+Dropping food in the water might attract creatures.|Lanzar comida al agua puede atraer a las criaturas.
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|Pulsa CONFIRMAR para activar todos los mods
+Cannot update mod with no pre-existing workshop ID.|No se puede actualizar el mod sin un ID de Steam Workshop.
+There is nothing here. Not even my memories remain.|No hay nada por aquí. Ni siquiera me quedan mis recuerdos.
+Something new you want me to look at, <PlayerName>?|¿Algo nuevo que quieres que mire, <PlayerName>?
+It's a bit dusty, but I will do my best. Hold on...|Tiene bastante polvo, pero haré lo que pueda. Espera...
+Now if you'll let me, I will try to say this again.|Y ahora, si me lo permites, intentaré decirlo de nuevo.
+It's a rock. Thank you, I suppose, little creature.|Es una roca. Supongo que gracias, criaturita.
+objecttype-Rock|Roca
+Drainage System|Sistema de Drenado
+History lessons|Lecciones históricas
+Change language|Cambiar idioma
+Bind <X> button|Asignar el botón <X>
+Back to options|Volver a opciones
+round per level|roda por nivel
+Medium wildlife|Fauna media
+SESSION RESULTS|RESULTADOS DE LA SESIÓN
+Finding Changes|Buscando cambios
+Fast map reveal|Revelación rápida de mapa
+Extra tutorials|Tutoriales adicionales
+Easier dropwigs|
+Quality of Life|Calidad de vida
+Unlock Slugpups|Desbloquear crías de gato-babosa
+expedition-name|Expedición
+Leave me alone!|¡Déjame en paz!
+Please stop it!|¡Para, por favor!
+Little creature|Pequeña criatura
+Prevents falling off from poles when throwing objects|Evita que caigas de postes al lanzar objetos
+Swim boosting will not consume additional breath time|Nadar rápido no reducirá el tiempo que aguantas sin respirar
+Removes visual effects that cause the screen to shake|Elimina los efectos visuales que agitan la pantalla
+Are you sure you want to disable ALL karma mechanics?|¿Seguro que quieres desactivar todas las mecánicas kármicas?
+Mod's thumbnail image must be less than 1 MB in size.|La imagen de miniatura del mod debe pesar menos de 1 MB.
+Your account is locked or has a community or VAC ban.|Tu cuenta está suspenida o ha recibido un bloqueo por la comunidad o por VAC.
+The workshop service is unavailable. Try again later.|El servicio de Workshop no está disponible. Inténtalo más tarde.
+Yet another gift? You're quite curious, <PlayerName>!|¿Y otro regalo? ¡Eres muy curioso, <PlayerName>!
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|Un omnívoro ágil, tanto presa como depredador. Perdido en una tierra árida y cruel,<LINE>deberás construir tu camino a base de ingenio y cuidado.
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|De cuerpo débil pero con un espíritu fuerte. En sintonía con los misterios del mundo y<LINE>empático con las criaturas, tu travesía será sensiblemente más pacífica.
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|Fuerte y rápido, con un feroz metabolismo que requiere una dieta de carne constante. Pero el<LINE>estómago no será tu única preocupación, pues el camino del cazador conlleva peligros.
+Five Pebbles (Unfortunate Development)|Cinco Guijarros (Desarrollo Desafortunado)
+Six Grains of Gravel, Mountains Abound|Seis granos de gravilla, abundan montañas
+Jump and grab them. They're delicious!|Salta y cógelos. ¡Están deliciosos!
+Takes input from any connected gamepad|Toma la señal de cualquier dispositivo conectado
+switch_controls_singlejoyconl_movement|Palanca izquierda
+switch_controls_singlejoyconr_movement|Palanca derecha
+Unlock all the Trophies in Rain World!|Desbloquea todos los trofeos de Rain World
+MenuModList_ModButton_Disable_NonMouse|Pulsa CONFIRMAR para desactivar este mod, mantén CONFIRMAR y usa el joystick para cambiar el orden de carga
+MenuModList_ModButton_NonMouse_Display|Pulsa CONFIRMAR para mostrar <Mod>
+ConfigTabController_TabScrollButton_Up|Mantén el botón del ratón para desplazarte hacia arriba en la lista de pestañas
+ConfigTabController_TabScrollButton_Dw|Mantén el botón del ratón para desplazarte hacia abajo en la lista de pestañas
+The following cheats contain spoilers.|Los siguientes trucos contienen «spoilers».
+Mod uploaded with Unlisted visibility.|Mod subido con visibilidad privada.
+Ah... <PlayerName>, you're here again!|Ah... ¡<PlayerName>, otra vez estás aquí!
+Ah... <PlayerName>, you're here again.|Ah... <PlayerName>, otra vez estás aquí.
+I must ask you... Don't do that again.|Tengo que pedirte que... No vuelvas a hacer eso.
+Rain... You better go. I will be fine.|Lluvia... Debes irte. Estaré bien.
+<CapPlayerName>... Please settle down.|<CapPlayerName>... Por favor, cálmate.
+Yes, there you go. This is ridiculous.|Sí, aquí tienes. Esto es absurdo.
+Five Pebbles (Recursive Transform Array)|Cinco Guijarros (Matriz de Transformación Recurrente)
+You need to eat meat to sustain yourself|Necesitas comer carne para mantenerte
+Default singleplayer<LINE>keyboard setup|Configuración de teclado<LINE>predeterminada para un jugador
+OpKeyBinder_ErrorConflictOtherModDefault|Conflicto entre un botón predeterminado y <ModID>
+MenuModList_ModButton_NonMouse_Configure|Pulsa CONFIRMAR para configurar <Mod>
+You are not currently logged into Steam.|No has iniciado sesión en Steam.
+Yes, help yourself. They are not edible.|Sí, sírvete. No son comestibles.
+This pearl has been written to just now!|¡Esta perla acaba de escribirse!
+You encountered the echo of Droplets upon Five Large Droplets|Has encontrado el eco de gotitas en cinco grandes gotitas
+Press while holding down direction (crouching) to drop object|Pulsa al mantener el botón de dirección hacia abajo (agacharse) para soltar el objeto
+You must activate this mod before attempting to configure it.|Debes activar este mod antes de configurarlo.
+I won't tolerate this. Leave immediately and don't come back.|No voy a aguantar esto. Vete inmediatamente y no vuelvas más.
+As you can see, I have nothing for you. Not even my memories.|Como puedes ver, no tengo nada para ti. Ni siquiera mis recuerdos.
+Here we go again, little archeologist. Let's read your pearl.|¡Aquí vamos otra vez, pequeño arqueólogo! Leamos tu perla.
+You encountered the echo of Four Needles under Plentiful Leaves|Has encontrado el eco de cuatro agujas bajo abundantes hojas
+Show a visual indicator on the UI of your remaining breath time|Muestra un indicador visual en la IU con el tiempo que puedes aguantar sin respirar bajo el agua
+Lizards can pull embedded spears out of walls with their tongue|
+Failed to acquire User Generated Content lock. Try again later.|Error al adquirir el bloqueo de contenido generado por el usuario. Inténtalo más tarde.
+You encountered the echo of Nineteen Spades, Endless Reflections|Has encontrado el eco de diecinueve picas, reflejos infinitos
+Warning, too many creatures may result in poor game performance.|Advertencia: demasiadas criaturas pueden causar mal rendimiento del juego.
+Reduces the amount of time taken to get started with a new cycle|Reduce la cantidad de tiempo necesario para comenzar un ciclo nuevo
+One of your workshop mods already has the same name as this one.|Uno de los mods que tienes en el Wokshop tiene el mismo nombre.
+I appreciate what you have done but it is time for you to leave.|Aprecio lo que has hecho, pero es hora de que te vayas.
+Let us see... to be honest, I'm as curious to see it as you are.|Veamos... para serte sincera, tengo tanta curiosidad por verla como tú.
+You encountered the echo of Six Grains of Gravel, Mountains Abound|Has encontrado el eco de seis granos de gravilla, abundan montañas
+You must apply new mods setup before attempting to configure them.|Debes aplicar los cambios pendientes a la lista de mods antes de configurar mods.
+Stops Hunter from automatically grabbing batflies with a free hand|Evita que el cazador atrape mosca-murciélagos con la mano que tenga libre
+Increases the radius of Monk's hologram light in pitch-black areas|Aumenta el radio de luz del holograma del monje en zonas completamente oscuras
+Prevents the chance of waking up early before the rain has stopped|Evita la posibilidad de despertar antes de que deje de llover
+(Normally requires finding Red unlock tokens in the campaign maps)|(Normalmente hace falta encontrar fichas de desbloqueo rojas en los mapas de campaña)
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>, si haces eso, ya no volveré a hablar contigo.
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|La iluminación suprema, conseguida por el sendero más duro. Una proeza que hasta los guardianes deben respetar.
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|Ajustes estándar de Remix. Muchas de las modificaciones de mecánicas que cambian la forma en la que disfrutas del juego.
+When crouching, hold the JUMP button without giving any other input|Al agacharte, mantén el botón de salto sin dar otra señal de entrada
+Allow players to exit when rain is close or only one player is left|Permitir a los jugadores salir cuando se acerca la lluvia o solo quede un jugador
+Reduces the overall speed of the game to assist with reaction times|Reduce la velocidad general del juego para hacer que sea más sencillo reaccionar
+(Normally requires finding Blue unlock tokens in the campaign maps)|(Normalmente hace falta encontrar fichas de desbloqueo naranjas en los mapas de campaña)
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|Algo nuevo que quieres que mire,<LINE>¿supongo bien, <PlayerName>?
+This creature is dehydrated. You can carry it back to water.|Esta criatura está deshidratada. Puedes llevarla de vuelta al agua.
+Prevent injured creatures from fleeing to dens in arena mode|Evita que las criaturas heridas escapen a sus guaridas en el modo Arena
+Increases the amount of underwater breath time that Monk has|Aumenta el tiempo que puedes aguantar la respiración bajo el agua con el monje
+(Normally requires completing all Challenge Mode challenges)|(Normalmente requiere completar todos los desafíos del modo Desafío)
+Best of luck to you, little creature. I must resume my work.|Te deseo la mejor de las suertes, pequeña criatura. Debo continuar mi trabajo
+Never do that again. Or just kill me quickly. Whichever way.|No vuelvas a hacer eso. O mátame rápido. Como quieras.
+I think we have already talked about this one, <PlayerName>.|Creo que ya hemos hablado de esta, <PlayerName>.
+Larger prey needs to be incapacitated first|Las presas más grandes deben dejarse incapacitadas primero
+Little creature. This is your last warning.|Criaturita. Este es tu último aviso.
+Please don't... take... more from me... Go.|Por favor, no... te lleves más... de mí... Ve.
+And yet another one! I will read it to you.|¡Y otra más! Te la leeré.
+I've told you about this one, <PlayerName>.|Ya te he hablado de esta, <PlayerName>.
+And now you expect me to continue speaking?|¿Y esperas que siga hablando?
+It's a delicious plant. You should have it!|Es una planta deliciosa. ¡Deberías quedártela!
+It is possible to hibernate with less than sufficient food|Es posible hibernar con menos comida de la considerada suficiente
+It is not recommended to use these on a first playthrough.|No recomendamos usarlos si es tu primera vez en el juego.
+This mod already exists on the workshop by another author.|Este mod ya existe en el Workshop con otro autor.
+Release that, and leave. I will not speak to you any more.|Deja eso y vete. No voy a hablar más contigo.
+Thank you... That is a little better. Thank you, creature.|Gracias... Eso está un poco mejor. Gracias, criatura.
+In a shelter, hold DOWN for several seconds to force hibernate|En un refugio, mantén ABAJO varios segundos para hibernar a la fuerza
+Multiplies the total duration of the rain timer by this amount|Multiplica la duración total del temporizador de lluvia por esta cantidad
+The rain timer makes a tick-tock noise while the UI is visible|El temporizador de lluvia tiene un sonido de tictac mientras la IU sea visible
+Vultures that appear in dark rooms are cloaked by the darkness|
+Press CONTINUE after accepting the End User License Agreement.|Pulsa CONTINUAR tras aceptar el acuerdo de licencia final.
+Press CONTINUE to view and/or edit your uploaded workshop mod.|Pulsa CONTINUAR para ver y editar el mod que has subido al Workshop.
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|¡ADVERTENCIA!<LINE>Esto reiniciará todo el progreso en la ranura de guardado seleccionada,<LINE>incluyendo la exploración del mapa. Las arenas desbloqueadas y<LINE>los objetos del arenero se mantendrán.
+WARNING!<LINE>This will reset all of your progress except map exploration.|¡ADVERTENCIA!<LINE>Se reiniciará todo tu progreso, excepto la exploración del mapa.
+WARNING! Too many creatures may result in bad game performance or crashes.|¡ADVERTENCIA! Demasiadas criaturas pueden causar mal rendimiento del juego o cierres inesperados.
+Please log in to STOVE Client with the account that has purchased the game|Please log in to STOVE Client with the account that has purchased the game
+Gives the player the ability to dislodge spears that are embedded in walls|Otorga la habilidad de sacar lanzas clavadas en muros
+(One time use) Fast travel to any discovered shelter, recovering all karma|Viajas a cualquier refugio descubierto y recuperas todo el karma (un solo uso)
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|Muestra información en las pantallas de carga que ayuda a verificar los ajustes usados y la legitimidad de las partidas.
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|Añade un periodo de gracia al comienzo del ciclo y al entrar en una región antes de que te persigan grupos de carroñeros.
+Advantageous glitches and speedrunner exploits are made available to use again with this option|Los errores del juego que causan ventaja se pueden volver a usar con esta opción
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|Similar a la experiencia de Rain World original, pero incluye algunas configuraciones de calidad de vida.
+Map|Mapa
+Esc|Esc
+Yes|Sí
+YES|SÍ
+HUD|Interfaz
+run|corre
+Up|Arriba
+R1|R1
+RB|RB
+ok|Aceptar
+No|No
+NO|NO
+Assign player <X> to the default keyboard controls|Asignar al jugador <X> los controles por defecto de teclado
+Increase the speed that the minimap reveals itself|Aumenta la velocidad a la que se revela el minimapa
+(Normally requires completing Gourmand's campaign)|(Normalmente hace falta completar la campaña del glotón)
+This menu contains cheats to unlock content early.|Este menú contiene trucos para desbloquear contenido antes de tiempo.
+What are you? If I had my memories I would know...|¿Qué eres? Si tuviese recuerdos lo sabría...
+If you behave like this, why should I talk to you?|Si te comportas así, ¿por qué debería hablarte?
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|Pausado. ¡Advertencia! Salir tras 30 segundos de un ciclo cuenta como pérdida.
+By comparison, the RELAXED preset may weaken the overall game experience.|En comparación, los ajustes predefinidos de RELAJADO hacen que el juego sea menos desafiante.
+(Normally requires completing campaigns and clearing previous challenges)|(Normalmente hace falta completar todas las campañas y superar los desafíos anteriores)
+Shelter failures give periodic reprieves by providing longer cycle times.|Los fallos de refugio te dan alivios temporales al proporcionarte más tiempo de ciclo.
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|Pausado. ¡Advertencia! Salir sin guardar en un refugio finalizará tu partida completamente.
+For all campaigns, gates will remain open permanently after passing through them once|Las puertas permanecerán abiertas de forma permanente tras atravesarlas una vez en todas las campañas
+Spearing a scavenger directly in their head will do significantly more damage to them|
+The maximum number of subsequent explosion actions Artificer can perform before dying|La cantidad máxima de acciones de explosión seguidas que puede realizar un artífice antes de morir
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|Límite superado. Puede que tengas que reducir el tamaño del archivo o elminar contenido del Workshop antes.
+A little animal, on the floor of my chamber. I think I know what you are looking for.|Un animalito en el suelo de mi cuarto. Creo que sé lo que buscas.
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|¿Seguro que quieres salir? Si entras en un ciclo y sales después de 30 segundos, se contará como una derrota.
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|¿Las consigues de Cinco Guijarros?<LINE>Muchas gracias. Seguro que no le importa.
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|Crea escenarios personalizados usando niveles, objetos y criaturas<LINE>que has desbloqueado en las campañas de historia.<LINE>El modo Sandbox se puede configurar para que otorgue puntos al derrotar enemigos o realizar otras acciones,<LINE>¡pero sobre todo es para disfrutar de la personalización y pasarlo bien!
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|De todas formas, hay otro método. El viejo camino. Ve hacia el oeste, más allá de los Silos, y baja hasta donde la tierra se fisure<LINE>, descendiendo tanto como puedas, hasta donde los antiguos construyeron sus templos y bailaban en sus estúpidos rituales.
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|Compite en una batalla contra otros y los elementos.<LINE>En este modo, consigues puntos al consumir comida,<LINE>y los jugadores que sobrevivan quedarán por delante de los que mueran.<LINE>Se podrán desbloquear nuevos niveles, objetos y criaturas en las<LINE>campañas de historia.
+No items except what you place in the editor|Sin objetos salvo los que pongas en el editor
+Allow players above a specific score to exit|Permitir salir a los jugadores sobre una puntuación específica
+MenuModList_ModButton_NonMouse_Blank_Console|Pulsa IZQUIERDA para ir al botón de alternar este contenido
+ConfigTabController_TabSelectButton_NamedTab|Cambiar a pestaña <TabName>
+This mod cannot be uploaded to the Workshop.|Este mod no se puede subir a Steam Workshop.
+It's still warm... this was in use recently.|Aún está caliente... hace poco que se utilizó.
+W|W
+L|L
+Press the MAP button to select the shelter you wish to continue from|Pulsa el botón de MAPA para seleccionar el cobijo desde el que quieres continuar
+These are recommended starting points based on different playstyles.|Estas son las recomendaciones iniciales según varios estilos de juego.
+It also largely negates the game's difficulty curve and progression.|También anula la curva de dificultad y progreso del juego.
+(Normally requires finding Green unlock tokens in the campaign maps)|(Normalmente hace falta encontrar fichas de desbloqueo verdes en los mapas de campaña)
+“Go west, past the Farm Arrays and then down deep into the earth...”|"Ve hacia el oeste, pasa las matrices de granjas y baja hasta el fondo de la tierra..."
+Please sign in to PlayStation™Network to view leaderboards.|Inicia sesión en PlayStation™Network para ver las tablas de clasificación.
+Progress towards Trophies will only be tracked for player 1|El progreso en trofeos solo se rastreará para el jugador 1
+This may SIGNIFICANTLY alter your experience with the game.|Este ajuste podría afectar BASTANTE tu experiencia de juego.
+(Normally requires completing previous campaigns to unlock)|(Normalmente se desbloquea al completar las campañas anteriores)
+Stop doing... this, or I... will not speak... to you again.|Deja de hacer... esto, o... no te volveré... a hablar.
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|Te has desconectado de PlayStation™Network. Conéctate a PlayStation™Network para ver las tablas de clasificación.
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|Los objetos que salen del terreno mediante tallos aparecerán con estos cuando los coloques en el modo Sandbox
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|... Empiezas a ser bastante bueno con esto, ¿sabes? Una pequeña bestia arqueóloga.<LINE>Y ahora veamos lo que dice.
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|Haz clic para desactivar todos los mods
+This mod does not have any configurable settings.|Este mod no tiene su propia interfaz de usuario de Remix ni su propia configuración.
+Thank you little creature. I must resume my work.|Gracias, pequeña criatura. Debo continuar mi trabajo
+Thank you. I must ask you... Don't do that again.|Gracias. Tengo que pedirte que... No vuelvas a hacer eso.
+Periodically shows tips and tutorials during the loading screen between cycles|Muestra consejos y tutoriales periódicamente en la pantalla de carga entre ciclos
+Adds an additional trajectory of throwing grenades if the up direction is held|
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|Introduce tutoriales adicionales en el juego para ciertos escenarios y mecánicas
+All cycles will have the same duration, and will always use the longest duration possible|Todos los ciclos tienen la misma duración y siempre será la más larga posible
+You should try the 'Monk-style Gates' option first before resorting to using this option.|Deberías probar a jugar con la opción «Puertas del monje» antes de usar esta opción.
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|Aumenta la cantidad de tiempo que las rocas y las explosiones de caracol aturden a algunas criaturas
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|La dificultad dinámica se ve afectada por la cantidad de regiones que visites en vez de la cantidad de ciclos que sobrevivas
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|Te permite escapar cuando te atrapen de maneras diferentes agitando tu cuerpo rápido con los botones de movimiento
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|
+Prevents Jetfish from being able to knock items out of your hands|Evita que los impulpeces puedan tirarte los objetos de las manos
+Changes the amount of cycles Hunter starts with in their campaign|Cambia la cantidad de ciclos con la que el cazador comienza la campaña
+You're stuck in a cycle, a repeating pattern. You want a way out.|Estás atrapado en un ciclo, es un patrón que se repite. Buscas una salida.
+Another pearl! You want me to read this one too? Just a moment...|¡Otra perla! ¿También quieres que lea esta? Solo un momento...
+A pearl... This one is crystal clear - it was used just recently.|Una perla... Esta está clarísima. Se utilizó hace poco.
+Gives a small chance of being able to survive a direct attack from a dropwig|
+Use the throw button to activate tongue controls rather than the jump button|Usa el botón LANZAR en vez del botón de saltar para sacar la lengua
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|Podrás llevarte al refugio todos los objetos claves que tengas a través de los pasajes, no solo los objetos que guardes en tu estómago.
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|Es una pieza de barra afilada... ¿Qué es lo que quieres saber?<LINE>Pareces saber utilizarla perfectamente.
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|Puedes ver los objetos clave en el mapa, y estos reaparecerán en ciclos posteriores si los pierdes
+Centipedes will release you if you go through a pipe while you are grabbed by one|Si un ciempiés se agarra a ti, te soltará cuando pases por una tubería
+Prevents the chance of the region being flooded during a shelter failure scenario|Evita que la región se inunde durante un posible fallo de refugio
+Makes the death gradients on bottomless pits more visible|Hace que los gradientes en abismos sin fondo sean más evidentes
+Allow throwing spears directionally while in zero gravity|
+This option disables multiple core mechanics of the game.|Esta opción desactiva muchas mecánicas básicas del juego.
+It is strange... I'm remembering myself, but also... him.|Qué extraño... Me recuerdo a mí misma, pero también... a él.
+Allow passing any gate for free, regardless of your current karma level|Permite pasar por cualquier puerta gratis e independientemente de tu nivel de karma
+Hide the remaining cycle time while in maps that are safe from the rain|Oculta el tiempo restante del ciclo mientras estés en mapas que estén a salvo de la lluvia
+And this one is fresh! It was not long ago this data was written to it!|¡Y esta está fresca! ¡No hace mucho que se han escrito los datos!
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|Si esta opción está activada, todos los cadáveres de los carroñeros en la campaña del artífice siempre tendrán el mayor valor de karma posible
+Allows certain passages to gain progress even before the Survivor passage has been achieved|Permite avanzar por ciertos pasajes incluso antes de alcanzar el pasaje de superviviente
+Reduces the volume for the sound effects of gates and shelters opening|Reduce el volumen de los efectos de sonido de la apertura de puertas y refugios
+Let us try again - not that it has worked well before. I was saying...|Vamos a intentarlo de nuevo. Aunque no es que haya funcionado antes. Decía que...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|Si te parece complicado, quizá debas probar la campaña del monje antes. Puede que te ayude a tener una visión general de Rain World más clara y te facilite adentrarte en el juego.
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|Si esta opción está activada, los cadáveres de los carroñeros no perderán karma después de cada ciclo durante la campaña del artífice
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|(Normalmente hace falta entregar perlas y encontrar fichas de emisión en los mapas de campaña)
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|Ten claro que esto no te hace especial. Todas las cosas vivas comparten la misma frustración.<LINE>Desde los microbios del estrato de procesamiento hasta yo, que soy, si me lo permites, un dios en comparación.
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|Mírame. Lo único que puedo ofrecer son mis palabras.<LINE>Si vienes aquí, asumo que quieres que hable. ¿Entonces puedes escucharme, POR FAVOR?<LINE>Si no, te invito a que me dejes en paz.
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|La mala noticia es que no se ha encontrado una solución definitiva. Y el equipo se desgasta a cada minuto, alcanzando un nuevo estado de decadencia.<LINE>No puedo ayudarte, ni de forma colectiva ni individual. Ni siquiera me soy de ayuda a mí.
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|Supongo que al final de los días nada de esto importará, pero estaría bien que tomases otro camino de salida.<LINE>Uno que me libre de... que juguetees en las matrices de mi memoria. Aquí hay un estupendo eje de acceso.
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|No obstante, para ti existe otro camino. El viejo camino. Ve hacia el oeste, más allá de las Matrices de Granjas, y luego métete por la tierra<LINE>en donde el terreno se fisura, baja tan profundo como puedas, donde los antiguos construyeron sus templos y danzaron sus estúpidos rituales.<LINE>La marca que te he dado te guiará.
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|Primero la buena noticia. De alguna manera yo soy lo que buscas. Mi clase y yo tenemos como<LINE> objetivo solucionar esa claustrofobia tan oscilante que yace en tu pecho y en el de tantos otros.<LINE>Un tipo de caridad peculiar. Siendo tú el inocente receptor, y yo el reticente regalo. ¿Los nobles benefactores?<LINE>Se fueron.
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|Debes de ser muy valiente para haber llegado hasta aquí. Pero siento decirte que tu viaje ha sido en vano.
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Está bien tener a alguien con quien hablar después de todo este tiempo.<LINE>No se puede decir que los carroñeros sepan escuchar. Aunque a veces me traen cosas...
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|Sigo enfadado contigo, pero está bien tener a alguien a quien hablar después de todo este tiempo.<LINE>No se puede decir que los carroñeros sepan escuchar. Aunque a veces me traen cosas...
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|Incluso los carroñeros que vienen de vez en cuando se van sin nada. Pero... Ya te lo he contado antes, ¿verdad?
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|Antes han venido carroñeros. ¡Carroñeros!<LINE>¡Y me han dejado con vida!<LINE>Pero... Ya te lo he contado antes, ¿verdad?
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|Discúlpame si me repito. Tengo mala memoria.<LINE>Antes tenía cinco tristes neuronas... Y entonces te comiste una.<LINE>Puede que también te lo haya contado ya.
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|O de hecho seguro que sí, pero tiene tantas cosas de estas~<LINE>que no le importará.<LINE>¡Aunque a mí sí! ¡Gracias, criaturilla!
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|Vienes aquí, pero no tienes el respeto suficiente como para escucharme.<LINE>¿Esta vez me escucharás?

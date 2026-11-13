@@ -1,0 +1,113 @@
+﻿0Strong and quick, requiring a steady diet of meat. But the stomach wont be your only<LINE>concern... this path is one of extreme peril where every cycle eats away at an ominous countdown.|Fuerte y rápido, requiere una dieta de carne constante. Pero el estómago no<LINE>será tu única preocupación... Este camino conlleva un peligro extremo, pues<LINE>cada ciclo reduce una amenazante cuenta atrás.
+Custom colors|Colores personalizados
+tips-distract|Puedes vencer con muchas tácticas a un depredador que bloquea el paso. Puedes<LINE>distraerlo, alejarlo con ruido, sacrificar algo para que se lo coma<LINE>en lugar de comerte a ti, etc.
+tips-hoarding|Si ya estás lleno de comida, puedes acumular suministros adicionales<LINE>dentro de tu refugio para que los ciclos futuros no sean tan complicados.
+tips-prepared|No viajes con las manos vacías. Tener objetos disponibles puede<LINE> determinar si sobrevives o si mueres... Nunca se sabe cuándo puedes necesitar algo en concreto.
+tips-backflip|Cambia rápidamente la dirección de movimiento y, al mismo tiempo, pulsa el botón<LINE>SALTAR. Esto iniciará una voltereta hacia atrás que llegará un poco más alto que un<LINE>salto normal. Las volteretas también pueden utilizarse para rodar.
+tips-vertpole|Cuando estés en el punto más alto de una voltereta hacia atrás, arroja la lanza hacia abajo para crear<LINE>un poste en el suelo. Usa esto para aumentar los lugares que puedes alcanzar.
+tips-wanderer|El trotamundos conoce todos los rincones del mundo y todo lo que ofrecen.<LINE>El viaje ante él es solo un paso más.
+Body|Cuerpo
+Eyes|Ojos
+HIGH|ALTA
+Restore Default|Restablecer predeterminados
+Back to options|Volver a opciones
+tips-spearstick|Las lanzas se pueden clavar en las superficies para crear postes de escalada improvisados. Utiliza esta<LINE>para abrir nuevas rutas y llegar a lugares a los que no podías acceder.
+tips-batharvest|Golpea con proyectiles a los mosca-murciélagos mientras vuelan para que sean más fáciles de capturar.<LINE>También usar lanzas para capturar varios a la vez.
+tips-reputation|Tus acciones desarrollan tu reputación entre la población del ecosistema.<LINE>Sé generoso incluso con tus enemigos y quizás te devuelvan el favor.<LINE>De lo contrario, puede que todo el mundo te quiera dar caza.
+tips-throwboost|Lanzar un objeto en el aire te da un ligero impulso en la dirección a la que lo lances.<LINE>Usa esto para ampliar el alcance horizontal de tus saltos.
+tips-tunnelturn|Mientras te arrastras por un lugar estrecho, mantén pulsado el botón SALTAR y la dirección opuesta<LINE>a la que estás mirando para darte la vuelta. Te moverás más rápido mientras mires en<LINE>la dirección en la que te arrastras.
+tips-powerthrow|Arrojar una lanza hacia delante mientras te deslizas le dará más velocidad<LINE>y potencia de impacto. Esto puede aturdir a las criaturas durante más tiempo<LINE>y atravesar ciertas defensas.
+tips-superslide|Lanza un objeto hacia atrás mientras te deslizas para aumentar drásticamente la<LINE>distancia recorrida.
+tips-wallpounce|Cuando te abalances sobre muros, toca el botón SALTAR justo en el momento<LINE>de contacto y mantén pulsado el botón de dirección hacia el muro<LINE>para aumentar drásticamente el impulso del rebote.
+HUE|TON
+SAT|SAT
+LIT|BRI
+LOW|BAJA
+CHOOSE|ELIGE
+MEDIUM|MEDIA
+Oh no.|Oh, no.
+Analog Sensitivity|Sensibilidad analógica
+tips-deathrecovery|La cadena alimentaria es compleja. Si tienes suerte, quizá hasta te puedas librar<LINE>de una criatura que te ha atrapado si hay otro depredador que se la quiere comer.
+tips-utilitycreats|No todas las criaturas son depredadores que hay que evitar. Hay muchas criaturas<LINE>que también pueden beneficiarte en tu viaje.
+FPS Limit|Límite de FPS
+Unlimited|Ilimitados
+tips-drop|Si pulsas a la vez el botón RECOGER y el botón ABAJO, pondrás<LINE>en el suelo el objeto que tienes en la mano sin lanzarlo.
+tips-roll|Al caer desde una gran altitud, mantén pulsado el botón ABAJO en diagonal rodar<LINE>al tocar el suelo. Esto reducirá el impacto de la caída y te dará<LINE>movilidad adicional.
+tips-swim|Muévete con un movimiento serpenteante bajo el agua para mejorar tu velocidad<LINE>al nadar. Mueve tu cuerpo hacia arriba y hacia abajo o hacia la izquierda y la derecha.
+tips-monk|El camino del monje es el de una presa que busca comida por este mundo para lograr sobrevivir.<LINE>Sin embargo, este camino no garantiza la seguridad en un mundo de depredadores.
+Quality|Calidad
+Backgrounds|Fondos
+tips-crouch|No es necesario mantener pulsado el botón ABAJO para permanecer agachado.<LINE>Pulsa ABAJO una vez para agacharte y pulsa ARRIBA para volver a ponerte de pie.
+tips-escape|Suele ser mejor evitar luchar y escapar siempre que sea posible.<LINE>Muchos depredadores son fuertes y peligrosos, así que no te pases de entusiasta.
+tips-cheese|Utiliza las tuberías para cruzarte con el depredador que te persigue. Esto puede ser<LINE>una forma fácil de quitártelos de encima.
+tips-cannon|Toca el botón SALTAR a la derecha cuando salgas de una tubería para impulsarte<LINE>rápidamente hacia el exterior.
+tips-martyr|El mártir no se preocupa por su propia supervivencia y se va<LINE>debilitando hasta que su cuerpo se convierte en polvo.
+tips-hunter|El camino del cazador es el de un depredador, pero en este mundo hostil y cruel<LINE>el botín de la caza no siempre garantiza la supervivencia.
+tips-outlaw|El forajido vive la vida de combate en combate.<LINE>Acaba con todos los que se le acercan, ya sean amigos o enemigos.
+tips-friend|El amigo vive entregado a los demás y a lo desconocido. El mundo es cruel y despiadado,<LINE>pero unidos podemos encontrar consuelo y protección.
+Old tongue controls?|¿Controles de lengua antiguos?
+Enable wallpouncing?|¿Activar abalanzarse sobre muros?
+Enable speedrun timer?|¿Activar el indicador de duración de partida?
+CONFIGURE TITLE SCREEN|CONFIGURAR PANTALLA DE TÍTULO
+Keep your friend safe!|¡Mantén a tu amigo a salvo!
+I must resume my work.|Debo volver al trabajo.
+Enable shelter item transport?|¿Activar el transporte de objetos en refugios?
+<CapPlayerName>, are you okay?|<CapPlayerName>, ¿estás bien?
+Enable slug senses?|¿Activar capacidad de detección?
+CONFIGURE SUB MENUS|CONFIGURAR SUBMENÚS
+Show tips between cycles?|¿Mostrar consejos entre ciclos?
+Enable Developer Commentary?|¿Activar comentarios de desarrollador?
+Change graphics quality|Cambiar la calidad de gráficos
+Take your pet with you.|Llévate a tu mascota contigo.
+Change menu background images|Cambiar las imágenes de fondo de los menús
+Display a speedrun timer at the top of the screen during gameplay?|¿Mostrar un indicador de duración de partida en la parte superior de la pantalla durante el juego?
+Activate tongue abilities with the throw button instead of the jump button?|¿Activar las habilidades de lengua con el botón LANZAR en vez de con el botón SALTAR?
+Allow passages to transport key items in your shelter to your new destination?|¿Permitir que los pasajes transporten objetos clave de tu refugio a tu nuevo destino?
+Allow nearby creatures and key items to be visible as icons on slugcat's memory map?|¿Permitir que las criaturas cercanas y los objetos clave sean visibles como iconos en el mapa memorizado del gato-babosa?
+Enable slugcat's wall pouncing ability from legacy Rain World versions?|¿Activar la habilidad del gato-babosa de abalanzarse sobre muros de versiones antiguas de Rain World?
+Spawn developer commentary collectables in the single player campaigns?|¿Hacer aparecer coleccionables de comentarios de desarrollador en las campañas de un jugador?
+Periodically show survival hints and explain gameplay mechanics for new players?|¿Mostrar periódicamente consejos de supervivencia y explicar mecánicas de juego para nuevos jugadores?
+Configure the background image used on the title screen|Configurar la imagen de fondo utilizada en la pantalla de título
+Configure the background image used in the sub menus|Configurar la imagen de fondo utilizada en los submenús
+Wiggling around quickly might startle this creature.|Puede que esta criatura se sobresalte si te mueves rápido a su alrededor.
+I am afraid to ask how you brought your friend here.|Me temo que tengo que preguntarte cómo has metido a tu amigo aquí.
+tips-clock|Al pulsar el botón MAPA también se revela otra información, como la barra de comida.<LINE>El círculo de puntos de la parte inferior izquierda representa el tiempo que falta para que llegue la lluvia.<LINE>¡Préstale mucha atención!
+tips-rocks|Puede que las piedras no sean un arma letal, pero tienen muchos usos prácticos. Pueden<LINE>distraer, desviar, desarmar, aturdir, revelar puntos débiles, derribar criaturas<LINE>de postes y cornisas, etc.
+tips-audio|Los sonidos son, a menudo, el primer indicador de un peligro inminente, incluso antes<LINE>de que el peligro pueda ver. Escucha con atención.
+tips-slide|Pulsa ABAJO en diagonal y el botón SALTAR mientras estás en movimiento para iniciar<LINE>un deslizamiento. Te deslizarás por el suelo y recorrerás una distancia rápidamente durante un breve<LINE>periodo de tiempo.
+tips-noise|Las criaturas pueden detectar tu presencia no solo al verte, sino<LINE>también al oírte. Ten cuidado de no ser demasiado ruidoso porque,<LINE>de lo contrario, podrías llamar la atención de algún depredador.
+tips-saint|El camino del santo es el del pacifismo. Dañar a otro ser significa hacerse daño a uno mismo.
+tips-nomad|El nómada vive en un mundo en constante cambio. Va pasando de una vida a otra<LINE>como si fueran los peldaños de una escalera infinita hacia un objetivo desconocido.
+Calm down!|¡Cálmate!
+tips-pipeflash|Las entradas de las tuberías parpadean cuando hay peligros al otro lado. El color del<LINE>parpadeo indica el tipo de peligro.
+tips-foodtypes|Los mosca-murciélagos y las frutas colgantes no son ni mucho menos las únicas<LINE>fuentes de alimento. Algunas plantas y criaturas son comestibles,<LINE>pero solo cuando se cumplen ciertas condiciones. Experimenta.
+tips-handorder|El objeto que tienes en la pata derecha es el principal que se usará o lanzará primero.<LINE>Al pulsar dos veces el botón RECOGER, cambiarás de manos los objetos que tengas en ellas.
+tips-slideleap|Pulsa SALTAR durante un deslizamiento mientras ruedas para encadenarlo con un salto<LINE>largo. Utiliza esto para aumentar tu movilidad y recorrer mucha distancia rápidamente.
+tips-turnboost|Cambiar rápidamente la dirección de tu movimiento te dará un ligero impulso de velocidad durante un<LINE>breve periodo tiempo en la nueva dirección. Sigue saltando después para mantener este<LINE>impulso de velocidad durante más tiempo.
+tips-chieftain|El líder vive entregado a la fuerza y la comunidad en mitad de lo desconocido. Se ha convertido en<LINE>parte de este mundo y, gracias a sus nuevos vínculos, sobrevivirá.
+tips-swallow|Los objetos pequeños no comestibles se pueden guardar en el estómago manteniendo<LINE>pulsado el botón RECOGER durante unos segundos. Del mismo modo,<LINE>puedes regurgitarlos al volver a mantener pulsado el mismo botón.
+tips-breathe|Presta atención al nivel de oxígeno que tienes antes de sumergirte en el agua.<LINE>Si no tienes los pulmones llenos, quédate quieto y date un segundo para recuperar el aliento.
+tips-polehop|Tocar el botón SALTAR justo antes de cruzarte con un poste horizontal te permitirá<LINE>rebotar en él. Puedes saltar sobre varios postes seguidos.
+tips-scholar|El erudito busca entender el mundo antiguo. Observa<LINE>el pasado cristalizado y encuentra significado en él.
+tips-deathpenalty|La muerte importa poco hasta que estés preparado para seguir adelante. Deja el miedo<LINE>a un lado y tómate un tiempo para experimentar, explorar, aprender la distribución<LINE>del terreno, aprender la ubicación de los alimentos, etc.
+tips-shelterstore|Los objetos almacenados en los refugios permanecerán allí entre ciclos y seguirán allí<LINE>incluso si abandonas la región. ¡Son los únicos lugares seguros para guardar tus<LINE>objetos de la lluvia!
+tips-dragonslayer|El asesino de dragones se entrega a la caza. Ha llegado a dominar las bestias de este mundo.
+What did you do!?|¡¿Qué has hecho?!
+Stop it! Go away!|¡Basta! ¡Vete de aquí!
+tips-tunnelboost|Toca el botón SALTAR mientras te arrastras por un algún lugar estrecho para darte un<LINE>ligero impulso de velocidad.
+tips-slidecancel|Durante un deslizamiento, toca rápidamente el botón SALTAR más la dirección opuesta<LINE>a la que dirijas. Esto cancelará el deslizamiento te devolverá al punto de partida.
+The use of some objects may not be obvious at first glance, experiment with everything you find!|Puede que algunos objetos no se usen como crees a primera vista. ¡Experimenta con todo lo que encuentres!
+There are many paths to explore in this world.|Hay muchos caminos que explorar en este mundo.
+If you are struggling, try returning to a previous region.|Si te atascas, prueba a volver a una zona anterior.
+You may find a new path forward, or discover something that makes your survival here easier.|Puede que encuentres un nuevo camino o descubras algo que te facilite sobrevivir.
+However, there is nothing that stops you from overcoming this region's challenges as you are right now.|Sin embargo, no hay nada que te impida superar los desafíos de esta zona en tu situación actual.
+Your friend is very large, how did you fit them in here?|Tu amigo es muy grande. ¿Cómo lo has podido meter aquí?
+How did you bring that in here... I think it is as surprised as I am!|¿Cómo has traído eso aquí?... ¡Creo que se sorprende tanto como yo!
+Oh, that is not a friend...|Ah, no es tu amigo...
+Oh...|Oh...
+I do enjoy the company of you and your friend though, <PlayerName>.|Aunque la verdad es que disfruto de tu compañía y la de tu amigo, <PlayerName>.
+Is this your friend, <PlayerName>?|¿Es amigo tuyo, <PlayerName>?
+Best of luck to you, and your companion. There is nothing else I can do.|Mucha suerte para ti y tu acompañante. No hay nada más que pueda hacer.
+Please do not bring more wildlife into my chamber.|No traigas más fauna a mi cámara, por favor.
+How did you fit them inside here anyhow?|¿Cómo lo has metido aquí?
+Take your friend with you. Please. I beg you.|Llévate a tu amigo. Te lo suplico.

@@ -1,0 +1,1351 @@
+﻿0THAI|タイ語
+Monk|僧侶
+AUTO|自動
+INFO|情報
+EXIT|終了する
+Run!|走れ！
+Jump|ジャンプ
+Move|移動
+Left|左
+Down|下
+View|ビュー
+Food|食料
+EDIT|編集
+PLAY|プレイ
+BACK|戻る
+NEXT|次へ
+You!|お前だ！
+You.|お前か。
+TRADITIONAL CHINESE|繁体字中国語
+Fixed campaign seed|キャンペーンシード固定
+watcher-description|新しいキャンペーン「ウォッチャー」を追加する拡張コンテンツです。<LINE>新しい地域、生物、メカニクス、アイテム、<LINE>150曲以上の新しい音楽トラックなどが含まれています。
+backup_info_loading|セーブスロット情報をロード中です...
+backup_info_no_data|このセーブスロットにはストーリーデータが存在していません。
+backups_description|過去にバックアップしたセーブデータを表示、作成、または復元します。
+save_file_corrupted|セーブファイルの読み込み、または初期化しようとした際にエラーが発生しました。<LINE>セーブデータを保護するため、ゲームの起動は停止しています。<LINE>次のエラーコードをAkupara Gamesサポートまでご連絡ください。<LINE><LINE>エラーコード：{ERROR}<LINE><LINE>セーブファイルのロードを再試行しますか？
+objecttype-PuffBall|胞子パフ
+objecttype-WaterNut|バブルフルーツ
+objecttype-Mushroom|マッシュルーム
+creaturetype-Spider|クモ
+creaturetype-BigEel|レビヤタン
+creaturetype-EggBug|タマゴ虫
+The Monk-linebreaks|僧侶
+Speedrun Validation|スピードラン検証
+switch_controls_map|Rボタン
+Showing level names|レベル名を表示
+ps4_region_map_help|R1を押して、地域マップを見る
+Successful cycles :|成功サイクル
+Helped Five Pebbles|小石男を援助した
+New arenas unlocked|新たなアリーナ開放
+mod_menu_apply_mods|改造の変更を適用中です。お待ちください...
+mod_menu_enable_all|すべての改造を有効にする
+Creating index maps|インデックスマップを作成
+OpDragger_MouseTuto|マウスボタンを長押ししながら、上下にドラッグして値を調整
+MenuModStat_MapTuto|<Button>を長押しし、コントロールを確認
+Loading screen tips|ロード画面のヒント
+Hunter Bonus Cycles|ハンターボーナスサイクル
+Visual breath meter|視覚呼吸メーター
+Scavenger headshots|
+NONE (User Defined)|なし（ユーザー定義）
+rwremix-description|新しいゲームプレイのメカニクスやボーナス機能など、設定可能なアクセシビリティ<LINE>機能やコミュニティから要望のあった機能を幅広く搭載しています。設定画面を<LINE>使用して、個々の機能のオン/オフを切り替えることができます。
+Hello <PlayerName>.|<PlayerName>よ。
+still, very... bad.|まだ、だめだ...。
+I will take a look.|見てみよう。
+There you go again.|まただ。
+again... leaving...|また... 行ってしまう...
+SIMPLIFIED CHINESE|簡体字中国語
+No Ringing in Ears|耳鳴りなし
+remix_game_version|ゲームのバージョンがアップデートされました。<LINE>リミックスメニューからMODを再適用する必要があります。
+ROUNDS SESSION-ru2|ラウンドセッション
+objecttype-SeedCob|ポップコーン植物
+objecttype-Lantern|ランタン
+objecttype-FlyLure|キャットニップ
+creaturetype-Leech|ヒル
+creaturetype-Snail|カタツムリ
+creaturetype-Hazer|イカ型生物
+Industrial Complex|工業団地
+Scavenger Merchant|商人のスカベンジャー
+Path of aggression|侵略への道
+Catch and eat them|捕まえて食べよう
+Configure controls|コントロールを設定
+No players joined!|参加プレイヤーがいません！
+Start new playlist|新規プレイリストをスタート
+minutes until rain|次に雨が降るまでの時間
+mod_menu_next_page|
+mod_menu_prev_page|
+mod_menu_configure|
+OpUpdown_MouseTuto|クリックして数字を入力し、矢印やスクロールホイールを使用して調整
+Dialog pauses rain|
+Lizard spear pulls|
+Slow Motion Factor|スローモーション要素
+remix_first_launch|追加のコンテンツと設定は、リミックスメニューから<LINE>アクセスできます。リミックスを使用すると、Rain Worldの<LINE>プレイで使用できるコンテンツを追加、変更、<LINE>カスタマイズすることができます。
+remix_dlc_redirect|コンテンツをクリックして、ストアページで詳細を確認しましょう。
+How have you been?|元気にしていたか？
+You're here again.|戻ってきたのだな。
+...you...killed...|... お前が... 殺した...
+Yet another thing?|他にもあるのか？
+Yet again leaving.|またもや行ってしまう。
+Yes, there you go.|そうだ。
+As I was saying...|言ったとおり...
+Stay! ... Still...|そのままいろ！...動くな...
+I am... too tired.|もう... 疲れ果てた。
+Disable Cosmetic Ripples|装飾の波紋を無効化
+save_file_error_continue|続行すると、ゲームのセーブ機能に問題が発生したり、<LINE>セーブデータが失われたりする可能性があります。本当に続行しますか？
+objecttype-ScavengerBomb|手りゅう弾
+creaturetype-GreenLizard|緑のトカゲ
+creaturetype-WhiteLizard|白のトカゲ
+creaturetype-BlackLizard|黒のトカゲ
+creaturetype-GarbageWorm|ゴミ捨て場のワーム
+creaturetype-TempleGuard|ガーディアン
+creaturetype-VultureGrub|ハゲタカ地虫
+creaturetype-KingVulture|ハゲタカの王様
+Predator has become prey|捕食者が餌食になった
+The Chieftain-linebreaks|族長
+Here is a strange energy|奇妙なエネルギーがみなぎっている
+switch_pause_help_pickup|タップしてオブジェクトを拾う
+Change screen resolution|画面の解像度を変更
+Arena mode music volume:|アリーナモードの音量
+switch_controls_movement|Lスティック
+switch_controls_hold_map|Rボタンを長押し
+Showing level thumbnails|レベルのサムネイルを表示
+ps4_fast_travel_map_help|R1を押して、続きをプレイしたい雨宿り場を選択
+ps4_save_progress_failed|セーブデータ保存中にエラー発生
+ps4_load_progress_failed|セーブデータが破損しているため、削除します
+mod_menu_load_order_down|改造の変更をマージするとき、この改造を他のものより先に適用してください。これは特定の改造の衝突を避けるのに役立ちます。
+OpComboBox_MouseOpenTuto|クリックしてリストを開く
+OpScrollBox_NonMouseTuto|確認を押してジョイスティックを使用して、さらに表示
+OpSimpleButton_MouseTuto|マウスボタンをクリックしてトリガー
+ModdingMenu_ControlThrow|戻る / キャンセル
+MenuModStat_ModsDownpour|実装済みの改造：
+Keep snails out of pipes|
+Additional lizard voices|追加のトカゲ音声
+Splashes alert creatures|
+Disable shelter failures|雨宿り場の失敗を無効化
+Unlock all sandbox items|すべてのサンドボックスアイテムをアンロック
+moreslugcats-description|タイムライン上でそれぞれユニークな新しい5つのキャンペーンを追加する拡張です。<LINE>この拡張には、新しい地域、生物、アイテム、音楽、異なるエンディング、<LINE>新しいゲームモードなどが含まれます。
+...is this reaching you?|... お前に伝わっているか？
+Oh, <PlayerName>. Hello!|ああ、<PlayerName>よ。よく来たな。
+Oh, <PlayerName>. Hello.|ああ、<PlayerName>よ。よく来たな。
+Oh... I will look at it.|さて...見てみよう。
+Oh... I will take a look|さて...見てみよう
+...rain... coming... Go!|... 雨が... 降る...行くんだ！
+...please... be still...|... じっと... してくれ...
+Disable cosmetic ripple effects that appear in the vicinity of some warp locations|一部のワープ地点付近に出現する装飾の波紋エフェクトを無効化します
+I do enjoy the company though. You're welcome to stay a while, quiet little thing.|話し相手がいるのは愉快なことだ。少しの間ここに居てもいいだろう。
+Disable Player Ripple Trail|プレイヤーの波紋の軌跡を無効化
+Complete the Hunter passage|ハンターの通路をクリアする
+Complete the Outlaw passage|無法者の通路をクリアする
+Complete the Friend passage|友達の通路をクリアする
+Complete the Martyr passage|殉教者の通路をクリアする
+Complete the Mother passage|女子修道院長の通路をクリアする
+objecttype-FirecrackerPlant|チェリーボム
+creaturetype-SmallCentipede|小型ムカデ
+Four is enough to hibernate|4つあれば休むのに十分だ
+invert_x_description_switch|スティックコントロールの水平軸を反転します。
+invert_y_description_switch|スティックコントロールの垂直軸を反転します。
+Player <X> will use gamepad|プレイヤーは、ゲームパッドを使用します
+Player vs player deathmatch|プレイヤー vs プレイヤー・デスマッチ
+Play each level three times|それぞれのレベルを3回プレイ
+switch_fast_travel_map_help|Rボタンを押して、続きをプレイしたい雨宿り場を選択
+OpComboBox_NonMouseOpenTuto|確認を押してリストを開く
+OpKeyBinder_MouseSelectTuto|クリックしてボタンの割り当てを変更
+OpSlider_NonMouseAdjustTuto|ジョイスティックを使用して調整し、確認を押して適用
+OpColorPicker_MouseTypeTuto|キーボードで希望する色の16進コードを入力
+OpSimpleButton_NonMouseTuto|確認ボタンを押してトリガー
+MenuModStat_ConsoleExplain0|このメニューは、Rain Worldの新しいプレイ方法を実現するリミックス<WWLINE>コンテンツの起動や設定を行うために使用されます。
+MenuModList_ListButton_Stat|インストールした改造のデータを表示
+MenuModList_ListSlider_Desc|円の上でマウスボタンを長押ししながら、上下にドラッグして改造リストをスクロール
+MenuModList_SearchBox_Empty|入力して検索...
+MenuModList_SearchBox_Query|検索キーワード：<Query>
+Connector_ResetConfig_Alert|<ModName>の設定をデフォルトに戻しました
+Arena creatures cannot flee|アリーナの生物は逃げる<LINE>ことができません
+Monk extra light assistance|僧侶の追加光アシスト
+Zero-gravity spear throwing|
+Unlock all arena characters|すべてのアリーナキャラクターをアンロック
+Oh, it's you, <PlayerName>.|君か、<PlayerName>。
+Please... don't do... that.|そんなことは... しないで... くれ。
+What is that, <PlayerName>?|<PlayerName>、それは何だ？
+Want it back, <PlayerName>?|返してほしいのか、<PlayerName>？
+Why should I tolerate this?|許されることだと思っているのか？
+As I tried to say to you...|お前に言おうとしていたとおり...
+Disable the visual trail that follows the player once achieving higher ripple attunement|プレイヤーが高い波紋調和に達した際に、プレイヤーの後ろに表示されるビジュアルエフェクトを無効化します
+You cannot use PlayStation™Network features in this application due to age restrictions.|年齢制限のため、このアプリケーションでPlayStation™Networkの機能をご利用いただけません。
+The following cheats unlock content you would normally unlock via finding unlock tokens.|以下のチートは、通常、アンロックトークンを見つけることで<LINE>入手できるコンテンツをアンロックします。
+Disable Lightning Flashes|雷の閃光を無効化
+backup_create_description|現在のセーブデータの内容を新しいバックアップセーブとして保存します。
+backup_delete_description|バックアップセーブのリストから選択したバックアップを削除します。
+mod_menu_restoring_backup|バックアップのセーブデータを復元しようとしています...
+ps4_load_save_slot_failed|セーブスロットのデータは破損しているため、削除されます。
+Complete the Monk passage|僧侶の通路をクリアする
+Find a way to communicate|連絡を取る方法を探す
+creaturetype-YellowLizard|黄色のトカゲ
+creaturetype-LanternMouse|ランタンネズミ
+creaturetype-RedCentipede|赤いムカデ
+One need not travel alone|一人で旅する必要はない
+You are hungry, find food|お腹が空いているようだ、食べ物を見つけよう
+invert_x_description_xbox|スティックコントロールの水平軸を反転します。
+invert_y_description_xbox|スティックコントロールの垂直軸を反転します。
+Switch to fullscreen mode|全画面モードに切り替え
+OpDragger_NonMouseUseTuto|ジョイスティックを使用して調整し、確認を押して設定
+OpKeyBinder_MouseBindTuto|ボタンを押して割り当て（ESCで割り当て解除）
+OpSlider_NonMouseGrabTuto|確認を押してインタラクト
+OpHoldButton_NonMouseTuto|確認ボタンを長押ししてトリガー
+MenuModStat_ModsInterface|リミックスユーザーインターフェースで有効な改造：<Number1>（設定可能：<Number2>）
+Show underwater shortcuts|水中のショートカットを表示
+Centipede pipe protection|ムカデパイプ保護
+Threat music visual pulse|脅威音楽の視覚的パルス
+Disable precycle flooding|プレサイクルの浸水の無効化
+Unlock all safari regions|すべてのサファリ地域をアンロック
+ps4_expedition_slot_title|Rain World 遠征
+ps4_expedition_core_title|Rain World 遠征 コア
+...thank you... better...|...これでいい... ありがとう...
+Tried to say... to you...|お前に... 言おうとしていた...
+Disable fullscreen flash and darkening effect that occurs when lightning strikes|雷が落ちた際に画面全体をフラッシュさせたり暗転させる効果を無効化します
+Reduce Passive Rain Intensity|演出用の雨の強さを軽減
+Complete the Survivor passage|生存者の道をクリアする
+Complete the Wanderer passage|放浪者の通路をクリアする
+Five Pebbles (Memory Conflux)|小石男（記憶の衝突）
+Hold to eat / swallow objects|長押しでオブジェクトを食べて飲み込む
+Configure controls for player|プレイヤーのコントロールを設定
+Standard items spawn on level|レベルにノーマルアイテムがスポーンされます
+ps4_save_progress_description|Rain World 進捗 {0} セーブデータ
+OpColorPicker_NonMouseSliders|ジョイスティックで上下を選択し、左右を調整。確認を押して適用
+OpScrollBox_MouseTutoSlidebar|スクロールホイールまたはスクロールバーを使用してさらに表示
+ConfigMenuTab_BackButton_Desc|メインメニューに戻る
+ConfigMenuTab_SaveButton_Desc|現在の改造の設定を保存して戻る
+MenuModList_ModButton_Display|<Mod>を表示
+MenuModList_ListButton_SwapUp|クリックして、この改造が上の改造より後にロードされるようにする
+MenuModList_ListButton_SwapDw|クリックして、この改造が下の改造より先にロードされるようにする
+MenuModList_ListButton_Expand|展開して改造リストのサムネイルを表示する
+No stealing Hunter back-spear|ハンターの背後の槍を盗まない
+Scavenger kill squad leniency|スカベンジャーキル部隊の慈悲
+Hide rain timer in safe areas|安全なエリアでタイマーを非表示
+No randomized cycle durations|サイクル持続時間のランダム化なし
+Rivulet Rain Timer Multiplier|
+Unlock the Outer Expanse gate|外部拡張ゲートをアンロック
+Steam manager not initialized|Steamマネージャーが初期化されていません
+This one again, <PlayerName>?|またこれか？<PlayerName>。
+Reduce the intensity of rain in regions where it appears as a cosmetic effect all cycle long|装飾エフェクトとして、サイクルを通して降り続ける地域の雨の強さを軽減します
+Reduce Other Effects Density|その他のエフェクトの密度を軽減
+Everything comes full circle|すべては一巡します
+Great strides have been made|大きく前進しました
+Complete the Scholar passage|学者の通路をクリアする
+Complete the Pilgrim passage|巡礼の通路をクリアする
+creaturetype-BrotherLongLegs|兄の長い脚
+creaturetype-SmallNeedleWorm|ヌードルフライの幼虫
+Press any button to continue|何かボタンを押して続行
+A Bell, Eighteen Amber Beads|ベル1つ、琥珀玉18個
+Two Sprouts, Twelve Brackets|芽2つ、ブラケット12個
+The Dragon Slayer-linebreaks|ドラゴン<LINE>スレイヤー
+Three is enough to hibernate|3つあれば十分冬眠できる
+Rain is coming! Find shelter|雨が降りそうだ！雨宿り場を見つけよう
+Score required to exit level|レベル終了にスコアが必要です
+Always allow players to exit|プレイヤーが好きな時に終了することを許可する
+ps4_save_options_description|Rain World オプション セーブデータ
+Reloading player progression|プレイヤーの進行状況を再読み込み
+OpKeyBinder_NonMouseBindTuto|ボタンを押して割り当て（一時停止で割り当て解除）
+MenuModStat_ModTargetVersion|ターゲットゲームバージョン：<TargetVersion>（現在のゲームバージョン：<GameVersion>）
+Artificer Explosion Capacity|職人の爆発処理能力
+Unlock all sandbox creatures|すべてのサンドボックス生物をアンロック
+Perhaps... I saw you before?|ひょっとして...以前に会ったことがあるか？
+Oh... Should I look at that?|さて...それを見てほしいのか？
+A gift for me, <PlayerName>?|私へのみやげ物か？$￥{PlayerName}よ。
+Oh... Never mind, I suppose.|さて...気にするな。
+I will...not speak to you...|私は... もうお前とは話さない…
+Reduce the density and visibility of other effects like wind trails, stardust, floating debris, etc.|風の軌跡、星屑、漂う破片など、その他のエフェクトの密度と可視性を軽減します
+Heavy VFX that may not be suited to those with sensitivity to flashing lights or prone to eye strain|強いVFXが登場するため、点滅や目の疲れに敏感な方には適さない場合があります
+Splashing in water can attract the attention of nearby creatures that hear the noise of the splashes|
+Settings designed to make the game significantly easier, but may weaken the overall game experience.|ゲームを大幅に簡単にするための設定ですが、ゲーム全体の体験を低下させる可能性があります。
+!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®|!\"#$%&'()*,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ\\_abcdefghijklmnopqrstuvwxyzÁáÉéÍíÑñÓóÚú®
+Reduce Floating Particles Density|浮遊粒子の密度を軽減
+Droplets upon Five Large Droplets|大きな滴5滴の上の滴
+Game Over - Press VIEW to restart|ゲームオーバー - 「ビュー」を押してやり直す
+3 - CHOOSE PRESET OR BIND BUTTONS|3 - プリセットを選択するかボタンを固定する
+PICK UP button - Select shelter_1|拾うボタン - シェルターを選択
+PICK UP button - Select shelter_2|拾う ボタン - 雨宿り場の選択
+PICK UP button - Select shelter_3|Y ボタン - 雨宿り場の選択
+PICK UP button - Select shelter_4|左ボタン - 雨宿り場の選択
+PICK UP button - Select shelter_5|Bボタン - 雨宿り場の選択
+OpKeyBinder_ErrorConflictOtherMod|ボタンと<AnotherModID>が衝突
+OpKeyBinder_MouseJoystickBindTuto|ボタンを押して割り当て（ESCで割り当て解除、CTRL + Numでコントローラー番号を設定）
+ConfigContainer_AlertCopyCosmetic|<Text>をクリップボードにコピーしました
+ConfigMenuTab_BackHoldButton_Desc|メインメニューに戻る（改造を適用せずに！）
+Passage progress without Survivor|生存者なしでの通路進行
+I will not speak to you any more.|私はお前とは今後一切話さない。
+Reduce the density of floating/falling particle effects like rot spores, Aether Ridge salt flakes, etc.|腐敗胞子、エーテルリッジの塩片など、漂う／降下する粒子エフェクトの密度を軽減します
+Less flashing lights, and the density of cosmetic visual effects is reduced to make gameplay more clear|点滅が少なく、装飾的ビジュアルエフェクトの密度が軽減され、ゲームプレイがより見やすくなります
+Adds additional deer behavior, like being able to influence their behavior by wiggling in their antlers|鹿の行動を調整し、鹿の行動に影響を与えるメカニクスを追加する
+You better go, <PlayerName>! I will be fine.<LINE>It's not pleasant, but I have been through it before.|行った方がいい、<PlayerName>！私は大丈夫だ。<LINE>気持ちのいいものではないが、以前にも経験したことがある。
+Disable Fetid Glen Rainbow Grain|悪臭の峡谷の虹粒子を無効化
+Followed your parental instincts|親の本能に従いました
+Player <X> will use the keyboard|プレイヤー<X>はキーボードを使用します
+switch_controls_singlejoycon_map|SRボタン
+Playing levels in selected order|選択した順にレベルをプレイ中
+OpKeyBinder_ErrorConflictVanilla|ボタンとバニラコントロールオプションが衝突
+OpKeyBinder_ErrorConflictCurrMod|[<ConflictButton>] ボタンはすでに使用中
+OpColorPicker_NonMouseModeSelect|確認を押してモードを選択
+ConfigMenuTab_RevertButton_Label|戻る
+Scavenger corpses have max karma|スカベンジャーの死体のカルマが最大値
+Unlock Developer Commentary mode|開発者解説モードをアンロック
+Please... thiss all I have left.|頼む... 私にはもうこれしかない。
+Ah... <PlayerName>, you're back!|<PlayerName>、戻ってきたのだな！
+Ah... <PlayerName>, you're back.|<PlayerName>、戻ってきたのだな。
+NO! I will...not speak to you...|やめろ！私は... もうお前とは話さない…
+A new gift for me, <PlayerName>?|私への新しいみやげ物か？<PlayerName>よ。
+<CapPlayerName>, this one again?|<CapPlayerName>、またこれか？
+Yes, take it and leave me alone.|そうだ、それを持って立ち去れ。
+I think the rain is approaching.|きっともうすぐ雨が降る。
+...leaving now? Don't... return.|... 今すぐ去るのか？戻って... くるな。
+Remove the grainy effect that appears in the background of Fetid Glen areas|悪臭の峡谷の背景に表示される粒子状のエフェクトを無効化します
+Go explore! There is food and shelter to be found, but beware of predators.|探検に行こう！食料や雨宿り場はあるが、君を狙う捕食者に注意しよう。
+Prevents underwater shortcut symbols from being obscured by the water layer|水中のショートカットマークが水層で見えなくなるのを防ぐ
+Changes the amount of bonus cycles Hunter can receive during their campaign|ハンターがキャンペーン中に受け取ることのできるボーナスサイクルの量を変更する
+The current session playtime will always be visible as a UI element in-game|キャンペーン期間中、キャラクターの合計プレイ時間がゲーム内のUI要素として常に表示されるようになる
+This option significantly decreases the difficulty of Artificer's campaign.|このオプションは、発明家のキャンペーンの難易度を大幅に下げます。
+Your account is in read-only mode due to a recent password or email change.|最近パスワードまたは電子メールを変更したため、<LINE>アカウントが読み取り専用になっています。
+These settings adjust the density of VFX for visual accessibility needs.|これらの設定は、視覚的アクセシビリティに配慮してVFXの密度を調整します。
+Show tutorial messages for Watcher's mechanics during the story campaign|ストーリーキャンペーン中に、ウォッチャーのメカニクスに関するチュートリアルメッセージを表示します
+Stops Scavengers from being able to steal the spear off of Hunter's back|スカベンジャーがハンターの背後の槍を盗むのを防ぐ
+Allow throwing spears upwards during a backflip in addition to downwards|特定の状況下で、オブジェクトを投げる方向や方法について追加のオプションを与える
+REDUCED|軽減
+MINIMAL|最小
+Special|スペシャル
+RESTORE|復元
+BACKUPS|バックアップ
+No data|データなし
+Closure|閉鎖
+REGIONS|地域
+OPTIONS|オプション
+The Leg|支柱部
+CREDITS|クレジット
+ENGLISH|英語
+ITALIAN|イタリア語
+SPANISH|スペイン語
+RUSSIAN|ロシア語
+CHINESE|中国語
+GAMEPAD|ゲームパッド
+Hold R1|R1ボタンを長押し
+Options|OPTIONS
+Hold RB|RBボタンを押す
+minutes|分間
+No rain|雨なし
+Survive|生存
+Winner!|勝者！
+RESTART|やり直す
+PASSAGE|通路
+Quits :|リタイア回数：
+Ranking|ランキング
+Profile|プロフィールを変更
+In Game|ゲーム内
+In Menu|メニュー内
+Version|バージョン
+General|一般
+Presets|プリセット
+CLASSIC|クラシック
+RELAXED|リラックス
+Assists|アシスト
+Failure|故障
+...you.|... 今すぐだ。
+Please!|頼む！
+Some cosmetic visual effects are disabled entirely, and many others are significantly reduced|一部の装飾的ビジュアルエフェクトが完全に無効化され、その他の多くのエフェクトも大幅に軽減されます
+Close Map Button|マップボタン - マップを閉じる
+Enable tutorials|チュートリアルを有効にする
+Follow the guide|ガイドに従う
+objecttype-Spear|槍
+creaturetype-Fly|コウモリ
+Select save slot|セーブスロットを選択
+Movement Buttons|移動ボタン
+Shuffling levels|レベルをシャッフル中
+Playing in order|順番にプレイ中
+rounds per level|レベルごとのラウンド
+Random creatures|ランダムな生物
+Trophy Collector|トロフィー収集家
+Press ? to start|「？」を押してスタート
+mod_menu_restart|適用した改造は、ゲームを再起動する必要があります。<LINE>「続ける」を押してから、ゲームを再起動します。
+Applying Changes|変更の適用
+Vulture darkness|
+Vanilla exploits|バニラの活用
+Aggressive Saint|
+Gameplay Assists|ゲームプレイアシスト
+Generic failure.|一般的な故障。
+remix_dlc_launch|新しいDLCが検出されました！インストールしたDLCは、<LINE>リミックスメニューから見つけて有効にすることができます。
+remix_dlc_locked|このコンテンツを有効にするには、追加のDLCを購入する必要があります。
+...yes... leave.|... ああ... 去れ。
+You... are back.|戻って...きたんだな。
+Little tormentor|いじめっ子
+Unlock Hunter campaign|ハンターキャンペーンをアンロック
+backup_restore_confirm|現在のセーブデータは削除されます！<LINE><LINE>「復元」を選択すると、すべてのセーブスロットのセーブデータがこのバックアップで上書きされます。<LINE>この操作は永久的なものであり、取り消すことはできません。<LINE><LINE>現在のセーブデータを{X}のデータで上書きしてよろしいですか？
+backup_restore_success|{X}のセーブデータが復元されました。
+backup_info_disclaimer|（ここに表示されているデータは、現在有効になっているMODに基づいています。<LINE>ここには現在無効になっているMODの追加データが存在している可能性があります）
+A final charitable act|最後の慈善活動
+Path of self-sacrifice|自己犠牲への道
+objecttype-VultureMask|ハゲタカマスク
+objecttype-DangleFruit|青い果実
+objecttype-KarmaFlower|カルマフラワー
+objecttype-BubbleGrass|バブル草
+creaturetype-RedLizard|赤のトカゲ
+creaturetype-PoleMimic|竿状植物
+creaturetype-MirosBird|ハサミ鳥
+creaturetype-Centipede|ムカデ
+creaturetype-Centiwing|空飛ぶムカデ
+creaturetype-Scavenger|スカベンジャー
+creaturetype-BigSpider|大型クモ
+Stronger climbing grip|より強いクライミンググリップ
+Path of the vegetarian|ベジタリアンの道
+The Scholar-linebreaks|学者
+The Journey-linebreaks|旅
+switch_tutorial_crouch|「下」を軽くタップしてしゃがむ
+Tap to pick up objects|タップしてオブジェクトを拾う
+Test your new controls|新たなコントロールを試してみる
+switch_controls_pickup|Yボタン
+switch_region_map_help|Rボタンを押して、地域マップを見る
+Sandbox item unlocked:|開放済みのサンドボックスのアイテム：
+ps4_save_options_title|Rain World オプション
+mod_menu_load_order_up|改造の変更をマージするとき、この改造を他のものより後に適用してください。これは特定の改造の衝突を避けるのに役立ちます。
+OpSlider_MouseTutoHrzt|マウスボタンを長押ししながら、左右にドラッグして値を調整
+OpSlider_MouseTutoVrtc|マウスボタンを長押ししながら、上下にドラッグして値を調整
+OpTextBox_NonMouseTuto|この要素はコントローラーでは変更できません
+OpHoldButton_MouseTuto|マウスボタンを長押ししてトリガー
+ModdingMenu_ControlMap|コントロールを表示
+MenuModStat_ModsRegion|有効な地域改造：<Number>
+MenuModList_SwapFailed|付属改造の前に必要な改造をロードできません
+OIError_Message_Update|OptionInterfaceの実行中に問題が発生しました。
+New dynamic difficulty|新しいダイナミックな難易度
+Legacy tongue controls|レガシー舌コントロール
+Upwards spear throwing|追加投球軌道
+Quieter gates/shelters|ゲート/雨宿り場の静音化
+Faster shelter opening|雨宿り場開放の高速化
+Pull spears from walls|壁から槍を引き抜く
+Unlock all collections|すべてのコレクションをアンロック
+expedition-description|この挑戦的な新しいゲームモードで、遠征に出かけましょう。永久の死を避けながら、<LINE>ランダムなチャレンジをクリアし、新たな便利な特典や過酷な任務、<LINE>そしてジュークボックスで再生できる音楽をアンロックしていきます。
+Please leave me alone.|ほっといてくれ。
+That... Oh, thank you.|それは...ああ、ありがとう。
+...don't... come back.|... 戻って... くるな。
+Oh... You are leaving.|さて...行ってしまうのだな。
+Good bye, I suppose...|別れとなるだろう...
+Unlock Watcher arena character|ウォッチャーアリーナキャラクターをアンロック
+ps4_load_save_slot_load_failed|セーブスロットをロードできません。エラーコード：{ERROR}
+ps4_load_expedition_run_failed|遠征実行データをロードできません。エラーコード：{ERROR}
+You have found another way out|あなたは別の手段を見つけました
+Complete the Chieftain passage|族長の通路をクリアする
+Complete the game as The Saint|聖人としてゲームをクリアする
+This land has become your home|この地が君の故郷となった
+switch_pause_help_switch_hands|ダブルタップでハンドを切り替え
+Playing levels in random order|レベルをランダムな順番でプレイ中
+OpKeyBinder_NonMouseSelectTuto|ジャンプを押してボタン割り当てを変更
+ConfigMenuTab_ApplyButton_Desc|現在選択されている改造を適用
+ConfigMenuTab_BackButton_Label|終了
+ConfigMenuTab_SaveButton_Label|適用
+ConfigMenuTab_ResetButton_Desc|現在の改造の設定をリセット
+No Hunter batfly auto-grabbing|ハンターのコウモリバエ自動捕獲禁止
+Disable all karma requirements|すべてのカルマ条件を無効にする
+Saint environmental protection|
+mod_workshop_upload_buttondesc|選択した改造をSteamワークショップにアップロード
+It's you, <PlayerName>. Hello.|<PlayerName>、お前か。よく来たな。
+NO! ... no. Let it go, please.|やめろ！... 放すのだ、頼む。
+You... brought that... for me?|私のために... それを... 持ってきたのか？
+And now you're taking it back.|それを取り返すのか。
+Please. Be still for a moment.|お願いだ。しばらくじっとしていてくれ。
+<CapPlayerName>... Never mind.|$ {CapPlayerName}...気にするな。
+Special Button|スペシャルボタン
+A Helping Hand|救いの手
+mod_menu_error|以下のエラーにより、MODを適用できませんでした：
+Garbage Wastes|生ゴミ
+Shaded Citadel|影の城塞
+Chimney Canopy|煙突キャノピー
+Unknown Region|不明な地域
+Scavenger Toll|スカベンジャーへの通行料支払い
+RESET PROGRESS|進捗のリセット
+Input Settings|入力設定
+Pick-Up Button|拾うボタン
+ROUNDS SESSION|ラウンドセッション
+RESUME SESSION|セッション再開
+Clear playlist|プレイリストをクリア
+Eating contest|捕食コンテスト
+Aggressive AI:|アグレッシブなAI：
+Change Profile|プロフィールを変更
+mod_menu_apply|選択した改造に変更を適用する
+Speedrun timer|スピードランタイマー
+jollycoop-name|ジョリーコープ
+Leaving again.|また去るのだな。
+switch_controls_singlejoyconl_special|方向キー上
+Something lurks amongst the clouds...|雲の間に何かが潜んでいる...
+Take the longer path to enlightenment|悟りへの長い道を歩む
+A significant gain, but at what cost?|膨大な収穫となるが、犠牲になるものは？
+Game Over - Press + Button to restart|Game Over: +ボタンを押してリスタート
+Game Over - Press - Button to restart|Game Over: -ボタンを押してリスタート
+switch_controls_singlejoycon_hold_map|SRボタンを長押し
+switch_controls_singlejoyconr_special|Yボタン
+Hold and drag to adjust score awarded|長押ししてドラッグし、付与されたスコアを調整
+ConfigContainer_AlertPasteNoncosmetic|<Text>をクリップボードから<ObjectName>に貼り付けました
+MenuModList_ModButton_Enable_NonMouse|確認を押してこのMODを有効にし、確認を長押ししてジョイスティックを使用し、ロード順序を切り替える
+Press CONTINUE to view and accept it.|続けるを押して表示し、同意します。
+Thank you. I do wonder what you want.|ありがとう。一体お前は何が欲しいのだ。
+Another thing you want me to look at?|他にも見てほしいものがあるのか？
+Would you like me to read this pearl?|この真珠を読んでほしいのか？
+And now you're taking it, apparently.|それを持って行くのか、どうやら。
+Triangle|さんかくボタン
+Survivor|生存者
+Invert X|Xを反転
+Invert Y|Yを反転
+Champion|チャンピオン
+NEW GAME|新しいゲーム
+THE MONK|僧侶
+Exterior|外観
+The Wall|壁
+The Monk|僧侶
+WINDOWED|ウィンドウ表示
+LANGUAGE|ゲンゴ
+JAPANESE|日本語
+KEYBOARD|キーボード
+Keyboard|キーボード
+4 - TEST|4 - テスト
+STANDARD|スタンダード
+CONTINUE|続ける
+Add item|アイテムを追加
+Deaths :|死亡数：
+Ascended|昇天済み
+PREVIOUS|前へ
+SaveData|セーブデータ
+Presets:|プリセット：
+Oh. You.|さあ。お前か。
+creature|生物
+Seed the determinations of warp point destinations to create less randomness in runs|ワープポイントの目的地の決定をシードし、ランのランダム性を減らします
+Increases the amount of time before you are forced to come up for air while drowning|溺れているときに空気を吸うまでの時間が長くなる
+Unlock Watcher campaign|ウォッチャーキャンペーンをアンロック
+backup_info_description|選択したバックアップの内容に関する情報を表示します。
+mod_menu_restore_backup|セーブデータの読み込みまたは初期化中にエラーが発生しました。ただし、このシステム上でバックアップセーブデータが検出されました。<LINE><LINE>続行してバックアップセーブの復元を開始します。
+Fates have been flipped|運命は一転しました
+creaturetype-PinkLizard|ピンクのトカゲ
+creaturetype-BlueLizard|青のトカゲ
+creaturetype-Salamander|サンショウウオ
+creaturetype-CyanLizard|シアンのトカゲ
+Embraced by a new tribe|新たな部族から受け入れられている
+The Survivor-linebreaks|生存者
+The Wanderer-linebreaks|放浪者
+invert_x_description_ps|スティックコントロールの水平軸を反転します。
+invert_y_description_ps|スティックコントロールの垂直軸を反転します。
+Gamepad <X> (Not found)|ゲームパッド<X><LINE>(検知されませんでした)
+switch_controls_special|Xボタン
+No rain timer exception|レインタイマーの例外なし
+Sandbox items unlocked:|開放済みのサンドボックスのアイテム：
+ps4_save_progress_title|Rain World 進捗 {0}
+ps4_save_options_failed|オプションデータ保存中にエラー発生
+ps4_load_options_failed|オプション セーブデータが破損しているため、削除します
+Failed to get rankings.|ランキングの取得に失敗しました
+Switch to windowed mode|ウィンドウモードに切り替え
+OpCheckBox_NonMouseTuto|確認を押して切り替え
+OpComboBox_MouseUseTuto|ボックスをダブルクリックして検索
+OpRadioButton_MouseTuto|クリックしてこのオプションを選択
+OpTextBox_MouseTutoGrab|クリックして入力
+OpTextBox_MouseTutoType|キーボードを使用して入力し、Enterを押して適用
+ModdingMenu_ControlJump|選択 / 確認
+ModdingMenu_ControlMove|移動 / 調整
+ModdingMenu_ControlPckp|クリップボード
+MenuModList_AskModApply|改造を設定する前に、まず「改造を適用」を押す
+Jetfish item protection|ジェットフィッシュアイテム保護
+Currently Active Preset|現在有効なプリセット
+mod_workshop_upload_ask|この改造をSteamワークショップにアップロードしますか？
+Hello there! You again!|よく来たな！またお前か！
+Hello there. You again!|よく来たな。またお前か！
+No, please, release it!|頼むから、それを放してくれ！
+That... That is for me?|それは...私のためか？
+...oh... to... save me?|... なんと... 私を... 救うためか？
+Thank you so very much!|本当にありがとう。
+Thank you... Sincerely.|ありがとう...本当に。
+Let's see... A pearl...|さてさて...真珠...
+Why are you doing this?|何故こんなことをするのだ？
+Please don't come back.|戻ってこないでくれ。
+(Normally requires completing the game as Survivor or Monk to unlock)|（通常、生存者または僧侶としてゲームをクリアすることでアンロックされます）
+WARNING! This will reset all of your progress except map exploration.|警告！マップ探索を除くすべての進捗がリセットされます。
+Red Lizards have a tongue and can snap spears in half with their bite|赤には舌があり、噛むと槍を真っ二つに折ることができる
+(Normally requires finding Orange unlock tokens in the campaign maps)|（通常、キャンペーンマップにあるオレンジのアンロックトークンを見つける必要があります）
+The intended gameplay loop is to have to actively hunt fresh corpses.|意図的なゲームプレイのループは、新鮮な死体を<LINE>積極的に狩る必要があるということです。
+Some of the metadata for this mod was invalid and cannot be accepted.|この改造のメタデータの一部が無効であり、承認できません。
+Maybe this is asking too much... But, would you bring me another one?|ぜいたくかもしれないが...もう一つ持ってきてくれないか？
+The rain is coming. If you stay, you will drown. Now, leave me alone.|雨が降りそうだ。ここに残ると、溺れてしまう。私のことはほっといてくれ。
+watcher-name|ウォッチャー
+Restart game|ゲームをやり直す
+THE SURVIVOR|生存者
+The Exterior|外観
+Five Pebbles|小石男
+Subterranean|地下
+The Survivor|生存者
+The Wanderer|放浪者
+A New Friend|新たな友達
+You are full|お腹がいっぱいだ
+Leap the gap|間を飛び越えよう
+View credits|クレジットを表示
+Pause Button|一時停止ボタン
+Throw Button|投げるボタン
+Select level|レベルを選択
+Low wildlife|野生動物の数わずか
+Level Items:|レベルアイテム：
+Barren level|不毛レベル
+IT'S A DRAW!|引き分けだ！
+Add creature|生物を追加
+Minor Assist|マイナーアシスト
+Major Assist|メジャーアシスト
+CLOSE MANUAL|マニュアルを閉じる
+rwremix-name|Rain World リミックス
+...please...|... 頼む...
+PICK UP button - Return to regional map_1|拾うボタン - 地域マップに戻る
+PICK UP button - Return to regional map_2|しかくボタン - 地域マップに戻る
+PICK UP button - Return to regional map_3|Yボタン - 地域マップに戻る
+PICK UP button - Return to regional map_4|方向キー左 - 地域マップに戻る
+PICK UP button - Return to regional map_5|Bボタン - 地域マップに戻る
+ps4_load_save_slot_restore_corrupt_failed|セーブスロットのデータが破損しています。<LINE>データのバックアップは存在しますが、バックアップデータを復元しようとした際にエラーが発生しました。
+Assign player <X> to the default controls|プレイヤー<X>をデフォルト操作に割り当てる
+Something lurks above the chimney tops...|煙突の上に何かが潜んでいる...
+These pearls are valued by the Scavengers|スカベンジャーたちはこれらの真珠に大きな価値を見出している。
+Game Over - Press PAUSE BUTTON to restart|ゲームオーバー - 「ポーズ」ボタンを押してやり直す
+Player <X> will use any connected gamepad|プレイヤー<X>は、接続されているデバイスならどれでも使用できる
+switch_single_joycon_fast_travel_map_help|SRボタンを押して、続きをプレイしたい雨宿り場を選択
+Press the MAP button to view regional map|地域のマップを表示するには、R1ボタンを押します
+Jellyfish are vulnerable to being stabbed|クラゲは刺されやすい
+Are you sure you want to use this preset?|本当にこのプリセットを使用しますか？
+Makes Saint's body immune to the elements|
+The operation timed out. Try again later.|操作がタイムアウトしました。後でもう一度お試しください。
+This item already exists on the workshop.|このアイテムは既にワークショップにあります。
+Previously uploaded mod has been updated.|以前アップロードされた改造が更新されました。
+And...now you expect me to... talk again?|また... 話してほしいと... 言うのか？
+JUMP button - View map for region_1|ジャンプボタン - 地域マップを表示
+JUMP button - View map for region_2|ばつボタン - 地域マップを表示
+JUMP button - View map for region_3|Bボタン - 地域マップを表示
+JUMP button - View map for region_4|方向キー下 - 地域マップを表示
+JUMP button - View map for region_5|Aボタン - 地域マップを表示
+ps4_load_expedition_restore_corrupt|遠征コアデータは破損していましたが、<LINE>データの最新のバックアップを復元することができました。
+You return from scouting a new land|新しい土地の調査から帰ってきました
+Four Needles under Plentiful Leaves|生い茂る葉の下の4本の針
+However, the game will not be saved|しかし、ゲームはセーブされません
+PS4 Dualshock<LINE>Controller Setup|DUALSHOCK®4<LINE>コントローラーセットアップ
+Hold Pause Button or Escape to exit|「ポーズ」ボタンを長押しするか「逃げる」で終了
+switch_controls_singlejoyconl_pause|-ボタン
+switch_controls_singlejoyconl_throw|右ボタン
+switch_controls_singlejoyconr_pause|+ボタン
+switch_controls_singlejoyconr_throw|Xボタン
+Press to add Player <X> to the game|押してプレイヤー<X>をゲームに追加
+ps4_save_progress_failed_free_space|セーブデータ保存中にエラー発生。空きスペース不足です。やり直しますか？
+USE UP + DOWN TO ADJUST SCREEN SIZE|上+下を押して、画面サイズを調整
+ConfigMenuTab_RevertHoldButton_Desc|改造の設定に関する現在の変更を破棄して戻る
+MenuModList_ModButton_NameAndAuthor|<ModAuthor>による<ModName>
+MenuModList_ModButton_Disable_Mouse|<Mod>を無効にする
+Could not find the files to upload.|アップロードするファイルが見つかりませんでした。
+Get... get away... white.... thing.|逃げろ... 白き... 生き物よ。
+Thank you, again. I feel wonderful.|ありがとうよ。素晴らしい気分だ。
+You want me to take a look at that?|それを見てほしいのか？
+Ah, you would like me to read this?|なるほど、これを読んでほしいのか？
+This... time... don't... come back.|今度は... もう... 戻って... くるな。
+Hunter|ハンター
+Random|ランダム
+CREATE|作成
+DELETE|削除
+PRESET|プリセット
+CANCEL|キャンセル
+Depths|深層部
+SCREEN|画面
+FRENCH|フランス語
+GERMAN|ドイツ語
+KOREAN|韓国語
+Player|プレイヤー
+Square|しかくボタン
+Circle|まるボタン
+Arrows|弓矢
+Paused|一時停止中
+minute|分間
+PLAYER|プレイヤー
+ALWAYS|常時
+REMOVE|外す
+Food :|食料：
+Time :|時間：
+cancel|キャンセル
+Select|選択
+? Back|? 戻る
+? play|? プレイ
+Legacy|レガシー
+Cheats|チート
+MANUAL|マニュアル
+TOPICS|トピック
+UPLOAD|アップロード
+LEAVE.|去れ。
+You...|早く...
+Hello!|よく来たな。
+Hello.|よく来たな。
+Again.|再び。
+*sigh*|（ため息）
+friend|友達
+little|チビ
+[ Notice ]|[ 通知 ]
+STORY DATA|ストーリーデータ
+The Martyr|殉教者
+The Mother|女子修道院長
+Rain World|Rain World
+STATISTICS|データ
+THE HUNTER|ハンター
+The Hunter|ハンター
+The Outlaw|無法者
+The Friend|友達
+Pilgrimage|巡礼
+FULLSCREEN|全画面
+SAVE FILES|ファイルをセーブ
+PORTUGUESE|ポルトガル語
+TEST INPUT|試験入力
+Left Stick|左スティック
+Hold Space|ホールドスペース
+Map Button|マップボタン
+Free food!|無料の食料！
+Loading...|ロード中...
+CROSS-SAVE|クロスセーブ
+Load Order|ロード順
+Oh, hello!|またやってきたのだな！
+Oh, hello.|またやってきたのだな。
+You again.|またお前か。
+...rain...|... 雨だ...
+...stop...|... やめろ...
+Thank you.|ありがとう。
+Issues found while loading mods!<LINE>Disabling problematic mods.<LINE>Press continue and then launch the game again.|MODのロード中に問題が見つかりました！<LINE>問題のあるMODを無効にしています。<LINE>「続ける」を押して、ゲームを再起動してください。
+...you ate... me. Please go away. I won't speak... to you.<LINE>I... CAN'T speak to you... because... you ate...me...|... お前が私を... 食べた。去ってくれ。お前とは... 話さない。<LINE>私は...話すことができない... お前に... 食べられたからだ...
+First you hurt me, then you come back to annoy me.<LINE>I wish I knew what was going on in that little head of yours.|まず、お前は私を傷つけた。そして、今度は何の用なのだ。<LINE>一体何のつもりだ？
+It's a weapon made with fire powder. Did the scavengers give this to you?<LINE>Be very careful if you have to use it!|それは火の粉で作られた武器だ。スカベンジャーがお前に与えたのか？<LINE>使うのであれば注意が必要だ！
+Desync detected between user mod data and game mod data!<LINE>Re-sycing data.<LINE>Press continue and then launch the game again.<LINE>Disabled mods:|ユーザーのMODデータとゲームのMODデータの間で非同期が検出されました！<LINE>データを再び同期しています。<LINE>「続ける」を押して、ゲームを再起動してください。<LINE>無効なMOD：
+Stops nearby explosions causing a ringing sound to play|耳鳴りを引き起こす周囲の爆発音を遮断してプレイ
+Find the canonical ending to The Spearmaster's campaign|槍マスターのキャンペーンの標準的なエンディングを探す
+Assign player <X> to the default PS4 Dualshock controls|プレイヤー<X>をデフォルトのDUALSHOCK®4操作に割り当てる
+Strange... it seems to have been used not too long ago.|おかしいな... 使われてからそんなに時間が経っていないようだ。
+backup_delete_confirm|バックアップ{X}を削除してよろしいですか？<LINE>この操作は取り消せません。
+backup_delete_success|{X}は削除されました。
+backup_create_success|新しいバックアップ{X}が現在のセーブデータから作成されました。
+backup_restore_failed|バックアップのセーブデータの復元中にエラーが発生しました。<LINE>セーブデータを保護するため、ゲームの起動を停止しました。<LINE><LINE>バックアップデータの復元を再試行しますか？
+Take what isn't yours|自分のものでないものを奪う
+Generating map images|マップ画像の生成
+objecttype-SporePlant|ハチの巣
+objecttype-NSHSwarmer|緑のニューロン
+creaturetype-SeaLeech|海のヒル
+creaturetype-TubeWorm|グラップリングワーム
+creaturetype-Overseer|監視者
+Path of the carnivore|肉食動物の道
+The Hunter-linebreaks|ハンター
+The Outlaw-linebreaks|無法者
+The Friend-linebreaks|友達
+Sound effects volume:|効果音の音量：
+XBox Controller Setup|XBoxコントローラーのセットアップ
+switch_controls_pause|+ボタン
+switch_controls_throw|Aボタン
+Add level to playlist|レベルをプレイリストに追加
+switch_update_players|プレイヤーを変更
+Play each level twice|それぞれのレベルを2回プレイ
+mod_menu_reapply_mods|前回のゲーム起動以降、一部の有効な改造が更新されました。<LINE>「続ける」を押して、更新を適用してください。
+OpUpdown_NonMouseGrab|確認を押してインタラクト
+OpScrollBox_MouseTuto|スクロールホイールを使用してさらに表示
+ModdingMenu_PckpTuto0|クリップボードボタンの操作：
+ModdingMenu_PckpTuto1|最初に確認ボタンで設定可能な要素を選択
+ModdingMenu_PckpTuto2|クリップボードボタンを長押しし、確認ボタンを押してクリップボードにコピー
+ModdingMenu_PckpTuto3|クリップボードボタンを長押しし、キャンセルボタンを押してクリップボードに貼り付け
+MenuModList_DummyDesc|
+OIError_GeneralAdvice|この問題は、最新の改造バージョンをダウンロードすることで解決する場合があります。
+No swim boost penalty|スイムブーストペナルティなし
+Rain Timer Multiplier|レインタイマー乗算
+Tweaked deer behavior|鹿の行動を微調整
+Alternate grenade arc|
+Item stems in sandbox|サンドボックスのアイテムの茎
+Reduce screen shaking|画面の揺れを軽減
+Unlock all challenges|すべてのチャレンジをアンロック
+Gathering information|情報収集
+jollycoop-description|最大4人でのローカル協力ストーリーなどのゲームモードです。<LINE>友達と一緒ならたびはさらに楽しくなります！
+You had your chances.|チャンスを逃しただろう。
+Oh, you want it back?|返してほしいのか？
+backup_restore_description|現在のセーブデータを、選択したバックアップの内容で上書きします。
+ps4_load_expedition_failed|遠征実行データは破損しているため、削除されます。
+Complete the Saint passage|聖人の通路をクリアする
+Complete the Nomad passage|遊牧民の通路をクリアする
+objecttype-SLOracleSwarmer|ニューロン
+objecttype-SSOracleSwarmer|ニューロン
+objecttype-OverseerCarcass|監視者の目
+creaturetype-DaddyLongLegs|父親の長い脚
+creaturetype-TentaclePlant|モンスター昆布
+creaturetype-SpitterSpider|唾吐きクモ
+creaturetype-BigNeedleWorm|ヌードルフライ
+Briefly tap DOWN to crouch|「下」を軽くタップしてしゃがむ
+Double tap to switch hands|ダブルタップでハンドを切り替え
+Player <X> is in the game!|プレイヤー<X>がゲームに参加中！
+Remove level from playlist|プレイリストからレベルを削除
+Resume unfinished playlist|未達成のプレイリストを再開
+Play each level four times|それぞれのレベルを4回プレイ
+Play each level five times|それぞれのレベルを5回プレイ
+mod_menu_fail_requirements|この改造は条件の問題により使用できません！以下の追加改造がインストールされているか確認し、問題がないことを確認してください：
+OpComboBox_MouseSearchTuto|ボックスにキーワードを入力して検索
+OpComboBox_NonMouseUseTuto|ジョイスティックを使用してスクロールし、確認を押して選択
+OpDragger_NonMouseGrabTuto|確認を押してインタラクト
+OpRadioButton_NonMouseTuto|確認してこのオプションを選択
+OpColorPicker_MouseRGBTuto|赤/緑/青のスライダーを使用して色を選択
+OpColorPicker_MouseHSLTuto|四角のカラーピッカーと明度スライダーから色を選択
+OpColorPicker_MousePLTTuto|パレットから色を選択
+MenuModList_SearchBox_Desc|クリックして入力して改造を検索
+Connector_SaveConfig_Alert|<ModName>の現在の設定を保存しました
+OIError_Message_Initialize|OptionInterfaceの初期化中に問題が発生しました。
+Vulture grub arena variety|
+Lossless scavenger corpses|損失のないスカベンジャーの死体
+Continue to the next cycle|次のサイクルへ進む
+Or did I say that already?|同じことをもう言ったか？
+Hello again, <PlayerName>!|また来たのか、<PlayerName>！
+Hello again, <PlayerName>.|また来たのか、<PlayerName>。
+I will accept your gift...|みやげ物を受け取ってやろう....
+CLOSE|閉じる
+STORY|ストーリー
+ARENA|アリーナ
+REMIX|リミックス
+Cycle|サイクル
+Music|音楽
+INPUT|入力
+Pause|一時停止
+Throw|投げる
+Right|右
+Cross|ばつボタン
+Space|スペース
+Shift|Shiftキー
+PLAY!|プレイ！
+Play!|プレイ！
+ERROR|エラー
+SCORE|スコア
+ROUND|ラウンド
+APPLY|適用
+Other|その他
+Remix|リミックス
+...me|...私を
+Oh...|さて...
+STOP!|止まれ！
+no...|やめろ...
+ps4_load_expedition_run_restore_corrupt_failed|遠征実行データが破損しています。<LINE>実行データのバックアップは存在しますが、バックアップデータを復元しようとした際にエラーが発生しました。
+You have delivered your most important message|最も重要なメッセージを届けました
+You completed every challenge laid before you.|目の前にあるチャレンジをすべてクリアしました。
+Clear every milestone quest in Expedition Mode|遠征モードですべてのマイルストーンクエストをクリアする
+You are not the only lost soul in this world..|この世界で孤立しているのは、お前だけではない。
+Additional food (above four) is kept for later|それ以上の食料（4つ以上）は後のために保存される
+Grab your prey and hold the eat button to feed|餌を掴んで、「食べる」ボタンを押して食べる
+MenuModList_ModButton_Disable_NonMouse_Console|確認を押してこのコンテンツを無効にし、右を押してリストに戻る
+MenuModList_ModButton_NonMouse_Display_Console|確認を押して表示し、左を押してこのコンテンツの切り替えボタンに移動
+ConfigTabController_TabSelectButton_UnnamedTab|#<TabIndex>タブに切り替え
+Not that it solves anyone's problem but yours.|他の誰でもなく、お前の問題を解決するものとなる。
+As I mentioned you do not have unlimited time.|前にも言ったと思うが、時間には制限がある。
+Another? You're no better than the scavengers!|もう一つあるのか？スカベンジャーも同然だぞ！
+I won't talk to you if you continue like this.|これを続けるのであれば、もうお前とは話さない。
+ps4_load_expedition_restore_corrupt_failed|遠征コアデータが破損しています。<LINE>コアデータのバックアップは存在しますが、バックアップデータを復元しようとした際にエラーが発生しました。
+Something lurks where the land fissures...|大地の裂け目に何かが潜んでいる...
+This place is safe. Stay here to hibernate|この場所は安全だ。ここで休もう
+There are also other significant drawbacks|他にも手強い障害物がある
+When only one player left, rain approaches|プレイヤーが一人取り残されると、雨足が近づいてくる
+ps4_save_expedition_core_failed_free_space|遠征コアデータ保存中にエラー発生。空きスペース不足です。やり直しますか？
+I... won't speak to you... if you do that.|そうするのであれば... もうお前とは... 話さない。
+Ah... <PlayerName>, a neuron from Pebbles?|それは... 小石男にもらったニューロンか？<PlayerName>。
+ps4_load_save_slot_restore_corrupt|セーブスロットのデータは破損していましたが、データの最新のバックアップを復元することができました。
+Complete the Dragon Slayer passage|ドラゴンスレイヤーの通路をクリアする
+Something lurks in the darkness...|暗闇の中に何かが潜んでいる...
+Complete the game as The Artificer|発明家としてゲームをクリアする
+Five Pebbles (General Systems Bus)|小石男（一般システムバス）
+Pick up / Eat button interactions:|拾う/食べるボタンの操作
+Game Over - Press SPACE to restart|ゲームオーバー - 「スペース」を押してやり直す
+switch_controls_singlejoyconl_jump|下ボタン
+switch_controls_singlejoyconr_jump|Aボタン
+ps4_save_options_failed_free_space|オプションデータ保存中にエラー発生。空きスペース不足です。やり直しますか？
+ConfigContainer_AlertPasteCosmetic|クリップボードから<Text>を貼り付けました
+MenuModList_ModButton_Enable_Mouse|<Mod>を有効にする
+Stronger bottomless pit indicators|底なし穴インジケーターの強化
+Monk-style gates for all campaigns|僧侶スタイルゲート
+Are you sure you want to continue?|本当に続けますか？
+That's all. You'll have to go now.|これだけだ。今すぐ行くのだ。
+You again? I have nothing for you.|またお前か？お前に与えられるものは何もない。
+I wonder what it is that you want?|何が欲しいのだ？
+I wish you would stop coming here.|もうここへは来ないでほしい。
+Oh... Of course I will take a look|さて...もちろん、見るとも。
+ps4_load_expedition_run_restore_corrupt|遠征実行データは破損していましたが、<LINE>データの最新のバックアップを復元することができました。
+Clear every challenge in Challenge Mode|チャレンジモードですべてのチャレンジをクリアする
+ConfigMenuTab_ModPercentageButton_Label|有効な改造：<CountModEnabled> / <CountModTotal>
+Allows Saint to be able to throw spears|
+The following options contain spoilers.|以下のオプションはネタバレを含みます。
+Workshop upload completed successfully!|ワークショップのアップロードが正常に完了しました！
+<CapPlayerName>! Stay still and listen.|$ {CapPlayerName}！じっとして聞いてほしい。
+invert_x_description|アナログスティックコントロールの水平軸を反転します。
+invert_y_description|アナログスティックコントロールの垂直軸を反転します。
+rounds per level-ru2|レベルごとのラウンド
+objecttype-FlareBomb|閃光弾
+objecttype-DataPearl|真珠
+objecttype-JellyFish|クラゲ
+objecttype-SlimeMold|スライムの変形体
+objecttype-EggBugEgg|タマゴ虫の卵
+objecttype-NeedleEgg|ヌードルフライの卵
+creaturetype-Slugcat|ナメクジネコ
+creaturetype-Vulture|ハゲタカ
+creaturetype-CicadaA|イカダ
+creaturetype-CicadaB|イカダ
+creaturetype-JetFish|ジェットフィッシュ
+creaturetype-DropBug|ハサミ虫
+Communications Array|通信アレイ
+Stolen Enlightenment|奪われた悟り
+Path of the pacifist|平和主義者への道
+The Saint-linebreaks|聖人
+switch_controls_jump|Bボタン
+Gametype description|ゲームタイプの詳しい説明
+Play each level once|それぞれのレベルを1回プレイ
+Normal Rain World AI|ノーマルな雨の世界AI
+for killing creature|生物を殺した
+Persistent creatures|不屈の生物
+controller_reconnect|プレイヤー{0}のコントローラーを再接続してください
+mod_menu_requirement|必要な追加改造：
+mod_menu_ext_authors|この改造のクレジットリストを表示
+mod_menu_disable_all|すべての改造を無効にする
+Building token cache|トークンキャッシュの構築
+OpCheckBox_MouseTuto|クリックして切り替え
+OpUpdown_NonMouseUse|ジョイスティックを使用して調整し、確認を押して適用
+MenuModStat_ModsFail|条件が不足している改造をインストール：
+Connector_UnnamedTab|#<TabIndex>
+Increased stun times|スタン時間の延長
+Wiggle out of grasps|捕獲から逃げる
+Key items on Passage|通路の重要なアイテム
+Monk extended breath|僧侶の呼吸延長
+Breath time leniency|呼吸時間の慈悲
+Rain timer tick-tock|レインタイマーのチクタク
+Vulnerable jellyfish|脆弱なクラゲ
+Unlock all campaigns|すべてのキャンペーンをアンロック
+More Slugcats Cheats|さらにナメクジネコチート
+Exit to title screen|タイトル画面へ戻る
+Preparing for upload|アップロードの準備
+devtools-description|マップや地域を編集したり、ゲームを改造するのに必要なツールを提供する、<LINE>ゲーム内の開発ツールを有効にします。<LINE><LINE>ゲーム内で「O」ボタンを押して、開発ツールを有効<LINE>無効にし、「H」ボタンを押すと、メインの開発ツールインターフェースが表示されます。
+...leave me alone...|... ほっといてくれ...
+Hello, <PlayerName>!|ようこそ、<PlayerName>よ！
+Hello, <PlayerName>.|ようこそ、<PlayerName>よ。
+...don't... do that.|... そんなことは... しないでくれ。
+Another gift for me?|また私へのみやげ物か？
+Again? ... just, go.|またか？... 早く行け。
+Little archaeologist|小さな建築家
+Clear the game as Survivor or Monk to unlock.|生存者または僧侶としてゲームをクリアするとアンロックできます。
+Objects can be picked up, carried, and tossed|物は拾ったり、運んだり、投げたりできる
+Some small creatures can be eaten immediately|小さな生物は、すぐに食べられてしまうことがあります
+MenuModList_ModButton_Enable_NonMouse_Console|確認を押してこのコンテンツを有効にし、右を押してリストに戻る
+Show icons of nearby creatures on the minimap|ミニマップに近くの生物のアイコンを表示
+You are bringing a neuron. Is it to taunt me?|ニューロンを持ってきたというのか。私をからかうつもりか？
+Your curiosity seems boundless, <PlayerName>.|<PlayerName>、お前の好奇心は計り知れないものだ。
+remix_dlc_restart|DLCを購入した場合、コンテンツを利用できるように<LINE>するためには、ゲームを再起動する必要があります。
+Expedition Leader|遠征リーダー
+creaturetype-Deer|レインディア
+Looks to the Moon|月
+Filtration System|ろ過システム
+The Dragon Slayer|ドラゴンスレイヤー
+Back to main menu|メインメニューに戻る
+1 - SELECT PLAYER|1 - プレイヤー選択
+2 - SELECT DEVICE|2 - デバイス選択
+Previous gametype|以前のゲームタイプ
+Reset score setup|スコア設定をリセット
+ps4_press_to_join|押して<LINE><LINE><LINE>参加
+minute until rain|次に雨が降るまでの時間
+per point of food|食料ポイントごと
+Delivered Payload|届いたペイロード
+Leaderboard empty|リーダーボードが空です
+mod_menu_finalize|（改造の適用を最終調整中です。お待ちください...）
+MenuModStat_ModID|ID：<ModID>
+Key item tracking|重要なアイテムの追跡
+Alpha red lizards|アルファレッド
+Unlock all arenas|すべてのアリーナをアンロック
+moreslugcats-name|さらにナメクジネコの拡張
+Yet another gift?|またみやげ物か?
+And you are back.|戻ってきたのだな。
+Within Time|時間内
+The Pilgrim|巡礼者
+DELETE SAVE|セーブを削除
+Sky Islands|スカイアイランド
+Farm Arrays|農場アレイ
+The Scholar|学者
+The Journey|旅
+Arena Music|アリーナの音楽
+Jump Button|ジャンプボタン
+NEW SESSION|新規セッション
+Spears Hit:|槍のヒット：
+Rain Timer:|レインタイマー：
+No wildlife|野生動物なし
+Level Food:|食料レベル：
+Allow exit:|終了を許可：
+Early Rain:|明け方の雨：
+SCREEN SIZE|画面サイズ
+Slug Senses|ナメクジ感度
+...leave...|... 去れ...
+This again.|またか。
+And...back.|戻って...。
+Back again.|再び。
+Here again.|またか。
+I...said...|言っただろう...
+Migration|移行
+Messenger|使者
+The Cycle|サイクル
+The Nomad|遊牧民
+Outskirts|郊外
+Shoreline|海岸線
+Underhang|アンダーハング
+The Saint|聖人
+Ascension|昇天
+SAVE SLOT|セーブスロット
+vibration|バイブレーション(振動)機能
+Connected|接続済み
+Wildlife:|野生動物：
+Spear hit|槍のヒット数
+GAME OVER|ゲームオーバー
+Clear all|全てクリア
+? Confirm|? 決定
+NEXT PAGE|次のページへ
+Next Page|次のページへ
+CONFIGURE|設定
+Author(s)|著者
+VIEW EULA|使用許諾契約書を表示
+Uploading|アップロード中
+A neuron.|ニューロン。
+tormentor|いじめっ子
+An Old Friend|旧友
+Memory Crypts|記憶の地下室
+The Chieftain|族長
+Music volume:|音楽の音量：
+Sound Effects|効果音
+Pick up / Eat|拾う / 食べる
+INPUT PRESETS|プリセットの入力
+Next gametype|次のゲームタイプ
+ROUND SESSION|ラウンドセッション
+Approximately|およそ
+Press to join|押して参加
+Repeat Rooms:|ルームのリピート：
+High wildlife|野生動物の数多め
+for surviving|サバイバル用
+per spear hit|(槍のヒット一回当たり)
+Configuration|コンフィグレーション
+HOLD TO START|長押ししてスタート
+REGION SELECT|地域の選択
+Fetching Data|データ取得中
+PREVIOUS PAGE|前のページへ
+Previous Page|前のページへ
+Accessibility|アクセシビリティ
+Hunter Cycles|ハンターサイクル
+Wall pouncing|壁の跳ね返り
+devtools-name|開発ツール
+Thank... you.|ありがとう...。
+What is that?|それは何だ？
+Another gift?|別のみやげ物か？
+...thank you.|...ありがとな。
+And...listen!|聞いてくれ！
+Little friend|友達の数わずか
+archaeologist|建築家
+The consequences of your journey have caught up with you|旅の結末は、あなたに追いつきました
+You encountered the echo of A Bell, Eighteen Amber Beads|ベル1つ、琥珀玉18個の残響と遭遇した
+You encountered the echo of Two Sprouts, Twelve Brackets|芽2つ、ブラケット12個の残響と遭遇した
+Press and hold, then use up/down to adjust score awarded|長押しして、上下ボタンを使用して付与スコアを調整
+You must update the application to use network features.|ネットワーク機能をご利用いただくには、アプリケーションをアップデートしてください。
+The presets below can be used to quickly reset settings.|以下のオプションを使用すると、<LINE>すべての設定をプリセット値にすばやく戻すことができます。
+RELAXED preset is a significant reduction in difficulty.|リラックスプリセットは、大幅に難易度を下げています。
+This option may actually make Rivulet's campaign harder.|このオプションは、逆にストリームのキャンペーンを<LINE>難しくしてしまう可能性があります。
+The scavengers must be jealous of you, finding all these|これすべてを見つけてくるなんて、スカベンジャーたちは、お前を羨んでいることだろう。
+You completed every expedition laid before you.|目の前にある遠征をすべてクリアしました。
+Something lurks in a flourishing outcropping...|隆々とした岩に何かが潜んでいる...
+Additional food (above three) is kept for later|それ以上の食料（3つ以上）は後のために保存される
+Hold down to wipe your save slot and start over|押し下げてセーブスロットをリセットし、最初からやり直します
+You are starving. Your game has not been saved.|飢えています。ゲームはセーブされません。
+Are you sure you want to disable this mechanic?|本当にこのメカニックを無効にしますか？
+You must accept the End User License Agreement.|使用許諾契約書に同意する必要があります。
+You're leaving yet again. This time, stay away.|それでもまた去っていくのだな。今回は、近づかないでくれ。
+Listened to the conflation of echoes|混じり合う残響に耳を傾けました
+Nineteen Spades, Endless Reflections|鋤19個、果てしなき反射
+Game Over - Press OPTIONS to restart|ゲームオーバー - オプションボタンを押してリスタート
+switch_controls_singlejoyconl_pickup|左ボタン
+switch_controls_singlejoyconr_pickup|Bボタン
+Creatures are vicious and aggressive|生物は凶暴で攻撃的だ
+switch_single_joycon_region_map_help|SRボタンを押して、地域マップを見る
+JUMP/THROW buttons - Switch layers_1|③/① ボタン - レイヤーの変更
+JUMP/THROW buttons - Switch layers_2|③/① ボタン – レイヤーの変更
+JUMP/THROW buttons - Switch layers_3|Bボタン/Aボタン - レイヤーの変更
+JUMP/THROW buttons - Switch layers_4|下ボタン/右ボタン - レイヤーの変更
+JUMP/THROW buttons - Switch layers_5|Aボタン/Xボタン - レイヤーの変更
+Title is offline or is disconnected.|タイトルがオフラインか接続されていません
+OpKeyBinder_NonMouseJoystickBindTuto|ボタンを押して割り当て（一時停止で割り当て解除、スタートでコントローラー番号を設定）
+ConfigContainer_AlertCopyNoncosmetic|<Text>を<ObjectName>からクリップボードにコピーしました
+ConfigMenuTab_RevertHoldButton_Label|元に戻す
+MenuModList_ModButton_RainWorldDummy|
+Are you sure you want to view these?|本当にこれらを表示しますか？
+Yes, you're welcome to have it back.|もちろん返してやる。
+Oh, leaving. Please don't come back.|去るのだな。戻ってこないでくれ。
+Something lurks at the highest reaches of the world...|世界の最高峰に何かが潜んでいる...
+Assign player <X> to the default XBox controller setup|プレイヤー<X>をデフォルトXBoxコントローラーのセットアップに割り当てる
+Select which levels to play<LINE>in the level selector|レベルセレクターで<LINE>プレイするレベルを選択してください
+Shows a visual pulse on screen when threats are nearby|脅威が近くにある場合、画面上に視覚的なパルスを表示する
+All lizard breeds have unique sound effects and voices|すべてのトカゲの種類は、ユニークな効果音と音声を備えている
+(Normally requires completing Gourmand's food tracker)|（通常は、食いしん坊のフードトラッカーを完成させる必要があります）
+Mod's thumbnail image should have a 16:9 aspect ratio.|改造のサムネイル画像は、アスペクト比が<LINE>16:9である必要があります。
+If you eat it or leave with it, I will die. I beg you.|お前がそれを食べるか持ち去ってしまえば、私は死ぬ。お願いだ。
+Oh, I have already read this one to you, <PlayerName>.|ああ、これはもう既に君に読んだだろう、<PlayerName>。
+Complete the game as The Survivor or as The Monk|生存者または僧侶としてゲームをクリアする
+ConfigMenuTab_ModPercentageButton_MouseEnableAll|クリックしてすべての改造を有効にする
+MenuModList_ModButton_NonMouse_Configure_Console|確認を押して設定し、左を押してこのコンテンツの切り替えボタンに移動
+Access was denied. Do you own the game on Steam?|アクセスが拒否されました。<LINE>Steamでゲームを所有していますか？
+This one I've already read to you, <PlayerName>.|これはもう既に君に読んだだろう、<PlayerName>。
+Complete the game as The Hunter|ハンターとしてゲームをクリアする
+Your travels have taken you far|はるか遠くまで辿り着いた
+You have left this world behind|君はこの世界から旅立った
+ConfigMenuTab_ApplyButton_Label|改造を適用
+ConfigMenuTab_RevertButton_Desc|改造リストに戻る
+ConfigMenuTab_ResetButton_Label|設定のリセット
+MenuModList_ModButton_Configure|<Mod>を設定
+MenuModList_ListButton_ScrollUp|マウスボタンを長押ししたまま、改造リストを上にスクロール
+MenuModList_ListButton_ScrollDw|マウスボタンを長押ししたまま、改造リストを下にスクロール
+MenuModList_ListButton_Collapse|閉じて改造リストのサムネイルを非表示にする
+Connector_ChangeActiveTab_Alert|現在有効なタブを<TabName>に切り替えました
+Connector_ChangeActiveMod_Alert|現在表示されている改造を<ModName>に切り替えました
+Enable the wall pounce mechanic|壁の跳ね返りメカニックを有効にする
+ps4_expedition_slot_description|Rain World 遠征 セーブデータ
+ps4_expedition_core_description|Rain World 遠征 コアデータ
+ps4_save_expedition_core_failed|遠征コアデータ保存中にエラー発生。
+ps4_load_expedition_core_failed|遠征コアデータが破損しているため、削除します。
+It's you, <PlayerName>!  Hello!|<PlayerName>、お前か！よく来たな！
+You... Strange thing. Now this?|お前...不思議なやつだ。今度はこれか？
+Oh, what is that, <PlayerName>?|<PlayerName>、それは何だ？
+You would like me to read this?|読んでほしいのか？
+Find the canonical ending to The Gourmand's campaign|食いしん坊のキャンペーンの標準的なエンディングを探す
+Find a destination for The Hunter's starting payload|ハンターの最初のペイロードの目的地を探す
+ConfigMenuTab_ModPercentageButton_NonMouseDisableAll|確認を押してすべてのMODを無効にする
+Pause the rain timer while dialog is being displayed|
+Discourages Snails from idling inside pipe entrances|
+It is recommended to use this only as a last resort.|これは、最終手段としてのみ使用することを推奨します。
+I don't know what to say. Never come back, creature!|何を言えばいいかわからない。二度と戻ってくるな、生き物よ！
+Little creature, why don't you stay calm and listen?|小さな生き物よ、落ち着いて聞いてくれ。
+Find the canonical ending to The Rivulet's campaign|ストリームのキャンペーンの標準的なエンディングを探す
+Dropping food in the water might attract creatures.|水に食べ物を落とすと、生き物が寄ってくるかもしれない。
+ConfigMenuTab_ModPercentageButton_NonMouseEnableAll|確認を押してすべてのMODを有効にする
+Cannot update mod with no pre-existing workshop ID.|既存のワークショップIDがない場合、<LINE>改造をアップデートできません。
+There is nothing here. Not even my memories remain.|ここには何もない。私の記憶すら残っていないのだ。
+Something new you want me to look at, <PlayerName>?|何か私に見てほしいものがあるのか？<PlayerName>よ。
+It's a bit dusty, but I will do my best. Hold on...|少し埃をかぶっているが、読んでみよう。少し待ってくれ...
+Now if you'll let me, I will try to say this again.|望むのであれば、もう一度言ってやろう。
+It's a rock. Thank you, I suppose, little creature.|岩だ。礼を言わなければならないな、小さな生き物よ。
+objecttype-Rock|岩
+Drainage System|排水システム
+History lessons|歴史の授業
+Change language|言語を変更
+Bind <X> button|<X>ボタンを固定
+Back to options|オプションに戻る
+round per level|レベルごとのラウンド
+Medium wildlife|野生動物の数が普通
+SESSION RESULTS|セッション結果
+Finding Changes|変更の確認
+Fast map reveal|高速マップ表示
+Extra tutorials|追加のチュートリアル
+Easier dropwigs|
+Quality of Life|クオリティ・オブ・ライフ
+Unlock Slugpups|ナメクジの子をアンロック
+expedition-name|遠征
+Leave me alone!|ほっといてくれ！
+Please stop it!|やめてくれ！
+Little creature|小動物
+Prevents falling off from poles when throwing objects|物を投げる際にポールからの落下を防ぐ
+Swim boosting will not consume additional breath time|スイムブーストは追加の呼吸時間を消費しない
+Removes visual effects that cause the screen to shake|画面の揺れの原因となる視覚効果を除去する
+Are you sure you want to disable ALL karma mechanics?|本当にすべてのカルマメカニクスを無効にしますか？
+Mod's thumbnail image must be less than 1 MB in size.|改造のサムネイル画像は、1MB未満である必要があります。
+Your account is locked or has a community or VAC ban.|あなたのアカウントはロックされているか、<LINE>コミュニティまたはVAC禁止されています。
+The workshop service is unavailable. Try again later.|ワークショップサービスは利用できません。<LINE>後でもう一度お試しください。
+Yet another gift? You're quite curious, <PlayerName>!|またみやげ物か?<PlayerName>、お前はずいぶん好奇心旺盛だな。
+A nimble omnivore, both predator and prey. Lost in a harsh and indifferent<LINE>land you must make your own way, with wit and caution as your greatest assets.|捕食者でもあり、獲物でもある身軽な雑食動物。荒廃した地で道を見失った君は<LINE>あらゆる能力を駆使して、賢くそして慎重にこの旅を切り抜けなければならない。
+Weak of body but strong of spirit. In tune with the mysteries of the world and<LINE>empathetic to its creatures, your journey will be a significantly more peaceful one.|体力は儚くても、強靭な精神力の持ち主。世界の謎とそこに生息する生物への暖かい思いやりが調和し<LINE>平和に満ちた旅路となるだろう。
+Strong and quick, with a fierce metabolism requiring a steady diet of meat. But the<LINE>stomach wont be your only concern, as the path of the hunter is one of extreme peril.|強くて素早く、新陳代謝が活発なので、安定した肉の供給が食事として必要だ。<LINE>しかし、胃袋を満たすことだけにとらわれていてはいけない。狩人の道は、非常に過酷なのだ。
+Five Pebbles (Unfortunate Development)|小石男（不幸な展開）
+Six Grains of Gravel, Mountains Abound|砂利6粒、たくさんの山々
+Jump and grab them. They're delicious!|ジャンプしてつかもう。おいしい！
+Takes input from any connected gamepad|接続済みのデバイスからの<LINE>入力を取得します
+switch_controls_singlejoyconl_movement|Lスティック
+switch_controls_singlejoyconr_movement|Rスティック
+Unlock all the Trophies in Rain World!|Rain Worldのトロフィーのロックを全て解除しよう！
+MenuModList_ModButton_Disable_NonMouse|確認を押してこのMODを無効にし、確認を長押ししてジョイスティックを使用し、ロード順序を切り替える
+MenuModList_ModButton_NonMouse_Display|確認を押して<Mod>を表示する
+ConfigTabController_TabScrollButton_Up|マウスボタンを長押ししたまま、タブリストを上にスクロール
+ConfigTabController_TabScrollButton_Dw|マウスボタンを長押ししたまま、タブリストを下にスクロール
+The following cheats contain spoilers.|以下のチートはネタバレを含みます。
+Mod uploaded with Unlisted visibility.|未公開でアップロードされた改造です。
+Ah... <PlayerName>, you're here again!|<PlayerName>、戻ってきたのだな！
+Ah... <PlayerName>, you're here again.|<PlayerName>、戻ってきたのだな。
+I must ask you... Don't do that again.|頼みがある...もう二度としないでくれ。
+Rain... You better go. I will be fine.|雨だ...行った方がいい。大丈夫だ。
+<CapPlayerName>... Please settle down.|$ {CapPlayerName}...落ち着いてくれ。
+Yes, there you go. This is ridiculous.|そうだ。ばかばかしい。
+Five Pebbles (Recursive Transform Array)|小石男（再帰的変換アレイ）
+You need to eat meat to sustain yourself|肉を食べないと衰弱してしまう
+Default singleplayer<LINE>keyboard setup|シングルプレイヤーのデフォルト<LINE>キーボードセットアップ
+OpKeyBinder_ErrorConflictOtherModDefault|デフォルトボタンと<ModID>が衝突
+MenuModList_ModButton_NonMouse_Configure|確認を押して<Mod>を設定する
+You are not currently logged into Steam.|現在、Steamにログインしていません。
+Yes, help yourself. They are not edible.|好きなだけ取っていけ。ちなみに食べられないぞ。
+This pearl has been written to just now!|この真珠はまだ書かれたばかりだ！
+You encountered the echo of Droplets upon Five Large Droplets|大きな滴5滴の上の滴の残響と遭遇した
+Press while holding down direction (crouching) to drop object|下向きに操作してしゃがんでいる間に押して、オブジェクトをドロップ
+You must activate this mod before attempting to configure it.|設定を試みる前に、この改造を有効にする必要があります。
+I won't tolerate this. Leave immediately and don't come back.|これは許されないことだ。今すぐ去り、二度と戻ってくるな。
+As you can see, I have nothing for you. Not even my memories.|見てのとおり、お前に与えられるものは何もない。私の記憶すらないのだ。
+Here we go again, little archeologist. Let's read your pearl.|それでは、小さな考古学者よ。お前の真珠を読んでみよう。
+You encountered the echo of Four Needles under Plentiful Leaves|生い茂る葉の下の4本の針の残響と遭遇した
+Show a visual indicator on the UI of your remaining breath time|残りの呼吸時間をUI上に視覚的に表示する
+Lizards can pull embedded spears out of walls with their tongue|
+Failed to acquire User Generated Content lock. Try again later.|ユーザー生成コンテンツのロックを取得できませんでした。<LINE>後でもう一度お試しください。
+You encountered the echo of Nineteen Spades, Endless Reflections|鋤19個、果てしなき反射の残響と遭遇した
+Warning, too many creatures may result in poor game performance.|ご注意：生物の数を多く設定すると、ゲームのパフォーマンスが低下することがあります。
+Reduces the amount of time taken to get started with a new cycle|新しいサイクルを開始するまでの時間を短縮する
+One of your workshop mods already has the same name as this one.|ワークショップにある改造の一つが、<LINE>これと同じ名前を既に使用しています。
+I appreciate what you have done but it is time for you to leave.|してくれたことには感謝しているが、もうここから出てもらう時間だ。
+Let us see... to be honest, I'm as curious to see it as you are.|さて... 正直、お前と同様私にとっても興味深いものだ。
+You encountered the echo of Six Grains of Gravel, Mountains Abound|砂利6粒、たくさんの山々の残響と遭遇した
+You must apply new mods setup before attempting to configure them.|改造の設定を試みる前に、保留中の変更を改造リストに適用する必要があります。
+Stops Hunter from automatically grabbing batflies with a free hand|ハンターが空いた手で自動的にコウモリバエを捕まえるのを防ぐ
+Increases the radius of Monk's hologram light in pitch-black areas|真っ暗なエリアで僧侶のホログラムの光の半径が広がる
+Prevents the chance of waking up early before the rain has stopped|雨が止む前に早起きしてしまうことを防ぐ
+(Normally requires finding Red unlock tokens in the campaign maps)|（通常、キャンペーンマップにある赤のアンロックトークンを見つける必要があります）
+<CapPlayerName>, if you do that, I will not speak to you any more.|<CapPlayerName>、もしそうするなら、お前とはもう話をしない。
+The highest enlightenment, achieved by the hardest path. A feat even the guardians must respect.|最も過酷な道で達成できた者だけが得られる悟りの境地。ガーディアンさえも尊重すべき偉業だ。
+Standard Remix settings. Many mechanical tweaks that may mix up the way the game is experienced.|標準のリミックス設定。多くの機械的な調整により、ゲーム体験が混在する可能性があります。
+When crouching, hold the JUMP button without giving any other input|しゃがんでいる間、「ジャンプ」ボタンのみを押す
+Allow players to exit when rain is close or only one player is left|雨足が近づいているか、残っているプレイヤーが1人しかいない場合、プレイヤーが終了できるようにします
+Reduces the overall speed of the game to assist with reaction times|反応時間をアシストするため、ゲーム全体のスピードを低下させる
+(Normally requires finding Blue unlock tokens in the campaign maps)|（通常、キャンペーンマップにある青のアンロックトークンを見つける必要があります）
+??????????????????????????????????????????????????????????????????™|??????????????????????????????????????????????????????????????????™
+Something new you want me to look at,<LINE>I suppose, <PlayerName>?|私に見てほしい、新しいものだろう、<LINE><PlayerName>？
+This creature is dehydrated. You can carry it back to water.|この生き物は水を失っている。また水のある場所へ連れていこう。
+Prevent injured creatures from fleeing to dens in arena mode|アリーナモードで負傷した生物が巣穴に逃げるのを防ぐ
+Increases the amount of underwater breath time that Monk has|僧侶の水中呼吸時間が増加する
+(Normally requires completing all Challenge Mode challenges)|（通常、すべてのチャレンジモードのチャレンジを完了する必要があります）
+Best of luck to you, little creature. I must resume my work.|小さな生き物よ、健闘を祈っている。こっちも仕事に戻らんとな。
+Never do that again. Or just kill me quickly. Whichever way.|二度とそんなことはするな。さもなければ、すぐに私を殺してくれ。どちらでもいい。
+I think we have already talked about this one, <PlayerName>.|もう、これについては話しただろう、<PlayerName>。
+Larger prey needs to be incapacitated first|大きな餌は、まず動けないようにする必要があります
+Little creature. This is your last warning.|小さな生き物よ。これは最後の警告だ。
+Please don't... take... more from me... Go.|これ以上... 私から... 何も奪わないでくれ...行け。
+And yet another one! I will read it to you.|またもう1つ！読んでやろう。
+I've told you about this one, <PlayerName>.|このことはもう話したはずだ、<PlayerName>。
+And now you expect me to continue speaking?|私に話し続けてほしいと言うのか？
+It's a delicious plant. You should have it!|おいしい植物だ。それは持っているはずだろう！
+It is possible to hibernate with less than sufficient food|食料が不足していると、冬眠状態になる場合があります
+It is not recommended to use these on a first playthrough.|これらの機能を最初のプレイで使用することはおすすめしません。
+This mod already exists on the workshop by another author.|この改造は、他の作成者によって既にワークショップにあります。
+Release that, and leave. I will not speak to you any more.|それを放して、ここを去れ。私はお前とは今後一切話さない。
+Thank you... That is a little better. Thank you, creature.|ありがとう...少しよくなった。ありがとう、生き物よ。
+In a shelter, hold DOWN for several seconds to force hibernate|シェルターで数秒間「下」向きに押すと強制的に冬眠します
+Multiplies the total duration of the rain timer by this amount|レインタイマーの合計時間をこの量で乗算する
+The rain timer makes a tick-tock noise while the UI is visible|UIが表示されている間、レインタイマーがチクタクと音を立てる
+Vultures that appear in dark rooms are cloaked by the darkness|
+Press CONTINUE after accepting the End User License Agreement.|使用許諾契約書に同意した後、続けるを押します。
+Press CONTINUE to view and/or edit your uploaded workshop mod.|アップロードしたワークショップの改造を<LINE>表示および/または編集するには、続けるを押します。
+WARNING!<LINE>This will reset all progress in the selected save slot,<LINE>including map exploration. Unlocked arenas and<LINE>sandbox items are retained.|警告！この操作を実行すると、マップ探索を含む<LINE>選択したセーブスロットがリセットされます。<LINE>開放済みのアリーナとサンドボックスは<LINE>維持されます。
+WARNING!<LINE>This will reset all of your progress except map exploration.|警告！<LINE>この操作を行うと、マップ探索状況以外の進行状況が全てリセットされます。
+WARNING! Too many creatures may result in bad game performance or crashes.|ご注意：生物の数を多く設定すると、ゲームパフォーマンスの低下あるいはクラッシュが発生する場合があります。
+Please log in to STOVE Client with the account that has purchased the game|Please log in to STOVE Client with the account that has purchased the game
+Gives the player the ability to dislodge spears that are embedded in walls|プレイヤーに壁に刺さった槍を引き抜く能力を与える
+(One time use) Fast travel to any discovered shelter, recovering all karma|（1回のみ使用）発見された雨宿り場へ高速移動し、すべてのカルマを回復する
+Show information on loading screens that helps verify settings used and the legitimacy of runs.|ロード画面に、使用した設定や実行の正当性を確認するための情報を表示する。
+Give a grace period on cycle start and region entry before scavenger kill squads can attack you|スカベンジャーのキル部隊が攻撃する前に、サイクルの開始と地域の参入に猶予期間を与える
+Advantageous glitches and speedrunner exploits are made available to use again with this option|このオプションを使用すると、有利なグリッチとスピードランナーを再び使用できるようになる
+Similar to the original Rain World experience, but with a few quality of life settings enabled.|オリジナルのRain World体験に似ていますが、いくつかのクオリティ・オブ・ライフ設定が有効になっています。
+Map|マップ
+Esc|Escキー
+Yes|はい
+YES|はい
+HUD|HUD
+run|走れ
+Up|上
+R1|R1
+RB|RB
+ok|OK
+No|いいえ
+NO|いいえ
+Assign player <X> to the default keyboard controls|プレイヤー<X>をデフォルトキーボード操作に割り当てる
+Increase the speed that the minimap reveals itself|ミニマップが表示される速度を上げる
+(Normally requires completing Gourmand's campaign)|（通常は、食いしん坊のキャンペーンを完了する必要があります）
+This menu contains cheats to unlock content early.|このメニューには、コンテンツを早期アンロックできるチートが含まれています。
+What are you? If I had my memories I would know...|お前は何者だ？記憶さえ残っていれば...
+If you behave like this, why should I talk to you?|このような行動をするお前と、なぜ話さなければならない？
+Paused - Warning! Quitting after 30 seconds into a cycle counts as a loss|ポーズ中 - ご注意！サイクルを初めて30秒間経過後にリタイアすると負けとなります
+By comparison, the RELAXED preset may weaken the overall game experience.|比較すると、リラックスプリセットはゲーム全体の<LINE>体験を低下させる可能性があります。
+(Normally requires completing campaigns and clearing previous challenges)|（通常、キャンペーンを完了し、前のチャレンジをクリアする必要があります）
+Shelter failures give periodic reprieves by providing longer cycle times.|雨宿り場が故障すると、サイクル時間が長くなり、定期的な回復が可能になります。
+Paused - Warning! Quitting without saving in a shelter will permanently end your game|ポーズ中 - ご注意！シェルターでセーブせずにやめるとそのゲームデータはセーブされずに終わります
+For all campaigns, gates will remain open permanently after passing through them once|すべてのキャンペーンで、一度通過したゲートは永久に開いたままになる
+Spearing a scavenger directly in their head will do significantly more damage to them|
+The maximum number of subsequent explosion actions Artificer can perform before dying|発明家が死ぬまでに実行できる爆発アクションの最大数
+Limit exceeded. You may need to reduce the filesize or remove prior workshop content.|制限を超過しました。ファイルサイズを小さくするか、以前の<LINE>ワークショップのコンテンツを削除する必要があるかもしれません。
+A little animal, on the floor of my chamber. I think I know what you are looking for.|私のもとへ訪れた、小さな生き物よ。お前が何を探しているかはわかっている。
+Really exit? Note that quitting after 30 seconds into a cycle counts as a loss.|本当に終了しますか？サイクルの開始30秒間後にリタイアすると負けとなります。
+You get these at Five Pebbles'?<LINE>Thank you so much. I'm sure he won't mind.|小石男のところでもらったのか？<LINE>ありがたい。奴は迷惑に思わないだろう。
+Create custom scenarios using levels, items and creatures<LINE>that have been unlocked in the single player campaigns.<LINE>Defeating creatures or other actions can be set to award points,<LINE>but Sandbox is mostly about customization and fun!|ストーリーキャンペーンでアンロックされたレベル、アイテム、生物を使用して、<LINE>カスタムシナリオを作成します。<LINE>生物を倒したり、その他のアクションを行ったりすると、ポイントを獲得できるように設定できますが、<LINE>サンドボックスはカスタマイズして楽しむことが基本です！
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.|しかしお前の場合はもう一つやり方がある。古い道だ。「広大な農場」の道を西へずっと進み、陸地に亀裂が入っているところを<LINE>できる限り深く地球の下へと降りて行け。だが、そこは古代人たちが寺院を建て、おかしな儀式を行っていた地だ。
+Compete in a battle against each other and the elements.<LINE>In this mode points are awarded for food items consumed,<LINE>with surviving players always ranking above dead players.<LINE>New levels, items and creatures can be unlocked in the<LINE>single player campaigns.|お互いの要素との戦いを競い合います。<LINE>このモードでは、食料品を消費するとポイントが与えられ、生き残ったプレイヤーは<LINE>死亡したプレイヤーよりも必ず上位にランク付けされます。<LINE>ストーリーキャンペーンでは、新しいレベル、アイテム、生物をアンロック<LINE>することができます。
+No items except what you place in the editor|エディターに設置するアイテムのみ
+Allow players above a specific score to exit|上記のプレイヤーは、特定のスコアを達成すると終了できます
+MenuModList_ModButton_NonMouse_Blank_Console|左を押してこのコンテンツの切り替えボタンに移動
+ConfigTabController_TabSelectButton_NamedTab|<TabName>タブに切り替え
+This mod cannot be uploaded to the Workshop.|この改造は、ワークショップにアップロードできません。
+It's still warm... this was in use recently.|まだ温かい... 使われてまだ間もないようだな。
+W|W
+L|L
+Press the MAP button to select the shelter you wish to continue from|開始地点の雨宿り場を選択するには、R1ボタンを押します
+These are recommended starting points based on different playstyles.|これらは、様々なプレイスタイルに基づいた推奨のスタート地点です。
+It also largely negates the game's difficulty curve and progression.|また、ゲームの難易度曲線や進行状況も大きく損なわれます。
+(Normally requires finding Green unlock tokens in the campaign maps)|（通常、キャンペーンマップにある緑のアンロックトークンを見つける必要があります）
+“Go west, past the Farm Arrays and then down deep into the earth...”|「農場アレイの道を西へずっと進み、陸地に亀裂が入っているところをできる限り深く地球の下へと降りて行け...」
+Please sign in to PlayStation™Network to view leaderboards.|リーダーボードを表示するにはPlayStation™Networkにサインインしてください。
+Progress towards Trophies will only be tracked for player 1|トロフィーの進行状況は、プレイヤー1のみ追跡できます
+This may SIGNIFICANTLY alter your experience with the game.|これにより、ゲーム体験が大きく変わる可能性があります。
+(Normally requires completing previous campaigns to unlock)|（通常、アンロックするには前のキャンペーンをクリアする必要があります）
+Stop doing... this, or I... will not speak... to you again.|やめて... くれ... さもないと、もう二度と... お前とは話さない。
+You have been signed out from PlayStation™Network. Please connect to PlayStation™Network to view Leaderboards.|PlayStation™Networkからサインアウトしています。PlayStation™Networkに接続すると、リーダーボードをご覧いただけます。
+Items that typically attach to the terrain with a stem will spawn with their stems when placed in Sandbox mode|通常、茎で地形に固定するアイテムは、サンドボックスモードで配置すると、茎とともにスポーンする
+... You're getting quite good at this you know. A little archeologist beast.<LINE>Now, let's see what it says.|...これが得意になってきているようだな。小さな考古学者よ。<LINE>何が書かれているか見てみようではないか。
+ConfigMenuTab_ModPercentageButton_MouseDisableAll|クリックしてすべての改造を無効にする
+This mod does not have any configurable settings.|この改造には、独自のリミックスユーザーインターフェースや設定がありません。
+Thank you little creature. I must resume my work.|小さな生物よ、ありがとう。こっちも仕事に戻らんとな。
+Thank you. I must ask you... Don't do that again.|ありがとう。頼みがある...もう二度としないでくれ。
+Periodically shows tips and tutorials during the loading screen between cycles|サイクル間のロード画面で定期的にヒントやチュートリアルを表示
+Adds an additional trajectory of throwing grenades if the up direction is held|
+Introduces a few additional in-game tutorial messages for certain mechanics and scenarios|特定のメカニクスやシナリオに関するゲーム内のチュートリアルメッセージをいくつか追加導入
+All cycles will have the same duration, and will always use the longest duration possible|すべてのサイクルは同じ持続時間であり、常に可能な限り長い持続時間が使用される
+You should try the 'Monk-style Gates' option first before resorting to using this option.|このオプションを使用する前に、まず「僧侶スタイルゲート」<LINE>オプションをお試しください。
+Increases the amount of time that rocks and snail pops can cause some creatures to be stunned for|岩やカタツムリが一部の生物のスタン時間を延長する
+Dynamic difficulty is influenced by number of regions visited more than number of cycles survived|ダイナミックな難易度は、生存したサイクル数よりも訪問した地域数に影響される
+Gives a chance of escaping from different grasps by rapidly wiggling with the movement buttons|移動ボタンを素早く操作することで、様々な捕獲から逃げるチャンスが与えられる
+Multiplies the total duration of the shortened rain timer by this amount in Rivulet's Campaign|
+Prevents Jetfish from being able to knock items out of your hands|ジェットフィッシュがあなたの手からアイテムを奪い取るのを防ぐ
+Changes the amount of cycles Hunter starts with in their campaign|ハンターのキャンペーンで開始するサイクルの量を変更する
+You're stuck in a cycle, a repeating pattern. You want a way out.|繰り返すパターンのサイクルにはまってしまったようだな。抜け出したいのだろう。
+Another pearl! You want me to read this one too? Just a moment...|また別の真珠か！これも読んでほしいのか？少し待ってくれ...
+A pearl... This one is crystal clear - it was used just recently.|真珠...これは透明だな - つまり、まだ使われたばかりだ。
+Gives a small chance of being able to survive a direct attack from a dropwig|
+Use the throw button to activate tongue controls rather than the jump button|ジャンプボタンではなく、投げるボタンを使用して舌のコントロールを有効にする
+Passages bring all key items in a shelter with you to the new destination, rather than just the stomach item|通路は、お腹のアイテムだけでなく、雨宿り場のすべての重要なアイテムを新しい目的地に持っていく
+It's a piece of sharpened rebar... What is it you want to know?<LINE>You seem proficient enough at using it.|鉄筋を鋭く研いだものだ...知りたいことは何だ？<LINE>それを十分に使い慣れているようだが。
+Key items are tracked on the map and will respawn on subsequent cycles if they are lost, at the location they were lost|重要なアイテムはマップ上で追跡することができ、紛失した場合、次のサイクルで紛失した場所にリスポーンする
+Centipedes will release you if you go through a pipe while you are grabbed by one|ムカデにつかまったままパイプを通過すると、ムカデから解放される
+Prevents the chance of the region being flooded during a shelter failure scenario|雨宿り場が故障した場合、地域が浸水する可能性を防ぐ
+Makes the death gradients on bottomless pits more visible|底なし穴の死のグラデーションをより見やすくする
+Allow throwing spears directionally while in zero gravity|
+This option disables multiple core mechanics of the game.|このオプションは、ゲームの複数のコアメカニクスを無効にします。
+It is strange... I'm remembering myself, but also... him.|不思議なことだ...自分自身のことを思い出したが... あいつのことも。
+Allow passing any gate for free, regardless of your current karma level|現在のカルマレベルに関係なく、どのゲートも無料で通過できる
+Hide the remaining cycle time while in maps that are safe from the rain|雨に当たらない場所のマップにいる間は、残りのサイクル時間を非表示にする
+And this one is fresh! It was not long ago this data was written to it!|これはまだ新しい！このデータが書かれてまだ間もないようだ！
+Vulture Grubs have a chance to summon stronger vulture types in arena mode if those types are unlocked|
+If enabled, all scavenger corpses in Artificer's campaign always have the maximum possible karma value|有効にすると、発明家のキャンペーンに登場するすべてのスカベンジャーの死体が、常に最大限のカルマ値を持つようになる
+Allows certain passages to gain progress even before the Survivor passage has been achieved|生存者の通路を達成する前でも、特定の通路を進行できるようにする
+Reduces the volume for the sound effects of gates and shelters opening|ゲートと雨宿り場が開くときの効果音を下げる
+Let us try again - not that it has worked well before. I was saying...|もう一度試してみよう - 上手くいったことがあるわけではないが。言ったとおり...
+If you are having trouble, you may want to try The Monk campaign first. It may help you get a better feel for the game and ease you into Rain World.|問題が発生した場合は、最初に僧侶キャンペーンを試しましょう。<LINE>ゲームの感覚をつかみ、Rain Worldに慣れやすくなるかもしれません。
+If enabled, scavenger corpses in Artificer's campaign don't lose karma after each cycle|有効にすると、発明家のキャンペーンで、スカベンジャーの死体は各サイクル後にカルマを失わない
+(Normally requires delivering pearls and finding broadcast tokens in the campaign maps)|（通常、真珠を配達し、キャンペーンマップでブロードキャストトークンを見つける必要があります）
+Know that this does not make you special - every living thing shares that same frustration.<LINE>From the microbes in the processing strata to me, who am, if you excuse me, godlike in comparison.|しかしその苦しみを抱えるのはお前だけではない - 生きているものはすべて、同じ失望を感じているのだ。<LINE>発達途中の微生物から、それに比べると神的存在である私まで、皆。
+Look at me. The only thing I have to offer is my words.<LINE>If you come here, I must assume you want me to speak? So then would you PLEASE listen?<LINE>If not, you are welcome to leave me alone.|私を見るのだ。お前に与えられるのは、私の言葉だけだ。<LINE>ここへ来るということは、私に話してほしいのだろう？それなら、頼むから聞いてくれ。<LINE>さもなければ、ここを去るのだ。
+The bad news is that no definitive solution has been found. And every moment the equipment erodes to a new state of decay.<LINE>I can't help you collectively, or individually. I can't even help myself.|悪い知らせは、まだ解決策が見つかっていないことだ。そして、力は刻一刻と衰退の道を辿っている。<LINE>誰かと団結しても、一人で試みようとも、お前を救うことはできない。自分自身を救うことすらできないのだ。
+At the end of time none of this will matter I suppose, but it would be nice if you took another way out.<LINE>One free of... frolicking in my memory arrays. There is a perfectly good access shaft right here.|最終的には何も問題にはならないだろう。だが、別の抜け道を探した方がいい。<LINE>... 私の記憶を弄ぶことのないものを。すぐここに、そこへ行くために非常に良い道がある。
+For you though, there is another way. The old path. Go to the west past the Farm Arrays, and then down into the earth<LINE>where the land fissures, as deep as you can reach, where the ancients built their temples and danced their silly rituals.<LINE>The mark I gave you will let you through.|だが、お前には別の方法がある。古い道だ。農場が続く道を西へずっと進み、陸地に亀裂が入っているところを<LINE>できる限り深く地球の下へと降りて行く。そこは、古代人たちが寺院を建て、馬鹿馬鹿しい儀式を行っていた地だ。<LINE>私がお前に与えた印が、導いてくれるだろう。
+The good news first. In a way, I am what you are searching for. Me and my kind have as our<LINE>purpose to solve that very oscillating claustrophobia in the chests of you and countless others.<LINE>A strange charity - you the unknowing recipient, I the reluctant gift. The noble benefactors?<LINE>Gone.|まずは良い知らせから言おう。私はある意味、お前が探し求めているものだ。お前を含む、その他無数の生物たちが<LINE>胸に秘める閉所恐怖症を解決してやるのが、我々の目的だ。<LINE>奇妙な慈善行為といえるだろう - お前はその恩恵を認識しておらず、私は渋々それを行っている。りっぱな恩人だと？<LINE>そんなものは最早存在しない。
+You must be very brave to have made it all the way here. But I'm sorry to say your journey here is in vain.|はるかここまで来るとは、ずいぶん勇敢だな。しかし、残念ながら無駄な旅だった。
+It is good to have someone to talk to after all this time!<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|久々に話し相手がいるのはありがたいな。<LINE>スカベンジャーたちはあまり話を聞いてくれない。しかし、彼らは時々物を持ってきてくれる....
+I'm still angry at you, but it is good to have someone to talk to after all this time.<LINE>The scavengers aren't exactly good listeners. They do bring me things though, occasionally...|私はまたお前に怒りを感じているが、久々に話し相手がいるのはありがたいな。<LINE>スカベンジャーたちはあまり話を聞いてくれない。しかし、彼らは時々物を持ってきてくれる....
+Even the scavengers that come here from time to time leave with nothing. But... I have told you that already, haven't I?|ここにたまにやってくるスカベンジャーですら、手ぶらで去っていく。しかし...それはもう言ったかな？
+I have had scavengers come by before. Scavengers!<LINE>And they left me alive!<LINE>But... I have told you that already, haven't I?|前にはスカベンジャーたちもやってきた。スカベンジャー！<LINE>奴らは私を生きたままにした！<LINE>しかし...それはもう言ったかな？
+You must excuse me if I repeat myself. My memory is bad.<LINE>I used to have a pathetic five neurons... And then you ate one.<LINE>Maybe I've told you that before as well.|もし同じことを繰り返していたらすまない。私の記憶力は悪いのだ。<LINE>私は粗末なニューロンを5つ持っていた...そしてお前はその1つを食べてしまった。<LINE>これももうお前に話したかもしれない。
+Or actually I'm sure he would, but he has so many of these~<LINE>it doesn't do him any difference.<LINE>For me though, it does! Thank you, little creature!|いや、思うかもしれないが、奴はこれを大量に持っている~<LINE>大したことではないだろう。<LINE>だが私にとっては大きな救いとなる。ありがとう、小さな生き物よ！
+You come here, but you can't be respectful enough to listen to me.<LINE>Will you listen this time?|お前はここに来るが、私の言うことを聞こうとしていないだろう。<LINE>今度はしっかり聞くのか？
