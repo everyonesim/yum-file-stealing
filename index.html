@@ -165,7 +165,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13m";
+    var BUILD_VERSION = "2026-11-13n";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -577,6 +577,7 @@ html, body {
     var currentFileAt = 0;
     var seenFiles = [];
     var HUD_PACKED = 0;
+    var hudMissingCount = 0;
     var hudFillPercent = 0;
     function hudShow(percent, text, detail) {
         hudFillPercent = percent;
@@ -603,6 +604,12 @@ html, body {
                     return entry.split("/").slice(-1)[0];
                 }).join(", ")
                 : ""));
+        if (info.missing && info.missing.length && info.missing.length !== hudMissingCount) {
+            hudMissingCount = info.missing.length;
+            hudShow((info.dirTotal ? (info.dirDone / info.dirTotal) * 100 : 0),
+                "missing asset: " + info.missing[info.missing.length - 1],
+                info.missing.length + " file(s) not in any source, served zero bytes");
+        }
         clearTimeout(window.__fileHide);
         window.__fileHide = setTimeout(function () {
             if (Date.now() - currentFileAt >= 3900) currentFile = "";
