@@ -72,6 +72,12 @@ jsDelivr and selcdn were both tried as a faster host for the assets and neither
 will serve this branch: the tree is over their package limits, so they answer 403.
 The raw branch is the remote source.
 
+The mount lowercases every path, but 324 of the real files have capitals in their
+names (all of `shaders/`, `GameVersion.txt`, the `WebPortBytes` mirrors), so those
+reads missed and each one fell through to the network. Directory lookups are now
+case-insensitive and keep the real name for the request, so a capitalised path
+resolves from the mount without a single extra request.
+
 The stock port reads files one at a time with blocking requests, which makes a
 region load crawl when the data comes over the network. The patch prefetches
 about 100 MB ahead of the file the game last opened, eight requests at a time, so
