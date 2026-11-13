@@ -158,6 +158,33 @@ def fetch_one(entry: dict, output_root: Path, names: set[str], by_name, verify_o
     return ("fixed", entry, how)
 
 
+# A few manifest entries name files the export does not carry: version markers
+# and a DLC minimum-version list. The build mounts whatever the manifest lists
+# and reports a missing file, so write exact-size stand-ins instead of leaving
+# the game to fail a read. Anything larger than this is a real asset problem and
+# is still reported.
+FILLERS = {
+    "GameVersion.txt": b"1.11.8\n",
+    "whitelist.txt": b"\n",
+    "dlcminver.json": b"{}" + b" " * 47,
+}
+FILL_LIMIT = 1024
+
+
+def fill_absent(entry: dict, output_root: Path) -> bool:
+    size = entry["size"]
+    name = entry["path"].split("/")[-1]
+    data = FILLERS.get(name)
+    if data is None or len(data) != size:
+        pad = b" " if entry["path"].endswith((".txt", ".json")) else b"\0"
+        data = pad * size
+    if len(data) != size:
+        return False
+    encoded = bool(entry.get("encodedPath"))
+    write_payload(entry, output_root, encoded, base64.b64encode(data) if encoded else data)
+    return True
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--out", help="asset folder to write (default: StreamingAssets)")
@@ -204,20 +231,28 @@ def main() -> int:
             status, entry, how = future.result()
             counts[status] += 1
             if status in ("absent", "ambiguous", "size", "broken"):
-                problems.append((status, entry["path"], how))
+                problems.append((status, entry["path"], how, entry))
             if status == "fixed":
                 fixed += 1
             done += 1
             if done % 200 == 0 or done == total:
                 print(f"{done}/{total}  ok={counts['ok']} fixed={counts['fixed']} problems={len(problems)}", flush=True)
 
+    remaining = []
+    for status, path, how, entry in problems:
+        if status == "absent" and entry.get("size", 0) <= FILL_LIMIT and fill_absent(entry, output_root):
+            counts["filled"] += 1
+            continue
+        remaining.append((status, path, how, entry))
+    problems = remaining
+
     if problems:
         report = output_root.parent / "missing-assets.txt"
         with report.open("w", encoding="utf-8") as handle:
-            for status, path, how in problems:
+            for status, path, how, entry in problems:
                 handle.write(f"{status}\t{path}\t{how}\n")
         print(f"\n{len(problems)} file(s) could not be provided, listed in {report}")
-        for status, path, how in problems[:15]:
+        for status, path, how, entry in problems[:15]:
             print(f"  {status:9s} {path} ({how})")
     else:
         stale = output_root.parent / "missing-assets.txt"
@@ -228,6 +263,7 @@ def main() -> int:
     print(f"  already correct : {counts['ok']}")
     print(f"  repaired        : {fixed}")
     print(f"  empty stubs     : {len(stubs)}")
+    print(f"  filled in       : {counts['filled']}")
     print(f"  unresolved      : {len(problems)}")
     return 1 if problems else 0
 
