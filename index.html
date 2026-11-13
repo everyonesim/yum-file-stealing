@@ -124,7 +124,7 @@ html, body {
 
     var BUILD = "Build/WebGLUnity6Build";
     // Bumped when Build/ changes, so a fix is not served from a stale cache.
-    var BUILD_VERSION = "2026-11-13d";
+    var BUILD_VERSION = "2026-11-13e";
     var ASSETS_PATH = "StreamingAssets";
     // Where the asset tree can also live if it is too big for Pages. selcdn and
     // jsDelivr were tried here and both refuse a tree this size, so the raw
@@ -254,16 +254,20 @@ html, body {
 
     var rejectedBases = [];
 
+    // A complete tree wins, but a folder that only has some of the data is still
+    // worth using: reads come off the disk and only the gaps go to the network.
     function firstCompleteAssets() {
         var index = 0;
+        var partial = null;
         function next() {
-            if (index >= ASSET_BASES.length) return Promise.resolve(null);
+            if (index >= ASSET_BASES.length) return Promise.resolve(partial);
             var base = ASSET_BASES[index++];
             return head(base + ASSETS_PATH + "/webport-files.json").then(function (ok) {
                 if (!ok) return next();
                 return complete(base).then(function (good) {
                     if (good) return base;
-                    rejectedBases.push(base? base : "./");
+                    if (partial === null) partial = base;
+                    rejectedBases.push(base ? base : "./");
                     return next();
                 });
             });
@@ -301,7 +305,7 @@ html, body {
                             ? "StreamingAssets is there but incomplete."
                             : "Missing StreamingAssets/webport-files.json.",
                         rejectedBases.length
-                            ? "Some of its data files are missing, including the WebPortBytes mirrors that hold the shaders and text. Run python3 sync_assets.py to fill the gaps, or let the game stream from the game-assets branch."
+                            ? "Some of its data files are missing, including the WebPortBytes mirrors that hold the shaders and text. Run python3 sync_assets.py to fill the gaps."
                             : "The game streams its data from that folder. Upload StreamingAssets to the repo root, or put it on the game-assets branch.");
                     return null;
                 }
@@ -383,7 +387,7 @@ html, body {
             if (rejectedBases.length) {
                 nativeError("StreamingAssets in " + rejectedBases.join(", ") +
                     " is incomplete, so assets are streamed from the game-assets branch.");
-                assetsEl.textContent = "local StreamingAssets incomplete \u00b7 streaming from the asset branch";
+                assetsEl.textContent = "StreamingAssets is missing some files \u00b7 those come from the asset branch";
                 assetsEl.classList.add("show");
                 setTimeout(function () { assetsEl.classList.remove("show"); }, 6000);
             }
